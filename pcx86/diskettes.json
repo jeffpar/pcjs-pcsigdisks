@@ -6,7 +6,7 @@
       "@title": "Miscellaneous",
       "pcsig": {
         "@title": "PC-SIG Library",
-        "@diskInfo": {
+        "@diskDB": {
           "PC_SIG_12_90": "/DOD/1_1000.UPP"
         },
         "0001-0999": {
