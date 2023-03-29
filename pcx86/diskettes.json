@@ -841,8 +841,7 @@
                       "interests lean toward programming, all of the programs on this disk",
                       "provide great examples of BASIC applications.  Something for beginning",
                       "programmers to dig into!",
-                      "PROGRAM: GAME SERIES 2 (UNSUPPORTED)",
-                      "AUTHOR VERSION: N/S",
+                      "",
                       "This disk covers a wide spectrum of entertainment. For the cerebral, we",
                       "have a version of Chess. For the adventurous, we have a Star Trek",
                       "simulation. And for the arcade player, we have Breakout. For the",
@@ -864,8 +863,8 @@
                     "diskIndex": "0016",
                     "diskTitle": "GAME SERIES NO 2",
                     "diskVersion": "S1",
-                    "diskProgram": "PC-TALK III",
-                    "authorVersion": "2.00"
+                    "diskProgram": "PC-TALK III / GAME SERIES 2 (UNSUPPORTED)",
+                    "authorVersion": "2.00 / N/S"
                   }
                 }
               ]
@@ -3888,8 +3887,7 @@
                       "FLIGHT   NEW  How to modify Flight Simulator for color on a RGB monitor.",
                       "FKSET    COM  Upgrade of function key definition routine for DOS 2.0.",
                       "KEYLK3   ASM  Source code for KeyLock program for latest BIOS ROM.",
-                      "File Descriptions:",
-                      ""
+                      "File Descriptions:"
                     ],
                     "diskIndex": "0080",
                     "diskTitle": "DOS UTILITIES NO 3",
@@ -4299,8 +4297,7 @@
                       "POISSON  BAS  Calculates Poisson distribution.",
                       "T-TEST   BAS  T-test compares mean of 2 samples (paired and unpaired).",
                       "XTAB     BAS  Print crosstab reports.",
-                      "EXAMPLE       Sample data set.",
-                      ""
+                      "EXAMPLE       Sample data set."
                     ],
                     "diskIndex": "0088",
                     "diskTitle": "EPISTAT",
@@ -5994,8 +5991,7 @@
                       "",
                       "Playback is on the one voice of the computer.  This program is more for",
                       "the aspiring musician than for the technically-proficient",
-                      "musician/computer operator.",
-                      ""
+                      "musician/computer operator."
                     ],
                     "diskIndex": "0127",
                     "diskTitle": "PC-MUSICIAN",
@@ -6816,8 +6812,7 @@
                       "-------- ---  LabelFile",
                       "TEXT     TWO  Sample text file - information about Blueberry from GINACO",
                       "README        Notes about using programs (short!)",
-                      "File Descriptions:",
-                      ""
+                      "File Descriptions:"
                     ],
                     "diskIndex": "0146",
                     "diskTitle": "EASYRITE & LABELFILE",
@@ -10290,8 +10285,7 @@
                       "",
                       "ADDRESS MANAGER menus are function-key driven.  On-line help is",
                       "available from each menu.  This provides a quick and user-friendly",
-                      "interface, one that is easy to learn and use.",
-                      ""
+                      "interface, one that is easy to learn and use."
                     ],
                     "diskIndex": "0218",
                     "diskTitle": "ADDRESS MANAGER",
@@ -10691,7 +10685,6 @@
                       "source code in structured assembly language with lots of comments;",
                       "FREECOPY.MAP is an Assembler map listing; and FREECOPY.DOC contains a",
                       "users guide.",
-                      "",
                       "",
                       "How to Start: Read documentation in FREECOPY.DOC.  To run, type",
                       "FREECOPY from the prompt and answer all questions.",
@@ -11684,8 +11677,6 @@
                       "",
                       "~ Pressure",
                       "",
-                      "PROGRAM: PC-TOUCH",
-                      "AUTHOR VERSION: 2.0",
                       "PC-TOUCH is a typing tutor with varying levels of difficulty ranging",
                       "from the very easy, for the beginner, to the difficult, for the expert",
                       "who wants to brush up his or her typing skills. The program gives you",
@@ -11696,8 +11687,8 @@
                     "diskIndex": "0249",
                     "diskTitle": "EQUATOR AND PC-TOUCH",
                     "diskVersion": "S2.2",
-                    "diskProgram": "EQUATOR",
-                    "authorVersion": "2.0"
+                    "diskProgram": "EQUATOR / PC-TOUCH",
+                    "authorVersion": "2.0 / 2.0"
                   }
                 }
               ]
@@ -13208,8 +13199,7 @@
                       "",
                       "Create lovely music with this versatile composition tool.  Record your",
                       "songs on disk and send music to your friends.  They'll smile when you",
-                      "sit down at the computer!",
-                      ""
+                      "sit down at the computer!"
                     ],
                     "diskIndex": "0279",
                     "diskTitle": "PIANOMAN & PLAYER PIANO",
@@ -13491,16 +13481,13 @@
                       "the IBM Proprinter or Graphics printer, and compatibles.  Will also work",
                       "on any printer capable of enlarged and compressed print modes.",
                       "Printer, screen colors, label size, size of title, and other options can",
-                      "be configured to your specifications.",
-                      "",
-                      "PROGRAM: PC SAMPLER 8 (UNSUPPORTED)",
-                      "AUTHOR VERSION: 6.23"
+                      "be configured to your specifications."
                     ],
                     "diskIndex": "0284",
                     "diskTitle": "LABEL MAKER",
                     "diskVersion": "S6.31",
-                    "diskProgram": "LABEL MAKER",
-                    "authorVersion": "6.3"
+                    "diskProgram": "LABEL MAKER / PC SAMPLER 8 (UNSUPPORTED)",
+                    "authorVersion": "6.3 / 6.23"
                   }
                 }
               ]
@@ -14952,8 +14939,7 @@
                       "2,000 older movie titles now available on videotape.  You can search",
                       "each entry by title, MPPA rating, major cast members, writer, director,",
                       "and other information.  As you add to your collection, you can add new",
-                      "movies to the list with a wordprocessor or text editor.",
-                      ""
+                      "movies to the list with a wordprocessor or text editor."
                     ],
                     "diskIndex": "0311",
                     "diskTitle": "THE MOVIE DATABASE 1 OF 2 (ALSO 774)",
@@ -15665,8 +15651,7 @@
                       "File Descriptions:",
                       "",
                       "PIANO COM Turns keyboard into piano keys to play music on.",
-                      "PROGRAM: MUSIC COLLECTION",
-                      "AUTHOR VERSION: 1.00",
+                      "",
                       "A diverse collection of musical programs.  Play pre-recorded music,",
                       "compose new songs, enter old favorites and incorporate any or all of",
                       "them into your BASIC programs.",
@@ -15724,8 +15709,8 @@
                     "diskIndex": "0322",
                     "diskTitle": "MUSIC COLLECTION",
                     "diskVersion": "S1.1",
-                    "diskProgram": "PIANO",
-                    "authorVersion": "V1"
+                    "diskProgram": "PIANO / MUSIC COLLECTION",
+                    "authorVersion": "V1 / 1.00"
                   }
                 }
               ]
@@ -19463,8 +19448,7 @@
                       "solved problems.",
                       "",
                       "This set of programs can be used as an educational program to help",
-                      "expand your knowledge and appreciation of mathematics.",
-                      ""
+                      "expand your knowledge and appreciation of mathematics."
                     ],
                     "diskIndex": "0394",
                     "diskTitle": "MATH PAK III",
@@ -19615,8 +19599,7 @@
                       "",
                       "Use PCLOAN 5 functions to project just what a loan is going to cost and",
                       "when.  Know what you're getting into, financially, before you take that",
-                      "final plunge.",
-                      ""
+                      "final plunge."
                     ],
                     "diskIndex": "0399",
                     "diskTitle": "PCLOAN5",
@@ -19916,7 +19899,6 @@
                       "included.",
                       "",
                       "~ Search Mode: Like a mini free form database.",
-                      "",
                       "",
                       "~ Basic Laser Fonts now included. 10 soft fonts (which include the line",
                       "drawing characters not usually available in soft fonts) for the",
@@ -20383,8 +20365,7 @@
                       "WED      TUT  Screens for W-ED tutorial.",
                       "WEREAD   ME   Short description of W-ED (2 pages).",
                       "WED-DESC ILN  One-line description of W-ED files.",
-                      "PROGRAM: WORD PROCESSING PREVIEW SYSTEM",
-                      "AUTHOR VERSION: 1.0",
+                      "",
                       "See what your page layout looks like before you print your document.",
                       "Experiment with different formatting options without printing a single",
                       "page!",
@@ -20409,8 +20390,8 @@
                     "diskIndex": "0415",
                     "diskTitle": "W-ED AND WORD PROCESSING PREVIEWER",
                     "diskVersion": "S2.1",
-                    "diskProgram": "W-ED",
-                    "authorVersion": "1986"
+                    "diskProgram": "W-ED / WORD PROCESSING PREVIEW SYSTEM",
+                    "authorVersion": "1986 / 1.0"
                   }
                 }
               ]
@@ -22199,20 +22180,16 @@
                       "call your calculator from inside any of your other applications.",
                       "",
                       "You'll always be able to add things up!",
-                      "PROGRAM: EZ-MENU",
-                      "AUTHOR VERSION: 1985",
+                      "",
                       "Show your PC who's in charge here anyway!  EZ-MENU gives you a quick and",
                       "easy way to run your programs while ending the clutter and confusion of",
                       "scanning through directory and file listings.  Handle 200 .EXE, .COM,",
                       ".BAT and .BAS programs without breaking a sweat.",
                       "",
-                      "PROGRAM: HOTKEY",
-                      "AUTHOR VERSION: 1.01",
                       "Have your keyboard do more of the work for you.  Program specific keys",
                       "to perform specialized functions, enter text strings or series of",
                       "lengthy repetitive keystrokes.  Do more computing and less typing! File",
-                      "PROGRAM: XDOS",
-                      "AUTHOR VERSION: 1.0",
+                      "",
                       "A handy collection of DOS enhancements that will make your life a little",
                       "easier.",
                       "",
@@ -22245,8 +22222,8 @@
                     "diskIndex": "0444",
                     "diskTitle": "HOTKEY, XDOS AND EZ-MENU",
                     "diskVersion": "S1.2",
-                    "diskProgram": "PC/CALCULATOR",
-                    "authorVersion": "2.0"
+                    "diskProgram": "PC/CALCULATOR / EZ-MENU / HOTKEY / XDOS",
+                    "authorVersion": "2.0 / 1985 / 1.01 / 1.0"
                   }
                 }
               ]
@@ -23652,8 +23629,7 @@
                       "different configurations.  For example, print only those labels that",
                       "need to reach a specific group -- by targeted organization, zip code",
                       "area, etc. Also included is a mailmerge feature to merge-print letters,",
-                      "as well as a personal telephone directory.",
-                      ""
+                      "as well as a personal telephone directory."
                     ],
                     "diskIndex": "0483",
                     "diskTitle": "MAIL MONSTER MAILING LIST PROGRAM",
@@ -23748,8 +23724,7 @@
                       "in a form that is acceptable by the macro assembler (in the form of dw",
                       "and db statements) and can be used in the data segment of your program",
                       "to define your shape.",
-                      "PROGRAM: FXMATRIX",
-                      "AUTHOR VERSION: 5.816",
+                      "",
                       "Are you sick and tired of printing the same old characters over and",
                       "over again on your Epson FX or JX printer?  Or maybe you've decided to",
                       "come up with your own alphabet.  Well, FXMATRIX can add some spice to",
@@ -23764,8 +23739,8 @@
                     "diskIndex": "0485",
                     "diskTitle": "ICON MAKER & FXMATRIX",
                     "diskVersion": "S2.2",
-                    "diskProgram": "ICON MAKER",
-                    "authorVersion": "3.352"
+                    "diskProgram": "ICON MAKER / FXMATRIX",
+                    "authorVersion": "3.352 / 5.816"
                   }
                 }
               ]
@@ -24057,8 +24032,7 @@
                       "movie type, tape number, and retrieve data such as remaining room on",
                       "tape.  Print two differently configured labels for your tape library.",
                       "With all these features and a database controller faster than most, it",
-                      "is a clearly superior video library manager.",
-                      ""
+                      "is a clearly superior video library manager."
                     ],
                     "diskIndex": "0493",
                     "diskTitle": "DISK DRIVE-IN THEATER (VCR DBASE)",
@@ -24094,8 +24068,7 @@
                       "also contains programs to reduce the number of data points and to",
                       "transform the data for Mercator projection.",
                       "",
-                      "It really is a small world and now you can have it all.",
-                      ""
+                      "It really is a small world and now you can have it all."
                     ],
                     "diskIndex": "0494",
                     "diskTitle": "WORLD DIGITIZED 1 OF 3 (ALSO 495, 496)",
@@ -24131,8 +24104,7 @@
                       "also contains programs to reduce the number of data points and to",
                       "transform the data for Mercator projection.",
                       "",
-                      "It really is a small world and now you can have it all.",
-                      ""
+                      "It really is a small world and now you can have it all."
                     ],
                     "diskIndex": "0495",
                     "diskTitle": "WORLD DIGITIZED 2 OF 3 (ALSO 494, 496)",
@@ -24168,8 +24140,7 @@
                       "also contains programs to reduce the number of data points and to",
                       "transform the data for Mercator projection.",
                       "",
-                      "It really is a small world and now you can have it all.",
-                      ""
+                      "It really is a small world and now you can have it all."
                     ],
                     "diskIndex": "0496",
                     "diskTitle": "WORLD DIGITIZED 3 OF 3 (ALSO 494, 495)",
@@ -24480,8 +24451,7 @@
                       "",
                       "Print mailing labels four-across, select groups of people from the",
                       "database by specifying up to eight criteria and create a mailmerge",
-                      "file.  Handle as many records as you have disk space for.",
-                      ""
+                      "file.  Handle as many records as you have disk space for."
                     ],
                     "diskIndex": "0503",
                     "diskTitle": "RELIANCE MAILING LIST",
@@ -25837,8 +25807,7 @@
                       "location of position and displays general information about the sun in",
                       "relation to Earth. SOLAR is a duplicate of the SUNSET program mentioned",
                       "above, with some slight variations.",
-                      "PROGRAM: OPTICS",
-                      "AUTHOR VERSION: 1.00",
+                      "",
                       "OPTICS gets optical parameters from the sophisticated lens user and",
                       "returns a myriad of technical information about reflecting lenses or",
                       "telescopes.",
@@ -25850,8 +25819,8 @@
                     "diskIndex": "0538",
                     "diskTitle": "ASTRONOMY #1",
                     "diskVersion": "S1",
-                    "diskProgram": "MOONBEAM",
-                    "authorVersion": "1.00"
+                    "diskProgram": "MOONBEAM / OPTICS",
+                    "authorVersion": "1.00 / 1.00"
                   }
                 }
               ]
@@ -28393,8 +28362,7 @@
                       "~ Color selection.",
                       "~ ASCII file format and portability of data.",
                       "~ Five levels of user expertise.",
-                      "~ Electronic note pad.",
-                      ""
+                      "~ Electronic note pad."
                     ],
                     "diskIndex": "0599",
                     "diskTitle": "DREAM 1 OF 2 (600 ALSO IN THIS SET)",
@@ -28449,8 +28417,7 @@
                       "~ Color selection.",
                       "~ ASCII file format and portability of data.",
                       "~ Five levels of user expertise.",
-                      "~ Electronic note pad.",
-                      ""
+                      "~ Electronic note pad."
                     ],
                     "diskIndex": "0600",
                     "diskTitle": "DREAM 2 OF 2 (599 ALSO IN THIS SET)",
@@ -28619,8 +28586,7 @@
                       "",
                       "Included are a few dictionaries and application programs.  A review of",
                       "these programs will be very helpful when learning the language.  It",
-                      "also features full graphics to round out the package.",
-                      ""
+                      "also features full graphics to round out the package."
                     ],
                     "diskIndex": "0606",
                     "diskTitle": "POLYMATH",
@@ -28747,8 +28713,7 @@
                       "ANSI.SYS driver.  Five sections of the 114-page user guide are",
                       "tutorials",
                       "for inexperienced computer users.  The option to network is available to",
-                      "advanced users.",
-                      ""
+                      "advanced users."
                     ],
                     "diskIndex": "0608",
                     "diskTitle": "AUTOMENU",
@@ -28784,8 +28749,7 @@
                       "",
                       "Change spool and writer ports as needed, drive more than one printing",
                       "device at a time, and fine-tune your system for optimal printing speed.",
-                      "PROGRAM: ARC",
-                      "AUTHOR VERSION: 5.12",
+                      "",
                       "A collection of file archiving utilities. Use the space on your disks",
                       "more efficiently. Because file compatibility can change with",
                       "different versions of \"ARC,\" four different versions are included."
@@ -28793,8 +28757,8 @@
                     "diskIndex": "0609",
                     "diskTitle": "DISK SPOOL II & UNARCHIVING PROGRAMS",
                     "diskVersion": "S7.01",
-                    "diskProgram": "DISK SPOOL II",
-                    "authorVersion": "2.05F"
+                    "diskProgram": "DISK SPOOL II / ARC",
+                    "authorVersion": "2.05F / 5.12"
                   }
                 }
               ]
@@ -29540,8 +29504,7 @@
                       "beginning with a single user package rate of thirty-five dollars; the",
                       "printed manual is an additional fifteen dollars.  HDM IV offers all of",
                       "the features of DIRECT ACCESS, a commercial hard disk menuing program,",
-                      "and a good deal more; a substantial value for your dollar!",
-                      ""
+                      "and a good deal more; a substantial value for your dollar!"
                     ],
                     "diskIndex": "0631",
                     "diskTitle": "HDM IV: HARD DISK MENU SYSTEM",
@@ -29602,8 +29565,7 @@
                       "the morning of your return and find that your friend is missing! You",
                       "start searching the ship and begin to discover things in the process.",
                       "Be careful!  There are many traps for the unwary.",
-                      "PROGRAM: DRAWPLUS",
-                      "AUTHOR VERSION: 1986",
+                      "",
                       "A Graphics/Drawing program written especially for the PC and PCjr.",
                       "",
                       "Pull-down menus and a joystick control the various functions which",
@@ -29613,8 +29575,8 @@
                     "diskIndex": "0633",
                     "diskTitle": "DRAWPLUS AND SECRET QUEST",
                     "diskVersion": "S1.1",
-                    "diskProgram": "SECRET QUEST 2010",
-                    "authorVersion": "1986"
+                    "diskProgram": "SECRET QUEST 2010 / DRAWPLUS",
+                    "authorVersion": "1986 / 1986"
                   }
                 }
               ]
@@ -29911,8 +29873,7 @@
                       "Run programs requiring a CGA card on a Hercules Graphics adapter.  This",
                       "emulator allows such programs as PC-Paint, Printmaster, Flight",
                       "Simulator and many others to run with no visible difference.",
-                      "PROGRAM: MAHJONG",
-                      "AUTHOR VERSION: 2.12",
+                      "",
                       "MAHJONG is a Chinese gambling game which arrived in the West in the",
                       "early 1920's.  The origin of the game is unclear but its development has",
                       "touched on astrology, chess, gambling and, oddest of all, the Earth's",
@@ -29935,8 +29896,8 @@
                     "diskIndex": "0641",
                     "diskTitle": "MAHJONG",
                     "diskVersion": "S2.3",
-                    "diskProgram": "HERCULES",
-                    "authorVersion": "1.00"
+                    "diskProgram": "HERCULES / MAHJONG",
+                    "authorVersion": "1.00 / 2.12"
                   }
                 }
               ]
@@ -30984,7 +30945,6 @@
                       "-README.DOC file for partial             -manual on disk",
                       "manual",
                       "-grades are NUMBERS only                 -grades are NUMBERS only",
-                      "",
                       "",
                       "The Atlas Software group as developed three color graphics and sound",
                       "programs to drill students on history, our solor system and",
@@ -32767,8 +32727,7 @@
                       "members, birthdays, babysitters, or any other grouping.  It also",
                       "performs other handy tasks, like printing mailing labels, Rolodex card",
                       "files, and full-page rosters.  NAMEPAL is also completely menu-driven,",
-                      "and has on-line help screens.",
-                      ""
+                      "and has on-line help screens."
                     ],
                     "diskIndex": "0706",
                     "diskTitle": "NAMEPAL",
@@ -32794,8 +32753,7 @@
                       "coefficients, correlation coefficient, and best fit are computed with",
                       "your data.  CURVEFIT can make predictions for Y in any of the 25",
                       "equations.  Residuals are calculated.  The program does not include any",
-                      "graphics.",
-                      ""
+                      "graphics."
                     ],
                     "diskIndex": "0707",
                     "diskTitle": "CURVEFIT",
@@ -32823,8 +32781,7 @@
                       "nine players who enter a word or phrase to try to stump the others.",
                       "This program is quite useful for building up your vocabulary or for",
                       "learning basic grammar.",
-                      "PROGRAM: BACKGAMMON",
-                      "AUTHOR VERSION: 1",
+                      "",
                       "BACKGAMMON is finally here for your PC!  Now you can play against a",
                       "strong opponent on your own computer.  If you've never played before, or",
                       "you're the champion of your local club, BACKGAMMON will fill the role of",
@@ -32834,8 +32791,8 @@
                     "diskIndex": "0708",
                     "diskTitle": "BACKGAMMON AND MORE",
                     "diskVersion": "S3.3",
-                    "diskProgram": "FOREIGN LANGUAGE HANGMAN (SPANISH)",
-                    "authorVersion": "5.75"
+                    "diskProgram": "FOREIGN LANGUAGE HANGMAN (SPANISH) / BACKGAMMON",
+                    "authorVersion": "5.75 / 1"
                   }
                 }
               ]
@@ -32854,13 +32811,11 @@
                       "Second, it performs the encryption and decryption of your files.",
                       "",
                       "No one will be able to access your data except you!",
-                      "PROGRAM: DISKMASTER",
-                      "AUTHOR VERSION: 1.1",
+                      "",
                       "Tired of trying to read those scribbled labels on your disks? Print",
                       "disk labels on 5\" x 1-7/16\" label stock. This is the ideal size for a",
                       "floppy disk.",
-                      "PROGRAM: INSTACALENDAR",
-                      "AUTHOR VERSION: 2.2",
+                      "",
                       "INSTACAL can produce a full-page calendar for any month, or entire year,",
                       "from 1600 to 2050 A.D.  You can print the calendar or show it on the",
                       "screen.  The documentation is brief but gives all the help needed to use",
@@ -32869,8 +32824,8 @@
                     "diskIndex": "0709",
                     "diskTitle": "PC-CRYP2, DISKMASTER, & INSTACALENDAR",
                     "diskVersion": "S1.4",
-                    "diskProgram": "PC-CRYP2",
-                    "authorVersion": "3.2"
+                    "diskProgram": "PC-CRYP2 / DISKMASTER / INSTACALENDAR",
+                    "authorVersion": "3.2 / 1.1 / 2.2"
                   }
                 }
               ]
@@ -33099,8 +33054,7 @@
                       "communicate with other computers and transfer files over the phone",
                       "lines.  This is a simple, direct package for someone who doesn't need",
                       "to bother with a lot of fancy features.",
-                      "PROGRAM: DIALER",
-                      "AUTHOR VERSION: 1.0",
+                      "",
                       "An electronic phone dialer that maintains a list of names and phone",
                       "numbers.  Look through an unlimited number of names and instantly dial",
                       "the correct phone number associated with the name you select. It's",
@@ -33111,8 +33065,8 @@
                     "diskIndex": "0717",
                     "diskTitle": "LIGHTWAVE COMMUNICATIONS",
                     "diskVersion": "S2",
-                    "diskProgram": "SUPERCOM",
-                    "authorVersion": "1.0"
+                    "diskProgram": "SUPERCOM / DIALER",
+                    "authorVersion": "1.0 / 1.0"
                   }
                 }
               ]
@@ -33277,8 +33231,7 @@
                       "",
                       "Though it lets Turbo Pascal access the songs, it does not put the files",
                       "into source code.  By calling the file TRBOTUNE.SYS in your Pascal",
-                      "program, you can access your songs.",
-                      ""
+                      "program, you can access your songs."
                     ],
                     "diskIndex": "0722",
                     "diskTitle": "COMPOSER",
@@ -33325,8 +33278,7 @@
                       "discount coupons.  Coupons can be added, modified, deleted or just",
                       "browsed through.  There is also a feature to delete all the coupons that",
                       "expire before a user-defined date.",
-                      "PROGRAM: EZCOUNT",
-                      "AUTHOR VERSION: 2.0",
+                      "",
                       "Writers, secretaries, transcribers -- Count the number of words in a",
                       "standard ASCII file.  Bells and whistles are minimal.  It counts words",
                       "and displays how much time the program took to count.",
@@ -33337,8 +33289,7 @@
                       "EZASCII  TST  Sample ASCII file with 1200 words.",
                       "EZWDSTR  TST  Sample WordStar file to test other word counters.",
                       "EZCOUNT  COM  Main program.",
-                      "PROGRAM: XDIR",
-                      "AUTHOR VERSION: 1.03",
+                      "",
                       "XDIR replaces the DOS commands DIR and COPY with enhanced functions, and",
                       "adds a function that DOS forgot -- MOVE.",
                       "",
@@ -33356,8 +33307,8 @@
                     "diskIndex": "0724",
                     "diskTitle": "COUPON, EZCOUNT, AND XDIR",
                     "diskVersion": "S1.6",
-                    "diskProgram": "COUPON",
-                    "authorVersion": "2.0"
+                    "diskProgram": "COUPON / EZCOUNT / XDIR",
+                    "authorVersion": "2.0 / 2.0 / 1.03"
                   }
                 }
               ]
@@ -33457,8 +33408,7 @@
                       "``complication'' and ``complicity'' would both be regarded as",
                       "``complic.'' To solve this problem, more than one word can be specified",
                       "for the search criteria.",
-                      "File Descriptions:",
-                      ""
+                      "File Descriptions:"
                     ],
                     "diskIndex": "0731",
                     "diskTitle": "LOCATE",
@@ -33482,8 +33432,7 @@
                       "synthesizer, to vocalize information usually read from the screen.  The",
                       "documentation has internal help screens for each of the program's",
                       "commands.",
-                      "PROGRAM: CATCHER",
-                      "AUTHOR VERSION: 1.0",
+                      "",
                       "CATCHER is an interesting twist on an old theme.  The object is to catch",
                       "falling characters with a paddle at the bottom of the screen.  The twist",
                       "is the program was written for visually-impaired people and is designed",
@@ -33492,8 +33441,8 @@
                     "diskIndex": "0732",
                     "diskTitle": "TRACKER AND CATCHER FOR THE BLIND",
                     "diskVersion": "S1",
-                    "diskProgram": "TRACKER FOR THE VISUALLY IMPAIRED",
-                    "authorVersion": "1.0"
+                    "diskProgram": "TRACKER FOR THE VISUALLY IMPAIRED / CATCHER",
+                    "authorVersion": "1.0 / 1.0"
                   }
                 }
               ]
@@ -33534,8 +33483,7 @@
                       "VRMENU   EXE  Report menu.",
                       "VVRS     EXE  Create/change files program.",
                       "GO       BAT  Batch file to start program.",
-                      "File Descriptions:",
-                      ""
+                      "File Descriptions:"
                     ],
                     "diskIndex": "0733",
                     "diskTitle": "VRS PLUS",
@@ -33986,8 +33934,7 @@
                     "diskSummary": [
                       "PRTLABEL prints multiple copies of a single label or single labels with",
                       "a new address each time.  It prints as many labels as you like in a",
-                      "given run, up to six labels across, 10 lines per label.",
-                      ""
+                      "given run, up to six labels across, 10 lines per label."
                     ],
                     "diskIndex": "0744",
                     "diskTitle": "PRTLABEL",
@@ -34163,14 +34110,11 @@
                       "us!",
                       "",
                       "Look out! They have COMPUTERS!!",
-                      "PROGRAM: LOTTERY FUN",
-                      "AUTHOR VERSION: 1986",
+                      "",
                       "Keep track of all the winning numbers and numbers you have bet in \"6/49\"",
                       "lottery games.  Get a list whenever you need it. Source code included",
                       "for the tinkerer.",
                       "",
-                      "PROGRAM: SPACE RESCUE",
-                      "AUTHOR VERSION: 1.0",
                       "A variation on the classic \"Lunar Lander\" theme.",
                       "",
                       "Launch from Earth, maneuver your ship to dock with a space station,",
@@ -34183,8 +34127,8 @@
                     "diskIndex": "0749",
                     "diskTitle": "QUANTOIDS, RESCUE, & LOTTERY FUN",
                     "diskVersion": "S1",
-                    "diskProgram": "QUANTOIDS OF NEBULOUS IV",
-                    "authorVersion": "1.0"
+                    "diskProgram": "QUANTOIDS OF NEBULOUS IV / LOTTERY FUN / SPACE RESCUE",
+                    "authorVersion": "1.0 / 1986 / 1.0"
                   }
                 }
               ]
@@ -34328,8 +34272,7 @@
                       "SQUEEZE  DOC  Documentation for SQUEEZE PRINT.",
                       "QUICK    EXE  Simplified SQUEEZE PRINT.",
                       "SQUEEZE  EXE  SQUEEZE PRINT executable program.",
-                      "File Descriptions:",
-                      ""
+                      "File Descriptions:"
                     ],
                     "diskIndex": "0753",
                     "diskTitle": "SQUEEZE PRINT",
@@ -34407,8 +34350,7 @@
                       "CANTONESE is designed for use with other forms of Chinese language",
                       "study, since it does not provide actual spoken Cantonese as an example.",
                       "The documentation can be somewhat difficult to follow at times, but has",
-                      "all the needed information to run the program.",
-                      ""
+                      "all the needed information to run the program."
                     ],
                     "diskIndex": "0755",
                     "diskTitle": "CANTONESE TUTOR",
@@ -34488,23 +34430,20 @@
                       "command keys remain intact as an alternate command set, you can now edit",
                       "text without ever moving your hands from the typewriter position, and",
                       "you can do it faster than ever before.",
-                      "PROGRAM: MOREPERFECT",
-                      "AUTHOR VERSION: 1.2B",
+                      "",
                       "Here is a utility program WordPerfect fans should have.  MOREPERFECT",
                       "adds to the word processing program a new set of command keys in an",
                       "ingenious arrangement.  With a single keystroke, you can move the cursor",
                       "or delete--by character, word, line, sentence, paragraph, or page--",
                       "forward or backward--without moving your hands from the letter keys!",
                       "MOREPERFECT can double your editing speed, yet it's easy to learn and",
-                      "use.",
-                      "",
-                      ""
+                      "use."
                     ],
                     "diskIndex": "0759",
                     "diskTitle": "WRITER'S HEAVEN AND MOREPERFECT",
                     "diskVersion": "S2.4",
-                    "diskProgram": "WRITER'S HEAVEN",
-                    "authorVersion": "5.0B"
+                    "diskProgram": "WRITER'S HEAVEN / MOREPERFECT",
+                    "authorVersion": "5.0B / 1.2B"
                   }
                 }
               ]
@@ -35248,8 +35187,7 @@
                       "2,000 older movie titles now available on videotape.  You can search",
                       "each entry by title, MPPA rating, major cast members, writer, director,",
                       "and other information.  As you add to your collection, you can add new",
-                      "movies to the list with a wordprocessor or text editor.",
-                      ""
+                      "movies to the list with a wordprocessor or text editor."
                     ],
                     "diskIndex": "0774",
                     "diskTitle": "THE MOVIE DATABASE 2 OF 2 (ALSO 311)",
@@ -35417,8 +35355,7 @@
                       "Smarter than your average printing program, PMENU3 does not display or",
                       "send conflicting codes to the printer, and can also be removed from",
                       "memory.",
-                      "PROGRAM: PATCH",
-                      "AUTHOR VERSION: 3.2",
+                      "",
                       "PATCH lets you view and modify disk files in memory or peruse and change",
                       "the computer's memory as if it were a disk file.",
                       "",
@@ -35432,8 +35369,7 @@
                       "do searches and modifications in either format.  Both formats of the",
                       "file are viewed at the same time, with the hexadecimal on the left and",
                       "the ASCII on the right.",
-                      "PROGRAM: PC-BANNER",
-                      "AUTHOR VERSION: 3.2",
+                      "",
                       "\"Welcome Home\" for the new baby, the traveller or the convalescent,",
                       "\"Sale Today\" to boost your daily cash-flow, or \"Hi Mom\" from the",
                       "football game. You can have them all and more with PC-BANNER.",
@@ -35441,8 +35377,7 @@
                       "Here is a simple, menu-driven banner program that lets you change the",
                       "style of print from light to dark. And it uses the IBM graphics",
                       "character sets for high-quality banners.",
-                      "PROGRAM: SCRNOFF3 & KYLOCK",
-                      "AUTHOR VERSION: 3.2",
+                      "",
                       "Here are a pair of protective utilities.",
                       "",
                       "SCRNOFF3 blanks your screen after three minutes of keyboard inactivity.",
@@ -35456,8 +35391,8 @@
                     "diskIndex": "0779",
                     "diskTitle": "PROMENU AND PATCH AND OTHER UTILITIES",
                     "diskVersion": "S1.6",
-                    "diskProgram": "PROMENU32",
-                    "authorVersion": "3.2"
+                    "diskProgram": "PROMENU32 / PATCH / PC-BANNER / SCRNOFF3 & KYLOCK",
+                    "authorVersion": "3.2 / 3.2 / 3.2 / 3.2"
                   }
                 }
               ]
@@ -35827,27 +35762,24 @@
                       "minutes of keyboard inactivity.  This helps prolong the life of your",
                       "screen by preventing ``image burn-in''.  Striking any key restores your",
                       "video display.",
-                      "PROGRAM: MONTAGE2",
-                      "AUTHOR VERSION: 3.0",
+                      "",
                       "MONTAGE2 is in this library for one reason: it's fun.  It presents a",
                       "colorful line display rivaled only by '60s music videos -- a good way to",
                       "show off your EGA system.  You configure parameters that determine the",
                       "color and pattern of the lines.  It's self-documented with a help",
                       "display during execution.",
-                      "PROGRAM: LOTTOPIKS",
-                      "AUTHOR VERSION: 3.0",
+                      "",
                       "LOTTOPIKS is a random number generator for playing six-number format",
                       "state lottos.  It sorts the numbers into ascending order and displays a",
                       "screen of games.  The Illinois and Missouri lottos are menued for the",
                       "basic games, but other states' games can be easily configured with the",
-                      "program by setting that game's maximum high number (6 to 255).",
-                      ""
+                      "program by setting that game's maximum high number (6 to 255)."
                     ],
                     "diskIndex": "0789",
                     "diskTitle": "CARD TRAK, EGA SCREEN SAVE, AND MORE",
                     "diskVersion": "S1.1",
-                    "diskProgram": "EGA SCREEN SAVE",
-                    "authorVersion": "3.0"
+                    "diskProgram": "EGA SCREEN SAVE / MONTAGE2 / LOTTOPIKS",
+                    "authorVersion": "3.0 / 3.0 / 3.0"
                   }
                 }
               ]
@@ -35906,8 +35838,7 @@
                       "hands and the results mirror those expected in normal poker playing.",
                       "",
                       "Ante up and deal 'em.",
-                      "PROGRAM: ULTIMA21 DELUXE",
-                      "AUTHOR VERSION: 2.00",
+                      "",
                       "Play Blackjack as it's played in the casinos with the computer as the",
                       "dealer.  ULTIMA21 keeps track of the hands played and who won each hand.",
                       "It also shows your longest winning (and losing) streaks.  In addition,",
@@ -35920,8 +35851,8 @@
                     "diskIndex": "0791",
                     "diskTitle": "POKER & ULTIMA21",
                     "diskVersion": "S1.8",
-                    "diskProgram": "POKER",
-                    "authorVersion": "5.64"
+                    "diskProgram": "POKER / ULTIMA21 DELUXE",
+                    "authorVersion": "5.64 / 2.00"
                   }
                 }
               ]
@@ -35994,8 +35925,7 @@
                       "block insert and delete mode, you can manipulate large sections of music",
                       "quickly.  Includes Beethoven's Symphony Number 5 and Minuet in G, John",
                       "Phillip Sousa's Stars and Stripes Forever, and Scott Joplin's Maple Leaf",
-                      "Rag.",
-                      ""
+                      "Rag."
                     ],
                     "diskIndex": "0794",
                     "diskTitle": "COMPOSER BY OAK TREE SOFTWARE",
@@ -36200,8 +36130,7 @@
                       "MG-C     EXE  Calls the menu generating program MENGEN (Color systems).",
                       "MG-M     EXE  Calls the menu generating program MENGEN (Mono Systems).",
                       "M        MEN  Data file.",
-                      "PROGRAM: PRO-MENU",
-                      "AUTHOR VERSION: 1",
+                      "",
                       "If you're one of those people who wishes there was some easier way of",
                       "telling your computer how to do its job beside typing in DOS commands,",
                       "PRO-MENU is for you.",
@@ -36242,8 +36171,8 @@
                     "diskIndex": "0798",
                     "diskTitle": "PRO-MENU",
                     "diskVersion": "S1.2",
-                    "diskProgram": "",
-                    "authorVersion": "N/S"
+                    "diskProgram": "PRO-MENU",
+                    "authorVersion": "N/S / 1"
                   }
                 }
               ]
@@ -37072,8 +37001,7 @@
                       "program is very useful not only for personal use, but also for leaving",
                       "notes, memos, and reminders to the other people who use the same",
                       "computer.",
-                      "PROGRAM: XCUTE",
-                      "AUTHOR VERSION: 1.4",
+                      "",
                       "Execute any program in any directory or subdirectory. Go immediately",
                       "from application to application in different directories just by typing",
                       "the name of the program -- or even a partial name if you have forgotten",
@@ -37086,8 +37014,8 @@
                     "diskIndex": "0818",
                     "diskTitle": "DFSTICKL",
                     "diskVersion": "S1.51",
-                    "diskProgram": "DFSTICKL",
-                    "authorVersion": "1.5"
+                    "diskProgram": "DFSTICKL / XCUTE",
+                    "authorVersion": "1.5 / 1.4"
                   }
                 }
               ]
@@ -37222,8 +37150,7 @@
                       "variables which are not in the equation may be added.  No provision is",
                       "made for residual analysis since no data is stored.  This is a serious",
                       "limitation of the program in terms of modern regression analysis",
-                      "procedures.",
-                      ""
+                      "procedures."
                     ],
                     "diskIndex": "0823",
                     "diskTitle": "INTERACTIVE MATRIX CALCULATOR",
@@ -38253,8 +38180,7 @@
                       "for quick and easy reference.  Up to eight templates may be printed on a",
                       "page and they include the Shift, Ctrl, and Alt-function key sequences",
                       "in addition to the normal uses.",
-                      "PROGRAM: FONT EDITOR",
-                      "AUTHOR VERSION: 1987",
+                      "",
                       "Design and display your own special font characters.  Two font editors",
                       "have been provided: one for medium-resolution modes and the other for",
                       "high-resolution mode.",
@@ -38274,8 +38200,7 @@
                       "FONT EDITOR will not only help you to create your own fonts, but it can",
                       "also help you design game graphics characters that make moving screen",
                       "objects easier and neater to code.",
-                      "PROGRAM: GROCERY",
-                      "AUTHOR VERSION: 1.3",
+                      "",
                       "Save your budget and your diet. Never go into a grocery store without a",
                       "grocery list and don't deviate from it once you're in the store. Know",
                       "what you need, go get it, and get out while you're still in control.",
@@ -38296,8 +38221,8 @@
                     "diskIndex": "0856",
                     "diskTitle": "FUNCTION KEY HELPER/FONT EDITOR/GROCERY",
                     "diskVersion": "S1.1",
-                    "diskProgram": "FUNCTION KEY HELPER",
-                    "authorVersion": "1987"
+                    "diskProgram": "FUNCTION KEY HELPER / FONT EDITOR / GROCERY",
+                    "authorVersion": "1987 / 1987 / 1.3"
                   }
                 }
               ]
@@ -38374,8 +38299,7 @@
                       "You'll get a help screen which covers the topic of your quiz.",
                       "",
                       "If you want to take calculus next quarter or semester, this program is",
-                      "for you.",
-                      ""
+                      "for you."
                     ],
                     "diskIndex": "0858",
                     "diskTitle": "ARE YOU READY FOR CALCULUS, TUTOR",
@@ -38460,8 +38384,7 @@
                       "certain simplifying assumptions, such as those regarding the alternative",
                       "minimum tax and passive losses, are made.  The manual provides",
                       "information in terms that are easy to understand.",
-                      "PROGRAM: SIMPLE BOOKKEEPER",
-                      "AUTHOR VERSION: SHARE",
+                      "",
                       "The SIMPLE BOOKKEEPER is the easiest single entry bookkeeping system",
                       "available for home or small businesses. No accounting experience is",
                       "required. Keep track of business expenses (40 categories) and income",
@@ -38469,8 +38392,7 @@
                       "and ytd expenses. Information is entered on a monthly basis.",
                       "Registered users receive additional features including sorting, six",
                       "income accounts, and six report formats.",
-                      "PROGRAM: TYPERITE",
-                      "AUTHOR VERSION: 1.33",
+                      "",
                       "Turn your PC and its printer into an electric typewriter.  TYPERITE is",
                       "simple, straight-forward and faster than using a wordprocessor for some",
                       "day-to-day jobs."
@@ -38478,8 +38400,8 @@
                     "diskIndex": "0860",
                     "diskTitle": "REIPS, THE SIMPLE BOOKKEEPER, TYPERITE",
                     "diskVersion": "S2",
-                    "diskProgram": "REIPS",
-                    "authorVersion": "1.35"
+                    "diskProgram": "REIPS / SIMPLE BOOKKEEPER / TYPERITE",
+                    "authorVersion": "1.35 / SHARE / 1.33"
                   }
                 }
               ]
@@ -38636,8 +38558,7 @@
                       "",
                       "Also included is a comparison of the biorhythms of two persons, which",
                       "will display the percentage of compatibility for each cycle.  Maybe it",
-                      "wasn't just luck, maybe it really was a bad (or good) day when you met.",
-                      ""
+                      "wasn't just luck, maybe it really was a bad (or good) day when you met."
                     ],
                     "diskIndex": "0864",
                     "diskTitle": "CATALIST 1 OF 2 (ALSO 865)",
@@ -38674,8 +38595,7 @@
                       "",
                       "Also included is a comparison of the biorhythms of two persons, which",
                       "will display the percentage of compatibility for each cycle.  Maybe it",
-                      "wasn't just luck, maybe it really was a bad (or good) day when you met.",
-                      ""
+                      "wasn't just luck, maybe it really was a bad (or good) day when you met."
                     ],
                     "diskIndex": "0865",
                     "diskTitle": "CATALIST 2 OF 2 (ALSO 864)",
@@ -38809,8 +38729,7 @@
                       "",
                       "PC-MAIL is not just another mailing list program, but a",
                       "fully-functional",
-                      "package which will greatly assist you in your home or business.",
-                      ""
+                      "package which will greatly assist you in your home or business."
                     ],
                     "diskIndex": "0868",
                     "diskTitle": "PC-MAIL 1 OF 3 (ALSO 869, 1475)",
@@ -38846,8 +38765,7 @@
                       "",
                       "PC-MAIL is not just another mailing list program, but a",
                       "fully-functional",
-                      "package which will greatly assist you in your home or business.",
-                      ""
+                      "package which will greatly assist you in your home or business."
                     ],
                     "diskIndex": "0869",
                     "diskTitle": "PC-MAIL 2 OF 2 (ALSO 868, 1475)",
@@ -38912,8 +38830,7 @@
                       "commands in a buffer, allowing you to go back and execute a command",
                       "without having to reenter it. A log of your 20 last commands are shown",
                       "on the right side of the screen.",
-                      "PROGRAM: FANCY LABEL MAKER",
-                      "AUTHOR VERSION: 1.0",
+                      "",
                       "Most computer users have a need for a simple utility which can print",
                       "their labels for them.  And whether those labels are going to be used",
                       "on disks, letters, or something else, FANCY LABEL is the program for",
@@ -38929,14 +38846,13 @@
                       "FANCY LABEL is designed to work with single-feed fanfold labels.  You",
                       "can use either 3-1/2\" x 15/16\" labels, on which you can print up to",
                       "five lines, or 4\" x 7/16\" labels, on which you can print up to eight",
-                      "lines per label.",
-                      ""
+                      "lines per label."
                     ],
                     "diskIndex": "0871",
                     "diskTitle": "FILE FRIEND AND FANCY LABEL MAKER",
                     "diskVersion": "S1",
-                    "diskProgram": "FILE FRIEND",
-                    "authorVersion": "1.10A"
+                    "diskProgram": "FILE FRIEND / FANCY LABEL MAKER",
+                    "authorVersion": "1.10A / 1.0"
                   }
                 }
               ]
@@ -39026,28 +38942,25 @@
                       "read from the disk.  Editing can be done on a byte-by-byte basis by",
                       "entering the data in hex, decimal, octal or ASCII format.  You can also",
                       "add, copy, or exchange the data of the current buffer.",
-                      "PROGRAM: VECTOR",
-                      "AUTHOR VERSION: 1.0",
+                      "",
                       "Programmers -- VECTOR inspects the interrupt vector table of your",
                       "system and displays the vectors in human-readable form with some brief",
                       "comments describing each interrupt.  This is useful because some",
                       "interrupts are not standardized and are difficult to interpret.",
-                      "PROGRAM: 400",
-                      "AUTHOR VERSION: 1.0",
+                      "",
                       "Attention, programmers -- 400 inspects the BIOS communications area and",
                       "the DOS communications area and displays them in human-readable form.",
                       "It also displays some brief comments describing each byte of the",
                       "communications areas.",
-                      "PROGRAM: RPN",
-                      "AUTHOR VERSION: 1.0",
+                      "",
                       "RPN is a Reverse Polish Notation calculator based on a fully-visible",
                       "stack, especially useful to busy programmers and computer specialists."
                     ],
                     "diskIndex": "0874",
                     "diskTitle": "ZZAP AND OTHER UTILITIES FOR PROGRAMMERS",
                     "diskVersion": "S1.1",
-                    "diskProgram": "ZZAP",
-                    "authorVersion": "4.0"
+                    "diskProgram": "ZZAP / VECTOR / 400 / RPN",
+                    "authorVersion": "4.0 / 1.0 / 1.0 / 1.0"
                   }
                 }
               ]
@@ -39069,8 +38982,7 @@
                       "will be displayed. Pressing another letter will limit the list to",
                       "commands that begin with those two letters. Get a brief summary of the",
                       "command or a detailed description.",
-                      "PROGRAM: VREF",
-                      "AUTHOR VERSION: V1.3",
+                      "",
                       "BASIC programmers -- VREF (Variables Cross-Reference) is a programming",
                       "utility which will show all lines where a specific variable is located",
                       "in a BASIC program.",
@@ -39080,8 +38992,7 @@
                       "arrays of the same name and will ignore type declarations and system",
                       "variables.  Each occurrence of a variable in a line is mentioned once.",
                       "The list may be printed on a printer or saved to a disk file.",
-                      "PROGRAM: CLOCK",
-                      "AUTHOR VERSION: V1.3",
+                      "",
                       "CLOCK displays a full analog clock face on the screen of your computer,",
                       "including second hand, in real time taken from DOS.  A menu-based help",
                       "function is available to allow sizing and positioning of the clock on",
@@ -39091,8 +39002,8 @@
                     "diskIndex": "0875",
                     "diskTitle": "QREF, VXREF, AND CLOCK",
                     "diskVersion": "S1.1",
-                    "diskProgram": "QREF",
-                    "authorVersion": "V1.3"
+                    "diskProgram": "QREF / VREF / CLOCK",
+                    "authorVersion": "V1.3 / V1.3 / V1.3"
                   }
                 }
               ]
@@ -39149,13 +39060,11 @@
                       "one key stroke. The three configurations can be modified to accommodate",
                       "a multitude of printers and are pre-configured for IBM graphics, APA",
                       "graphics, and Epson graphics printers.",
-                      "PROGRAM: HYDE",
-                      "AUTHOR VERSION: V2.5",
+                      "",
                       "Protect your data -- HYDE allows you to hide/unhide files. When you",
                       "hide a file, it won't be accessible by DOS until you use the unhide",
                       "program.",
-                      "PROGRAM: DOVETAIL III",
-                      "AUTHOR VERSION: 3.1",
+                      "",
                       "DOVETAIL III merges a form letter with addresses from a mailing list and",
                       "even addresses envelopes.  It works with mailing lists and form letters",
                       "written with WordStar, Easywriter or PerfectWriter.  Source code is in",
@@ -39172,8 +39081,8 @@
                     "diskIndex": "0877",
                     "diskTitle": "BARCODE, HYDE, AND DOVETAIL III",
                     "diskVersion": "S2.2",
-                    "diskProgram": "BARCODE",
-                    "authorVersion": "V2.5"
+                    "diskProgram": "BARCODE / HYDE / DOVETAIL III",
+                    "authorVersion": "V2.5 / V2.5 / 3.1"
                   }
                 }
               ]
@@ -39564,8 +39473,7 @@
                       "automobiles, furniture, or other major items.",
                       "",
                       "Take real financial control and plan your future.",
-                      "PROGRAM: DOS-PRO",
-                      "AUTHOR VERSION: 1.1",
+                      "",
                       "DOS-PRO is a menu-driven utility that lists the most commonly used DOS",
                       "commands and is very helpful to novice users. Select the command you",
                       "want to use with the cursor. If you are unfamiliar with the use of",
@@ -39577,8 +39485,8 @@
                     "diskIndex": "0889",
                     "diskTitle": "FAMTRAK AND DOS-PRO",
                     "diskVersion": "S3.2",
-                    "diskProgram": "FAMTRACK",
-                    "authorVersion": "1.5"
+                    "diskProgram": "FAMTRACK / DOS-PRO",
+                    "authorVersion": "1.5 / 1.1"
                   }
                 }
               ]
@@ -39642,8 +39550,7 @@
                       "bonus round with a chance for the BIG money.  There are more than 1,200",
                       "phrases packed into this fast paced and addictive program which features",
                       "pop-up instructions, mute switch, and a moving Vanna.",
-                      "PROGRAM: SOLITAIRE",
-                      "AUTHOR VERSION: V3.02",
+                      "",
                       "SOLITAIRE is a computer version of the classic card game with",
                       "additional features.  Undo your last card played, select the number of",
                       "cards to turn from the deck each time (usually three), and ask the",
@@ -39656,8 +39563,8 @@
                     "diskIndex": "0891",
                     "diskTitle": "WHEEL OF MISFORTUNE AND SOLITAIRE",
                     "diskVersion": "S1.5",
-                    "diskProgram": "TOMMY'S WHEEL OF MISFORTUNE",
-                    "authorVersion": "3.02"
+                    "diskProgram": "TOMMY'S WHEEL OF MISFORTUNE / SOLITAIRE",
+                    "authorVersion": "3.02 / V3.02"
                   }
                 }
               ]
@@ -39716,8 +39623,7 @@
                       "and then print it.  Included is an option which demonstrates compliance",
                       "with the 171 tests required to meet the Data Encryption Standard of the",
                       "NBS.",
-                      "PROGRAM: WEAK LINK",
-                      "AUTHOR VERSION: 1.1",
+                      "",
                       "Use WEAKLINK to transfer files between your PCs via RS232 serial",
                       "ports.",
                       "",
@@ -39732,8 +39638,8 @@
                     "diskIndex": "0893",
                     "diskTitle": "PRIVATE LINE AND WEAK LINK",
                     "diskVersion": "S2.2",
-                    "diskProgram": "PRIVATE LINE, THE",
-                    "authorVersion": "7.02"
+                    "diskProgram": "PRIVATE LINE, THE / WEAK LINK",
+                    "authorVersion": "7.02 / 1.1"
                   }
                 }
               ]
@@ -39771,8 +39677,7 @@
                       "table. SCOUT also displays RAM memory usage, showing how much memory",
                       "each memory-resident program is currently using. When exiting from",
                       "SCOUT, you have the option of removing it from memory.",
-                      "PROGRAM: SIMS",
-                      "AUTHOR VERSION: 3.1",
+                      "",
                       "SELECT I MENU SYSTEM (SIMS) is a memory-resident program to design,",
                       "edit, and maintain menus for your computer system providing",
                       "user-friendly access to programs.",
@@ -39792,14 +39697,13 @@
                       "fields, and security for the menus.",
                       "",
                       "In other words, you can be quite creative with this program and use it",
-                      "for any application you wish.",
-                      ""
+                      "for any application you wish."
                     ],
                     "diskIndex": "0895",
                     "diskTitle": "SCOUT AND SIMS",
                     "diskVersion": "S3",
-                    "diskProgram": "SCOUT",
-                    "authorVersion": "4.4"
+                    "diskProgram": "SCOUT / SIMS",
+                    "authorVersion": "4.4 / 3.1"
                   }
                 }
               ]
@@ -39817,8 +39721,7 @@
                       "",
                       "Entries can be edited, deleted, sorted, searched, and saved.  Print a",
                       "hard copy in a pocketbook format that will fit into a checkbook cover.",
-                      "Each program also allows you to page through and browse the records.",
-                      ""
+                      "Each program also allows you to page through and browse the records."
                     ],
                     "diskIndex": "0896",
                     "diskTitle": "POCKET FILER/POCKET NOTES (ESYPL ON 1541",
@@ -39896,8 +39799,7 @@
                       "READ     ME   Introductory note.",
                       "TED23    ARC  Archive containing above files.",
                       "TED      EXE  Main program.",
-                      "PROGRAM: COPYFIT-IT",
-                      "AUTHOR VERSION: 1.1",
+                      "",
                       "Copyfitting is the process of figuring out what typesetting format will",
                       "make a text fit the space available for it in a layout.  Try various",
                       "typeface (or typefaces) from those available from your typesetter.",
@@ -39919,8 +39821,8 @@
                     "diskIndex": "0898",
                     "diskTitle": "PC-TED AND COPYFIT-IT",
                     "diskVersion": "S2.0",
-                    "diskProgram": "PC-TED",
-                    "authorVersion": "1.5"
+                    "diskProgram": "PC-TED / COPYFIT-IT",
+                    "authorVersion": "1.5 / 1.1"
                   }
                 }
               ]
@@ -40092,8 +39994,7 @@
                       "In addition to the quiz program, HEBREW QUIZ comes with a tutor for each",
                       "section that tracks your scores.  Hebrew words are shown one at a time",
                       "with an English translation.  A menu on the screen displays all the",
-                      "options available.",
-                      ""
+                      "options available."
                     ],
                     "diskIndex": "0902",
                     "diskTitle": "HEBREW QUIZ AND TUTORIAL",
@@ -40375,8 +40276,7 @@
                       "For those of you who do not have a clock card in your computer, here's a",
                       "utility that quickly lets you enter the date and time during a",
                       "computing session. The BASIC source code is provided.",
-                      "PROGRAM: TEST DRIVE",
-                      "AUTHOR VERSION: 1.2",
+                      "",
                       "TEST DRIVE is a floppy disk drive diagnostic utility for 5-1/4\" 360K",
                       "disk drives with many tests to ensure that your disk drive is in",
                       "working order.  This can help to alleviate data loss or damage to your",
@@ -40393,8 +40293,7 @@
                       "utility for use with a standard cleaning disk.  It can perform",
                       "continuous tests for certain adjustments on your drives and can test the",
                       "general performance of the drive before and after any changes are made.",
-                      "PROGRAM: DIREDIT",
-                      "AUTHOR VERSION: 3.05",
+                      "",
                       "Edit your DOS directories. DIREDIT helps you to sort your directories",
                       "in various ways -- by filename, extension, size, etc. Specify arbitrary",
                       "order and move individual directory entries. Display each directory in",
@@ -40409,8 +40308,8 @@
                     "diskIndex": "0908",
                     "diskTitle": "DIREDIT, TEST DRIVE, AND D&T",
                     "diskVersion": "S3.5",
-                    "diskProgram": "DATE AND TIME",
-                    "authorVersion": "10/89"
+                    "diskProgram": "DATE AND TIME / TEST DRIVE / DIREDIT",
+                    "authorVersion": "10/89 / 1.2 / 3.05"
                   }
                 }
               ]
@@ -40848,8 +40747,7 @@
                       "determines the maximum flight range and endurance conditions of boost",
                       "and rocket gliders. This is also applicable to sailplanes, hang",
                       "gliders, and radio-controlled gliders.",
-                      "PROGRAM: ASTRONOMY PROGRAMS",
-                      "AUTHOR VERSION: 1.00",
+                      "",
                       "Explore some of the mechanics of the solar system with these tutorials",
                       "and calculators.",
                       "",
@@ -40861,8 +40759,7 @@
                       "velocity from the standard epoch B1950 (FK4) to epoch J2000 (FK5).",
                       "GALILEAN determines the position of the Galilean satellites relative to",
                       "Jupiter.",
-                      "PROGRAM: SATELLITE PROGRAMS",
-                      "AUTHOR VERSION: 1.00",
+                      "",
                       "SYNCSAT and TNODE help you determine the location of several",
                       "Earth-orbiting satellites. You can use this information for radio",
                       "tracking, communications and visual observations of Earth satellites."
@@ -40870,8 +40767,8 @@
                     "diskIndex": "0921",
                     "diskTitle": "ASTRONOMY AND AERONAUTICS",
                     "diskVersion": "S1.1",
-                    "diskProgram": "ROCKET PROGRAMS",
-                    "authorVersion": "1.00"
+                    "diskProgram": "ROCKET PROGRAMS / ASTRONOMY PROGRAMS / SATELLITE PROGRAMS",
+                    "authorVersion": "1.00 / 1.00 / 1.00"
                   }
                 }
               ]
@@ -40903,8 +40800,7 @@
                       "",
                       "WIZQUIZ can be used both at home for personal studying and at school in",
                       "the classroom.",
-                      "PROGRAM: JEM",
-                      "AUTHOR VERSION: 1.10",
+                      "",
                       "JEM LOGO was written to teach children the basics of computer",
                       "programming. A very simple programming language, it teaches children",
                       "the logic associated with a computer and how to combine commands to",
@@ -40918,8 +40814,8 @@
                     "diskIndex": "0922",
                     "diskTitle": "WIZQUIZ AND JEM",
                     "diskVersion": "S1.2",
-                    "diskProgram": "WIZQUIZ",
-                    "authorVersion": "1.1"
+                    "diskProgram": "WIZQUIZ / JEM",
+                    "authorVersion": "1.1 / 1.10"
                   }
                 }
               ]
@@ -40979,8 +40875,7 @@
                       "The program has many measures of quality-of-fit, including standard",
                       "deviation and the 95% confidence interval.  The program also graphs and",
                       "prints the fit if desired.  You can input data by keyboard or from data",
-                      "files.",
-                      ""
+                      "files."
                     ],
                     "diskIndex": "0925",
                     "diskTitle": "LSTSQR",
@@ -41042,8 +40937,7 @@
                       "names flagged for mailing, or all names flagged with a particular",
                       "status.  The utilities menu lets you backup files, update the index,",
                       "specify the drive/path setting, and enter your company name to be",
-                      "displayed on the logo of the program.",
-                      ""
+                      "displayed on the logo of the program."
                     ],
                     "diskIndex": "0927",
                     "diskTitle": "PRO-DEX DATABASE MANAGEMENT SYSTEM",
@@ -41113,8 +41007,7 @@
                       "",
                       "NOTE: The program will not display your lotto numbers on a monochrome",
                       "monitor. If your system has a monochrome monitor,  you must have a",
-                      "printer in order to see your numbers.",
-                      ""
+                      "printer in order to see your numbers."
                     ],
                     "diskIndex": "0929",
                     "diskTitle": "LOTTO FEVER",
@@ -41261,8 +41154,7 @@
                       "combinations. Designed to be as transparent as possible in normal",
                       "operation, it does not impose itself between the user and the operating",
                       "system. Novices or experienced users both can profit from this utility.",
-                      "PROGRAM: FLIST/PC",
-                      "AUTHOR VERSION: 3.2",
+                      "",
                       "FLIST/PC is a selection menu for manipulating your files in a more",
                       "efficient manner.",
                       "",
@@ -41278,8 +41170,8 @@
                     "diskIndex": "0933",
                     "diskTitle": "SORTED DIRECTORY AND FLIST / PC",
                     "diskVersion": "S2",
-                    "diskProgram": "SORTED DIRECTORY",
-                    "authorVersion": "5.7"
+                    "diskProgram": "SORTED DIRECTORY / FLIST/PC",
+                    "authorVersion": "5.7 / 3.2"
                   }
                 }
               ]
@@ -41355,8 +41247,7 @@
                       "WP       ATR  Default WordPerfect print attributes.",
                       "WS       ATR  Default WordStar print attributes.",
                       "READ     ME   Information file.",
-                      "PROGRAM: LST-MGR",
-                      "AUTHOR VERSION: 1.0",
+                      "",
                       "LIST-MGR searches for a text string or set of strings and selects",
                       "records from a text file such as a list of addresses, clients,",
                       "customers, members, etc.",
@@ -41370,8 +41261,6 @@
                       "sequence in the output records, omitting some fields altogether if you",
                       "want.",
                       "",
-                      "PROGRAM: BIBLIO",
-                      "AUTHOR VERSION: 1.0",
                       "Writers, Students, Editors -- BIBLIO will interest you.",
                       "",
                       "BIBLIO selects references from a pre-existing text file with a",
@@ -41394,8 +41283,8 @@
                     "diskIndex": "0935",
                     "diskTitle": "MSPANTOC, BIBLIO, AND LIST-MRG",
                     "diskVersion": "S1.4",
-                    "diskProgram": "MSP DOCUMENT PROCESSING UTILITY",
-                    "authorVersion": "1.2"
+                    "diskProgram": "MSP DOCUMENT PROCESSING UTILITY / LST-MGR / BIBLIO",
+                    "authorVersion": "1.2 / 1.0 / 1.0"
                   }
                 }
               ]
@@ -41414,8 +41303,7 @@
                       "becomes full, lets you put in another, and even formats it!  If you",
                       "want, you can ask DCOPY to prompt you before each file is copied.",
                       "Wildcard copies are supported.",
-                      "PROGRAM: MYMENU",
-                      "AUTHOR VERSION: 1987",
+                      "",
                       "MYMENU creates a start-up menu for your hard disk.  A BASIC program is",
                       "created by the program, and you provide a directory and the program name",
                       "for each option in the menu.  The menu can have up to 18 options, each",
@@ -41424,8 +41312,6 @@
                       "After the BASIC program is created, a few lines are entered into your",
                       "AUTOEXEC.BAT file, and your menu is ready to go!",
                       "",
-                      "PROGRAM: MENUEZE",
-                      "AUTHOR VERSION: 2.0",
                       "Make menus to automatically load programs on your various disk drives.",
                       "Put an automatic menu on each of the disks you use regularly.",
                       "",
@@ -41433,14 +41319,13 @@
                       "particular menu, then asked for the commands needed to run them.",
                       "MENU-EZE lets you choose the colors for your menu screen and you can",
                       "make a different menu for each of the disks in your library (including",
-                      "your hard disk).",
-                      ""
+                      "your hard disk)."
                     ],
                     "diskIndex": "0936",
                     "diskTitle": "DCOPY, MYMENU, AND MENUEZE",
                     "diskVersion": "S1.2",
-                    "diskProgram": "DCOPY",
-                    "authorVersion": "2.1"
+                    "diskProgram": "DCOPY / MYMENU / MENUEZE",
+                    "authorVersion": "2.1 / 1987 / 2.0"
                   }
                 }
               ]
@@ -41531,8 +41416,7 @@
                       "and the total estimated flight time. You can then have a flight log",
                       "printed. The files containing the waypoints for FLIGHT can be edited",
                       "from within the program or with an ASCII wordprocessor.",
-                      "PROGRAM: MORSE",
-                      "AUTHOR VERSION: 1",
+                      "",
                       "MORSE is a workable code-practice program for anyone who wants to learn",
                       "Morse Code for their Amateur Radio Operator's license.",
                       "",
@@ -41545,8 +41429,8 @@
                     "diskIndex": "0939",
                     "diskTitle": "FLIGHT PLANNING (ALSO 1476 )",
                     "diskVersion": "S2",
-                    "diskProgram": "FLIGHT",
-                    "authorVersion": "3.00"
+                    "diskProgram": "FLIGHT / MORSE",
+                    "authorVersion": "3.00 / 1"
                   }
                 }
               ]
@@ -41664,8 +41548,7 @@
                       "",
                       "~ A notes field to store up to 64K of miscellaneous information.",
                       "",
-                      "~ Allows international addresses.",
-                      ""
+                      "~ Allows international addresses."
                     ],
                     "diskIndex": "0943",
                     "diskTitle": "DOCTOR DATA LABEL",
@@ -41692,8 +41575,7 @@
                       "programs more easily.  DOS CONTROLLER lets you create your own program",
                       "menu for your applications, and already has a menu of DOS commands for",
                       "automatic execution.",
-                      "PROGRAM: MR. MENU",
-                      "AUTHOR VERSION: 1.20",
+                      "",
                       "MR. MENU can help you easily create simple menus for quick access to",
                       "programs, files, and DOS functions.",
                       "",
@@ -41707,14 +41589,13 @@
                       "MR. MENU is memory-resident and is automatically returned to after the",
                       "program or command is done.  A configuration function lets you",
                       "change the colors, default drive and directory, and opening screen",
-                      "titles.",
-                      ""
+                      "titles."
                     ],
                     "diskIndex": "0944",
                     "diskTitle": "DOS CONTROLLER AND MR. MENU",
                     "diskVersion": "S1",
-                    "diskProgram": "DOS CONTROLLER",
-                    "authorVersion": "1.2"
+                    "diskProgram": "DOS CONTROLLER / MR. MENU",
+                    "authorVersion": "1.2 / 1.20"
                   }
                 }
               ]
@@ -41733,8 +41614,7 @@
                       "rendezvous with the space station. An interest in orbital mechanics is",
                       "required (knowledge about it would be helpful, but is not mandatory). A",
                       "documentation file is included.",
-                      "PROGRAM: MISCELLANEOUS GAMES",
-                      "AUTHOR VERSION: 1.0",
+                      "",
                       "A collection of programs inspired by the Computer Recreations column in",
                       "\"Scientific American.\" Several data files are included.",
                       "",
@@ -41752,8 +41632,8 @@
                     "diskIndex": "0945",
                     "diskTitle": "ROCKET SIMULATION",
                     "diskVersion": "S1",
-                    "diskProgram": "LAUNCHER",
-                    "authorVersion": "1.00"
+                    "diskProgram": "LAUNCHER / MISCELLANEOUS GAMES",
+                    "authorVersion": "1.00 / 1.0"
                   }
                 }
               ]
@@ -42250,8 +42130,6 @@
                       "",
                       "THE-MENU EXE  Program containing all files in compressed format.",
                       "",
-                      "PROGRAM: MONAMORT",
-                      "AUTHOR VERSION: 1986",
                       "MONTHLY LOAN AMORTIZATION calculates and prints a monthly loan",
                       "schedule.",
                       "",
@@ -42261,26 +42139,22 @@
                       "monthly loan payments showing the amount of the payment, the amount left",
                       "due on the loan, and how much is going toward the principle of the loan.",
                       "",
-                      "PROGRAM: CONVERT",
-                      "AUTHOR VERSION: 1.0",
                       "CONVERT is a metric-English/English-metric conversion calculator.",
                       "",
                       "Thirty-six conversions relating to length, weight, area, volume, and",
                       "pressure are available.  Select the type of conversion from the menu in",
                       "the program or from the command-line.",
-                      "PROGRAM: LOANCALC",
-                      "AUTHOR VERSION: 3.0",
+                      "",
                       "A user-oriented loan and mortgage calculator with a variety of options.",
                       "Compute interest paid for any given year and output a complete or",
                       "partial amortization table on a screen or printer.  Calculate the",
-                      "balance payment at any given date.",
-                      ""
+                      "balance payment at any given date."
                     ],
                     "diskIndex": "0960",
                     "diskTitle": "FINANCIAL COLLECTION",
                     "diskVersion": "S1.2",
-                    "diskProgram": "MENU, THE",
-                    "authorVersion": "1.0"
+                    "diskProgram": "MENU, THE / MONAMORT / CONVERT / LOANCALC",
+                    "authorVersion": "1.0 / 1986 / 1.0 / 3.0"
                   }
                 }
               ]
@@ -42302,8 +42176,7 @@
                       "Sort records alphabetically, numerically, or by location. Update and",
                       "delete part types, and get a formatted printout of the inventory list.",
                       "Wholesale and retail cost values can be tracked as well.",
-                      "PROGRAM: MINI-MINDER",
-                      "AUTHOR VERSION: 1.00",
+                      "",
                       "MINI MINDER is an easy-to-use rental property management system written",
                       "specifically for managers of mini-warehouses or locker rental areas.",
                       "(With a little imagination, the program could be adapted to fit almost",
@@ -42319,8 +42192,8 @@
                     "diskIndex": "0961",
                     "diskTitle": "MINI-MINDER AND INVENTORY SORT",
                     "diskVersion": "S1",
-                    "diskProgram": "INVENTORY SORT",
-                    "authorVersion": "1.00"
+                    "diskProgram": "INVENTORY SORT / MINI-MINDER",
+                    "authorVersion": "1.00 / 1.00"
                   }
                 }
               ]
@@ -42338,8 +42211,7 @@
                       "source code more readable and appear in an acceptable format.  The C",
                       "source code for the main program is included so you can modify it to fit",
                       "your exact needs.",
-                      "PROGRAM: SXU",
-                      "AUTHOR VERSION: 2.1",
+                      "",
                       "Programmers -- A utility for you called THE SELECT XTRAC UTILITY (SXU).",
                       "SXU extracts selected sections of data files according to your",
                       "specifications.  It accepts any standard ASCII sequential files composed",
@@ -42358,8 +42230,7 @@
                       "SXU      DAT  Test data.",
                       "SXU      HLP  Help file.",
                       "SXU      COM  Main program.",
-                      "PROGRAM: PDVIM",
-                      "AUTHOR VERSION: 1.01P",
+                      "",
                       "PDVIM, is the shareware version of VIM (VIrtual Machine), an",
                       "interpreter/debugger that can simulate and/or allow access to the",
                       "hardware of an XT or AT in an addressing space independent of the normal",
@@ -42381,8 +42252,8 @@
                     "diskIndex": "0962",
                     "diskTitle": "PDVIM, INDENT, AND SXU",
                     "diskVersion": "S1",
-                    "diskProgram": "INDENT",
-                    "authorVersion": "1986"
+                    "diskProgram": "INDENT / SXU / PDVIM",
+                    "authorVersion": "1986 / 2.1 / 1.01P"
                   }
                 }
               ]
@@ -42558,16 +42429,14 @@
                       "collect one animal, one vegetable, and one mineral.  How will you be",
                       "able to tell?  If you encounter an intelligent life form, how will you",
                       "know?  NASA has instructed you to capture it alive.  Good luck!",
-                      "PROGRAM: DARK CONTINENT",
-                      "AUTHOR VERSION: 1",
+                      "",
                       "A text adventure game that takes you to the heart of Africa. In DARK",
                       "CONTINENT, you are on a safari expedition in search of King Solomon's",
                       "legendary diamond. Unfortunately, your native followers have mutinied",
                       "and left you lost in the wilderness without a map. Not only must you",
                       "find the diamond, but also, your way back to England. (And try not to",
                       "get eaten by wildlife on the way!)",
-                      "PROGRAM: LAP DULCIMER TUNER AND SHEET MUSIC SAMPLER",
-                      "AUTHOR VERSION: 1",
+                      "",
                       "LAP DULCIMER TUNER AND SHEET MUSIC SAMPLER has five traditional songs",
                       "arranged for lap dulcimer in DAA tuning and an electronic tuner with",
                       "instructions for beginners on how to tune the dulcimer.  The five songs",
@@ -42577,14 +42446,13 @@
                       "The music screens can be printed with the Shift and PrtScr keys.",
                       "The dulcimer tuning program helps beginners learn to tune their",
                       "instruments with an electronic tuner.  Instructions are included in the",
-                      "program, and tones can be repeated if desired.",
-                      ""
+                      "program, and tones can be repeated if desired."
                     ],
                     "diskIndex": "0967",
                     "diskTitle": "ADVENTURE AND MUSIC COLLECTION",
                     "diskVersion": "S1.2",
-                    "diskProgram": "NEBULA",
-                    "authorVersion": "1"
+                    "diskProgram": "NEBULA / DARK CONTINENT / LAP DULCIMER TUNER AND SHEET MUSIC SAMPLER",
+                    "authorVersion": "1 / 1 / 1"
                   }
                 }
               ]
@@ -42896,15 +42764,13 @@
                       "enormously, both by making recompilation of a program go much faster,",
                       "and by preventing errors when a changed file is not recompiled.  Based",
                       "on the UNIX ``make'' utility.",
-                      "PROGRAM: FIXER",
-                      "AUTHOR VERSION: 1.00.",
+                      "",
                       "Edit your WordStar, WordPerfect, or ASCII files so they can contain the",
                       "255 character ASCII set.  Press your ALT key along with the decimal",
                       "code that denotes the character you desire and it will be put into your",
                       "file.  The program has a full screen editor and on-line help is",
                       "available to you from a pop-up window.",
-                      "PROGRAM: BREAKER",
-                      "AUTHOR VERSION: 1.00.",
+                      "",
                       "BREAKER is a life-saving utility when you have a text file that is too",
                       "large to fit in your wordprocessor.  Invoke BREAKER and you are asked",
                       "what file you want to break and how many lines each of your broken files",
@@ -42918,8 +42784,7 @@
                       "",
                       "BREAKER  EXE  The BREAKER main program.",
                       "BUDG     PRN  Data file.",
-                      "PROGRAM: STRIPPER",
-                      "AUTHOR VERSION: 1.00.",
+                      "",
                       "STRIPPER reads an input text file and produces an output file by",
                       "replacing any control character visible.  You have the option of",
                       "deleting characters in the ASCII character set that are above 126, below",
@@ -42929,8 +42794,7 @@
                       "",
                       "STRIPPER EXE  The STRIPPER main program.",
                       "TESTMAIL DBF  Data base file.",
-                      "PROGRAM: EGABLANK",
-                      "AUTHOR VERSION: 1987",
+                      "",
                       "EGABLANK blanks your EGA screen after two minutes of inactivity.",
                       "Pressing any key will reactivate your screen.",
                       "File Descriptions:",
@@ -42940,8 +42804,8 @@
                     "diskIndex": "0978",
                     "diskTitle": "MMAKE, FIXER, AND EGABLANK",
                     "diskVersion": "S1.2",
-                    "diskProgram": "MMAKE",
-                    "authorVersion": "1.3"
+                    "diskProgram": "MMAKE / FIXER / BREAKER / STRIPPER / EGABLANK",
+                    "authorVersion": "1.3 / 1.00. / 1.00. / 1.00. / 1987"
                   }
                 }
               ]
@@ -43241,21 +43105,19 @@
                       "computer is first turned on.  Although MESSAGE MASTER has limited text",
                       "editing capabilities and no password protection, it is very easy to use",
                       "and keeps a record of all messages sent until they are deleted.",
-                      "PROGRAM: ADDRESS BOOK",
-                      "AUTHOR VERSION: 1.1",
+                      "",
                       "ADDRESS BOOK is an efficient way to keep the names, addresses, and phone",
                       "numbers of your customers and vendors in good order and up-to-date.  It",
                       "is designed for a small to mid-sized company.  Included is a way to add,",
                       "edit and delete your addresses, and a printer menu to print any or all",
                       "of your addresses.  Keep track of your personal and business address and",
-                      "telephone lists with ease.",
-                      ""
+                      "telephone lists with ease."
                     ],
                     "diskIndex": "0988",
                     "diskTitle": "MESSAGE MASTER AND ADDRESS BOOK",
                     "diskVersion": "S1.1",
-                    "diskProgram": "MESSAGE MASTER",
-                    "authorVersion": "1"
+                    "diskProgram": "MESSAGE MASTER / ADDRESS BOOK",
+                    "authorVersion": "1 / 1.1"
                   }
                 }
               ]
@@ -43279,8 +43141,7 @@
                       "written in compiler BASIC for debugging purposes.  Switch easily between",
                       "interpreters that require line numbers and compilers that do not require",
                       "line numbers.",
-                      "PROGRAM: CONVERSION PROGRAM",
-                      "AUTHOR VERSION: 1.00",
+                      "",
                       "Here is a menu-driven Metric/English -- English/Metric weight and",
                       "measure conversion program, can handle the following conversions:",
                       "linear, square and cubic measures; dry and liquid measure of capacity;",
@@ -43301,8 +43162,8 @@
                     "diskIndex": "0989",
                     "diskTitle": "BASIC LINE NUMBERING & OTHER UTILITIES",
                     "diskVersion": "S1",
-                    "diskProgram": "BASLIN",
-                    "authorVersion": "1.00"
+                    "diskProgram": "BASLIN / CONVERSION PROGRAM",
+                    "authorVersion": "1.00 / 1.00"
                   }
                 }
               ]
@@ -43457,8 +43318,7 @@
                       "breakdown of your monthly payments, interest for that month, payment on",
                       "the principal and the ending balance for that month.  You can also",
                       "figure the approximate annual interest rate for a loan.  A metric",
-                      "conversion utility is included.",
-                      ""
+                      "conversion utility is included."
                     ],
                     "diskIndex": "0994",
                     "diskTitle": "FINANCIAL CALCULATOR",
