@@ -7382,7 +7382,7 @@
               "@media": [
                 {
                   "@diskette": "DISK0624.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK0624|/CRC.TXT|/CRCK4.COM|/DOC.BAT|/FILES624.TXT|/GO.BAT|/PC-DEF.EXE|/PC-EXPOR.EXE|/PC-FILE.DOC|/PC-FILE.EXE|/PC-FILE.PRO|/PC-FIX.EXE|/PC-IMPOR.EXE|/PC-LABEL.EXE|/PC-OVL.EXE|/PC-PRINT.EXE|/PC-SETUP.EXE|/PC-SORT.EXE|/PC-UTIL.EXE|/SAMPLE.BAS"
                 }
               ]
@@ -7404,7 +7404,7 @@
               "@media": [
                 {
                   "@diskette": "DISK0626.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK0626|/DOC.BAT|/FILES626.TXT|/GO.BAT|/JR-DIAL.COM|/PC-DIAL.COM|/PC-DIAL.DOC|/PC-DIAL.PRO|/READ.ME"
                 }
               ]
@@ -10800,7 +10800,7 @@
               "@media": [
                 {
                   "@diskette": "DISK0914.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK0914|/BLD_PIC.PAS|/BLOAD.BAS|/BSAVE.BAS|/CAPTURE.COM|/DEMO.COM|/FASTKEYS.COM|/FILES914.TXT|/GO.BAT|/GO.TXT|/PC-DEMO.000|/PC-DEMO.COM|/PC-DEMO.DMO|/PC-DEMO.HLP|/PC.BAT|/PIC_ASC.PAS|/PIC_BLD.PAS|/READ.ME|/RUNDEMO.BAT|/SHOW_PIC.PAS",
                   "@diskTitle": "PC-DEMO GRAPHICS PRESENTATION PACKAGE",
                   "@diskSummary": "PC-DEMO is a graphics package that lets you create demonstrations featuring graphics animation, program interface capabilities, and slide shows."
@@ -12248,7 +12248,7 @@
               "@media": [
                 {
                   "@diskette": "DISK1036.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK1036|/CONFIG.FX|/FILE1036.TXT|/GO.BAT|/GO.TXT|/INSTALL.BAT|/S-CMNTS.DBF|/S-DTAIL.DBF|/S-DTAIL.IDX|/S-HELP.DBF|/S-HELP.IDX|/S-QUES.DBF|/S-QUES.IDX|/S-RSPNS.DBF|/S-RSPNS.IDX|/S-SUMM.DBF|/S-SURVEY.DBF|/S-SURVEY.IDX|/S-SYST.DBF|/SSMAINA.BAT|/SURVEY.DOC|/SURVEY.FOX"
                 }
               ]
@@ -13228,7 +13228,7 @@
               "@media": [
                 {
                   "@diskette": "DISK1119.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK1119|/$READ_ME.1ST|/$TOC|/CRYPT.BAS|/DISKTOOL.DOC|/DT.COM|/DT.PIF|/F.EXE|/FINDHIDE.COM|/FLUSHOT.DAT|/FLU_POKE.COM|/FSP.COM|/FSP.TXT|/F_FEED|/GO.BAT|/GO.TXT|/HARDWARE.TXT|/HDSENTRY.ASC|/HDSENTRY.COM|/HDSENTRY.DOC|/HIDE.COM|/INSTALL.BAT|/LOCK.COM|/LOCK.DOC|/MY_OWN.CPY|/PRINT.BAT|/RAMNET.TXT|/REGISTER.TXT|/REWARD.FRM|/REWARD.LST|/SCAN.EXE|/SDIR5.COM|/SDIR5.DOC|/THE_COOP.TXT|/UNHIDE.COM|/UPDATES.TXT|/XWORD221.DOC|/XWORD223.EXE",
                   "@diskTitle": "PULLED BY REQUEST OF AUTHOR",
                   "@diskSummary": "Many computer users are now worried about how they can protect themselves from the viruses and trojan horses that are out there -- just waiting to attack an unsuspecting system."
@@ -13438,7 +13438,7 @@
               "@media": [
                 {
                   "@diskette": "DISK1137.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK1137|/1-SUBOP.MH|/2-SYSOP.MH|/ANSI.MH|/ARCDIR.FH|/BALANCE.SH|/BULLETIN.MH|/CHAT.FH|/CHAT.MH|/CHECK.SH|/DELETE.SH|/DOOR.PAS|/DOORS.MH|/DOWNLOAD.FH|/EDIT.FH|/EDIT.MH|/FILE1137.TXT|/FILEDEF.LIB|/FILES.FH|/FILES.MH|/FREE.SH|/GET.FH|/GO.BAT|/GO.TXT|/GOODBYE.MH|/HELP.TXT|/INFO.MH|/JUMP.FH|/JUMP.MH|/KILL.FH|/KILL.MH|/LIST.FH|/LIST.MH|/MAIL.MH|/MANUAL.BAT|/MOVE.FH|/MSGPURG.SH|/NEW.FH|/NEW.MH|/OPTIONS.MH|/OWNER.FH|/PASSWD.FH|/POST.MH|/QUICK.DOC|/QUIT.FH|/QUIT.SH|/QUOTES.MH|/READ.LIB|/READ.MH|/SCAN.MH|/SL-PIF.DVP|/SLBBS.DOC|/SPACE.FH|/SWAPSUB.SH|/TIME.MH|/TYPE.FH|/UPLOAD.FH|/USER.MH|/USERPURG.SH|/VERSION.MH|/WIDEDIR.FH|/XPROTO.FH"
                 }
               ]
@@ -14002,7 +14002,7 @@
               "@media": [
                 {
                   "@diskette": "DISK1185.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK1185|/CNVSOAR.DOC|/CNVSOAR.EXE|/DROPCUST.EXE|/FILE1185.TXT|/FILES|/GO.BAT|/GO.TXT|/MAKEDOC.BAT|/READ.ME|/REBILL.DOC|/REBILL.EXE|/SOAR-1.DOC|/SOAR-2.DOC|/SOAR-3.DOC|/UNPOST.EXE|/UPDATE.308|/UTILITY.DOC"
                 }
               ]
@@ -17651,7 +17651,7 @@
               "@media": [
                 {
                   "@diskette": "DISK1493.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK1493|/4X6.FON|/8X8.FON|/ERROR.MSG|/FILE1493.TXT|/FILELIST.DOC|/FIRST.PZL|/FOURLINE.PZL|/GO.BAT|/INSTALL.EXE|/MENUSOLV.DTA|/PRACTICE.PZL|/README.DOC|/SD.COM|/SETSOLVE.DTA|/THREELIN.PZL|/TWO-D.PZL|/TWOLINE.PZL|/XYEDIT.EXE|/XYSOLVE.000|/XYSOLVE.001|/XYSOLVE.002|/XYSOLVE.003|/XYSOLVE.004|/XYSOLVE.005|/XYSOLVE.006|/XYSOLVE.COM|/XYSOLVE.DOC",
                   "@diskTitle": "XY-SOLVE",
                   "@diskSummary": "Teachers will welcome this computer-aided instructional system for the design of tests and exercises for high school and college level Algebra, Geometry and Trigonometry."
@@ -19019,7 +19019,7 @@
               "@media": [
                 {
                   "@diskette": "DISK1608.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK1608|/@DIR.HLP|/@TELL.TXT|/ASK.DOC|/ASK.EXE|/CAT.DOC|/CAT.EXE|/CAT.PR|/CHD.DIR|/CHD.DOC|/CHD.EXE|/DI.DOC|/DI.EXE|/DOCS.BAT|/EXCLUDE.COM|/EXCLUDE.DOC|/FI.DOC|/FI.EXE|/FILE1608.TXT|/FILEINFO.WF|/FILTER.DOC|/FILTER.EXE|/GO.BAT|/GO.TXT|/INFO.DIR|/INFO.DOC|/INFO.EXE|/READ.ME|/REGIST.TXT|/TELL.DOC|/TELL.EXE|/WHEREIS.DOC|/WHEREIS.EXE|/XQT.DOC|/YES.DOC|/YES.EXE"
                 }
               ]
@@ -22675,7 +22675,7 @@
               "@media": [
                 {
                   "@diskette": "DISK1915.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK1915|/$README.1ST|/APLT11.EXE|/BROW32.EXE|/CMDP62.EXE|/FILE1915.TXT|/GO.BAT|/GO.TXT|/INSTALL.BAT|/PRESRLSE.TXT",
                   "@diskTitle": "PULLED FROM LIBRARY",
                   "@diskSummary": "Personalize your Microsoft Windows environment with your own menus and submenus, arrange or stack open windows, close windows, iconize them, and hide windows by making them invisible.  If that's not enough, you can browse files in your Windows environment and print out whatever you want."

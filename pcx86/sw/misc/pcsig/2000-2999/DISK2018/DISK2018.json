@@ -1,10 +1,10 @@
 {
 "imageInfo": {
   "type": "CHS",
-  "name": "DISK2018.IMG",
+  "name": "DISK2018.img",
   "format": "PC360K",
   "hash": "7733346477360641348b37ed696ff379",
-  "checksum": -478185537,
+  "checksum": 3816781759,
   "cylinders": 40,
   "heads": 2,
   "trackDefault": 9,

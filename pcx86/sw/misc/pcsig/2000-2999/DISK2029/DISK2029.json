@@ -1,10 +1,10 @@
 {
 "imageInfo": {
   "type": "CHS",
-  "name": "DISK2029.IMG",
+  "name": "DISK2029.img",
   "format": "PC360K",
   "hash": "6014c0ec9a8a725ca42ea94a6f6cd59d",
-  "checksum": -954775364,
+  "checksum": 3340191932,
   "cylinders": 40,
   "heads": 2,
   "trackDefault": 9,
