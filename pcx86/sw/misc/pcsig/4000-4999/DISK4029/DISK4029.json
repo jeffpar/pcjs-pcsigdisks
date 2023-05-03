@@ -39,7 +39,20 @@
   {"hash":"1710045e66398c8ea196722a687ead0a","path":"/PKUNZIP.EXE","attr":"0x20","date":"1993-02-01 02:04:16","size":29378},
   {"hash":"00fff50cd6a785d56a4fac606d285042","path":"/PCSIG.TXT","attr":"0x20","date":"1993-06-01 14:31:30","size":2329},
   {"hash":"6162087334ed98bb273acaaa6ca85d40","path":"/SHAREMAG.TXT","attr":"0x20","date":"1993-06-01 14:32:04","size":1831},
-  {"hash":"54964d989c90644e40ac21508c12ff5d","path":"/CDROM.TXT","attr":"0x20","date":"1993-06-01 15:26:44","size":8196}
+  {"hash":"54964d989c90644e40ac21508c12ff5d","path":"/CDROM.TXT","attr":"0x20","date":"1993-06-01 15:26:44","size":8196},
+  {"hash":"e3b2e6557e79ea495f5dd106987ffbb1","path":"/HEXXAGON.ZIP/FILE_ID.DIZ","attr":"0x40","date":"1993-03-20 15:10:06","size":352},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/HEXXAGON.ZIP/GO.BAT","attr":"0x40","date":"1993-03-22 16:27:28"},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/HEXXAGON.ZIP/GRAPHICS.HXG","attr":"0x40","date":"1993-03-20 15:10:06"},
+  {"hash":"ff759d056eab1f1e24ebb22f451036e7","path":"/HEXXAGON.ZIP/HEXX.EXE","attr":"0x40","date":"1993-05-03 14:24:06","size":42453},
+  {"hash":"e9c144df1838c73a9ea1323eed7df55e","path":"/HEXXAGON.ZIP/HEXX.ICO","attr":"0x40","date":"1993-03-20 15:10:06","size":766},
+  {"hash":"f46cb8f3908f8fdd4eb81ff60c9c6398","path":"/HEXXAGON.ZIP/HEXX.PIF","attr":"0x40","date":"1993-03-20 15:10:06","size":545},
+  {"hash":"c0cdfe02a9aaa1e603dca455c1598306","path":"/HEXXAGON.ZIP/HEXXAGON.DOC","attr":"0x40","date":"1993-03-20 15:10:06","size":11799},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/HEXXAGON.ZIP/LICENSE.DOC","attr":"0x40","date":"1993-03-20 15:10:06"},
+  {"hash":"34a25f5f616462ebb3db69315fb81406","path":"/HEXXAGON.ZIP/OMBUDSMN.ASP","attr":"0x40","date":"1993-03-20 15:10:06","size":917},
+  {"hash":"7ab3b1690417fba42376bed53f0cec1e","path":"/HEXXAGON.ZIP/ORDERFRM.DOC","attr":"0x40","date":"1993-05-05 08:01:14","size":2414},
+  {"hash":"727c103f2edd1c6a86e426373e4bf17f","path":"/HEXXAGON.ZIP/PACKING.LST","attr":"0x40","date":"1993-05-05 08:00:58","size":813},
+  {"hash":"9f36bc57416a7986518a1c852e5cad09","path":"/HEXXAGON.ZIP/SYSOPS.DOC","attr":"0x40","date":"1993-03-20 15:10:06","size":2157},
+  {"hash":"fd86a9b416399f4439c8ca5ba0691770","path":"/HEXXAGON.ZIP/VENDOR.DOC","attr":"0x40","date":"1993-03-20 15:10:06","size":8055}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

@@ -33,7 +33,14 @@
 "fileTable": [
   {"hash":"a67a9f8b3dae2655c281f18c397a7061","path":"/PBBS188A.ZIP","attr":"0x20","date":"1992-06-19 20:12:38","size":352478},
   {"hash":"0927113e53eb0cc07b40026ad244f007","path":"/GO.TXT","attr":"0x20","date":"1992-11-03 12:19:40","size":1386},
-  {"hash":"09c8206644019d4d3b0348a3cdff02d3","path":"/GO.BAT","attr":"0x20","date":"1991-01-31 00:58:08","size":38}
+  {"hash":"09c8206644019d4d3b0348a3cdff02d3","path":"/GO.BAT","attr":"0x20","date":"1991-01-31 00:58:08","size":38},
+  {"hash":"9f0685943782dd1faa9256eae7082fdd","path":"/PBBS188A.ZIP/HSLINK.ZIP/HSLINK.TXT","attr":"0x40","date":"1992-06-09 14:00:30","size":771},
+  {"hash":"35c0740facd15ec4733c05cdd2734921","path":"/PBBS188A.ZIP/HSLINK.ZIP/PROTOCOL.BBS","attr":"0x40","date":"1992-06-09 13:57:42","size":793},
+  {"hash":"2c32f8d4f534191673f6ee1b4e0d23f0","path":"/PBBS188A.ZIP/INSTALL.EXE","attr":"0x40","date":"1992-06-11 21:35:32","size":45568},
+  {"hash":"c55f057a09db14defba8716dab429c86","path":"/PBBS188A.ZIP/ORDER.TXT","attr":"0x40","date":"1992-06-04 22:09:46","size":6014},
+  {"hash":"d1e3f0e7d90eee2b6538d4bb2f5662af","path":"/PBBS188A.ZIP/POWRFILE.EXE","attr":"0x40","date":"1992-06-05 09:00:18","size":52120},
+  {"hash":"127c95bf4a25ddeb23aae8ec33f075f1","path":"/PBBS188A.ZIP/POWRMAIN.EXE","attr":"0x40","date":"1992-06-19 20:12:12","size":277396},
+  {"hash":"be77c7d089cd55f54c87654632aa1c78","path":"/PBBS188A.ZIP/SHARWARE.DOC","attr":"0x40","date":"1992-05-20 16:50:56","size":5141}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

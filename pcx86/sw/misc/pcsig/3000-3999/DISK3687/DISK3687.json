@@ -39,7 +39,22 @@
   {"hash":"165943e09144baca6a887b0a098ecdc2","path":"/PCSIG.TXT","attr":"0x20","date":"1993-02-10 08:50:48","size":2335},
   {"hash":"f64229401e7cfecdad01902cb922cd5c","path":"/SHAREMAG.TXT","attr":"0x20","date":"1992-01-21 06:11:00","size":1837},
   {"hash":"ed27a6cac153a50bd7a98d619ccb48c2","path":"/CDROM.TXT","attr":"0x20","date":"1993-03-18 13:28:48","size":4874},
-  {"hash":"711d63d6bf67826af2194996aa857457","path":"/GO-STRT.DAT","attr":"0x20","date":"1993-05-14 14:02:00","size":543}
+  {"hash":"711d63d6bf67826af2194996aa857457","path":"/GO-STRT.DAT","attr":"0x20","date":"1993-05-14 14:02:00","size":543},
+  {"hash":"a6c65bd94e859547720d4df3c711ba57","path":"/RUSSIAN.ZIP/ALPHABET.EXE","attr":"0x40","date":"1991-02-10 15:51:24","size":60278},
+  {"hash":"1e97972e3202b7bee8aedbf69bf59406","path":"/RUSSIAN.ZIP/EGAVGA.BGI","attr":"0x40","date":"1988-08-29 02:00:00","size":5363},
+  {"hash":"b4f960c70805669b95af7427e38e66dc","path":"/RUSSIAN.ZIP/GREETING.EXE","attr":"0x40","date":"1991-03-25 18:45:58","size":51514},
+  {"hash":"a1cce44e46d4cebd637f3b982b2bc237","path":"/RUSSIAN.ZIP/LITT.CHR","attr":"0x40","date":"1988-08-29 02:00:00","size":2138},
+  {"hash":"8f9c8a9672192d126a8996e7ba5729f2","path":"/RUSSIAN.ZIP/MAINMENU.EXE","attr":"0x40","date":"1991-02-12 18:15:52","size":41993},
+  {"hash":"6420163554fe857b894e5e21a873390d","path":"/RUSSIAN.ZIP/NAMES.EXE","attr":"0x40","date":"1991-02-03 15:52:52","size":48239},
+  {"hash":"ab312bd3e2c004aa1be49316a5d6396d","path":"/RUSSIAN.ZIP/NUMBERS.EXE","attr":"0x40","date":"1991-01-30 20:12:22","size":48392},
+  {"hash":"3fc79a04ea24d57bf0eaebbfa4c99e79","path":"/RUSSIAN.ZIP/OBJT.CHR","attr":"0x40","date":"1990-12-20 00:31:12","size":2095},
+  {"hash":"7368c36edb3ecf2e46377fe855339a86","path":"/RUSSIAN.ZIP/RUSS.CHR","attr":"0x40","date":"1990-12-17 21:08:04","size":17297},
+  {"hash":"5ec49f618509c24c613059abb699e699","path":"/RUSSIAN.ZIP/RUSSIAN.DOC","attr":"0x40","date":"1991-04-09 06:14:02","size":3013},
+  {"hash":"ff140ac9f5d4490e05dde863d1e6c586","path":"/RUSSIAN.ZIP/TRIP.CHR","attr":"0x40","date":"1988-08-29 02:00:00","size":7241},
+  {"hash":"216d6d0dc1488ea6d4e4589e90a09031","path":"/RUSSIAN.ZIP/VERBS.EXE","attr":"0x40","date":"1991-01-30 20:13:12","size":51571},
+  {"hash":"8fa2f0f8bf18aab8c394ed53c990a549","path":"/RUSSIAN.ZIP/VERBS.TXT","attr":"0x40","date":"1991-03-25 18:38:30","size":5904},
+  {"hash":"e118993b01365b13bcc0bbb72a638d1f","path":"/RUSSIAN.ZIP/VERBSTXT.BAK","attr":"0x40","date":"1991-03-25 18:38:30","size":6507},
+  {"hash":"447b6c682e57519212376afbf55016e6","path":"/RUSSIAN.ZIP/WHATISIT.EXE","attr":"0x40","date":"1991-01-30 20:14:10","size":50894}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

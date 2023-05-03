@@ -34,7 +34,16 @@
   {"hash":"f171fa23b6000202bf55f994101a3cfb","path":"/SAIPH.ZIP","attr":"0x20","date":"1991-11-06 02:40:08","size":125201},
   {"hash":"e3fde010486db10a499be897ab1b87d1","path":"/FILE2879.TXT","attr":"0x20","date":"1991-11-07 17:33:54","size":2147},
   {"hash":"1a1f552c5207fdb6b690451a445a6291","path":"/GO.TXT","attr":"0x20","date":"1991-11-07 08:19:44","size":1771},
-  {"hash":"09c8206644019d4d3b0348a3cdff02d3","path":"/GO.BAT","attr":"0x20","date":"1991-01-31 00:58:08","size":38}
+  {"hash":"09c8206644019d4d3b0348a3cdff02d3","path":"/GO.BAT","attr":"0x20","date":"1991-01-31 00:58:08","size":38},
+  {"hash":"193a7658038c6826ec8010bd1aa21723","path":"/SAIPH.ZIP/GAME.SAV","attr":"0x40","date":"1991-10-13 22:18:02","size":312},
+  {"hash":"fe56179b9fceadaef1e61af06842d215","path":"/SAIPH.ZIP/INTRO.PCX","attr":"0x40","date":"1991-10-13 14:52:28","size":22312},
+  {"hash":"4a9ddf9ec053d77c0de4c43530980df1","path":"/SAIPH.ZIP/ORION.DOC","attr":"0x40","date":"1991-10-15 00:59:34","size":20197},
+  {"hash":"e17c12271c08d17275f25788536b405d","path":"/SAIPH.ZIP/ORION.EXE","attr":"0x40","date":"1991-10-14 03:27:58","size":105746},
+  {"hash":"bc2274131c71c5ab714754305667b26b","path":"/SAIPH.ZIP/SAIPH.ALN","attr":"0x40","date":"1991-10-13 22:46:16","size":3123},
+  {"hash":"b95a06fd42a83e0cfa1da7adcdb59560","path":"/SAIPH.ZIP/SAIPH.DAT","attr":"0x40","date":"1991-10-13 15:18:36","size":31428},
+  {"hash":"7eac7afc9259684dffe54878c65d5b8a","path":"/SAIPH.ZIP/SCREEN1.PCX","attr":"0x40","date":"1991-10-13 15:44:36","size":43212},
+  {"hash":"ca3892a9ccc095470243aa35652219d3","path":"/SAIPH.ZIP/SPRITE.IMG","attr":"0x40","date":"1991-10-12 21:46:32","size":216078},
+  {"hash":"f4f8e99b558653da3c8853c4c7bdaaa3","path":"/SAIPH.ZIP/TRANSPOR.PCX","attr":"0x40","date":"1991-09-15 12:58:32","size":38860}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,65794,1073758210,130561,65544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

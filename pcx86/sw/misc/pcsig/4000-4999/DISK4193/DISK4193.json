@@ -39,7 +39,17 @@
   {"hash":"cf0e2dfcebc4bc65595a8b3fa793c788","path":"/GO.EXE","attr":"0x20","date":"1992-01-10 12:14:02","size":26022},
   {"hash":"1710045e66398c8ea196722a687ead0a","path":"/PKUNZIP.EXE","attr":"0x20","date":"1993-02-01 02:04:16","size":29378},
   {"hash":"f9e76776cca2dc98a3e8dc732fa74da4","path":"/PCSIG.TXT","attr":"0x20","date":"1993-09-24 13:59:00","size":2319},
-  {"hash":"6162087334ed98bb273acaaa6ca85d40","path":"/SHAREMAG.TXT","attr":"0x20","date":"1993-06-01 14:32:04","size":1831}
+  {"hash":"6162087334ed98bb273acaaa6ca85d40","path":"/SHAREMAG.TXT","attr":"0x20","date":"1993-06-01 14:32:04","size":1831},
+  {"hash":"50c778083826b47ca71f4fc875eb0ceb","path":"/WORLDVU.ZIP/CITIES.1WV","attr":"0x40","date":"1992-12-15 01:20:00","size":11225},
+  {"hash":"e3d6e05e0551f07bb74277350ffb8448","path":"/WORLDVU.ZIP/INDEX.1WV","attr":"0x40","date":"1992-12-15 01:21:58","size":79694},
+  {"hash":"b1db308503fb0521a2b78ff6759d19bb","path":"/WORLDVU.ZIP/MOUNTAIN.1WV","attr":"0x40","date":"1992-12-15 01:20:30","size":4439},
+  {"hash":"b83fb9459450708a1252878bb1d5a28b","path":"/WORLDVU.ZIP/NAMECODE.1WV","attr":"0x40","date":"1992-12-15 01:21:20","size":2042},
+  {"hash":"d891df3f30eb2a108f8637b5670f20de","path":"/WORLDVU.ZIP/VENDOR.LTR","attr":"0x40","date":"1993-03-17 10:41:14","size":4986},
+  {"hash":"f138110be6d40483209a81657f442ded","path":"/WORLDVU.ZIP/WATER15D.1WV","attr":"0x40","date":"1992-12-15 01:20:30","size":9164},
+  {"hash":"e244ebf25c9bd2c0d6d434fcfd0cdfcd","path":"/WORLDVU.ZIP/WORLD15K.WV1","attr":"0x40","date":"1992-12-15 01:20:56","size":60602},
+  {"hash":"08e5c9da56107c87f878819d78d561bc","path":"/WORLDVU.ZIP/WORLDVU.CFG","attr":"0x40","date":"1992-12-15 01:20:30","size":122},
+  {"hash":"044bc1feb0bee72769795364eb38ab18","path":"/WORLDVU.ZIP/WORLDVU.DOC","attr":"0x40","date":"1992-12-15 01:21:16","size":36374},
+  {"hash":"3d6e22c7b181777aa0c1dfffca4eb6d1","path":"/WORLDVU.ZIP/WORLDVU.EXE","attr":"0x40","date":"1992-12-15 01:21:12","size":151658}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

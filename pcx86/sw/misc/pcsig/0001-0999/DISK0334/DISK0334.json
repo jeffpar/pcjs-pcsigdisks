@@ -35,7 +35,17 @@
   {"hash":"06dd49c60c035165145c293888e2d6c1","path":"/RBBS-EXT.ZIP","attr":"0x20","date":"1990-02-13 23:30:38","size":68256},
   {"hash":"52758d85fe7b2e5eae915768402925dc","path":"/GO.TXT","attr":"0x20","date":"1990-03-16 12:21:14","size":1002},
   {"hash":"09c8206644019d4d3b0348a3cdff02d3","path":"/GO.BAT","attr":"0x20","date":"1987-10-19 15:56:44","size":38},
-  {"hash":"c40fc1c8684ec6404c0bbde9d8a2e14d","path":"/FILE0334.TXT","attr":"0x20","date":"1990-03-19 18:48:50","size":2058}
+  {"hash":"c40fc1c8684ec6404c0bbde9d8a2e14d","path":"/FILE0334.TXT","attr":"0x20","date":"1990-03-19 18:48:50","size":2058},
+  {"hash":"06085d1f48db99e1efcddc235e279151","path":"/RBBS-DOC.ZIP/DOC-READ.ME","attr":"0x40","date":"1990-02-10 22:31:50","size":1810},
+  {"hash":"fade724f6e1cf0105a9e3faaa0ae3c4d","path":"/RBBS-DOC.ZIP/DOC/FEATURES.ASC","attr":"0x40","date":"1990-02-11 01:53:02","size":40031},
+  {"hash":"f28633499cd5e2c7bce424f9d27aebb8","path":"/RBBS-DOC.ZIP/DOC/RBBSDOC1.ASC","attr":"0x40","date":"1990-02-11 01:51:28","size":346157},
+  {"hash":"62df553e262dc833c96605aa84da1c69","path":"/RBBS-DOC.ZIP/DOC/RBBSDOC2.ASC","attr":"0x40","date":"1990-02-11 01:52:24","size":406303},
+  {"hash":"82bf56510c97035923d9f5b56c6ac2a7","path":"/RBBS-EXT.ZIP/EXT-READ.ME","attr":"0x40","date":"1990-02-10 22:28:40","size":2144},
+  {"hash":"ce64bf754fe03bc8ba7173cca3e30dad","path":"/RBBS-EXT.ZIP/XFER/PCKERMIT.EXE","attr":"0x40","date":"1987-08-22 00:13:50","size":45373},
+  {"hash":"37df8ac1b4b81543a23cbbfb86e64003","path":"/RBBS-EXT.ZIP/XFER/PCKERMIT.TXT","attr":"0x40","date":"1987-08-22 00:19:48","size":230},
+  {"hash":"9426170f532254a1151960b5de5e208e","path":"/RBBS-EXT.ZIP/XFER/QMXFER.COM","attr":"0x40","date":"1987-08-15 07:21:30","size":39523},
+  {"hash":"1adb8921419ffab27af69f12283bbd44","path":"/RBBS-EXT.ZIP/XFER/QMXFER.DOC","attr":"0x40","date":"1987-08-15 07:29:26","size":3350},
+  {"hash":"0ca020f8081b8d644cea80d86f004af4","path":"/RBBS-EXT.ZIP/XFER/WXMODEM.COM","attr":"0x40","date":"1987-03-14 11:40:54","size":22868}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

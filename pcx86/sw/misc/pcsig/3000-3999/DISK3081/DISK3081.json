@@ -41,7 +41,19 @@
   {"hash":"f64229401e7cfecdad01902cb922cd5c","path":"/SHAREMAG.TXT","attr":"0x20","date":"1992-01-21 06:11:00","size":1837},
   {"hash":"be8cbfdeedb0e71dad23919b636fc03c","path":"/SIGORDER.TXT","attr":"0x20","date":"1992-06-25 14:28:24","size":3332},
   {"hash":"0b7d9661b55008a826224bb357f929a2","path":"/FILE3081.TXT","attr":"0x20","date":"1992-08-28 07:26:14","size":4367},
-  {"hash":"4e3109aa604a1a115062ff478a440339","path":"/QCA.ZIP","attr":"0x20","date":"1992-08-25 12:54:22","size":59796}
+  {"hash":"4e3109aa604a1a115062ff478a440339","path":"/QCA.ZIP","attr":"0x20","date":"1992-08-25 12:54:22","size":59796},
+  {"hash":"d534cda6d9d80db56b0742f940aa87b5","path":"/RNDUP36.ZIP/MANUAL.ASC","attr":"0x40","date":"1992-02-10 11:41:44","size":23181},
+  {"hash":"666b709be861b674ed9357ced40da695","path":"/RNDUP36.ZIP/MANUAL.STY","attr":"0x40","date":"1991-10-06 10:21:00","size":3700},
+  {"hash":"272a19b9233f64867c14142e3392fc3e","path":"/RNDUP36.ZIP/READ.ME","attr":"0x40","date":"1992-07-05 20:09:08","size":3807},
+  {"hash":"b979dd739e890d0fc4dab3559df06937","path":"/RNDUP36.ZIP/ROUNDUP.EXE","attr":"0x40","date":"1992-07-05 20:10:10","size":116448},
+  {"hash":"b56fa1c5fadab6680d630afb3b926c7e","path":"/QCA.ZIP/_ALLCAPS._TT","attr":"0x40","date":"1989-12-18 17:42:28","size":256},
+  {"hash":"f494ab268860220325fc424a445d6654","path":"/QCA.ZIP/_LOWER._TT","attr":"0x40","date":"1989-12-30 14:34:50","size":256},
+  {"hash":"f3b8e0a7b2b82bb518d0a70164ee6ae3","path":"/QCA.ZIP/DBLQUOTE._TT","attr":"0x40","date":"1989-12-19 20:04:32","size":181},
+  {"hash":"7d7eda4b2bbe90ba7a6eda5e63a295c5","path":"/QCA.ZIP/INITCAPS._TT","attr":"0x40","date":"1989-12-18 17:39:42","size":156},
+  {"hash":"1d56b54a0176312b9d51c802b70eeb13","path":"/QCA.ZIP/LICENSE.QCA","attr":"0x40","date":"1990-01-01 19:07:52","size":3515},
+  {"hash":"ee2a39ff05407de160b556d9cafa61ee","path":"/QCA.ZIP/QCA.EXE","attr":"0x40","date":"1990-01-01 11:36:50","size":118602},
+  {"hash":"a34bfd74bb1d2634b22bb4376e103f8e","path":"/QCA.ZIP/READ_ME.QCA","attr":"0x40","date":"1990-01-01 17:57:02","size":4879},
+  {"hash":"d129dc8cf20fa1d889652c9a6adb365a","path":"/QCA.ZIP/T.COM","attr":"0x40","date":"1988-04-07 14:14:50","size":958}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

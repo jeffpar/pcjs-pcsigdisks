@@ -41,7 +41,18 @@
   {"hash":"7e005a68898b771bd3ff7cf52b43f893","path":"/HMMPGM.ARC","attr":"0x20","date":"1989-12-15 10:12:54","size":287330},
   {"hash":"e0b780c673300f48f98ca800316db17a","path":"/MENU.OVL","attr":"0x20","date":"1986-01-01 23:59:06","size":150},
   {"hash":"08e4ae78a4ce5df1433940d5ed5b02da","path":"/OTHER.DOC","attr":"0x20","date":"1989-12-07 21:51:48","size":5888},
-  {"hash":"eb30fdc31dcf57d23de2732b26646785","path":"/READ.ME","attr":"0x20","date":"1989-02-18 17:21:10","size":1920}
+  {"hash":"eb30fdc31dcf57d23de2732b26646785","path":"/READ.ME","attr":"0x20","date":"1989-02-18 17:21:10","size":1920},
+  {"hash":"b2b0333e23fa4d718bab6c7e32e24407","path":"/HMM.ARC/HMM-HELP.HLP","attr":"0x40","date":"1989-02-07 20:56:04","size":38912},
+  {"hash":"d201af9708e9817f96a0578c25329615","path":"/HMM.ARC/HMMII.DOC","attr":"0x40","date":"1989-08-21 20:03:18","size":23936},
+  {"hash":"ba2dbafd5685c96e77a96f740b8a13a2","path":"/HMM.ARC/INTRO.DOC","attr":"0x40","date":"1989-08-21 20:02:24","size":4992},
+  {"hash":"3aec93a8ad735d8678b06053b3cd2ebe","path":"/HMMPGM.ARC/BRUN10.EXE","attr":"0x40","date":"1986-01-24 12:22:14","size":59117},
+  {"hash":"a06c51d4ac3d6337da8a6480d4d3fee1","path":"/HMMPGM.ARC/CREDIT.EXE","attr":"0x40","date":"1989-04-12 07:40:18","size":44145},
+  {"hash":"107b9ff2daed589f9a422dd6fa4d6f17","path":"/HMMPGM.ARC/HMM.EXE","attr":"0x40","date":"1989-08-21 20:15:38","size":8881},
+  {"hash":"2dacb0ffef397217cbcc5eae3829c4ea","path":"/HMMPGM.ARC/MENU.EXE","attr":"0x40","date":"1989-09-20 21:12:38","size":72385},
+  {"hash":"70560e5e92cf3dcec8b803994c86e8d5","path":"/HMMPGM.ARC/PRINT.EXE","attr":"0x40","date":"1989-04-12 07:37:24","size":44321},
+  {"hash":"1616239cdf0aa651679aa99c9a644d24","path":"/HMMPGM.ARC/REVIEW.EXE","attr":"0x40","date":"1988-02-18 20:55:34","size":14129},
+  {"hash":"8c6c2a4bf6c2d03fe48ee37b8b1e6d53","path":"/HMMPGM.ARC/SET-UP.EXE","attr":"0x40","date":"1989-12-15 10:12:54","size":66369},
+  {"hash":"8c50709f947be70f930d712c90a37ba2","path":"/HMMPGM.ARC/SUMMARY.EXE","attr":"0x40","date":"1989-01-26 09:09:16","size":25105}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

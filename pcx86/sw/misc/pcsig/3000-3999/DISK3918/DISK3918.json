@@ -40,7 +40,20 @@
   {"hash":"1710045e66398c8ea196722a687ead0a","path":"/PKUNZIP.EXE","attr":"0x20","date":"1993-02-01 02:04:16","size":29378},
   {"hash":"00fff50cd6a785d56a4fac606d285042","path":"/PCSIG.TXT","attr":"0x20","date":"1993-06-01 14:31:30","size":2329},
   {"hash":"6162087334ed98bb273acaaa6ca85d40","path":"/SHAREMAG.TXT","attr":"0x20","date":"1993-06-01 14:32:04","size":1831},
-  {"hash":"54964d989c90644e40ac21508c12ff5d","path":"/CDROM.TXT","attr":"0x20","date":"1993-06-01 15:26:44","size":8196}
+  {"hash":"54964d989c90644e40ac21508c12ff5d","path":"/CDROM.TXT","attr":"0x20","date":"1993-06-01 15:26:44","size":8196},
+  {"hash":"1a36d907c8c317e617b79739204339c2","path":"/ZIPZAG.ZIP/DT.EXE","attr":"0x40","date":"1988-11-15 16:50:00","size":21084},
+  {"hash":"ffa53583f197f5600d72ed03f559f8eb","path":"/ZIPZAG.ZIP/PCSIG.TXT","attr":"0x40","date":"1991-07-19 08:00:02","size":2212},
+  {"hash":"248f0cbb1d67d9b61c8981e40028392f","path":"/ZIPZAG.ZIP/SAMPLE.LST","attr":"0x40","date":"1992-02-09 03:04:14","size":47},
+  {"hash":"7db6d5ee549a3960240117c808cf3ca1","path":"/ZIPZAG.ZIP/ZIPZAG.CFG","attr":"0x40","date":"1992-02-09 03:04:08","size":21},
+  {"hash":"76897ad39a5c0e9251c3e8b230c7115a","path":"/ZIPZAG.ZIP/ZIPZAG.DOC","attr":"0x40","date":"1991-07-17 21:57:00","size":8850},
+  {"hash":"5e41fb71eeca236053f43648e5ace695","path":"/ZIPZAG.ZIP/ZIPZAG.EXE","attr":"0x40","date":"1991-07-19 01:19:04","size":80860},
+  {"hash":"0f7ba71ea7f02d89b22759a06a194daf","path":"/ZIPZAG.ZIP/ZIPZAG.TOP","attr":"0x40","date":"1992-02-09 03:06:52","size":40},
+  {"hash":"879df38fc9972eb0d1d3b1da9bc46be5","path":"/TVPART.ZIP/CURRFIL","attr":"0x40","date":"1993-03-24 13:04:50","size":1283},
+  {"hash":"9efc16ff074f63b6737095e406099a2a","path":"/TVPART.ZIP/GO.BAT","attr":"0x40","date":"1993-01-08 10:39:24","size":26},
+  {"hash":"e9ddd6e5562804bfcb3f3a7aef5cb0bc","path":"/TVPART.ZIP/LIBFIL","attr":"0x40","date":"1993-03-05 12:24:00","size":970},
+  {"hash":"ea45242c99ae314d97b76374b6c71db4","path":"/TVPART.ZIP/TVP.DOC","attr":"0x40","date":"1993-02-09 12:21:42","size":23355},
+  {"hash":"eb9b914b5a8dbd6549257cfc707b3143","path":"/TVPART.ZIP/TVP.EXE","attr":"0x40","date":"1993-03-29 07:01:40","size":101632},
+  {"hash":"f701f7e4732ad9a5afaa4794c5f9c0ab","path":"/TVPART.ZIP/TVP.TXT","attr":"0x40","date":"1993-03-19 15:13:18","size":935}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

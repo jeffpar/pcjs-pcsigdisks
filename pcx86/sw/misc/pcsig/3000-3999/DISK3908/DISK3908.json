@@ -34,7 +34,20 @@
   {"hash":"cba7bdbda5c5b5ea3f4079120994299d","path":"/ROCKSTAR.ZIP","attr":"0x20","date":"1993-08-12 10:57:04","size":133288},
   {"hash":"d2d6f7599bb9729d568f3b2ed0e7306f","path":"/ONE-NIL.ZIP","attr":"0x20","date":"1993-08-12 10:57:54","size":207288},
   {"hash":"1acf051d9a6fb559a9deea5a6664d9ae","path":"/GO.BAT","attr":"0x20","date":"1993-08-12 12:22:12","size":30},
-  {"hash":"ff9f1acd4c58b9f1017ce6cd5e06d5d0","path":"/GO.TXT","attr":"0x20","date":"1993-08-12 12:27:32","size":1309}
+  {"hash":"ff9f1acd4c58b9f1017ce6cd5e06d5d0","path":"/GO.TXT","attr":"0x20","date":"1993-08-12 12:27:32","size":1309},
+  {"hash":"34fd94052c1b297f6b8b74b6550375fe","path":"/ROCKSTAR.ZIP/FILE_ID.TXT","attr":"0x40","date":"1993-02-06 07:47:36","size":338},
+  {"hash":"43627c76d9f3b8b879a129b4c3648066","path":"/ROCKSTAR.ZIP/ROCKSTAR.DAT","attr":"0x40","date":"1990-08-26 14:38:16","size":61424},
+  {"hash":"b4b83d1c56d565bb985b99c59fd3e8ef","path":"/ROCKSTAR.ZIP/ROCKSTAR.Z","attr":"0x40","date":"1990-10-01 19:20:26","size":83336},
+  {"hash":"f318100d9cdcd295cbe1f9ced7f48859","path":"/ROCKSTAR.ZIP/RUN.EXE","attr":"0x40","date":"1993-01-04 16:43:54","size":14976},
+  {"hash":"9be9b7ecb69b317b56279efcff782915","path":"/ROCKSTAR.ZIP/SHARE","attr":"0x40","date":"1992-08-26 12:15:40","size":1580},
+  {"hash":"36f6ae75f6533e0da6c7f9ccb5aad11f","path":"/ONE-NIL.ZIP/1-0.HLP","attr":"0x40","date":"1992-10-12 02:30:40","size":34086},
+  {"hash":"a6595f39b8976fd284041511fd33e5a8","path":"/ONE-NIL.ZIP/1-0.Z","attr":"0x40","date":"1992-11-01 19:12:46","size":97398},
+  {"hash":"2fd7521d81d687104f06e3b000e1e657","path":"/ONE-NIL.ZIP/ENGLAND.DAT","attr":"0x40","date":"1993-03-31 14:39:28","size":61030},
+  {"hash":"47e935f2b584b9eead40fb713951f174","path":"/ONE-NIL.ZIP/FILE_ID.TXT","attr":"0x40","date":"1993-02-06 07:48:36","size":457},
+  {"hash":"fdb45d6d3108ae478bef8df8af9bf11c","path":"/ONE-NIL.ZIP/HELP.EXE","attr":"0x40","date":"1992-10-13 20:13:22","size":11071},
+  {"hash":"f318100d9cdcd295cbe1f9ced7f48859","path":"/ONE-NIL.ZIP/RUN.EXE","attr":"0x40","date":"1993-01-04 16:43:54","size":14976},
+  {"hash":"7bf793d9843b79ffb8189b522661f533","path":"/ONE-NIL.ZIP/SCOTLAND.DAT","attr":"0x40","date":"1993-03-29 12:44:06","size":61063},
+  {"hash":"838543058f2f53ae39c5b9edd2ca0a25","path":"/ONE-NIL.ZIP/SHARE","attr":"0x40","date":"1992-08-26 12:15:44","size":1580}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

@@ -34,7 +34,21 @@
   {"hash":"08538e7346e6829021e7d0b6bd4a9aad","path":"/RUNTIME.ARC","attr":"0x20","date":"1989-10-26 17:48:46","size":269288},
   {"hash":"62db31211e48a1af18cc61f025f6fc6c","path":"/FILE1943.TXT","attr":"0x20","date":"1990-11-12 14:02:40","size":2591},
   {"hash":"263bd5919661fd409e4790b9f259daea","path":"/GO.BAT","attr":"0x20","date":"1980-01-01 06:00:08","size":40},
-  {"hash":"df9105c7161a1bd07d8dc4adf1be0e13","path":"/GO.TXT","attr":"0x20","date":"1990-11-12 06:46:18","size":1002}
+  {"hash":"df9105c7161a1bd07d8dc4adf1be0e13","path":"/GO.TXT","attr":"0x20","date":"1990-11-12 06:46:18","size":1002},
+  {"hash":"b08caed37dfd506d04344aa0d3d9720b","path":"/RUNTIME.ARC/KP.B_W","attr":"0x40","date":"1989-10-26 17:48:46","size":2136},
+  {"hash":"d258cdcee95b31207fdc930c0f3ee82a","path":"/RUNTIME.ARC/KP.BAT","attr":"0x40","date":"1989-10-25 18:10:06","size":60},
+  {"hash":"67e3087c9c30b5455472afc01b599f40","path":"/RUNTIME.ARC/KP.HLP","attr":"0x40","date":"1989-04-04 11:14:54","size":8361},
+  {"hash":"82607757303c82673827d14fd46fd4ff","path":"/RUNTIME.ARC/KP.PRM","attr":"0x40","date":"1989-06-03 08:19:12","size":2132},
+  {"hash":"1045acaaa43a736293b1a76833420044","path":"/RUNTIME.ARC/RKP0.COM","attr":"0x40","date":"1989-03-02 13:43:00","size":55908},
+  {"hash":"54ff0fdd0c80ce216f30ecc865859312","path":"/RUNTIME.ARC/RKP1.CHN","attr":"0x40","date":"1989-03-02 13:43:00","size":40410},
+  {"hash":"ba7d9fac028ee8c7ac4bdf52e4f7f053","path":"/RUNTIME.ARC/RKP2.CHN","attr":"0x40","date":"1989-03-02 13:43:00","size":33726},
+  {"hash":"8d06075e3cdf85a7c2ff187013310a08","path":"/RUNTIME.ARC/RKP3.CHN","attr":"0x40","date":"1989-03-02 13:43:00","size":52460},
+  {"hash":"0b5d217134289c2085e3a8a120358509","path":"/RUNTIME.ARC/RKP4.CHN","attr":"0x40","date":"1989-03-02 13:43:00","size":53388},
+  {"hash":"8f24ab7f36f6bf00175737916674ae05","path":"/RUNTIME.ARC/RKP5.CHN","attr":"0x40","date":"1989-03-02 13:43:00","size":52716},
+  {"hash":"5f68662ef59055763db093756cae5abe","path":"/RUNTIME.ARC/RKP6.CHN","attr":"0x40","date":"1989-03-02 13:43:00","size":22056},
+  {"hash":"6f6e5110abcc34e66b621b969776f63e","path":"/RUNTIME.ARC/RKP7.CHN","attr":"0x40","date":"1989-03-02 13:43:00","size":53537},
+  {"hash":"be1253ec7ecb4dbd64d4f772b449a653","path":"/RUNTIME.ARC/RUNEGA.COM","attr":"0x40","date":"1988-08-17 16:19:06","size":27723},
+  {"hash":"dadafe066983ab646e8550013fb7da13","path":"/RUNTIME.ARC/TEST.DAT","attr":"0x40","date":"1989-05-19 21:12:08","size":3}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

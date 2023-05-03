@@ -40,7 +40,18 @@
   {"hash":"1f41cc6226159816f87c68dd000ac59f","path":"/GO.EXE","attr":"0x20","date":"1992-02-06 02:16:54","size":57040},
   {"hash":"583efd1d72b8cd0493982efa169a3d0e","path":"/GO-FORM.DAT","attr":"0x20","date":"1992-03-13 11:17:38","size":2987},
   {"hash":"2dae31133b430c9b23e5c684cb494c36","path":"/GO-STRT.DAT","attr":"0x20","date":"1992-04-24 14:45:06","size":555},
-  {"hash":"f5d0fa49b21234be778faa3b8ce06593","path":"/PKUNZIP.EXE","attr":"0x20","date":"1990-03-15 01:10:00","size":23528}
+  {"hash":"f5d0fa49b21234be778faa3b8ce06593","path":"/PKUNZIP.EXE","attr":"0x20","date":"1990-03-15 01:10:00","size":23528},
+  {"hash":"11ba1edee9ea09d68fcd710cd56e506c","path":"/AFRICA.ZIP/AFRICA.DAT","attr":"0x40","date":"1986-08-30 07:26:44","size":2944},
+  {"hash":"d39e9dfe26c83a39f55d20d0ec114096","path":"/AFRICA.ZIP/AFRICA.DOC","attr":"0x40","date":"1986-08-30 07:52:08","size":11506},
+  {"hash":"1aa2f02958e1622ae481c2dbc8d80d4f","path":"/AFRICA.ZIP/AFRICA.EXE","attr":"0x40","date":"1986-08-30 18:46:14","size":79726},
+  {"hash":"4191b3e5d31b46470820f7dc0210208e","path":"/AFRICA.ZIP/AFSCRN0.DAT","attr":"0x40","date":"1986-08-20 15:28:54","size":16391},
+  {"hash":"0187d4548c077cf490a53e60f18f1803","path":"/AFRICA.ZIP/AFSCRN1.DAT","attr":"0x40","date":"1986-08-17 19:24:54","size":16391},
+  {"hash":"c84dd623c0653b9fde1bd73e2d768c77","path":"/AFRICA.ZIP/STRATEGY.DOC","attr":"0x40","date":"1986-09-01 18:57:08","size":3968},
+  {"hash":"5e284a82efa051afb125cac7fee1ab7d","path":"/AGGR.ZIP/AGGRESS.DOC","attr":"0x40","date":"1990-07-19 19:15:00","size":11479},
+  {"hash":"40f71559140b282a0f55b558c792f75d","path":"/AGGR.ZIP/AGGRESS.EXE","attr":"0x40","date":"1990-05-18 18:57:26","size":67744},
+  {"hash":"a812d70d79ebfc67cbf0314e1cc12f5c","path":"/AGGR.ZIP/AGGRESS.PCL","attr":"0x40","date":"1990-05-11 00:29:40","size":125157},
+  {"hash":"aff5e87baca241f648ba13d95edbf5a6","path":"/AGGR.ZIP/AGGRESS.REG","attr":"0x40","date":"1990-07-19 19:14:24","size":2332},
+  {"hash":"cb4d7a9478f847b4a1a043a9845ffafb","path":"/AGGR.ZIP/AVEXTRA.TXT","attr":"0x40","date":"1990-07-03 19:56:48","size":631}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

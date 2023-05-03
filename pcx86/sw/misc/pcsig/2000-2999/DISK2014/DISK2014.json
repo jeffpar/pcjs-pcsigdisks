@@ -44,7 +44,17 @@
   {"hash":"b9751d74f048fec10d392c669a8c3403","path":"/GO.TXT","attr":"0x20","date":"1980-01-01 02:42:00","size":540},
   {"hash":"83b739c61af70bb8c5384945094b8225","path":"/OBJECTS.CS0","attr":"0x20","date":"1989-11-09 15:24:18","size":13291},
   {"hash":"9308386768415df77670ce9a0d4d8f87","path":"/README.CS","attr":"0x20","date":"1989-11-09 15:24:18","size":1962},
-  {"hash":"d7de585ad501ceb94b4a3cba005fdeb8","path":"/REGISTER.CS","attr":"0x20","date":"1989-11-09 15:24:18","size":2614}
+  {"hash":"d7de585ad501ceb94b4a3cba005fdeb8","path":"/REGISTER.CS","attr":"0x20","date":"1989-11-09 15:24:18","size":2614},
+  {"hash":"25075e7d212c95c3753161c41b2917d1","path":"/CSHUF1.ARC/1JUNGLE.CS0","attr":"0x40","date":"1989-11-09 15:24:38","size":12087},
+  {"hash":"1614cd48d8eb4ce364b74550975339e2","path":"/CSHUF1.ARC/1PRESID.CS0","attr":"0x40","date":"1989-11-09 15:24:38","size":10173},
+  {"hash":"a255bc803f25a1a29e343f595572a92a","path":"/CSHUF1.ARC/ALIVE.LG0","attr":"0x40","date":"1989-11-09 15:24:38","size":9486},
+  {"hash":"d7c29227db6abf459ccb64652f7be39a","path":"/CSHUF1.ARC/CS.DOC","attr":"0x40","date":"1989-11-09 15:24:38","size":13343},
+  {"hash":"26510870c5ac619b15cbf336c5029df1","path":"/CSHUF1.ARC/CS.EXE","attr":"0x40","date":"1989-11-09 15:24:38","size":100606},
+  {"hash":"4eb326fa1ae0747bb63774d045fc6e1e","path":"/CSHUF1.ARC/CSDEMO_1.LG0","attr":"0x40","date":"1989-11-09 15:24:38","size":11590},
+  {"hash":"27934a299f7b84603ec29865af2b9d83","path":"/CSHUF1.ARC/CSDEMO_2.LG0","attr":"0x40","date":"1989-11-09 15:24:38","size":14072},
+  {"hash":"83b739c61af70bb8c5384945094b8225","path":"/CSHUF1.ARC/OBJECTS.CS0","attr":"0x40","date":"1989-11-09 15:24:38","size":13291},
+  {"hash":"9308386768415df77670ce9a0d4d8f87","path":"/CSHUF1.ARC/README.CS","attr":"0x40","date":"1989-11-09 15:24:38","size":1962},
+  {"hash":"d7de585ad501ceb94b4a3cba005fdeb8","path":"/CSHUF1.ARC/REGISTER.CS","attr":"0x40","date":"1989-11-09 15:24:38","size":2614}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

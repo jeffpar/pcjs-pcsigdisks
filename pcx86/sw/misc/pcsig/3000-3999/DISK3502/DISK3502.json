@@ -40,7 +40,13 @@
   {"hash":"1710045e66398c8ea196722a687ead0a","path":"/PKUNZIP.EXE","attr":"0x20","date":"1993-02-01 02:04:16","size":29378},
   {"hash":"f64229401e7cfecdad01902cb922cd5c","path":"/SHAREMAG.TXT","attr":"0x20","date":"1992-01-21 06:11:00","size":1837},
   {"hash":"ac1c1e4d8c5b0302728b93a1f54d420a","path":"/SIGORDER.TXT","attr":"0x20","date":"1993-03-10 15:22:32","size":3090},
-  {"hash":"d6d1f9a9444b871175a86da35f23435f","path":"/README.TXT","attr":"0x20","date":"1993-01-13 23:11:12","size":2268}
+  {"hash":"d6d1f9a9444b871175a86da35f23435f","path":"/README.TXT","attr":"0x20","date":"1993-01-13 23:11:12","size":2268},
+  {"hash":"895b7e3a7ca5997ed0f20531a7d100eb","path":"/TIMEKE14.ZIP/README.TXT","attr":"0x40","date":"1993-01-13 23:11:12","size":2200},
+  {"hash":"ea2049edd9689aa55d6d77258e334afa","path":"/TIMEKE14.ZIP/SPIN.VBX","attr":"0x40","date":"1991-11-09 18:18:52","size":10608},
+  {"hash":"1ab104709ea579a27884fff08abffee8","path":"/TIMEKE14.ZIP/TIMEKEEP.EXE","attr":"0x40","date":"1993-01-18 18:59:12","size":73554},
+  {"hash":"4cec94666ab44994c176c44aa347a1ef","path":"/TIMEKE14.ZIP/TIMEKEEP.WRI","attr":"0x40","date":"1993-01-14 22:56:30","size":25472},
+  {"hash":"2d6bcdd99a3742319be4e3b536ff4aef","path":"/TIMEKE14.ZIP/TIMEREG.WRI","attr":"0x40","date":"1993-01-05 22:16:46","size":1792},
+  {"hash":"127e75e5a9b93cfa4f964060d6f5bc8d","path":"/TIMEKE14.ZIP/VBRUN100.DLL","attr":"0x40","date":"1991-05-08 01:00:00","size":271264}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

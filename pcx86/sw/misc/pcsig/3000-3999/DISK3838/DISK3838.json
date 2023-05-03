@@ -39,7 +39,18 @@
   {"hash":"54964d989c90644e40ac21508c12ff5d","path":"/CDROM.TXT","attr":"0x20","date":"1993-06-01 15:26:44","size":8196},
   {"hash":"00fff50cd6a785d56a4fac606d285042","path":"/PCSIG.TXT","attr":"0x20","date":"1993-06-01 14:31:30","size":2329},
   {"hash":"6162087334ed98bb273acaaa6ca85d40","path":"/SHAREMAG.TXT","attr":"0x20","date":"1993-06-01 14:32:04","size":1831},
-  {"hash":"82a7bdb946a3bdfaf674e85e307c7285","path":"/SIGORDER.TXT","attr":"0x20","date":"1993-06-01 14:30:00","size":3336}
+  {"hash":"82a7bdb946a3bdfaf674e85e307c7285","path":"/SIGORDER.TXT","attr":"0x20","date":"1993-06-01 14:30:00","size":3336},
+  {"hash":"ffabe46532b809fdb0cb290b386370db","path":"/STORM.ZIP/DESC.SDI","attr":"0x40","date":"1993-07-06 11:44:26","size":460},
+  {"hash":"ffabe46532b809fdb0cb290b386370db","path":"/STORM.ZIP/FILE_ID.DIZ","attr":"0x40","date":"1993-07-06 11:44:26","size":460},
+  {"hash":"cccb3cb1716b35621fc5ed54012715f9","path":"/STORM.ZIP/ORDER.DOC","attr":"0x40","date":"1993-07-07 14:20:46","size":2681},
+  {"hash":"c7cbd6a15ab6fc42d757d3e8e85163ea","path":"/STORM.ZIP/READ.ME","attr":"0x40","date":"1993-07-06 11:44:26","size":1244},
+  {"hash":"9bf39f6756a57988484891409eafa990","path":"/STORM.ZIP/STORM.SS0","attr":"0x40","date":"1993-07-06 11:44:26","size":13440},
+  {"hash":"e38822dbd46f37c39e79726fdf26f9a1","path":"/STORM.ZIP/STORM.SS1","attr":"0x40","date":"1993-07-06 11:44:26","size":5248},
+  {"hash":"b84c3f6e294ffb23051880fce7f50adf","path":"/STORM.ZIP/STORM.SS2","attr":"0x40","date":"1993-07-06 11:44:26","size":14743},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/STORM.ZIP/STORM1.EXE","attr":"0x40","date":"1993-07-06 11:44:26"},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/STORM.ZIP/STORM1.SSP","attr":"0x40","date":"1993-07-06 11:44:26"},
+  {"hash":"9bf39f6756a57988484891409eafa990","path":"/STORM.ZIP/STORMP.SS0","attr":"0x40","date":"1993-07-06 11:44:26","size":13440},
+  {"hash":"c93b69c321f04249fde518cd6b4f2105","path":"/STORM.ZIP/VENDOR.DOC","attr":"0x40","date":"1993-07-06 11:44:26","size":5829}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,65794,1073758210,130561,65544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

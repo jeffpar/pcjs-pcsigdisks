@@ -36,7 +36,15 @@
   {"hash":"9a77d91b8ff286bf17ab54726f9cd2df","path":"/PKUNZIP.EXE","attr":"0x20","date":"1991-01-16 12:38:50","size":23536},
   {"hash":"c3d2b8d402c02e95ae8791f975ce214d","path":"/FILE2867.TXT","attr":"0x20","date":"1991-10-23 13:37:50","size":3627},
   {"hash":"a56b37e3a6c4c0e56522b9a84bd75ba9","path":"/GO.TXT","attr":"0x20","date":"1991-10-23 13:13:22","size":1617},
-  {"hash":"09c8206644019d4d3b0348a3cdff02d3","path":"/GO.BAT","attr":"0x20","date":"1991-01-31 00:58:08","size":38}
+  {"hash":"09c8206644019d4d3b0348a3cdff02d3","path":"/GO.BAT","attr":"0x20","date":"1991-01-31 00:58:08","size":38},
+  {"hash":"066dd8407622eca4d3e7109ab11a51a2","path":"/TIMESET6.ZIP/CLKDRV10.SYS","attr":"0x40","date":"1988-06-08 17:38:18","size":1633},
+  {"hash":"cdf00108bd9814ba7d2b9e37bbdd216b","path":"/TIMESET6.ZIP/TIMESET.COM","attr":"0x40","date":"1991-04-12 03:19:28","size":51885},
+  {"hash":"223f9ab2314647134fe847a58e6f8bfb","path":"/TIMESET6.ZIP/TIMSET6A.DOC","attr":"0x40","date":"1991-10-22 12:04:04","size":89848},
+  {"hash":"38d57086f1377e9fd971b73efafa9cdd","path":"/TIMESET6.ZIP/TSREGSTR.COM","attr":"0x40","date":"1991-02-28 21:42:46","size":16933},
+  {"hash":"bde20b60bd75fd885755183daca7997e","path":"/TIMESET6.ZIP/WHATS.NEW","attr":"0x40","date":"1991-04-13 16:39:08","size":2279},
+  {"hash":"cbb76aa7d0973419dbcf858f7fd3301a","path":"/RIGHTM11.ZIP/RIGHTIME.COM","attr":"0x40","date":"1991-04-28 23:44:34","size":8960},
+  {"hash":"1ea9469f01bd29c31f0a812aa732a565","path":"/RIGHTM11.ZIP/RIGHTIME.TXT","attr":"0x40","date":"1991-04-28 23:44:34","size":48455},
+  {"hash":"3e9e5692cd443166f93b9072066cb740","path":"/RIGHTM11.ZIP/TESTTIME.COM","attr":"0x40","date":"1991-04-28 23:44:34","size":3360}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

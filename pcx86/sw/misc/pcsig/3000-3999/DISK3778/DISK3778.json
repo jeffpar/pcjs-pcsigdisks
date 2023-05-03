@@ -39,7 +39,18 @@
   {"hash":"1710045e66398c8ea196722a687ead0a","path":"/PKUNZIP.EXE","attr":"0x20","date":"1993-02-01 02:04:16","size":29378},
   {"hash":"00fff50cd6a785d56a4fac606d285042","path":"/PCSIG.TXT","attr":"0x20","date":"1993-06-01 14:31:30","size":2329},
   {"hash":"6162087334ed98bb273acaaa6ca85d40","path":"/SHAREMAG.TXT","attr":"0x20","date":"1993-06-01 14:32:04","size":1831},
-  {"hash":"54964d989c90644e40ac21508c12ff5d","path":"/CDROM.TXT","attr":"0x20","date":"1993-06-01 15:26:44","size":8196}
+  {"hash":"54964d989c90644e40ac21508c12ff5d","path":"/CDROM.TXT","attr":"0x20","date":"1993-06-01 15:26:44","size":8196},
+  {"hash":"f3e64c1b0e29ee08d9993b003cb45f8e","path":"/PORTRAN.ZIP/INSTALL.EXE","attr":"0x40","date":"1992-06-05 20:54:52","size":16520},
+  {"hash":"2fc52fe5cf8e6b5344367b25883311d4","path":"/PORTRAN.ZIP/INVOICE.DOC","attr":"0x40","date":"1992-04-15 09:32:36","size":1804},
+  {"hash":"38c2f21c5fcde0663b06f812aedb8b98","path":"/PORTRAN.ZIP/MANUAL.DOC","attr":"0x40","date":"1992-05-22 11:19:42","size":27426},
+  {"hash":"4d0b4abcbe0489d24d8f74332885b23c","path":"/PORTRAN.ZIP/PORENG.GRM","attr":"0x40","date":"1992-06-03 16:08:52","size":1475},
+  {"hash":"9f6bb5999a98f613f161c7cfbc5140dd","path":"/PORTRAN.ZIP/PORENG.HLP","attr":"0x40","date":"1992-06-10 09:43:46","size":4919},
+  {"hash":"754d197085e36628d4bee31f9301cb9f","path":"/PORTRAN.ZIP/PORENG.KYS","attr":"0x40","date":"1992-04-18 14:13:26","size":234},
+  {"hash":"926e1ae1c89e11a10ee992640f3e8b27","path":"/PORTRAN.ZIP/PORENG.NDX","attr":"0x40","date":"1992-05-19 14:35:02","size":82566},
+  {"hash":"d7c697f4cb442f075658682bfdab9013","path":"/PORTRAN.ZIP/PORENG.REC","attr":"0x40","date":"1992-05-19 14:35:02","size":89166},
+  {"hash":"31c19a810185b4c2ee662625ae2cc4e8","path":"/PORTRAN.ZIP/PORENG.SBS","attr":"0x40","date":"1991-12-13 16:06:04","size":884},
+  {"hash":"b46b074a617c679d78e13730a3a5d569","path":"/PORTRAN.ZIP/PORENG.SFX","attr":"0x40","date":"1992-05-19 14:35:02","size":36723},
+  {"hash":"680f2dcfbf2c28300980380282b95b7f","path":"/PORTRAN.ZIP/PORTU.EXE","attr":"0x40","date":"1992-06-10 09:35:52","size":36562}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

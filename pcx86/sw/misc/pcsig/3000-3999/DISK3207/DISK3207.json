@@ -40,7 +40,22 @@
   {"hash":"ac59721e63d40835485f7b689782b602","path":"/GO-STRT.DAT","attr":"0x20","date":"1992-08-31 09:01:18","size":536},
   {"hash":"be8cbfdeedb0e71dad23919b636fc03c","path":"/SIGORDER.TXT","attr":"0x20","date":"1992-06-25 14:28:24","size":3332},
   {"hash":"b3ce13d36a221677029ebd6198c6ed0b","path":"/LIST.COM","attr":"0x20","date":"1990-09-05 08:04:36","size":20951},
-  {"hash":"09123c585063cce544cef458424e3005","path":"/CMV.ZIP","attr":"0x20","date":"1992-10-03 09:55:52","size":184702}
+  {"hash":"09123c585063cce544cef458424e3005","path":"/CMV.ZIP","attr":"0x20","date":"1992-10-03 09:55:52","size":184702},
+  {"hash":"7abd472e5792efc564edc15c25c4dec2","path":"/CMV.ZIP/ALLOFUS.MDI","attr":"0x40","date":"1992-05-17 05:00:00","size":7072},
+  {"hash":"3d1951dd8ae526c6f18e4ffc4c53f6d2","path":"/CMV.ZIP/ANITRA.ROL","attr":"0x40","date":"1992-05-17 05:00:00","size":8103},
+  {"hash":"c6f6c3aba69459f876d44cf75defefa2","path":"/CMV.ZIP/AXEL-F.MDI","attr":"0x40","date":"1992-05-17 05:00:00","size":25684},
+  {"hash":"c9ce1f247871542b17210bddd5e950ae","path":"/CMV.ZIP/CMV.DOC","attr":"0x40","date":"1992-11-01 21:00:00","size":27407},
+  {"hash":"56abf551c0f5854fcff96063abefb607","path":"/CMV.ZIP/CMV.EXE","attr":"0x40","date":"1992-11-01 21:00:00","size":99965},
+  {"hash":"ef867dda3f2baeaf106da4475949fda8","path":"/CMV.ZIP/CRMARY.MDI","attr":"0x40","date":"1992-05-17 05:00:00","size":23987},
+  {"hash":"5bc24d8868ca1ab3eef5ef152bc32370","path":"/CMV.ZIP/END_ROAD.MDI","attr":"0x40","date":"1992-05-17 05:00:00","size":23210},
+  {"hash":"8d6ce3ca00914539967dbef5fe5e0c3c","path":"/CMV.ZIP/FILE_ID.DIZ","attr":"0x40","date":"1992-11-01 21:00:00","size":369},
+  {"hash":"7698158dfd7e999b1c1a0ba4a3a13203","path":"/CMV.ZIP/HOEDOWN.ROL","attr":"0x40","date":"1992-05-17 05:00:00","size":10403},
+  {"hash":"b8325a3372ef6adce35974f25d98df70","path":"/CMV.ZIP/HUMDRUM.MDI","attr":"0x40","date":"1992-05-17 05:00:00","size":11848},
+  {"hash":"c2f2aef25d3da954f95e3ddc2f6fef60","path":"/CMV.ZIP/MEMORIES.MDI","attr":"0x40","date":"1992-05-17 05:00:00","size":21996},
+  {"hash":"a289cac4b5fcf6ee17c2bac0d3ce3b6f","path":"/CMV.ZIP/REGISTER.FRM","attr":"0x40","date":"1992-11-01 21:00:00","size":1920},
+  {"hash":"49f965c9556c49b1295690cb55b92970","path":"/CMV.ZIP/ROL2MIDI.EXE","attr":"0x40","date":"1992-11-01 21:00:00","size":23404},
+  {"hash":"6fd282ae68691e8b9e3d0d58bab2ab2d","path":"/CMV.ZIP/STANDARD.BNK","attr":"0x40","date":"1992-11-01 21:00:00","size":40348},
+  {"hash":"6b47a6eb2f1ea6eb4a020e752a6360f0","path":"/CMV.ZIP/URBANISM.MDI","attr":"0x40","date":"1992-05-17 05:00:00","size":22450}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

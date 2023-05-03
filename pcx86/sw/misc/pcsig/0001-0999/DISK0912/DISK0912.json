@@ -31,7 +31,27 @@
  }
 ],
 "fileTable": [
-  {"hash":"b8956f841d60f940ec7569d5487359be","path":"/DISK0912.ZIP","attr":"0x20","date":"1990-03-23 14:38:06","size":118446}
+  {"hash":"b8956f841d60f940ec7569d5487359be","path":"/DISK0912.ZIP","attr":"0x20","date":"1990-03-23 14:38:06","size":118446},
+  {"hash":"c7c1bdc599eed214bb5069785a73fb4b","path":"/DISK0912.ZIP/DEMO","attr":"0x40","date":"1989-11-11 14:11:00","size":77308},
+  {"hash":"57080e9d66ed83a6fe59d602af2b2117","path":"/DISK0912.ZIP/DEMOFLOW","attr":"0x40","date":"1989-12-22 14:11:00","size":10564},
+  {"hash":"8dfbe3188e81d57e9bf4d593abfe0b80","path":"/DISK0912.ZIP/DEMOFLOW.01","attr":"0x40","date":"1989-12-22 14:11:00","size":6640},
+  {"hash":"4b16edbbc2a8e4e837a2c3f97a477941","path":"/DISK0912.ZIP/DEMOFLOW.02","attr":"0x40","date":"1989-12-22 14:11:00","size":8122},
+  {"hash":"65434cb9ca305e9b46754f6522e513cb","path":"/DISK0912.ZIP/DEMOFLOW.03","attr":"0x40","date":"1989-12-22 14:11:00","size":7690},
+  {"hash":"26f7e3b71176f33bd7bd91835f6c8322","path":"/DISK0912.ZIP/DEMOFLOW.04","attr":"0x40","date":"1989-12-22 14:11:00","size":8188},
+  {"hash":"9f32fd565d43acfbd4e6166ab066db24","path":"/DISK0912.ZIP/DEMOFLOW.05","attr":"0x40","date":"1989-12-22 14:11:00","size":7033},
+  {"hash":"0e53db21d13e8c29b573e50631336ade","path":"/DISK0912.ZIP/DEMOFLOW.06","attr":"0x40","date":"1989-12-22 14:11:00","size":5797},
+  {"hash":"22e41051cc926e54f02d71d52cecb5ff","path":"/DISK0912.ZIP/FLODRAW.CHR","attr":"0x40","date":"1989-11-11 14:11:00","size":2122},
+  {"hash":"bbfb0fa9bdbe0bcb2f6460f50d0e4632","path":"/DISK0912.ZIP/FLODRAW.EXE","attr":"0x40","date":"1989-11-11 14:11:00","size":171673},
+  {"hash":"9ea04bc5c740d09051ee941e028958ff","path":"/DISK0912.ZIP/FLODRAW.LIB","attr":"0x40","date":"1989-11-11 14:11:00","size":8479},
+  {"hash":"cdcc70acd63ef64040e82a36398f45a6","path":"/DISK0912.ZIP/FLODRAW.OPT","attr":"0x40","date":"1989-11-11 14:11:00","size":1024},
+  {"hash":"a698befd3770aacfa797207bb7b298c1","path":"/DISK0912.ZIP/FLODRAW.T#1","attr":"0x40","date":"1989-11-11 14:11:00","size":3184},
+  {"hash":"67226f19d05276a1e1dd7d4ba89ed0ee","path":"/DISK0912.ZIP/FLODRAW.T#2","attr":"0x40","date":"1989-11-11 14:11:00","size":3670},
+  {"hash":"d6953b6fe99e228ee3f906a0481ac5f5","path":"/DISK0912.ZIP/FLODRAW.T#3","attr":"0x40","date":"1989-11-11 14:11:00","size":4588},
+  {"hash":"158cec21210f982d46341715448d7d3b","path":"/DISK0912.ZIP/GO.BAT","attr":"0x40","date":"1987-10-19 15:56:44","size":33},
+  {"hash":"f43c13dfe5331ddb4a409427e0887deb","path":"/DISK0912.ZIP/GO.TXT","attr":"0x40","date":"1990-01-05 15:57:24","size":1078},
+  {"hash":"35daf5f067263659038bfffb83429ed8","path":"/DISK0912.ZIP/READ_ME","attr":"0x40","date":"1989-11-11 14:11:00","size":22066},
+  {"hash":"cd5bb29d52e049f184e94523ade37bb7","path":"/DISK0912.ZIP/REGISTER.BAT","attr":"0x40","date":"1989-11-11 14:11:00","size":204},
+  {"hash":"a528b5fca41aff16b0434bf4583209fe","path":"/DISK0912.ZIP/REGISTER.FRM","attr":"0x40","date":"1989-11-11 14:11:00","size":3797}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,65794,1073758210,130561,65544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

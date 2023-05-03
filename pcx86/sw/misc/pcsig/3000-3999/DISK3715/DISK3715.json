@@ -39,7 +39,21 @@
   {"hash":"165943e09144baca6a887b0a098ecdc2","path":"/PCSIG.TXT","attr":"0x20","date":"1993-02-10 08:50:48","size":2335},
   {"hash":"f64229401e7cfecdad01902cb922cd5c","path":"/SHAREMAG.TXT","attr":"0x20","date":"1992-01-21 06:11:00","size":1837},
   {"hash":"ed27a6cac153a50bd7a98d619ccb48c2","path":"/CDROM.TXT","attr":"0x20","date":"1993-03-18 13:28:48","size":4874},
-  {"hash":"e8ad7d7cdb4c4706af7e158e0d7f5853","path":"/GO-STRT.DAT","attr":"0x20","date":"1993-05-20 11:22:52","size":543}
+  {"hash":"e8ad7d7cdb4c4706af7e158e0d7f5853","path":"/GO-STRT.DAT","attr":"0x20","date":"1993-05-20 11:22:52","size":543},
+  {"hash":"968d180d8350d98e8f57d092f3e1a020","path":"/WOL.ZIP/ATTENTN.WAV","attr":"0x40","date":"1992-04-22 20:59:04","size":2670},
+  {"hash":"72459a45d1e6750a5b494d819f341143","path":"/WOL.ZIP/CLICK.WAV","attr":"0x40","date":"1992-12-17 18:18:56","size":80},
+  {"hash":"a47a597015c5601bc3ae6cbe442b1485","path":"/WOL.ZIP/FILE_ID.DIZ","attr":"0x40","date":"1993-03-24 18:36:08","size":318},
+  {"hash":"78aad1d60a994cdf45bc4372cefa6222","path":"/WOL.ZIP/LICENSE.WRI","attr":"0x40","date":"1993-03-24 18:35:30","size":3072},
+  {"hash":"0fc6ddf13d7085e75e02ff30e81da4b4","path":"/WOL.ZIP/MANUAL.WRI","attr":"0x40","date":"1993-03-24 18:56:12","size":11136},
+  {"hash":"978c3d896c276e229140a3de65f79d51","path":"/WOL.ZIP/MCI.VBX","attr":"0x40","date":"1992-10-21 00:00:00","size":30112},
+  {"hash":"7ffb4edb85725812bf00a6956670f71b","path":"/WOL.ZIP/ORDER.TXT","attr":"0x40","date":"1993-03-24 18:32:16","size":1466},
+  {"hash":"f39df38e408e8c21e50896388ed800f2","path":"/WOL.ZIP/PHRASES.TXT","attr":"0x40","date":"1993-02-17 19:18:24","size":3213},
+  {"hash":"01c4120a40e57e3fc3c06c116c6540c2","path":"/WOL.ZIP/READY.WAV","attr":"0x40","date":"1992-12-17 18:52:22","size":15920},
+  {"hash":"4671640e8103a713f09fa60d070e9a17","path":"/WOL.ZIP/SORRY.WAV","attr":"0x40","date":"1992-04-22 20:55:14","size":5462},
+  {"hash":"906df6e71f3cb18dde2cb31750292715","path":"/WOL.ZIP/THREED.VBX","attr":"0x40","date":"1992-10-21 00:00:00","size":60720},
+  {"hash":"6a66a6891b6038618a7259b49cdd458e","path":"/WOL.ZIP/VENDOR.TXT","attr":"0x40","date":"1993-03-24 18:31:06","size":3071},
+  {"hash":"a5d78698ba03c47e3d3bc79f882650c5","path":"/WOL.ZIP/WINNER.WAV","attr":"0x40","date":"1992-03-10 03:10:00","size":27804},
+  {"hash":"96ccc410c0ab92636836114ff69aabec","path":"/WOL.ZIP/WOL.EXE","attr":"0x40","date":"1993-03-24 18:21:48","size":627218}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

@@ -40,7 +40,13 @@
   {"hash":"f5d0fa49b21234be778faa3b8ce06593","path":"/PKUNZIP.EXE","attr":"0x20","date":"1990-03-15 01:10:00","size":23528},
   {"hash":"f64229401e7cfecdad01902cb922cd5c","path":"/SHAREMAG.TXT","attr":"0x20","date":"1992-01-21 06:11:00","size":1837},
   {"hash":"be8cbfdeedb0e71dad23919b636fc03c","path":"/SIGORDER.TXT","attr":"0x20","date":"1992-06-25 14:28:24","size":3332},
-  {"hash":"d7aa3c512c23c5934a182c60495b94bd","path":"/FILE3098.TXT","attr":"0x20","date":"1992-08-26 12:36:50","size":2443}
+  {"hash":"d7aa3c512c23c5934a182c60495b94bd","path":"/FILE3098.TXT","attr":"0x20","date":"1992-08-26 12:36:50","size":2443},
+  {"hash":"6e8857273d14eab71fc3ac251484c660","path":"/VBICON.ZIP/ICONBROW.EXE","attr":"0x40","date":"1992-05-30 14:00:00","size":97157},
+  {"hash":"3c4ae7d5fc28b9ef5bcd2f386f26e995","path":"/VBICON.ZIP/ORDERFRM.TXT","attr":"0x40","date":"1992-05-30 13:32:28","size":3115},
+  {"hash":"b7e21956d160552c04d6a304a6a303d1","path":"/VBICON.ZIP/README","attr":"0x40","date":"1992-06-18 19:22:54","size":3123},
+  {"hash":"5ff79ab2545a0b7e62145a9c5e959d24","path":"/VBICON.ZIP/README.BAT","attr":"0x40","date":"1992-05-30 13:29:52","size":20},
+  {"hash":"127e75e5a9b93cfa4f964060d6f5bc8d","path":"/VBICON.ZIP/VBRUN100.DLL","attr":"0x40","date":"1991-05-10 01:00:00","size":271264},
+  {"hash":"9cc23e49d3c590a2022c2e8488bf45a6","path":"/VBICON.ZIP/VBXICON.EXE","attr":"0x40","date":"1992-05-30 13:11:00","size":47569}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

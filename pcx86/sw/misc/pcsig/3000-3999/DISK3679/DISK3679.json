@@ -39,7 +39,16 @@
   {"hash":"00fff50cd6a785d56a4fac606d285042","path":"/PCSIG.TXT","attr":"0x20","date":"1993-06-01 14:31:30","size":2329},
   {"hash":"6162087334ed98bb273acaaa6ca85d40","path":"/SHAREMAG.TXT","attr":"0x20","date":"1993-06-01 14:32:04","size":1831},
   {"hash":"54964d989c90644e40ac21508c12ff5d","path":"/CDROM.TXT","attr":"0x20","date":"1993-06-01 15:26:44","size":8196},
-  {"hash":"d66c48e77c32d35c34a8aa079c4b4a8d","path":"/XERIX.ZIP","attr":"0x20","date":"1993-06-18 08:49:44","size":132868}
+  {"hash":"d66c48e77c32d35c34a8aa079c4b4a8d","path":"/XERIX.ZIP","attr":"0x20","date":"1993-06-18 08:49:44","size":132868},
+  {"hash":"a9240e4932efb7f4fa8fef10b5dee71a","path":"/XERIX.ZIP/XERIX_A0.DAT","attr":"0x40","date":"1992-12-20 22:22:24","size":59106},
+  {"hash":"2d12e3e2bf1c750e3dce73cfba870b6d","path":"/XERIX.ZIP/XERIX_A1.DAT","attr":"0x40","date":"1992-12-23 15:22:20","size":150427},
+  {"hash":"4512a39b1f1d817b2965ed58b1f67df5","path":"/XERIX.ZIP/XERIX_A2.DAT","attr":"0x40","date":"1992-12-23 15:22:20","size":125495},
+  {"hash":"9ddfe89402aeda2812e41e0388a16427","path":"/XERIX.ZIP/XERIX_GM.DAT","attr":"0x40","date":"1992-12-10 14:54:26","size":52682},
+  {"hash":"869503d8570813a84a41c6a948001331","path":"/XERIX.ZIP/XERIX.CFG","attr":"0x40","date":"1993-04-29 09:27:08","size":6},
+  {"hash":"ed4b075c5a684743bd09e75765c17ddd","path":"/XERIX.ZIP/XERIX.DOC","attr":"0x40","date":"1992-12-23 15:05:30","size":19743},
+  {"hash":"c427cc87be99684260b7eb17a2c414fe","path":"/XERIX.ZIP/XERIX.EXE","attr":"0x40","date":"1992-12-23 15:33:52","size":59041},
+  {"hash":"77257bed8c0be2600cd1dad345f38c69","path":"/XERIX.ZIP/XERIXREG.DOC","attr":"0x40","date":"1992-12-23 15:12:20","size":1713},
+  {"hash":"a9308378c8df1b00a9525101965a6023","path":"/XERIX.ZIP/XINSTALL.EXE","attr":"0x40","date":"1992-12-23 15:22:14","size":20427}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

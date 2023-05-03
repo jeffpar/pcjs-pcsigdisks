@@ -40,7 +40,17 @@
   {"hash":"165943e09144baca6a887b0a098ecdc2","path":"/PCSIG.TXT","attr":"0x20","date":"1993-02-10 08:50:48","size":2335},
   {"hash":"f64229401e7cfecdad01902cb922cd5c","path":"/SHAREMAG.TXT","attr":"0x20","date":"1992-01-21 06:11:00","size":1837},
   {"hash":"ed27a6cac153a50bd7a98d619ccb48c2","path":"/CDROM.TXT","attr":"0x20","date":"1993-03-18 13:28:48","size":4874},
-  {"hash":"cbc345d7331a09f73f3d325ab4d90351","path":"/GO-STRT.DAT","attr":"0x20","date":"1993-05-26 12:09:56","size":540}
+  {"hash":"cbc345d7331a09f73f3d325ab4d90351","path":"/GO-STRT.DAT","attr":"0x20","date":"1993-05-26 12:09:56","size":540},
+  {"hash":"b1d2884e3f77b5a1125555c9a4e89994","path":"/SVINSTAL.ZIP/COMPHELP.HLP","attr":"0x40","date":"1993-03-01 08:45:18","size":12020},
+  {"hash":"dca78ded7b0f8701339bdf915aae293b","path":"/SVINSTAL.ZIP/COMPRESS.E~F","attr":"0x40","date":"1992-12-18 21:35:44","size":58598},
+  {"hash":"fb072ff98d299a5565aae3bed5eed38c","path":"/SVINSTAL.ZIP/INST_BLD.EXE","attr":"0x40","date":"1993-03-01 07:34:24","size":137216},
+  {"hash":"e700528db7a35556e7091486972369a0","path":"/SVINSTAL.ZIP/READ.ME","attr":"0x40","date":"1993-03-01 09:35:48","size":369},
+  {"hash":"facfe1de3931c82b3169e00cc2ca5612","path":"/SVINSTAL.ZIP/READ1ST.TXT","attr":"0x40","date":"1993-03-02 13:21:22","size":866},
+  {"hash":"644a0d528419c2d276444b1d43efdff4","path":"/SVINSTAL.ZIP/README.TXT","attr":"0x40","date":"1993-03-02 13:22:16","size":1262},
+  {"hash":"72a34232f06ff3bf166a97b4ea6a25c9","path":"/SVINSTAL.ZIP/SVIHELP.HLP","attr":"0x40","date":"1993-03-01 08:18:12","size":20907},
+  {"hash":"e93a3a45e94acb7fc8522121192b8f93","path":"/SVINSTAL.ZIP/SVINSTAL.EXE","attr":"0x40","date":"1993-03-01 07:48:22","size":267776},
+  {"hash":"6b872bc0212117819bc314aa1e8600a3","path":"/SVINSTAL.ZIP/SVINSTAL.SVI","attr":"0x40","date":"1993-03-01 09:26:14","size":196},
+  {"hash":"c08ee4afe5ec81d92783e74b775da716","path":"/SVINSTAL.ZIP/TEST.SVI","attr":"0x40","date":"1992-04-28 20:51:16","size":133}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

@@ -43,7 +43,15 @@
   {"hash":"d9b44b8044a9e8bf583b15d013279bae","path":"/READ.ME","attr":"0x20","date":"1987-03-21 15:44:16","size":1249},
   {"hash":"a758e707d453e711a11a3896fcd4a0b5","path":"/SFIND.COM","attr":"0x20","date":"1987-03-01 12:27:28","size":2510},
   {"hash":"8ccdbb4931c7ccb54f46a022475bc651","path":"/XANADU.ARC","attr":"0x20","date":"1987-03-21 15:44:16","size":18805},
-  {"hash":"54617bca17e19597cecec10232fce618","path":"/XANADU.DOC","attr":"0x20","date":"1987-03-21 15:32:18","size":15827}
+  {"hash":"54617bca17e19597cecec10232fce618","path":"/XANADU.DOC","attr":"0x20","date":"1987-03-21 15:32:18","size":15827},
+  {"hash":"7c12976af17c932935312f799e9a95b8","path":"/XANADU.ARC/CURSORC.COM","attr":"0x40","date":"1987-02-28 22:30:26","size":97},
+  {"hash":"1618cd724a1cce46bc1cf6ca49e2d154","path":"/XANADU.ARC/CURSORM.COM","attr":"0x40","date":"1987-02-28 22:28:18","size":94},
+  {"hash":"9c5b7146e4d617949ffe71671ae9ca49","path":"/XANADU.ARC/HDIR.COM","attr":"0x40","date":"1987-03-01 15:11:00","size":4639},
+  {"hash":"90f08f252a3885b0efe5ecb4de4fc70c","path":"/XANADU.ARC/HDIRCOLS.DOC","attr":"0x40","date":"1987-03-01 14:07:22","size":3108},
+  {"hash":"7c7e9a7e299eee2b5bb70e512036cde4","path":"/XANADU.ARC/PCSTAT.COM","attr":"0x40","date":"1987-03-18 21:07:08","size":2433},
+  {"hash":"3e075bf869d6b45da88707ec17da6444","path":"/XANADU.ARC/READ.ME","attr":"0x40","date":"1987-03-21 15:44:32","size":1223},
+  {"hash":"a758e707d453e711a11a3896fcd4a0b5","path":"/XANADU.ARC/SFIND.COM","attr":"0x40","date":"1987-03-01 12:27:58","size":2510},
+  {"hash":"54617bca17e19597cecec10232fce618","path":"/XANADU.ARC/XANADU.DOC","attr":"0x40","date":"1987-03-21 15:32:38","size":15827}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,65794,1073758210,130561,65544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

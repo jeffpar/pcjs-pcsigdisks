@@ -40,7 +40,19 @@
   {"hash":"1710045e66398c8ea196722a687ead0a","path":"/PKUNZIP.EXE","attr":"0x20","date":"1993-02-01 02:04:16","size":29378},
   {"hash":"00fff50cd6a785d56a4fac606d285042","path":"/PCSIG.TXT","attr":"0x20","date":"1993-06-01 14:31:30","size":2329},
   {"hash":"6162087334ed98bb273acaaa6ca85d40","path":"/SHAREMAG.TXT","attr":"0x20","date":"1993-06-01 14:32:04","size":1831},
-  {"hash":"54964d989c90644e40ac21508c12ff5d","path":"/CDROM.TXT","attr":"0x20","date":"1993-06-01 15:26:44","size":8196}
+  {"hash":"54964d989c90644e40ac21508c12ff5d","path":"/CDROM.TXT","attr":"0x20","date":"1993-06-01 15:26:44","size":8196},
+  {"hash":"20d86e9c261ba2933a6771072ee94aab","path":"/GRABPRO.ZIP/DESC.TX_","attr":"0x40","date":"1993-05-28 08:13:40","size":574},
+  {"hash":"9e62fe64988f2260ad510a8ae5e01745","path":"/GRABPRO.ZIP/EBDCNTRL.DL_","attr":"0x40","date":"1993-05-26 06:49:52","size":49845},
+  {"hash":"4a0b8371edc1a4210944d62768d6b6ac","path":"/GRABPRO.ZIP/GPSETUP.EXE","attr":"0x40","date":"1993-05-28 08:54:02","size":24784},
+  {"hash":"50bd280068201db9f1fcc7174530b6c7","path":"/GRABPRO.ZIP/GPSETUP.INF","attr":"0x40","date":"1993-05-28 09:25:14","size":497},
+  {"hash":"0fb25b40673ea6fce23963beb1b97bb1","path":"/GRABPRO.ZIP/GRABPRO.EX_","attr":"0x40","date":"1993-05-26 06:59:36","size":44105},
+  {"hash":"1ea4cd7b7fafddd54551109506af0e5a","path":"/GRABPRO.ZIP/GRABPRO.HL_","attr":"0x40","date":"1993-05-26 06:49:52","size":39024},
+  {"hash":"cdc42a99d1fe6fee00a409e4dc08e949","path":"/GRABPRO.ZIP/LICENSE.TX_","attr":"0x40","date":"1993-05-28 07:56:00","size":3052},
+  {"hash":"1c98bba9c2a08cc2e3478667f4f7c6f5","path":"/GRABPRO.ZIP/MANUAL.TX_","attr":"0x40","date":"1993-05-28 07:50:02","size":6348},
+  {"hash":"5f58c76311773288f1b522622a0af7f5","path":"/GRABPRO.ZIP/PACKING.LST","attr":"0x40","date":"1993-05-28 08:15:42","size":1440},
+  {"hash":"1a367bd56b0f7aebce6568c954cabcfe","path":"/GRABPRO.ZIP/REGISTER.FR_","attr":"0x40","date":"1993-05-24 12:00:04","size":1997},
+  {"hash":"cc9ad5523cf8494c0fe6c75ee07f35f0","path":"/GRABPRO.ZIP/REGISTER.TX_","attr":"0x40","date":"1993-05-28 07:48:02","size":1183},
+  {"hash":"6b32ec29d61112a0d9991bc524166cde","path":"/GRABPRO.ZIP/VENDOR.TX_","attr":"0x40","date":"1993-05-28 07:59:38","size":1535}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

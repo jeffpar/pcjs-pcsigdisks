@@ -40,7 +40,18 @@
   {"hash":"be8cbfdeedb0e71dad23919b636fc03c","path":"/SIGORDER.TXT","attr":"0x20","date":"1992-06-25 14:28:24","size":3332},
   {"hash":"f5d0fa49b21234be778faa3b8ce06593","path":"/PKUNZIP.EXE","attr":"0x20","date":"1990-03-15 01:10:00","size":23528},
   {"hash":"60d4f1b906a2ef61b19b2b6879cdceff","path":"/GO-FORM.DAT","attr":"0x20","date":"1992-06-29 15:26:14","size":3109},
-  {"hash":"b213cac2a2f29e8798edcaeea0a352b0","path":"/GO-STRT.DAT","attr":"0x20","date":"1992-11-25 05:57:14","size":533}
+  {"hash":"b213cac2a2f29e8798edcaeea0a352b0","path":"/GO-STRT.DAT","attr":"0x20","date":"1992-11-25 05:57:14","size":533},
+  {"hash":"b2e6e6ed7a56ad58479a4cdd34cb63fe","path":"/ODAY227.ZIP/COLOUR.SET","attr":"0x40","date":"1991-05-18 09:21:44","size":537},
+  {"hash":"9696374cf4f4ed359b1cd7e19a4ac964","path":"/ODAY227.ZIP/DAYDAT.DAT","attr":"0x40","date":"1990-12-09 09:16:56","size":117},
+  {"hash":"f4d2984290e3f6581b23e799a79b4c26","path":"/ODAY227.ZIP/DAYDAT.DBT","attr":"0x40","date":"1990-12-09 09:16:56","size":2560},
+  {"hash":"dc472ac3ef362689796843e40bbd9755","path":"/ODAY227.ZIP/INVOICE.DOC","attr":"0x40","date":"1991-03-14 00:18:00","size":1776},
+  {"hash":"54220a9ac6f02260344ccaff82eb0cc9","path":"/ODAY227.ZIP/OMNIDAY.EXE","attr":"0x40","date":"1991-06-01 18:07:20","size":232720},
+  {"hash":"edfff278caa7bd673902fb626afef36d","path":"/ODAY227.ZIP/PACKING.LST","attr":"0x40","date":"1991-05-23 15:38:56","size":839},
+  {"hash":"3aa3ac2cce156f50757bec28f26842c0","path":"/ODAY227.ZIP/PRINT.SET","attr":"0x40","date":"1991-05-18 09:01:00","size":226},
+  {"hash":"cb16ae6b3c2e0b6eb9448f1307ccd70c","path":"/ODAY227.ZIP/READ1ST.DOC","attr":"0x40","date":"1991-05-27 10:41:04","size":35739},
+  {"hash":"cabf172c512b9bc7bb95ea7bed789a30","path":"/ODAY227.ZIP/SYSOP.DOC","attr":"0x40","date":"1991-05-18 18:05:32","size":7070},
+  {"hash":"7bc71545267b1aa21b37f98520d616ed","path":"/ODAY227.ZIP/UNIEMM.COM","attr":"0x40","date":"1991-05-06 23:55:50","size":1372},
+  {"hash":"682495bd6888f0bb900ad2e055644d83","path":"/ODAY227.ZIP/VENDOR.DOC","attr":"0x40","date":"1991-05-20 17:20:32","size":9512}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

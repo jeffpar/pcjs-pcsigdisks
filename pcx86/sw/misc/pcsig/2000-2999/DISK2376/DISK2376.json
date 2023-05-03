@@ -38,7 +38,20 @@
   {"hash":"a452213d43d4dfa3c8022e87a60c25b0","path":"/GO.BAT","attr":"0x20","date":"1990-10-03 01:40:02","size":24},
   {"hash":"380ed4fab56e1858a38810b424161657","path":"/GO.BAK","attr":"0x20","date":"1990-10-03 01:00:42","size":1116},
   {"hash":"3a018f3c8c94e8c0ca9ee67c0309ecfe","path":"/FILE2376.TXT","attr":"0x20","date":"1990-10-04 12:30:16","size":3183},
-  {"hash":"06530be4fb8c705c10bda6676a569819","path":"/GO.TXT","attr":"0x20","date":"1990-10-04 04:31:04","size":1116}
+  {"hash":"06530be4fb8c705c10bda6676a569819","path":"/GO.TXT","attr":"0x20","date":"1990-10-04 04:31:04","size":1116},
+  {"hash":"536052cb88d6327c184d376987128c28","path":"/TSST20.ZIP/BRUN45.EXE","attr":"0x40","date":"1990-03-10 00:00:00","size":77440},
+  {"hash":"7c557504721f701d137211699be6dd11","path":"/TSST20.ZIP/DO.DAT","attr":"0x40","date":"1990-03-10 00:00:00","size":1377},
+  {"hash":"e8e67a6ac5f4d6b354739884cc75d868","path":"/TSST20.ZIP/README.DOC","attr":"0x40","date":"1990-03-10 00:00:00","size":2117},
+  {"hash":"64cae1717b6ff2ce393a668b8c06f196","path":"/TSST20.ZIP/REGISTER.DOC","attr":"0x40","date":"1990-03-10 00:00:00","size":3330},
+  {"hash":"941b808d9365f4ecab5645e714ebaaa4","path":"/TSST20.ZIP/SAMPLE.BAS","attr":"0x40","date":"1990-03-10 00:00:00","size":3318},
+  {"hash":"5d98a15e8611bb204342ad5a4cb0c4ad","path":"/TSST20.ZIP/SAMPLE.EXE","attr":"0x40","date":"1990-03-10 00:00:00","size":3748},
+  {"hash":"8eb82be24577833d115a0b4956a6d2db","path":"/TSST20.ZIP/SAMPLE.RAN","attr":"0x40","date":"1990-03-10 00:00:00","size":6681},
+  {"hash":"7761c816417db226bb97186932c4918d","path":"/TSST20.ZIP/SST-SCR.OVL","attr":"0x40","date":"1990-03-10 00:00:00","size":6539},
+  {"hash":"07efcadb1f940a284add3800c3750a72","path":"/TSST20.ZIP/SST.DOC","attr":"0x40","date":"1990-03-10 00:00:00","size":42459},
+  {"hash":"f9f9633ba42a848a583be5e918de3d00","path":"/TSST20.ZIP/SST.EXE","attr":"0x40","date":"1990-03-10 00:00:00","size":65357},
+  {"hash":"b3038a84e99c09a3e25ad1d2da3b58a1","path":"/TSST20.ZIP/SSTPATCH.DOC","attr":"0x40","date":"1990-03-10 00:00:00","size":3695},
+  {"hash":"ecca79e6dd27a6a2fb80cc1e601cd4ab","path":"/TSST20.ZIP/SSTPATCH.EXE","attr":"0x40","date":"1990-03-10 00:00:00","size":16173},
+  {"hash":"3179dabdb0760cf7da675c129ee01ea9","path":"/TSST20.ZIP/SYSOP.DOC","attr":"0x40","date":"1990-03-10 00:00:00","size":331}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

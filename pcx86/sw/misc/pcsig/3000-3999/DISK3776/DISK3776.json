@@ -39,7 +39,18 @@
   {"hash":"1710045e66398c8ea196722a687ead0a","path":"/PKUNZIP.EXE","attr":"0x20","date":"1993-02-01 02:04:16","size":29378},
   {"hash":"00fff50cd6a785d56a4fac606d285042","path":"/PCSIG.TXT","attr":"0x20","date":"1993-06-01 14:31:30","size":2329},
   {"hash":"6162087334ed98bb273acaaa6ca85d40","path":"/SHAREMAG.TXT","attr":"0x20","date":"1993-06-01 14:32:04","size":1831},
-  {"hash":"54964d989c90644e40ac21508c12ff5d","path":"/CDROM.TXT","attr":"0x20","date":"1993-06-01 15:26:44","size":8196}
+  {"hash":"54964d989c90644e40ac21508c12ff5d","path":"/CDROM.TXT","attr":"0x20","date":"1993-06-01 15:26:44","size":8196},
+  {"hash":"0503cc2a3f2f484280f92d2a02989710","path":"/DANTRAN.ZIP/DANENG.GRM","attr":"0x40","date":"1992-06-03 16:09:52","size":1475},
+  {"hash":"3d715e057cefed7870351ef3cdbbc196","path":"/DANTRAN.ZIP/DANENG.HLP","attr":"0x40","date":"1992-04-01 14:58:00","size":4919},
+  {"hash":"754d197085e36628d4bee31f9301cb9f","path":"/DANTRAN.ZIP/DANENG.KYS","attr":"0x40","date":"1992-04-18 14:13:26","size":234},
+  {"hash":"d69dd72104c622466dc1ae9dc8e73fca","path":"/DANTRAN.ZIP/DANENG.NDX","attr":"0x40","date":"1991-12-14 09:13:30","size":112761},
+  {"hash":"4be09b3e238c65ebaa3c6af6e4b0938d","path":"/DANTRAN.ZIP/DANENG.REC","attr":"0x40","date":"1991-12-14 09:13:32","size":116991},
+  {"hash":"31c19a810185b4c2ee662625ae2cc4e8","path":"/DANTRAN.ZIP/DANENG.SBS","attr":"0x40","date":"1991-12-13 16:06:04","size":884},
+  {"hash":"b997f9819a8e4b6df55d7bd7cf38f0dd","path":"/DANTRAN.ZIP/DANENG.SFX","attr":"0x40","date":"1991-12-14 09:13:32","size":27079},
+  {"hash":"8a21c3cae2ef795e5c5e50f722129a8c","path":"/DANTRAN.ZIP/DANISH.EXE","attr":"0x40","date":"1992-06-10 06:16:30","size":37920},
+  {"hash":"48d7be1b77dbd8ea016b10df290936de","path":"/DANTRAN.ZIP/INSTALL.EXE","attr":"0x40","date":"1992-05-21 06:11:32","size":23779},
+  {"hash":"2fc52fe5cf8e6b5344367b25883311d4","path":"/DANTRAN.ZIP/INVOICE.DOC","attr":"0x40","date":"1992-04-15 09:32:36","size":1804},
+  {"hash":"6f705a582811d832b6978472f78365fa","path":"/DANTRAN.ZIP/MANUAL.DOC","attr":"0x40","date":"1992-03-18 14:53:40","size":27416}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

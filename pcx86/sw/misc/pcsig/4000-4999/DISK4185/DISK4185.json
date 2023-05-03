@@ -40,7 +40,13 @@
   {"hash":"cf0e2dfcebc4bc65595a8b3fa793c788","path":"/GO.EXE","attr":"0x20","date":"1992-01-10 12:14:02","size":26022},
   {"hash":"1710045e66398c8ea196722a687ead0a","path":"/PKUNZIP.EXE","attr":"0x20","date":"1993-02-01 02:04:16","size":29378},
   {"hash":"f9e76776cca2dc98a3e8dc732fa74da4","path":"/PCSIG.TXT","attr":"0x20","date":"1993-09-24 13:59:00","size":2319},
-  {"hash":"6162087334ed98bb273acaaa6ca85d40","path":"/SHAREMAG.TXT","attr":"0x20","date":"1993-06-01 14:32:04","size":1831}
+  {"hash":"6162087334ed98bb273acaaa6ca85d40","path":"/SHAREMAG.TXT","attr":"0x20","date":"1993-06-01 14:32:04","size":1831},
+  {"hash":"4d7a143d166f3c992384ff08d0ef5fd0","path":"/GRADES.ZIP/COMMENTS.GRD","attr":"0x40","date":"1993-03-07 16:00:00","size":2617},
+  {"hash":"fd57b36ccb79ae6f0202f230e2ba1d3c","path":"/GRADES.ZIP/FILE_ID.DIZ","attr":"0x40","date":"1993-03-07 16:00:00","size":479},
+  {"hash":"75db9676d6b5f4466cc51ab0ce8aebad","path":"/GRADES.ZIP/GRADES.EXE","attr":"0x40","date":"1993-03-07 16:00:00","size":207099},
+  {"hash":"7f60676003371d9e7348532d1c2da841","path":"/GRADES.ZIP/GRMANUAL.DOC","attr":"0x40","date":"1993-03-07 16:00:00","size":195405},
+  {"hash":"68df2e1061bcad87b080164a5eda1c1a","path":"/GRADES.ZIP/README","attr":"0x40","date":"1993-03-07 16:00:00","size":4267},
+  {"hash":"8189f3a64eacc189a55f061830f26168","path":"/GRADES.ZIP/WISORDER.DOC","attr":"0x40","date":"1993-03-07 16:00:00","size":2490}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

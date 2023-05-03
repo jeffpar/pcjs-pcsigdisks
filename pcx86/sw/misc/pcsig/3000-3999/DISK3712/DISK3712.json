@@ -39,7 +39,13 @@
   {"hash":"1710045e66398c8ea196722a687ead0a","path":"/PKUNZIP.EXE","attr":"0x20","date":"1993-02-01 02:04:16","size":29378},
   {"hash":"f64229401e7cfecdad01902cb922cd5c","path":"/SHAREMAG.TXT","attr":"0x20","date":"1992-01-21 06:11:00","size":1837},
   {"hash":"ac1c1e4d8c5b0302728b93a1f54d420a","path":"/SIGORDER.TXT","attr":"0x20","date":"1993-03-10 15:22:32","size":3090},
-  {"hash":"4be4165efa8cf23895981ae0d3b1e56f","path":"/WINBASE.ZIP","attr":"0x20","date":"1993-05-20 08:53:08","size":184185}
+  {"hash":"4be4165efa8cf23895981ae0d3b1e56f","path":"/WINBASE.ZIP","attr":"0x20","date":"1993-05-20 08:53:08","size":184185},
+  {"hash":"0c327413fbb41de9398779f2fe162c60","path":"/WINBASE.ZIP/PERSONNL.DB","attr":"0x40","date":"1992-01-23 20:16:58","size":355},
+  {"hash":"4ca3317c16a7be34c89f83c83c2064c3","path":"/WINBASE.ZIP/PERSONNL.IDX","attr":"0x40","date":"1993-02-01 23:24:52","size":1024},
+  {"hash":"178082d362eeda5f3bf1ce232df6e028","path":"/WINBASE.ZIP/PERSONNL.WB","attr":"0x40","date":"1993-02-01 23:25:06","size":9296},
+  {"hash":"53200fbdfb539f95a6d1bc5ae8c03781","path":"/WINBASE.ZIP/WINDBASE.DOC","attr":"0x40","date":"1993-02-01 23:04:44","size":27703},
+  {"hash":"cdc89aaba87b090d1a44b5d0e85740e0","path":"/WINBASE.ZIP/WINDBASE.EXE","attr":"0x40","date":"1993-02-01 23:12:30","size":118368},
+  {"hash":"e1934b2b7934909dee7e34a036cb1ffd","path":"/WINBASE.ZIP/WINDBASE.HLP","attr":"0x40","date":"1993-02-01 23:13:10","size":26821}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

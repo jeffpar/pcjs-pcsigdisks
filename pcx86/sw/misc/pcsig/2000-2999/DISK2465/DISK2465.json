@@ -52,7 +52,12 @@
   {"hash":"8830b51d934b8ede8b3adfee87405c36","path":"/TIMEMAST/TIMEMAST.DOC","attr":"0x20","date":"1990-09-01 18:41:30","size":27529},
   {"hash":"50ce6b47b9c9a0af96c65aa5166d501a","path":"/TIMEMAST/TIMEMAST.EXE","attr":"0x20","date":"1990-08-29 22:17:58","size":77510},
   {"hash":"263bd5919661fd409e4790b9f259daea","path":"/TIMEMAST/GO.BAT","attr":"0x20","date":"1980-01-01 06:00:08","size":40},
-  {"hash":"0e6171dfaca12d3bcec7c7fb4bd74b47","path":"/TIMEMAST/GO.TXT","attr":"0x20","date":"1980-01-01 06:42:20","size":694}
+  {"hash":"0e6171dfaca12d3bcec7c7fb4bd74b47","path":"/TIMEMAST/GO.TXT","attr":"0x20","date":"1980-01-01 06:42:20","size":694},
+  {"hash":"0d50621578800d933349a312f0c89c35","path":"/SECURITY/SECURITY.ZIP/NEWWORD.ASM","attr":"0x40","date":"1990-07-11 00:00:00","size":4595},
+  {"hash":"47d7516f5c4e80115344fe731bfead6d","path":"/SECURITY/SECURITY.ZIP/NEWWORD.COM","attr":"0x40","date":"1990-07-11 00:00:00","size":767},
+  {"hash":"931b7da15fccb168dccb621ce5388a30","path":"/SECURITY/SECURITY.ZIP/SECURITY.ASM","attr":"0x40","date":"1990-07-11 00:00:00","size":3995},
+  {"hash":"16b78847dd2635d10504ad310f4dbbf8","path":"/SECURITY/SECURITY.ZIP/SECURITY.DOC","attr":"0x40","date":"1990-07-11 00:00:00","size":8999},
+  {"hash":"39376b071808eac3856d2c8192abb40d","path":"/SECURITY/SECURITY.ZIP/SECURITY.SYS","attr":"0x40","date":"1990-07-11 00:00:00","size":461}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,65794,1073758210,130561,65544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

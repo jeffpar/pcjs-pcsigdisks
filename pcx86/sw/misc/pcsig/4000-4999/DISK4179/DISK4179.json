@@ -40,7 +40,17 @@
   {"hash":"cf0e2dfcebc4bc65595a8b3fa793c788","path":"/GO.EXE","attr":"0x20","date":"1992-01-10 12:14:02","size":26022},
   {"hash":"1710045e66398c8ea196722a687ead0a","path":"/PKUNZIP.EXE","attr":"0x20","date":"1993-02-01 02:04:16","size":29378},
   {"hash":"f9e76776cca2dc98a3e8dc732fa74da4","path":"/PCSIG.TXT","attr":"0x20","date":"1993-09-24 13:59:00","size":2319},
-  {"hash":"6162087334ed98bb273acaaa6ca85d40","path":"/SHAREMAG.TXT","attr":"0x20","date":"1993-06-01 14:32:04","size":1831}
+  {"hash":"6162087334ed98bb273acaaa6ca85d40","path":"/SHAREMAG.TXT","attr":"0x20","date":"1993-06-01 14:32:04","size":1831},
+  {"hash":"0923c59afe7156e7039afb0eeb6776bf","path":"/MC34.ZIP/FILE_ID.DIZ","attr":"0x40","date":"1993-03-17 01:10:00","size":349},
+  {"hash":"a6ac88cf8e47c993b0a487efdfa00bbf","path":"/MC34.ZIP/MC34.DOC","attr":"0x40","date":"1993-03-17 01:10:00","size":11812},
+  {"hash":"122497ee0c2be483a280add62aedb4e6","path":"/MC34.ZIP/MC34.EXE","attr":"0x40","date":"1993-03-17 01:10:00","size":289734},
+  {"hash":"7c2aa86bf98f7640ddc6471a104cc6d6","path":"/MC34.ZIP/MC34VEND.DOC","attr":"0x40","date":"1993-03-17 01:10:00","size":6270},
+  {"hash":"21a45e89a8823e1a9e4aa7871d8b295b","path":"/MC34.ZIP/MCRECORD.DAT","attr":"0x40","date":"1993-03-17 01:10:00","size":1524},
+  {"hash":"0c5c4d2aec943323578973d7e5661385","path":"/MC12.ZIP/FILE_ID.DIZ","attr":"0x40","date":"1993-03-21 01:00:00","size":352},
+  {"hash":"bc00732a81446ff8afd34add2d62126e","path":"/MC12.ZIP/MC12.DOC","attr":"0x40","date":"1993-03-21 01:00:00","size":8683},
+  {"hash":"7736593dcd7de14bd8470bfaf1065b01","path":"/MC12.ZIP/MC12.EXE","attr":"0x40","date":"1993-03-21 01:00:00","size":201294},
+  {"hash":"21a45e89a8823e1a9e4aa7871d8b295b","path":"/MC12.ZIP/MC12RECS.DAT","attr":"0x40","date":"1993-03-21 01:00:00","size":1524},
+  {"hash":"5ff670cdf4d4b5f1031f3244bdd31421","path":"/MC12.ZIP/MC12VEND.DOC","attr":"0x40","date":"1993-03-21 01:00:00","size":6025}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

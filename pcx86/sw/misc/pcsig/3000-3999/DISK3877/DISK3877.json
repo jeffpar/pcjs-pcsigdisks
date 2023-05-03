@@ -39,7 +39,17 @@
   {"hash":"1710045e66398c8ea196722a687ead0a","path":"/PKUNZIP.EXE","attr":"0x20","date":"1993-02-01 02:04:16","size":29378},
   {"hash":"00fff50cd6a785d56a4fac606d285042","path":"/PCSIG.TXT","attr":"0x20","date":"1993-06-01 14:31:30","size":2329},
   {"hash":"6162087334ed98bb273acaaa6ca85d40","path":"/SHAREMAG.TXT","attr":"0x20","date":"1993-06-01 14:32:04","size":1831},
-  {"hash":"54964d989c90644e40ac21508c12ff5d","path":"/CDROM.TXT","attr":"0x20","date":"1993-06-01 15:26:44","size":8196}
+  {"hash":"54964d989c90644e40ac21508c12ff5d","path":"/CDROM.TXT","attr":"0x20","date":"1993-06-01 15:26:44","size":8196},
+  {"hash":"e1ac499511c18a2f05926fabc7f5e2e0","path":"/TCHAOS.ZIP/GRID.VBX","attr":"0x40","date":"1992-10-21 00:00:00","size":53936},
+  {"hash":"db235d5f076fff20934e9ea3cbc75648","path":"/TCHAOS.ZIP/INSTALL.DOC","attr":"0x40","date":"1993-07-20 14:24:28","size":1463},
+  {"hash":"513c4c35e8a4d7e6a3d3922d4c06bb8f","path":"/TCHAOS.ZIP/INSTALL.EXE","attr":"0x40","date":"1993-02-19 11:35:42","size":21265},
+  {"hash":"cf0becc56fc70b1a0575cc1dcd3436bb","path":"/TCHAOS.ZIP/PRNSET.DLL","attr":"0x40","date":"1992-11-15 18:32:58","size":4608},
+  {"hash":"51f079869ecf14c0388759f2b0f79973","path":"/TCHAOS.ZIP/SETUPKIT.DLL","attr":"0x40","date":"1992-11-07 17:06:02","size":7008},
+  {"hash":"717ab0b8479941e72877f58dd298a80c","path":"/TCHAOS.ZIP/SS3D.VBX","attr":"0x40","date":"1992-09-16 11:02:36","size":49504},
+  {"hash":"9517ca66020022c42c3be47b2b16ae47","path":"/TCHAOS.ZIP/SS3D2.VBX","attr":"0x40","date":"1992-09-24 10:44:08","size":89408},
+  {"hash":"88b2ac20cdbfceb92d294f7a72d0a849","path":"/TCHAOS.ZIP/TCHAOS.EXE","attr":"0x40","date":"1993-03-17 11:30:42","size":284704},
+  {"hash":"ce01f6528ee01d93dcd338f6203f8f05","path":"/TCHAOS.ZIP/TCHAOS.HLP","attr":"0x40","date":"1993-03-16 08:23:18","size":39543},
+  {"hash":"2571b6a2e8e15580e683367b5cdb4f1f","path":"/TCHAOS.ZIP/VBISAMMU.DLL","attr":"0x40","date":"1992-11-04 17:46:00","size":49024}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

@@ -34,7 +34,16 @@
   {"hash":"875b40ee93d59c8599ad11aa96cb9e73","path":"/BMPPIC2.ZIP","attr":"0x20","date":"1991-08-07 06:47:02","size":207279},
   {"hash":"67ccbaa469cb74e91ff415f91f75804f","path":"/GO.BAT","attr":"0x20","date":"1991-07-23 02:37:34","size":38},
   {"hash":"bc5f3fc4ffd9a9471365ffe976adcd8e","path":"/GO.TXT","attr":"0x20","date":"1991-08-07 02:37:20","size":1079},
-  {"hash":"2fc269933158c931c4d5a55d02889c9e","path":"/FILE2782.TXT","attr":"0x20","date":"1991-08-07 02:41:20","size":473}
+  {"hash":"2fc269933158c931c4d5a55d02889c9e","path":"/FILE2782.TXT","attr":"0x20","date":"1991-08-07 02:41:20","size":473},
+  {"hash":"63a4c112c4611836e7ea1ac951be9fdd","path":"/BMPPIC2.ZIP/BART_S.BMP","attr":"0x40","date":"1990-07-31 13:26:20","size":153078},
+  {"hash":"28e0bcfb4df8aa1db1e44d59a4e52d14","path":"/BMPPIC2.ZIP/BART.BMP","attr":"0x40","date":"1990-07-24 18:44:46","size":153718},
+  {"hash":"70930293516156818e5d3ef6bdb22c76","path":"/BMPPIC2.ZIP/EAGLE.BMP","attr":"0x40","date":"1990-06-05 16:11:28","size":74374},
+  {"hash":"1e61a5837057c056ee78264092fa9f85","path":"/BMPPIC2.ZIP/SIMPSONS.BMP","attr":"0x40","date":"1990-07-03 15:19:12","size":195718},
+  {"hash":"6167f2ee57b88e4d94b0dbb5e5a4e470","path":"/BMPPIC2.ZIP/STARWAR1.BMP","attr":"0x40","date":"1990-08-03 15:44:42","size":153718},
+  {"hash":"689114e9e061307516f68b17344f4cb1","path":"/BMPPIC2.ZIP/STARWAR2.BMP","attr":"0x40","date":"1990-08-03 15:43:14","size":153718},
+  {"hash":"ac60acf7e7824ffe84bc61c205357a8d","path":"/BMPPIC2.ZIP/STARWAR3.BMP","attr":"0x40","date":"1990-08-03 15:46:58","size":153718},
+  {"hash":"13cb784c53019bec4efebf944f911d1c","path":"/BMPPIC2.ZIP/STARWAR4.BMP","attr":"0x40","date":"1990-08-03 15:49:04","size":153718},
+  {"hash":"0a11699e1d4722079fbaf48303137da3","path":"/BMPPIC2.ZIP/WATRFALL.BMP","attr":"0x40","date":"1990-08-24 10:35:54","size":153718}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

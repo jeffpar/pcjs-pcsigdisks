@@ -40,7 +40,22 @@
   {"hash":"1f41cc6226159816f87c68dd000ac59f","path":"/GO.EXE","attr":"0x20","date":"1992-02-06 02:16:54","size":57040},
   {"hash":"583efd1d72b8cd0493982efa169a3d0e","path":"/GO-FORM.DAT","attr":"0x20","date":"1992-03-13 11:17:38","size":2987},
   {"hash":"46f4da01c217cea3a8fe6f509acbbc7f","path":"/GO-STRT.DAT","attr":"0x20","date":"1992-04-17 11:40:50","size":874},
-  {"hash":"f5d0fa49b21234be778faa3b8ce06593","path":"/PKUNZIP.EXE","attr":"0x20","date":"1990-03-15 01:10:00","size":23528}
+  {"hash":"f5d0fa49b21234be778faa3b8ce06593","path":"/PKUNZIP.EXE","attr":"0x20","date":"1990-03-15 01:10:00","size":23528},
+  {"hash":"3ac8c3f11f1a05cdef9c0bd88cf2707f","path":"/DCOM401.ZIP/CHANGES.DOC","attr":"0x40","date":"1991-12-13 00:00:00","size":1274},
+  {"hash":"5044d7ea0ce9f8f67134708bc439c537","path":"/DCOM401.ZIP/DAC.APP","attr":"0x40","date":"1992-02-07 19:27:28","size":696},
+  {"hash":"731ef5764ce7058d77302fc41984562f","path":"/DCOM401.ZIP/DCOM.BIN","attr":"0x40","date":"1991-12-13 00:00:00","size":46852},
+  {"hash":"2d316af60914fc2cbf63ff8d7a7f765c","path":"/DCOM401.ZIP/DCOM.COM","attr":"0x40","date":"1991-12-13 00:00:00","size":8644},
+  {"hash":"f1d48950496e2202417c6024982a07eb","path":"/DCOM401.ZIP/DCOM.MAC","attr":"0x40","date":"1992-02-20 11:55:20","size":234},
+  {"hash":"f751b8624245a390a33128e51d44fa17","path":"/DCOM401.ZIP/DCOM.OVL","attr":"0x40","date":"1991-12-13 00:00:00","size":271635},
+  {"hash":"cc9298fb19b6cad6cc2ddfec5e31ecfc","path":"/DCOM401.ZIP/DISKUTIL.MAC","attr":"0x40","date":"1991-10-01 13:20:16","size":1627},
+  {"hash":"8f0acd2e3d3cc3ffee7b3aee70a1e146","path":"/DCOM401.ZIP/README.DOC","attr":"0x40","date":"1991-12-13 00:00:00","size":2539},
+  {"hash":"63396081f249331046920778c57c93d9","path":"/DCOM401.ZIP/REGISTER.DOC","attr":"0x40","date":"1992-02-29 10:30:36","size":6634},
+  {"hash":"f09af3b9a6539b9ce16fb78201d05326","path":"/DCOM401.ZIP/SEARCH.MAC","attr":"0x40","date":"1992-02-07 12:56:42","size":5111},
+  {"hash":"75bd0a96a357a010a21b9bb856181dd2","path":"/DCOM401.ZIP/TOTALIZE.MAC","attr":"0x40","date":"1992-02-05 10:32:26","size":5205},
+  {"hash":"7f4fe9fa9ef67cd91b3023202d15c9e5","path":"/DCOM401.ZIP/VCNV.COM","attr":"0x40","date":"1991-12-13 00:00:00","size":4652},
+  {"hash":"1f11fe44f8677ab6aaaa858bbbbfc89f","path":"/DCOM401.ZIP/ZIP.MAC","attr":"0x40","date":"1992-01-22 15:26:38","size":5020},
+  {"hash":"26e487527c16d54cfa7ffe27e94fbc32","path":"/DCOMZ401.ZIP/DCOMZ.BIN","attr":"0x40","date":"1991-12-13 00:00:00","size":43831},
+  {"hash":"748c8e75b4eb7c9d2a877f22f1b7367f","path":"/DCOMZ401.ZIP/ZIBM.FNT","attr":"0x40","date":"1991-12-13 00:00:00","size":942}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

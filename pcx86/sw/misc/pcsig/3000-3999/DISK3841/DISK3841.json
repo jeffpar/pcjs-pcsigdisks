@@ -41,7 +41,14 @@
   {"hash":"1710045e66398c8ea196722a687ead0a","path":"/PKUNZIP.EXE","attr":"0x20","date":"1993-02-01 02:04:16","size":29378},
   {"hash":"00fff50cd6a785d56a4fac606d285042","path":"/PCSIG.TXT","attr":"0x20","date":"1993-06-01 14:31:30","size":2329},
   {"hash":"6162087334ed98bb273acaaa6ca85d40","path":"/SHAREMAG.TXT","attr":"0x20","date":"1993-06-01 14:32:04","size":1831},
-  {"hash":"54964d989c90644e40ac21508c12ff5d","path":"/CDROM.TXT","attr":"0x20","date":"1993-06-01 15:26:44","size":8196}
+  {"hash":"54964d989c90644e40ac21508c12ff5d","path":"/CDROM.TXT","attr":"0x20","date":"1993-06-01 15:26:44","size":8196},
+  {"hash":"39d0880cb1e82f62b8f128f679ecca1a","path":"/LABLMATE.ZIP/FILE_ID.DIZ","attr":"0x40","date":"1993-05-31 01:28:30","size":297},
+  {"hash":"e569ec94ed0a06ed244cb04181646470","path":"/LABLMATE.ZIP/LABLMATE.DOC","attr":"0x40","date":"1993-05-30 18:36:18","size":510567},
+  {"hash":"f6b38c70274737596efd5f440b978893","path":"/LABLMATE.ZIP/LABLMATE.EXE","attr":"0x40","date":"1993-06-01 12:32:32","size":318736},
+  {"hash":"7ccefa220722a8333f1f34b6d4f84791","path":"/LABLMATE.ZIP/LABLMATE.HLP","attr":"0x40","date":"1993-05-30 18:18:26","size":99566},
+  {"hash":"56157857d4ee10820730ce02b283fa38","path":"/LABLMATE.ZIP/LABLMATE.TXT","attr":"0x40","date":"1993-05-30 22:01:00","size":39197},
+  {"hash":"e3935256a875b34be6f7839457ced17f","path":"/LABLMATE.ZIP/README.1ST","attr":"0x40","date":"1993-05-30 19:10:16","size":2473},
+  {"hash":"906df6e71f3cb18dde2cb31750292715","path":"/LABLMATE.ZIP/THREED.VBX","attr":"0x40","date":"1992-10-21 00:00:00","size":60720}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

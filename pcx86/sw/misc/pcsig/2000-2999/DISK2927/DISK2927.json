@@ -40,7 +40,14 @@
   {"hash":"79b844380efc93a26841f1cfa6e71bc6","path":"/HOME&BUS.TXT","attr":"0x20","date":"1992-02-04 06:15:52","size":1644},
   {"hash":"15c8d9f338ac2d39c1060c9d19e4139a","path":"/CDROM.TXT","attr":"0x20","date":"1992-02-04 06:16:28","size":2277},
   {"hash":"cf0e2dfcebc4bc65595a8b3fa793c788","path":"/GO.EXE","attr":"0x20","date":"1992-01-10 12:14:02","size":26022},
-  {"hash":"5cd7eedff6317ec6056a4e9f67bcd789","path":"/FILE2927.TXT","attr":"0x20","date":"1992-03-13 14:27:14","size":1043}
+  {"hash":"5cd7eedff6317ec6056a4e9f67bcd789","path":"/FILE2927.TXT","attr":"0x20","date":"1992-03-13 14:27:14","size":1043},
+  {"hash":"125c93a549a3e5b2ab4c6c6ec1ad3e7d","path":"/KEEN4CGA.ZIP/AUDIO.CK4","attr":"0x40","date":"1991-12-01 13:00:58","size":33325},
+  {"hash":"82fa7b42df7da01d802ed7f72c11ca04","path":"/KEEN4CGA.ZIP/CATALOG.EXE","attr":"0x40","date":"1991-12-01 13:00:42","size":24507},
+  {"hash":"9e1811deb429f7edc6bffa5bb786ebb4","path":"/KEEN4CGA.ZIP/GAMEMAPS.CK4","attr":"0x40","date":"1991-12-01 13:00:00","size":99040},
+  {"hash":"a3a1d22056ea603becb9bd9d2e5d3857","path":"/KEEN4CGA.ZIP/KEEN4C.EXE","attr":"0x40","date":"1991-12-01 13:00:28","size":96019},
+  {"hash":"df62dc64c0873b510a983e52776d8833","path":"/KEEN4CGA.ZIP/ORDER.FRM","attr":"0x40","date":"1991-12-01 13:00:56","size":2346},
+  {"hash":"f558cf4b22ee08546574eff40427895a","path":"/KEEN4CGA.ZIP/READ.ME","attr":"0x40","date":"1992-03-13 11:57:22","size":91},
+  {"hash":"d73b76127b79fc88735300cfee1a3780","path":"/KEEN4CGA.ZIP/README.DOC","attr":"0x40","date":"1991-12-01 13:00:20","size":1590}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

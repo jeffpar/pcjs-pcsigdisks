@@ -39,7 +39,19 @@
   {"hash":"9929ef804860a8df07e388279390f72e","path":"/GO-FORM.DAT","attr":"0x20","date":"1992-01-20 10:24:28","size":2401},
   {"hash":"22b845b7c2d9dbeeecc644e7e1d3b095","path":"/GO-STRT.DAT","attr":"0x20","date":"1991-12-04 05:50:18","size":540},
   {"hash":"9a77d91b8ff286bf17ab54726f9cd2df","path":"/PKUNZIP.EXE","attr":"0x20","date":"1991-01-16 12:38:50","size":23536},
-  {"hash":"f67a04636247f30c11ead0df11ac3f13","path":"/CHARTS.ZIP","attr":"0x20","date":"1991-12-04 05:43:10","size":79959}
+  {"hash":"f67a04636247f30c11ead0df11ac3f13","path":"/CHARTS.ZIP","attr":"0x20","date":"1991-12-04 05:43:10","size":79959},
+  {"hash":"fb9ac38409ce20b244a8a9fedbee9934","path":"/EGRAPH.ZIP/CONTOUR.EXE","attr":"0x40","date":"1991-06-26 16:53:54","size":47058},
+  {"hash":"ab34becbc8cbaf9a1354c7a6b664498a","path":"/EGRAPH.ZIP/EGRAPH.EXE","attr":"0x40","date":"1991-09-11 06:42:42","size":236330},
+  {"hash":"7eee79bbfa1e38952213cce3778ab738","path":"/EGRAPH.ZIP/EXAMPLE.DAT","attr":"0x40","date":"1991-07-16 19:38:34","size":579},
+  {"hash":"735557d837cbe15da684a75c48456ad4","path":"/EGRAPH.ZIP/FILES.TXT","attr":"0x40","date":"1991-06-24 18:26:12","size":1184},
+  {"hash":"6270dd3e1dea5191078a3c4565cef881","path":"/EGRAPH.ZIP/MANUAL.DOC","attr":"0x40","date":"1991-08-08 12:35:48","size":23399},
+  {"hash":"b42c4efad4b0e2456ccfef0cc291d18e","path":"/EGRAPH.ZIP/MSHERC.COM","attr":"0x40","date":"1989-11-09 10:35:00","size":6749},
+  {"hash":"a6dfba1cf9f90e398a2ccd82bb8b5a7b","path":"/EGRAPH.ZIP/PICPRN.EXE","attr":"0x40","date":"1991-07-06 18:49:52","size":42254},
+  {"hash":"e4b062c1e48eaf168943bdd4909a5f04","path":"/EGRAPH.ZIP/README","attr":"0x40","date":"1991-08-25 11:52:16","size":1430},
+  {"hash":"0ad3569541c78560011797e305c4c76f","path":"/CHARTS.ZIP/CHARTS.DOC","attr":"0x40","date":"1989-12-28 11:03:40","size":3869},
+  {"hash":"4444a7cb2b1896976eaf61a3870da9b2","path":"/CHARTS.ZIP/CHARTS.EXE","attr":"0x40","date":"1990-01-04 12:47:48","size":151198},
+  {"hash":"465a947dddeaf2e3958ee79057f43781","path":"/CHARTS.ZIP/CHARTS.INV","attr":"0x40","date":"1989-12-08 12:46:52","size":2373},
+  {"hash":"c61596af4a03a57534bdd83a9e9bf6b6","path":"/CHARTS.ZIP/README.1ST","attr":"0x40","date":"1989-12-27 13:19:16","size":1244}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

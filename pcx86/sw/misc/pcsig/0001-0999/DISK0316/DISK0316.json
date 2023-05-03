@@ -31,7 +31,31 @@
  }
 ],
 "fileTable": [
-  {"hash":"10ee0515b3ff02ace92544a5f420fd66","path":"/DISKO316.ZIP","attr":"0x20","date":"1990-03-20 00:49:24","size":85232}
+  {"hash":"10ee0515b3ff02ace92544a5f420fd66","path":"/DISKO316.ZIP","attr":"0x20","date":"1990-03-20 00:49:24","size":85232},
+  {"hash":"70d7ba96c70818cef47e9a4e7133038b","path":"/DISKO316.ZIP/ADDCRS.BAS","attr":"0x40","date":"1982-08-24 09:37:46","size":841},
+  {"hash":"99f327d2d4133d796e8db7b10d7eb371","path":"/DISKO316.ZIP/APPLECOM.BAS","attr":"0x40","date":"1982-01-03 00:00:00","size":804},
+  {"hash":"e10559f5bf69cf447f15167c19fccb16","path":"/DISKO316.ZIP/AREACODE.EXE","attr":"0x40","date":"1984-04-19 14:00:26","size":19328},
+  {"hash":"38551a158a2f8f6069f67f626efd0d3b","path":"/DISKO316.ZIP/CVTBIN.COM","attr":"0x40","date":"1984-11-26 20:36:44","size":1601},
+  {"hash":"bb1f6402263145a3e3e83cf27a658879","path":"/DISKO316.ZIP/FILES316.TXT","attr":"0x40","date":"1985-05-23 13:15:44","size":1892},
+  {"hash":"e22b8ae858c8bc26f04fad2838a944f0","path":"/DISKO316.ZIP/FILTER.BAS","attr":"0x40","date":"1984-03-11 10:01:22","size":1382},
+  {"hash":"103c4470741c67e391a6226e83cc4e86","path":"/DISKO316.ZIP/HAYES.TXT","attr":"0x40","date":"1982-12-11 00:00:00","size":1019},
+  {"hash":"059634e91574341e556205e75a6aea0d","path":"/DISKO316.ZIP/HAYESTST.BAS","attr":"0x40","date":"1984-04-15 04:22:38","size":2816},
+  {"hash":"f8887fb78d5e2b6430faa8bc7cf121c0","path":"/DISKO316.ZIP/HC.COM","attr":"0x40","date":"1984-03-05 07:07:26","size":3712},
+  {"hash":"1d2cbc55635b021986702d9a72009d23","path":"/DISKO316.ZIP/HC.DOC","attr":"0x40","date":"1984-03-05 07:08:22","size":2944},
+  {"hash":"6aa07bff846cc16e0745a9438243ed1c","path":"/DISKO316.ZIP/IBMPCBBS.LST","attr":"0x40","date":"1984-02-27 07:41:30","size":18048},
+  {"hash":"1703361bed96290fed46219cc9105ec1","path":"/DISKO316.ZIP/LYNC.DOC","attr":"0x40","date":"1985-12-04 15:56:40","size":472},
+  {"hash":"bad863f29943cd0746fa275ca168b03a","path":"/DISKO316.ZIP/MODEM7PC.COM","attr":"0x40","date":"1980-01-01 08:38:58","size":7680},
+  {"hash":"028b2197ba84cb5b1dd09ebbc84b8bcc","path":"/DISKO316.ZIP/NSQ-201.EXE","attr":"0x40","date":"1984-10-23 13:12:42","size":17024},
+  {"hash":"594ce6b95d8e73287624bf9d44ef447a","path":"/DISKO316.ZIP/NUSQ-11.COM","attr":"0x40","date":"1984-10-23 13:12:12","size":2176},
+  {"hash":"76990a673cb14623ba4b5c4e5a685687","path":"/DISKO316.ZIP/NUSQ-11.DOC","attr":"0x40","date":"1984-10-23 13:08:40","size":21073},
+  {"hash":"b8b26f03a1fc7c9dc10c059a34a77464","path":"/DISKO316.ZIP/PCTERM.ASM","attr":"0x40","date":"1984-02-06 19:11:40","size":17743},
+  {"hash":"4bead2d184ce3f3a84d07976366e2df7","path":"/DISKO316.ZIP/PCTERM.DOC","attr":"0x40","date":"1984-03-09 03:34:00","size":896},
+  {"hash":"3389d9e4925dc0b284cd0afeeddb23c7","path":"/DISKO316.ZIP/SQ.EXE","attr":"0x40","date":"1984-12-11 10:45:50","size":17664},
+  {"hash":"5fceb621f6c87d9e02b74d6aaf70ac6f","path":"/DISKO316.ZIP/SQPC.EXE","attr":"0x40","date":"1985-01-13 09:00:44","size":3072},
+  {"hash":"f6979f9a5b4a224e0944c7b9def2edef","path":"/DISKO316.ZIP/TYPESQ.EXE","attr":"0x40","date":"1983-12-14 17:05:08","size":15142},
+  {"hash":"72b3476a06946f15342d26b362e192e5","path":"/DISKO316.ZIP/UNWS.EXE","attr":"0x40","date":"1982-11-28 08:48:06","size":2816},
+  {"hash":"e835a3f406b1a83a4d7e27eedb7d92a1","path":"/DISKO316.ZIP/WARGAMES.BAS","attr":"0x40","date":"1980-01-01 01:51:20","size":2964},
+  {"hash":"ec8e8e2ae95d1745887cae97cbe26cb1","path":"/DISKO316.ZIP/XMODEM.DOC","attr":"0x40","date":"1983-06-14 21:45:46","size":7673}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,65794,1073758210,130561,65544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

@@ -41,7 +41,13 @@
   {"hash":"be8cbfdeedb0e71dad23919b636fc03c","path":"/SIGORDER.TXT","attr":"0x20","date":"1992-06-25 14:28:24","size":3332},
   {"hash":"b3ce13d36a221677029ebd6198c6ed0b","path":"/LIST.COM","attr":"0x20","date":"1990-09-05 08:04:36","size":20951},
   {"hash":"72ef5363ba95dd11f630d2837ef55168","path":"/SFDOC.ZIP","attr":"0x20","date":"1992-08-13 11:35:44","size":162017},
-  {"hash":"0ef5bce7e0dbb54175d221f59d320340","path":"/README.TXT","attr":"0x20","date":"1992-08-12 22:01:38","size":6490}
+  {"hash":"0ef5bce7e0dbb54175d221f59d320340","path":"/README.TXT","attr":"0x20","date":"1992-08-12 22:01:38","size":6490},
+  {"hash":"45c9cd46a13f0e8e913151b570c9a726","path":"/SFDOC.ZIP/INTERNAT.TXT","attr":"0x40","date":"1992-08-12 22:08:14","size":1169},
+  {"hash":"f7cf6d13ecc65ae8b9d08044d9e9d285","path":"/SFDOC.ZIP/OMBUDSMN.ASP","attr":"0x40","date":"1992-08-03 16:33:48","size":600},
+  {"hash":"93fb2dc481f8dd5ca082d1a339ff2e5e","path":"/SFDOC.ZIP/README.TXT","attr":"0x40","date":"1992-08-12 22:01:38","size":6333},
+  {"hash":"f53f611f8bc6d6fd026277536d38a2e7","path":"/SFDOC.ZIP/REGISTER.TXT","attr":"0x40","date":"1992-08-13 09:46:10","size":2034},
+  {"hash":"49282103429bfac5b4ed993dc9621251","path":"/SFDOC.ZIP/SFDOC.TXT","attr":"0x40","date":"1991-11-11 08:42:20","size":459350},
+  {"hash":"8c84cc9e1abaa6e60fe2918486a6eeba","path":"/SFDOC.ZIP/VENDOR1.TXT","attr":"0x40","date":"1992-08-07 11:17:58","size":1689}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

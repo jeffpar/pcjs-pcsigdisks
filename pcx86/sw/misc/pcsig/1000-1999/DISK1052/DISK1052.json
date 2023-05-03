@@ -37,7 +37,14 @@
   {"hash":"09c8206644019d4d3b0348a3cdff02d3","path":"/GO.BAT","attr":"0x20","date":"1987-10-19 15:56:22","size":38},
   {"hash":"eef5bd33924ddc066554a2d95a66e0f2","path":"/GO.TXT","attr":"0x20","date":"1989-09-08 08:52:00","size":1156},
   {"hash":"01f97d4e1e96852b42e0acbd7f7204d7","path":"/HARD.BAT","attr":"0x20","date":"1988-05-26 12:37:08","size":372},
-  {"hash":"815105fc97d163d8ad2dc8f0759dae7f","path":"/PKXARC.COM","attr":"0x20","date":"1987-04-27 00:00:00","size":12242}
+  {"hash":"815105fc97d163d8ad2dc8f0759dae7f","path":"/PKXARC.COM","attr":"0x20","date":"1987-04-27 00:00:00","size":12242},
+  {"hash":"967de22315e9207821c6927d7e316853","path":"/FINDAT.ARC/BOOK.REP","attr":"0x40","date":"1988-01-23 14:26:48","size":1531},
+  {"hash":"01be00d722ae548654cf443a3c45eb1f","path":"/FINDAT.ARC/FINDATA.HDR","attr":"0x40","date":"1989-06-30 13:45:10","size":1884},
+  {"hash":"e395dea86fbb3c2cf362fb475b7e8ca2","path":"/FINDAT.ARC/FINDATA3.DBF","attr":"0x40","date":"1989-06-30 18:04:50","size":304547},
+  {"hash":"82626101d9a0d4bde1f7be579c8c6678","path":"/FINDAT.ARC/FINDATA4.DBF","attr":"0x40","date":"1989-07-01 10:27:48","size":263680},
+  {"hash":"2660c14d00d41ab8b0b981d2acd86606","path":"/FINDAT.ARC/LABEL.REP","attr":"0x40","date":"1988-02-07 10:43:16","size":262},
+  {"hash":"dbcc8b6c648fb14362ca0b789b0c4139","path":"/FINDAT.ARC/PRICE.REP","attr":"0x40","date":"1989-06-16 11:31:04","size":822},
+  {"hash":"7f722dec07232ea11dd8480dad294549","path":"/FINDAT.ARC/SALES.REP","attr":"0x40","date":"1987-09-16 06:50:04","size":590}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

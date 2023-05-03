@@ -40,7 +40,16 @@
   {"hash":"3d94f19c83674aaa1e7a1dd77dc3fcd8","path":"/CATALOG.EXE","attr":"0x20","date":"1993-03-02 00:00:00","size":12403},
   {"hash":"59b690b89fdf071c86b0f158bbf6a003","path":"/WHATWARE.EXE","attr":"0x20","date":"1993-03-01 00:00:00","size":20057},
   {"hash":"553f46e9b7ce1ea1d039a9d6d46e5e0a","path":"/ASKHOW.EXE","attr":"0x20","date":"1993-03-01 00:00:00","size":20427},
-  {"hash":"89af227bf91570912e6272a5303f0b1c","path":"/FILE_ID.DIZ","attr":"0x20","date":"1993-03-01 20:21:18","size":159}
+  {"hash":"89af227bf91570912e6272a5303f0b1c","path":"/FILE_ID.DIZ","attr":"0x20","date":"1993-03-01 20:21:18","size":159},
+  {"hash":"89af227bf91570912e6272a5303f0b1c","path":"/ICHING.ZIP/FILE_ID.DIZ","attr":"0x40","date":"1993-03-01 20:21:18","size":159},
+  {"hash":"3863af6ab482e382501c9f0bad070e10","path":"/ICHING.ZIP/ICHING.EXE","attr":"0x40","date":"1993-03-01 20:19:16","size":225830},
+  {"hash":"fc61601f0f983fcfaeb4cb54af7ef018","path":"/ICHING.ZIP/ICHING1.DAT","attr":"0x40","date":"1993-03-01 00:00:00","size":3171},
+  {"hash":"4cf683c35158bcda4291d4a7f05efa99","path":"/ICHING.ZIP/ICHING2.DAT","attr":"0x40","date":"1993-03-01 00:00:00","size":294723},
+  {"hash":"e706ec8cf3cc55c9fb9acf0f9aea7209","path":"/ICHING.ZIP/ICHING3.DAT","attr":"0x40","date":"1993-03-01 00:00:00","size":67},
+  {"hash":"a6d877a4f4bb892dc0eb02b23dd6c6e6","path":"/ICHING.ZIP/ICHING4.DAT","attr":"0x40","date":"1993-03-01 00:00:00","size":99},
+  {"hash":"b7a32461bc8146d6cdc6b2e8930a87c1","path":"/ICHING.ZIP/IDOC.EXE","attr":"0x40","date":"1993-03-02 00:00:00","size":26076},
+  {"hash":"8b166a38b30f4e925b82ea0976f6f36d","path":"/ICHING.ZIP/INFO.DOC","attr":"0x40","date":"1993-03-01 00:00:00","size":24693},
+  {"hash":"ee657e377f8f7359b29c065d28251c33","path":"/ICHING.ZIP/VENDOR.DOC","attr":"0x40","date":"1993-03-02 09:52:12","size":11071}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

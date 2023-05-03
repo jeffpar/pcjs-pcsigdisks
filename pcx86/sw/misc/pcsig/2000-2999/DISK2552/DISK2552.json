@@ -37,7 +37,21 @@
   {"hash":"03f6c90eb48afa11daa248e647aa6d0b","path":"/README.DOC","attr":"0x20","date":"1991-02-10 19:28:00","size":1971},
   {"hash":"b3ce13d36a221677029ebd6198c6ed0b","path":"/LIST.COM","attr":"0x20","date":"1990-09-05 08:04:36","size":20951},
   {"hash":"5eabcd3d12be5b3cd7ae87327f4f4192","path":"/GO.BAT","attr":"0x20","date":"1991-02-24 20:45:40","size":269},
-  {"hash":"70945a4671a5a424abb6abb311ac6f38","path":"/GO.TXT","attr":"0x20","date":"1991-02-22 10:09:30","size":1538}
+  {"hash":"70945a4671a5a424abb6abb311ac6f38","path":"/GO.TXT","attr":"0x20","date":"1991-02-22 10:09:30","size":1538},
+  {"hash":"db6ae6af72ee38e8e644cc4fae7420b0","path":"/VC200CGA.ZIP/CENTRAL.CFG","attr":"0x40","date":"1991-02-10 14:19:04","size":13423},
+  {"hash":"b970af3af9d90982876f16fb41d87f84","path":"/VC200CGA.ZIP/CENTRAL.DOC","attr":"0x40","date":"1991-02-10 14:14:44","size":80423},
+  {"hash":"42aae4789dbbf1a3d6588f7072e9537a","path":"/VC200CGA.ZIP/CENTRAL.EXE","attr":"0x40","date":"1991-02-10 13:43:14","size":86929},
+  {"hash":"f711923d251889de8bea18f028193dcc","path":"/VC200CGA.ZIP/README.1ST","attr":"0x40","date":"1991-02-10 14:07:24","size":9384},
+  {"hash":"7a9d71ad50168ed2dd0e80587c5c6add","path":"/VC200CGA.ZIP/REGISTER.DOC","attr":"0x40","date":"1991-02-10 13:58:32","size":6408},
+  {"hash":"5ad778010090c3e937b3b56299e54650","path":"/VC200CGA.ZIP/UPDATE.DOC","attr":"0x40","date":"1991-02-10 13:57:08","size":5516},
+  {"hash":"f47e81d5c20035fa6797cf206fb09aa0","path":"/VC200CGA.ZIP/UPDATE.EXE","attr":"0x40","date":"1991-02-10 14:18:30","size":33200},
+  {"hash":"db6ae6af72ee38e8e644cc4fae7420b0","path":"/VC200EGA.ZIP/CENTRAL.CFG","attr":"0x40","date":"1991-02-10 14:19:04","size":13423},
+  {"hash":"b970af3af9d90982876f16fb41d87f84","path":"/VC200EGA.ZIP/CENTRAL.DOC","attr":"0x40","date":"1991-02-10 14:14:44","size":80423},
+  {"hash":"186da4d852e8c77a8aa12df20d772419","path":"/VC200EGA.ZIP/CENTRAL.EXE","attr":"0x40","date":"1991-02-10 13:48:16","size":103817},
+  {"hash":"f711923d251889de8bea18f028193dcc","path":"/VC200EGA.ZIP/README.1ST","attr":"0x40","date":"1991-02-10 14:07:24","size":9384},
+  {"hash":"7a9d71ad50168ed2dd0e80587c5c6add","path":"/VC200EGA.ZIP/REGISTER.DOC","attr":"0x40","date":"1991-02-10 13:58:32","size":6408},
+  {"hash":"5ad778010090c3e937b3b56299e54650","path":"/VC200EGA.ZIP/UPDATE.DOC","attr":"0x40","date":"1991-02-10 13:57:08","size":5516},
+  {"hash":"f47e81d5c20035fa6797cf206fb09aa0","path":"/VC200EGA.ZIP/UPDATE.EXE","attr":"0x40","date":"1991-02-10 14:18:30","size":33200}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

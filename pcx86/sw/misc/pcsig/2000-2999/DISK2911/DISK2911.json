@@ -40,7 +40,18 @@
   {"hash":"95215df2c8ab5d03f4cf6c1afd0e0740","path":"/GO-STRT.DAT","attr":"0x20","date":"1992-02-07 14:48:40","size":579},
   {"hash":"f5d0fa49b21234be778faa3b8ce06593","path":"/PKUNZIP.EXE","attr":"0x20","date":"1990-03-15 01:10:00","size":23528},
   {"hash":"6d2856df9f29e9490bfe221a4ce884e0","path":"/CDROM.TXT","attr":"0x20","date":"1992-01-21 06:10:58","size":3693},
-  {"hash":"65138e2e519b7e1adefda6a59e0ca763","path":"/FILE2911.TXT","attr":"0x20","date":"1992-02-07 15:05:22","size":1999}
+  {"hash":"65138e2e519b7e1adefda6a59e0ca763","path":"/FILE2911.TXT","attr":"0x20","date":"1992-02-07 15:05:22","size":1999},
+  {"hash":"b4103a9abd06f2d232da97e8b19f903a","path":"/F2C-EXE.ZIP/F2C.1","attr":"0x40","date":"1991-06-10 15:27:40","size":5981},
+  {"hash":"3fe0a95ec5ba075c17ad5e916d093120","path":"/F2C-EXE.ZIP/F2C.1T","attr":"0x40","date":"1991-06-10 15:27:40","size":6032},
+  {"hash":"0006fa4660c2fb18ae90355cf4a6ecb6","path":"/F2C-EXE.ZIP/F2C.EXE","attr":"0x40","date":"1991-06-11 02:34:00","size":139040},
+  {"hash":"2f3c3b003310600e85b1102eeb4f742b","path":"/F2C-EXE.ZIP/F2C.H","attr":"0x40","date":"1991-06-10 15:27:40","size":4347},
+  {"hash":"221f27fcfb1da1cdf09b2609bb2ee913","path":"/F2C-EXE.ZIP/FIXES","attr":"0x40","date":"1991-06-10 15:31:06","size":46345},
+  {"hash":"e98cd5436b8be52a4032ed1564f0961e","path":"/F2C-EXE.ZIP/INDEX","attr":"0x40","date":"1991-06-10 15:30:56","size":12959},
+  {"hash":"0d69d8ba67a6c08d210f1ecbcfb9ed95","path":"/F2C-EXE.ZIP/LF2C.LIB","attr":"0x40","date":"1991-06-15 15:13:54","size":137773},
+  {"hash":"da3b9ead5d59f5a6c04c290e5881e4ad","path":"/F2C-EXE.ZIP/NOTICE","attr":"0x40","date":"1991-06-10 15:27:30","size":1206},
+  {"hash":"780d512cfa07ccbf24d396b3ed268130","path":"/F2C-EXE.ZIP/README","attr":"0x40","date":"1991-06-10 15:27:30","size":3039},
+  {"hash":"f41327305d25c4ace65c28b6f60aff46","path":"/F2C-EXE.ZIP/README.DOS","attr":"0x40","date":"1991-06-15 15:38:12","size":1525},
+  {"hash":"ed50942f22f780630ace8a49b8d65f70","path":"/F2C-EXE.ZIP/SF2C.LIB","attr":"0x40","date":"1991-06-15 15:13:22","size":115757}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

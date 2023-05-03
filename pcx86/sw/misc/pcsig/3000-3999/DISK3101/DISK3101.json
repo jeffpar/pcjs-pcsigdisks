@@ -41,7 +41,18 @@
   {"hash":"cf0e2dfcebc4bc65595a8b3fa793c788","path":"/GO.EXE","attr":"0x20","date":"1992-01-10 12:14:02","size":26022},
   {"hash":"60d4f1b906a2ef61b19b2b6879cdceff","path":"/GO-FORM.DAT","attr":"0x20","date":"1992-06-29 15:26:14","size":3109},
   {"hash":"ac59721e63d40835485f7b689782b602","path":"/GO-STRT.DAT","attr":"0x20","date":"1992-08-31 09:01:18","size":536},
-  {"hash":"be8cbfdeedb0e71dad23919b636fc03c","path":"/SIGORDER.TXT","attr":"0x20","date":"1992-06-25 14:28:24","size":3332}
+  {"hash":"be8cbfdeedb0e71dad23919b636fc03c","path":"/SIGORDER.TXT","attr":"0x20","date":"1992-06-25 14:28:24","size":3332},
+  {"hash":"d5422c7a2bb24afe2c6c1222f58ec293","path":"/VED33.ZIP/COMMANDS.TXT","attr":"0x40","date":"1992-05-11 12:02:40","size":12780},
+  {"hash":"793da41457b6d283f1617126e01e44c7","path":"/VED33.ZIP/DEMO.MAC","attr":"0x40","date":"1992-01-06 11:29:08","size":42488},
+  {"hash":"d3a1089fe9136602f0b8048a41989628","path":"/VED33.ZIP/DEMO1.MAC","attr":"0x40","date":"1992-01-06 23:00:52","size":8328},
+  {"hash":"fdbafdb5ed35e20e384dcb5ce4b295e3","path":"/VED33.ZIP/DEMO2.MAC","attr":"0x40","date":"1992-01-07 11:46:34","size":3728},
+  {"hash":"9354e87a447b25082893ece5708015cd","path":"/VED33.ZIP/DEMO3.MAC","attr":"0x40","date":"1992-01-07 15:54:18","size":4555},
+  {"hash":"e01b456b4963c2f572969304e7026f76","path":"/VED33.ZIP/DEMO4.MAC","attr":"0x40","date":"1992-01-07 18:27:40","size":12880},
+  {"hash":"f7f43da4ef5bac98cafffa64b199e619","path":"/VED33.ZIP/DEMO5.MAC","attr":"0x40","date":"1992-01-07 17:17:40","size":12256},
+  {"hash":"222e8dfff0a40b4f4fb869a0951e7761","path":"/VED33.ZIP/README.TXT","attr":"0x40","date":"1992-05-11 11:58:02","size":6363},
+  {"hash":"33787b54eed81a281441a8f79b17b7c1","path":"/VED33.ZIP/VED.EXE","attr":"0x40","date":"1992-05-11 12:06:54","size":63776},
+  {"hash":"a686efe9dc33d3733d4e5028fb5ea08d","path":"/VED33.ZIP/VED.HLP","attr":"0x40","date":"1992-05-10 09:14:34","size":92836},
+  {"hash":"fd9995b9ddc6f889a93947fc72c34561","path":"/VED33.ZIP/VED.OVR","attr":"0x40","date":"1992-05-11 12:06:54","size":304373}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

@@ -35,7 +35,16 @@
   {"hash":"7acf0fe9ff973c6857eb25f7edf50e79","path":"/MDS2.ARC","attr":"0x20","date":"1991-05-22 06:30:38","size":268550},
   {"hash":"6bb7231a454a748ada8ce03828d1b877","path":"/FILE2823.TXT","attr":"0x20","date":"1991-09-06 16:30:22","size":2665},
   {"hash":"371c61a5c1cecb98b21a8f31adc28d8e","path":"/GO.BAT","attr":"0x20","date":"1991-07-15 15:34:26","size":28},
-  {"hash":"26914107e56028e31750ab43993ce8f2","path":"/GO.TXT","attr":"0x20","date":"1991-09-06 02:00:38","size":871}
+  {"hash":"26914107e56028e31750ab43993ce8f2","path":"/GO.TXT","attr":"0x20","date":"1991-09-06 02:00:38","size":871},
+  {"hash":"7fa23dc66ea3b2cc6b6e0b4243ad9c7c","path":"/MDS2.ARC/MDR.EXE","attr":"0x40","date":"1990-11-07 22:52:48","size":15856},
+  {"hash":"aae744997a0b14fc6fa32853dfec5ade","path":"/MDS2.ARC/MDR1.EXE","attr":"0x40","date":"1990-11-07 22:53:34","size":8121},
+  {"hash":"b0fca03ca98bc722331fd6c72b89a136","path":"/MDS2.ARC/PCATLG.EXE","attr":"0x40","date":"1990-11-28 17:29:20","size":45052},
+  {"hash":"cb9cdd4dd3d81f245fe9ac4a14cc0e32","path":"/MDS2.ARC/PROCSUB.EXE","attr":"0x40","date":"1991-02-24 10:04:50","size":71646},
+  {"hash":"c7cdb50180b0af36c4daf0c74be0c026","path":"/MDS2.ARC/TESTPATH.EXE","attr":"0x40","date":"1990-12-14 20:20:24","size":79630},
+  {"hash":"36426566a7c4a54f263c4b8c1b6caa72","path":"/MDS2.ARC/UPGRADE2.EXE","attr":"0x40","date":"1990-11-07 22:57:28","size":21776},
+  {"hash":"c359420092905511d4ee51b00f36cf9f","path":"/MDS2.ARC/XPDREAM.EXE","attr":"0x40","date":"1990-11-08 00:10:00","size":38494},
+  {"hash":"b8a068a3b597ac5624353a683d240965","path":"/MDS2.ARC/XPORTDAT.EXE","attr":"0x40","date":"1991-05-22 06:30:38","size":91454},
+  {"hash":"c3a4e8b97e8e3bbab2b3a2fa0e433181","path":"/MDS2.ARC/XPORTRPT.EXE","attr":"0x40","date":"1991-02-28 17:30:12","size":90510}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

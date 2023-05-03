@@ -40,7 +40,19 @@
   {"hash":"00fff50cd6a785d56a4fac606d285042","path":"/PCSIG.TXT","attr":"0x20","date":"1993-06-01 14:31:30","size":2329},
   {"hash":"6162087334ed98bb273acaaa6ca85d40","path":"/SHAREMAG.TXT","attr":"0x20","date":"1993-06-01 14:32:04","size":1831},
   {"hash":"54964d989c90644e40ac21508c12ff5d","path":"/CDROM.TXT","attr":"0x20","date":"1993-06-01 15:26:44","size":8196},
-  {"hash":"af1425ac870c78898fd679013ddfedc0","path":"/OS2CLN.TXT","attr":"0x20","date":"1993-05-03 11:33:00","size":20483}
+  {"hash":"af1425ac870c78898fd679013ddfedc0","path":"/OS2CLN.TXT","attr":"0x20","date":"1993-05-03 11:33:00","size":20483},
+  {"hash":"eb137e6be33c4fc8f5576a5242f2c8dc","path":"/OS2CLEAN.ZIP/AGENTS.TXT","attr":"0x40","date":"1993-05-03 11:58:42","size":37374},
+  {"hash":"0b62c6705aab0f2b2c8f1f69f8f92672","path":"/OS2CLEAN.ZIP/COMPUSER.NOT","attr":"0x40","date":"1992-10-16 09:14:22","size":6338},
+  {"hash":"df1f836bef5f04d0f463b375e0337c91","path":"/OS2CLEAN.ZIP/FRENCH.MSG","attr":"0x40","date":"1993-05-01 11:47:58","size":16086},
+  {"hash":"d40a884f9aa22bb59497d80e018e1788","path":"/OS2CLEAN.ZIP/LICENSE.DOC","attr":"0x40","date":"1992-11-16 02:54:02","size":22349},
+  {"hash":"af1425ac870c78898fd679013ddfedc0","path":"/OS2CLEAN.ZIP/OCLN104.DOC","attr":"0x40","date":"1993-05-03 11:33:00","size":20483},
+  {"hash":"96c1a2d9778b6c91db9be1882a07d3ad","path":"/OS2CLEAN.ZIP/OS2CLEAN.EXE","attr":"0x40","date":"1993-05-03 11:23:12","size":276624},
+  {"hash":"c87d54e37a44b2db578a0a608e6935aa","path":"/OS2CLEAN.ZIP/OS2LANG.DOC","attr":"0x40","date":"1993-05-03 16:16:14","size":461},
+  {"hash":"a60adff1b12e5bb82e462cc47e0ec6e9","path":"/OS2CLEAN.ZIP/OS2VAL.DOC","attr":"0x40","date":"1993-02-03 15:08:32","size":2540},
+  {"hash":"3bfd510d2926996754745a73703699cc","path":"/OS2CLEAN.ZIP/OS2VAL.EXE","attr":"0x40","date":"1993-01-20 16:42:58","size":37168},
+  {"hash":"c4e28b1a74aa73d269d5649219f2d29a","path":"/OS2CLEAN.ZIP/REGISTER.DOC","attr":"0x40","date":"1993-03-05 10:54:44","size":10187},
+  {"hash":"a2c265a634c0692cc72882acd3c58caf","path":"/OS2CLEAN.ZIP/SPANISH.MSG","attr":"0x40","date":"1993-05-01 11:48:10","size":17023},
+  {"hash":"7e5948606b3df2cda45b493812d94099","path":"/OS2CLEAN.ZIP/VIRLIST.TXT","attr":"0x40","date":"1993-05-02 13:17:06","size":84795}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

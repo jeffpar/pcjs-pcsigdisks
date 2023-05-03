@@ -36,7 +36,21 @@
   {"hash":"09c8206644019d4d3b0348a3cdff02d3","path":"/GO.BAT","attr":"0x20","date":"1980-01-01 01:37:06","size":38},
   {"hash":"ef93397099d6269f30082e6b11639d3f","path":"/GO.TXT","attr":"0x20","date":"1990-01-30 11:19:02","size":617},
   {"hash":"e8aaa052131218b20c14f11865f49cc0","path":"/PKUNZIP.EXE","attr":"0x20","date":"1989-07-21 01:01:00","size":21440},
-  {"hash":"6d5da8e85733aefc4b64fe15bf3956ed","path":"/README.DOC","attr":"0x20","date":"1980-01-02 04:47:18","size":1011}
+  {"hash":"6d5da8e85733aefc4b64fe15bf3956ed","path":"/README.DOC","attr":"0x20","date":"1980-01-02 04:47:18","size":1011},
+  {"hash":"070821fd76b45891e11237d022872eca","path":"/FANDRAFT.ZIP/BASEBALL.TEM","attr":"0x40","date":"1986-06-08 22:55:42","size":640},
+  {"hash":"536052cb88d6327c184d376987128c28","path":"/FANDRAFT.ZIP/BRUN45.EXE","attr":"0x40","date":"1988-09-28 01:43:20","size":77440},
+  {"hash":"f8c7ee5ab32cc77e3e25328b7529efdd","path":"/FANDRAFT.ZIP/COLORS.SDP","attr":"0x40","date":"1989-10-29 13:31:42","size":17},
+  {"hash":"aded943c1173cc3ba34fcc2abb22730e","path":"/FANDRAFT.ZIP/FBBDRAFT.EXE","attr":"0x40","date":"1989-11-11 13:23:22","size":67148},
+  {"hash":"4446b0d3b6a4c10a5cba7ad2958bcce4","path":"/FANDRAFT.ZIP/FBBEDIT.EXE","attr":"0x40","date":"1989-11-08 11:09:02","size":39026},
+  {"hash":"432709a1abf7316b42d8026b403f98a0","path":"/FANDRAFT.ZIP/FBBMNU.EXE","attr":"0x40","date":"1989-11-10 12:06:02","size":44654},
+  {"hash":"52127f99dafb6732037f1065e9d9671a","path":"/FANDRAFT.ZIP/FBBRPT.EXE","attr":"0x40","date":"1989-11-25 19:04:06","size":33976},
+  {"hash":"a7971408b9ba5c91e5b8af91fb6ba999","path":"/FANDRAFT.ZIP/FDMANUAL.DOC","attr":"0x40","date":"1989-11-25 19:41:52","size":35466},
+  {"hash":"b0f981c4bce9911b0c5f216692203142","path":"/FANDRAFT.ZIP/FSD.EXE","attr":"0x40","date":"1989-11-10 10:14:28","size":8710},
+  {"hash":"7b87d24d2019c6aaf5ba5ba32c8e34a8","path":"/FANDRAFT.ZIP/FSD.HLP","attr":"0x40","date":"1989-01-26 12:21:06","size":1200},
+  {"hash":"6c9babd840ca6794a06e425304a0d8d2","path":"/FANDRAFT.ZIP/FSDDRAFT.HLP","attr":"0x40","date":"1989-01-25 14:33:18","size":1388},
+  {"hash":"28f48a0467337eddd3d14ddbea6dd1ed","path":"/FANDRAFT.ZIP/MASTER.S90","attr":"0x40","date":"1989-11-25 19:09:32","size":44037},
+  {"hash":"61c1c8e8d464528d2bc1b48775b778ff","path":"/FANDRAFT.ZIP/SAMPLE.90B","attr":"0x40","date":"1989-11-11 13:18:26","size":3999},
+  {"hash":"28865ab086d1140ceb14fc8223ef748a","path":"/FANDRAFT.ZIP/SAMPLE.CRL","attr":"0x40","date":"1989-11-11 12:09:06","size":190}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

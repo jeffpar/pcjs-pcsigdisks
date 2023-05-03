@@ -39,7 +39,21 @@
   {"hash":"00fff50cd6a785d56a4fac606d285042","path":"/PCSIG.TXT","attr":"0x20","date":"1993-06-01 14:31:30","size":2329},
   {"hash":"6162087334ed98bb273acaaa6ca85d40","path":"/SHAREMAG.TXT","attr":"0x20","date":"1993-06-01 14:32:04","size":1831},
   {"hash":"54964d989c90644e40ac21508c12ff5d","path":"/CDROM.TXT","attr":"0x20","date":"1993-06-01 15:26:44","size":8196},
-  {"hash":"bec93efca4614938628b66c6d89b055a","path":"/GARDEN.ZIP","attr":"0x20","date":"1993-07-13 13:51:06","size":91387}
+  {"hash":"bec93efca4614938628b66c6d89b055a","path":"/GARDEN.ZIP","attr":"0x20","date":"1993-07-13 13:51:06","size":91387},
+  {"hash":"92ef916c34485e6c3403af654355ff05","path":"/GARDEN.ZIP/GARDEN.EX_","attr":"0x40","date":"1993-06-28 08:27:26","size":18918},
+  {"hash":"13af1b0eda9bd54eeb004d2ba8005dbd","path":"/GARDEN.ZIP/GARDEN.HL_","attr":"0x40","date":"1993-06-25 17:59:44","size":12351},
+  {"hash":"dd619a7bc8361e1223c13f0a48c99dfa","path":"/GARDEN.ZIP/GARDEN1.VE_","attr":"0x40","date":"1993-06-25 19:09:30","size":152},
+  {"hash":"e43e7004402204ef3c52df72a1684f55","path":"/GARDEN.ZIP/GARDEN2.VE_","attr":"0x40","date":"1993-06-25 17:24:40","size":113},
+  {"hash":"311f9e1c2834e5fd3b32adc80b793b45","path":"/GARDEN.ZIP/GARDEN3.VE_","attr":"0x40","date":"1993-06-22 20:09:26","size":68},
+  {"hash":"1cbf88d3a2d4bde1022a4b081040998f","path":"/GARDEN.ZIP/GRID.VB_","attr":"0x40","date":"1993-04-28 00:00:00","size":27658},
+  {"hash":"13d883369329919352a90ac2bd37eb69","path":"/GARDEN.ZIP/README.TX_","attr":"0x40","date":"1993-06-26 08:18:28","size":759},
+  {"hash":"ed44e5054a04eab26619414cf1f2864c","path":"/GARDEN.ZIP/SAMPLE.SA_","attr":"0x40","date":"1993-06-20 19:57:52","size":848},
+  {"hash":"a800d037bb5be8736c734b3064e8d649","path":"/GARDEN.ZIP/SAMPLE.VE_","attr":"0x40","date":"1993-06-25 17:46:12","size":682},
+  {"hash":"7468ea86564671173d9005b28b04c02f","path":"/GARDEN.ZIP/SETUP.EXE","attr":"0x40","date":"1993-04-28 00:00:00","size":15312},
+  {"hash":"185dc60612c4c2f882ebbd94de9aa5f2","path":"/GARDEN.ZIP/SETUP.LST","attr":"0x40","date":"1993-06-28 08:28:24","size":49},
+  {"hash":"d367a9d4d0f9d6a2e6c7ba52419d7573","path":"/GARDEN.ZIP/SETUP1.EX_","attr":"0x40","date":"1993-06-28 08:29:04","size":13513},
+  {"hash":"0687459342092e28f8d30d7c567775be","path":"/GARDEN.ZIP/SETUPKIT.DL_","attr":"0x40","date":"1993-04-28 00:00:00","size":3657},
+  {"hash":"d022d32a7bcb0b54c34bd687ac00564c","path":"/GARDEN.ZIP/VER.DL_","attr":"0x40","date":"1992-03-10 03:10:00","size":9008}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

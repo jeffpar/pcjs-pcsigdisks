@@ -35,7 +35,22 @@
   {"hash":"98b8f0b2c90681560b4b6062d5a74ea7","path":"/LOGIT302.ARC","attr":"0x20","date":"1989-01-22 15:05:20","size":226287},
   {"hash":"0b7d169df06549155c5a2105bd4c36b4","path":"/README","attr":"0x20","date":"1989-01-22 15:21:42","size":675},
   {"hash":"0306f826980ca73dcdb90a67e72bc36b","path":"/GO.BAT","attr":"0x20","date":"1992-05-27 03:48:36","size":40},
-  {"hash":"b512206e561a01ce0b2b5181fbd1f7e9","path":"/FILE3084.TXT","attr":"0x20","date":"1992-08-27 06:09:22","size":821}
+  {"hash":"b512206e561a01ce0b2b5181fbd1f7e9","path":"/FILE3084.TXT","attr":"0x20","date":"1992-08-27 06:09:22","size":821},
+  {"hash":"f83b867de7802be4d4b77009db79edfe","path":"/LOGIT302.ARC/CLEANUP.BAT","attr":"0x40","date":"1989-01-22 12:00:00","size":509},
+  {"hash":"a40fa34a9663c252ff9cea5e3ebd0989","path":"/LOGIT302.ARC/ERROR.TXT","attr":"0x40","date":"1989-01-22 12:00:00","size":7280},
+  {"hash":"34b50e9a73028c64aac3fe64496cc8fd","path":"/LOGIT302.ARC/LOGIT.COM","attr":"0x40","date":"1989-01-22 12:00:00","size":7344},
+  {"hash":"910d074675d1fa6fcdb8ea16cc033738","path":"/LOGIT302.ARC/LOGIT302.DOC","attr":"0x40","date":"1989-01-22 12:00:00","size":64395},
+  {"hash":"f5a03364ed6d99409cc07cf71c5b3a98","path":"/LOGIT302.ARC/LOGITDMP.EXE","attr":"0x40","date":"1989-01-22 12:00:00","size":16313},
+  {"hash":"375ac7c42fee2ecb6e0d5fe480c5863c","path":"/LOGIT302.ARC/LOGITRPT.EXE","attr":"0x40","date":"1989-01-22 12:00:00","size":238266},
+  {"hash":"bcec36d4c3e130b4d79a473135847bfd","path":"/LOGIT302.ARC/PRINTDOC.BAT","attr":"0x40","date":"1989-01-22 12:00:00","size":297},
+  {"hash":"6c66ba86a8d753dbbb018009906da409","path":"/LOGIT302.ARC/README.1ST","attr":"0x40","date":"1989-01-22 12:00:00","size":2248},
+  {"hash":"5931ba36a3cad6e57fe64c8823a218c7","path":"/LOGIT302.ARC/V3CFG.DBF","attr":"0x40","date":"1989-01-22 12:00:00","size":1351},
+  {"hash":"a2cb3e1af0b9bed6a13906bdc581e645","path":"/LOGIT302.ARC/V3DB1FMT.DBF","attr":"0x40","date":"1989-01-22 12:00:00","size":322},
+  {"hash":"8f8250b954f0533c612218e55e7192d5","path":"/LOGIT302.ARC/V3DB2FMT.DBF","attr":"0x40","date":"1989-01-22 12:00:00","size":578},
+  {"hash":"0cdbcdcf81a58cd82f1e4be4d432df8d","path":"/LOGIT302.ARC/V3DB3FMT.DBF","attr":"0x40","date":"1989-01-22 12:00:00","size":290},
+  {"hash":"8f57cb830a71e2b7eab24add6fd91579","path":"/LOGIT302.ARC/V3PRNT.MEM","attr":"0x40","date":"1989-01-22 12:00:00","size":153},
+  {"hash":"a4e74c4449b5dd5373b41e8267eb7a19","path":"/LOGIT302.ARC/V3RPT.FRM","attr":"0x40","date":"1989-01-22 12:00:00","size":1990},
+  {"hash":"27373b0b619b3653a5d85be60b18d347","path":"/LOGIT302.ARC/V3RPTD.FRM","attr":"0x40","date":"1989-01-22 12:00:00","size":1990}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

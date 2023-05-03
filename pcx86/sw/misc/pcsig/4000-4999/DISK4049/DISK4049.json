@@ -39,7 +39,13 @@
   {"hash":"1710045e66398c8ea196722a687ead0a","path":"/PKUNZIP.EXE","attr":"0x20","date":"1993-02-01 02:04:16","size":29378},
   {"hash":"00fff50cd6a785d56a4fac606d285042","path":"/PCSIG.TXT","attr":"0x20","date":"1993-06-01 14:31:30","size":2329},
   {"hash":"6162087334ed98bb273acaaa6ca85d40","path":"/SHAREMAG.TXT","attr":"0x20","date":"1993-06-01 14:32:04","size":1831},
-  {"hash":"54964d989c90644e40ac21508c12ff5d","path":"/CDROM.TXT","attr":"0x20","date":"1993-06-01 15:26:44","size":8196}
+  {"hash":"54964d989c90644e40ac21508c12ff5d","path":"/CDROM.TXT","attr":"0x20","date":"1993-06-01 15:26:44","size":8196},
+  {"hash":"4ae6f2c955d68ce056fd423ce179e7fc","path":"/GOLDWAVE.ZIP/BWCC.DLL","attr":"0x40","date":"1992-06-10 03:10:00","size":130224},
+  {"hash":"d07ca411e69344e5ed5bb6dae1610600","path":"/GOLDWAVE.ZIP/GOLDWAVE.EXE","attr":"0x40","date":"1993-04-30 01:00:00","size":392192},
+  {"hash":"8f1ae6d345314b9c060a33b15bb09ed9","path":"/GOLDWAVE.ZIP/GOLDWAVE.HLP","attr":"0x40","date":"1993-04-30 01:00:00","size":27131},
+  {"hash":"e01cb16dba53aaf07a624d7b51eafcd1","path":"/GOLDWAVE.ZIP/GOLDWAVE.WRI","attr":"0x40","date":"1993-04-30 01:00:00","size":62080},
+  {"hash":"cf141c110615d30d701a2bb1782656f0","path":"/GOLDWAVE.ZIP/README.TXT","attr":"0x40","date":"1993-04-30 01:00:00","size":2831},
+  {"hash":"9d2e76637a5e6001a250135e21d2f664","path":"/GOLDWAVE.ZIP/REGISTER.TXT","attr":"0x40","date":"1993-04-30 01:00:00","size":969}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

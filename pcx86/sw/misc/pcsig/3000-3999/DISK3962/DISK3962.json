@@ -31,7 +31,20 @@
  }
 ],
 "fileTable": [
-  {"hash":"3898edc28dbe03f2b4a8d13f64c2b0a9","path":"/TTEACH.ZIP","attr":"0x20","date":"1993-08-11 16:12:30","size":164016}
+  {"hash":"3898edc28dbe03f2b4a8d13f64c2b0a9","path":"/TTEACH.ZIP","attr":"0x20","date":"1993-08-11 16:12:30","size":164016},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/TTEACH.ZIP/123-SB.EXE","attr":"0x40","date":"1993-02-16 13:02:30"},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/TTEACH.ZIP/FILE_ID.DIZ","attr":"0x40","date":"1993-02-16 13:02:30"},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/TTEACH.ZIP/INSTALL.BAT","attr":"0x40","date":"1993-02-16 13:02:30"},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/TTEACH.ZIP/INSTALLC.BAT","attr":"0x40","date":"1993-02-16 13:02:30"},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/TTEACH.ZIP/INSTALLD.BAT","attr":"0x40","date":"1993-02-16 13:02:30"},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/TTEACH.ZIP/KEY.EXE","attr":"0x40","date":"1993-02-16 13:02:30"},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/TTEACH.ZIP/MANUAL-1.EXE","attr":"0x40","date":"1993-02-16 13:02:30"},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/TTEACH.ZIP/MANUAL.EXE","attr":"0x40","date":"1992-11-02 03:59:06"},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/TTEACH.ZIP/README.DOC","attr":"0x40","date":"1993-02-16 13:02:30"},
+  {"hash":"5fc82a34f5081b2e8d6ff426f2e5fbe3","path":"/TTEACH.ZIP/README.SDA","attr":"0x40","date":"1993-02-16 13:02:30","size":2381},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/TTEACH.ZIP/TEACH-1.EXE","attr":"0x40","date":"1993-02-16 13:02:30"},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/TTEACH.ZIP/TEACH-2.EXE","attr":"0x40","date":"1993-02-16 13:02:30"},
+  {"hash":"3613747ec7da0a0b5d3783a59439e3f2","path":"/TTEACH.ZIP/VGA-DEMO.EXE","attr":"0x40","date":"1993-02-16 13:02:30","size":136686}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

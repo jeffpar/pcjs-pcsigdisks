@@ -40,7 +40,18 @@
   {"hash":"60d4f1b906a2ef61b19b2b6879cdceff","path":"/GO-FORM.DAT","attr":"0x20","date":"1992-06-29 15:26:14","size":3109},
   {"hash":"50a9bebc04def1039fd28762e703a0fc","path":"/GO-STRT.DAT","attr":"0x20","date":"1992-11-04 15:58:26","size":533},
   {"hash":"be8cbfdeedb0e71dad23919b636fc03c","path":"/SIGORDER.TXT","attr":"0x20","date":"1992-06-25 14:28:24","size":3332},
-  {"hash":"b3ce13d36a221677029ebd6198c6ed0b","path":"/LIST.COM","attr":"0x20","date":"1990-09-05 08:04:36","size":20951}
+  {"hash":"b3ce13d36a221677029ebd6198c6ed0b","path":"/LIST.COM","attr":"0x20","date":"1990-09-05 08:04:36","size":20951},
+  {"hash":"553f46e9b7ce1ea1d039a9d6d46e5e0a","path":"/RECAP.ZIP/ASKHOW.EXE","attr":"0x40","date":"1992-03-17 00:00:00","size":20427},
+  {"hash":"362ed94c189c1ffdc22cb3c72976ecf8","path":"/RECAP.ZIP/CATALOG.EXE","attr":"0x40","date":"1992-04-01 13:46:44","size":13117},
+  {"hash":"39b31ead9e76d30f5f2cdefaad2b817f","path":"/RECAP.ZIP/FILE_ID.DIZ","attr":"0x40","date":"1992-06-25 17:28:48","size":287},
+  {"hash":"9ea5195c8befe22942c7cb66a9804207","path":"/RECAP.ZIP/PACKING.LST","attr":"0x40","date":"1992-05-05 12:52:42","size":963},
+  {"hash":"cd440bec17ec94719428951c2051a5d7","path":"/RECAP.ZIP/RECAINFO.DOC","attr":"0x40","date":"1992-06-25 17:28:20","size":26122},
+  {"hash":"074773900e29dc21772dfdbdad26a218","path":"/RECAP.ZIP/RECAP.DBF","attr":"0x40","date":"1992-03-17 00:00:00","size":215},
+  {"hash":"457051b0e9443d0a162b6a09b7d28571","path":"/RECAP.ZIP/RECAP.EXE","attr":"0x40","date":"1992-06-25 17:32:18","size":111331},
+  {"hash":"ae458615c3b4dc2e58db3c10dc5b8304","path":"/RECAP.ZIP/RECAPDOC.EXE","attr":"0x40","date":"1992-06-25 17:32:20","size":7934},
+  {"hash":"bb0aed5c48a72f100be49550e0e4cf17","path":"/RECAP.ZIP/UPDATE.DOC","attr":"0x40","date":"1992-06-25 17:29:10","size":69},
+  {"hash":"68d8f5d5e4124ba07cac38a482b789bc","path":"/RECAP.ZIP/VENDOR.DOC","attr":"0x40","date":"1992-06-25 17:28:38","size":7996},
+  {"hash":"59b690b89fdf071c86b0f158bbf6a003","path":"/RECAP.ZIP/WHATWARE.EXE","attr":"0x40","date":"1992-03-17 00:00:00","size":20057}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

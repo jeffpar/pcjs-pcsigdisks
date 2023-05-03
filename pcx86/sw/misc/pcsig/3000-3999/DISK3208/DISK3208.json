@@ -40,7 +40,22 @@
   {"hash":"ac59721e63d40835485f7b689782b602","path":"/GO-STRT.DAT","attr":"0x20","date":"1992-08-31 09:01:18","size":536},
   {"hash":"be8cbfdeedb0e71dad23919b636fc03c","path":"/SIGORDER.TXT","attr":"0x20","date":"1992-06-25 14:28:24","size":3332},
   {"hash":"b3ce13d36a221677029ebd6198c6ed0b","path":"/LIST.COM","attr":"0x20","date":"1990-09-05 08:04:36","size":20951},
-  {"hash":"9ec432a51045aebea2d6ac7cdc50a31d","path":"/CONTACT.ZIP","attr":"0x20","date":"1992-10-03 10:49:26","size":225239}
+  {"hash":"9ec432a51045aebea2d6ac7cdc50a31d","path":"/CONTACT.ZIP","attr":"0x20","date":"1992-10-03 10:49:26","size":225239},
+  {"hash":"fc1818531d37bbd7d48153c1526ca474","path":"/CONTACT.ZIP/APF.TXT","attr":"0x40","date":"1992-10-15 08:00:02","size":680},
+  {"hash":"73888a3d18e811c39280f70a24ea11bf","path":"/CONTACT.ZIP/CONTACT.EXE","attr":"0x40","date":"1992-10-15 08:00:02","size":276806},
+  {"hash":"0cbb89747461aa0592e870b17047d2b6","path":"/CONTACT.ZIP/CONTACT.HLP","attr":"0x40","date":"1992-10-15 08:00:02","size":70189},
+  {"hash":"43c7615d10246f752902f8ed8723fa50","path":"/CONTACT.ZIP/DEFAULT.TXT","attr":"0x40","date":"1992-10-15 08:00:02","size":99},
+  {"hash":"da3d3369c54f53350d47d146939717d8","path":"/CONTACT.ZIP/FILEASSC.EXE","attr":"0x40","date":"1992-10-15 08:00:02","size":26015},
+  {"hash":"cdd3d1fee70c75e88e5bf1729168da58","path":"/CONTACT.ZIP/INSTALL.EXE","attr":"0x40","date":"1992-10-15 08:00:02","size":53605},
+  {"hash":"09715b9765794d3b294c82a174353059","path":"/CONTACT.ZIP/NOTICE.TXT","attr":"0x40","date":"1992-10-15 08:00:02","size":1735},
+  {"hash":"1de4e371a8454b3abbbca0245d09d346","path":"/CONTACT.ZIP/PERSONAL.EXE","attr":"0x40","date":"1992-10-15 08:00:02","size":12361},
+  {"hash":"d91adf0939f9067e5f52f217c398ee6a","path":"/CONTACT.ZIP/QUESTION.TXT","attr":"0x40","date":"1992-10-15 08:00:02","size":1890},
+  {"hash":"1402a3fd544896a75f4e17c8a11fd483","path":"/CONTACT.ZIP/README.TXT","attr":"0x40","date":"1992-10-15 08:00:02","size":2625},
+  {"hash":"ffe8be415fd2913ce516c29011ccb07c","path":"/CONTACT.ZIP/REG.EXE","attr":"0x40","date":"1992-10-15 08:00:02","size":45365},
+  {"hash":"4f2711ed96f0a0bbfeb163605a62bb80","path":"/CONTACT.ZIP/REGISTER.TXT","attr":"0x40","date":"1992-10-15 08:00:02","size":3229},
+  {"hash":"e2c4b4b1825adcb51eaa6c14dc368db7","path":"/CONTACT.ZIP/REVIEWR.TXT","attr":"0x40","date":"1992-10-15 08:00:02","size":4848},
+  {"hash":"6b5311ad2c3982e47447ee77598f0931","path":"/CONTACT.ZIP/SUPPORT.TXT","attr":"0x40","date":"1992-10-15 08:00:02","size":1320},
+  {"hash":"51fab37447e562f04e37fd928563229b","path":"/CONTACT.ZIP/VENDOR.TXT","attr":"0x40","date":"1992-10-15 08:00:02","size":5680}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

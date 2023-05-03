@@ -35,7 +35,17 @@
   {"hash":"9a77d91b8ff286bf17ab54726f9cd2df","path":"/PKUNZIP.EXE","attr":"0x20","date":"1991-01-16 12:38:50","size":23536},
   {"hash":"e327a5242f1665ec9603d8d37bd2072b","path":"/FILE3016.TXT","attr":"0x20","date":"1992-05-01 15:31:22","size":3183},
   {"hash":"47dc00b32166e3d689bab918d6137272","path":"/GO.TXT","attr":"0x20","date":"1980-01-01 02:11:38","size":1617},
-  {"hash":"09c8206644019d4d3b0348a3cdff02d3","path":"/GO.BAT","attr":"0x20","date":"1991-01-31 00:58:08","size":38}
+  {"hash":"09c8206644019d4d3b0348a3cdff02d3","path":"/GO.BAT","attr":"0x20","date":"1991-01-31 00:58:08","size":38},
+  {"hash":"5e7266335346bfd2a195a90478f937fc","path":"/SFW11AP2.ZIP/PACKING.P2","attr":"0x40","date":"1992-04-30 01:10:00","size":688},
+  {"hash":"7f01e876f4ce6dfcefd8fc83aaa247eb","path":"/SFW11AP2.ZIP/PATTERN.DOC","attr":"0x40","date":"1992-04-30 01:10:00","size":6290},
+  {"hash":"2fd3239393e9efe62304e1083545a610","path":"/SFW11AP2.ZIP/PATTERN.EXE","attr":"0x40","date":"1992-04-30 01:10:00","size":11552},
+  {"hash":"6886dcffdbcbdc5423db7428a44ad9e5","path":"/SFW11AP2.ZIP/SFCONFIG.EXE","attr":"0x40","date":"1992-04-30 01:10:00","size":42864},
+  {"hash":"1b4debb779bbdcc590a99f08c1da2c9e","path":"/SFW11AP2.ZIP/SFDIR.EXE","attr":"0x40","date":"1992-04-30 01:10:00","size":53104},
+  {"hash":"80f5b3b5eff917a4c844a430780c833a","path":"/SFW11AP2.ZIP/SFFX.EXE","attr":"0x40","date":"1992-04-30 01:10:00","size":136661},
+  {"hash":"643959a04bcdaf4e99183b483e11bb2b","path":"/SFW11AP2.ZIP/SFINFO.EXE","attr":"0x40","date":"1992-04-30 01:10:00","size":149104},
+  {"hash":"64f8aa8fcbfbeefc07e0e47cd5dccde1","path":"/SFW11AP2.ZIP/SFSHOW.EXE","attr":"0x40","date":"1992-04-30 01:10:00","size":97264},
+  {"hash":"4fdd650490845175acc2845c27cd7ae9","path":"/SFW11AP2.ZIP/SFVIEW.EXE","attr":"0x40","date":"1992-04-30 01:10:00","size":100960},
+  {"hash":"f847805e0fe64f5f5173e25d23bf9e2f","path":"/SFW11AP2.ZIP/SPS-REG.EXE","attr":"0x40","date":"1992-04-30 01:10:00","size":17216}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

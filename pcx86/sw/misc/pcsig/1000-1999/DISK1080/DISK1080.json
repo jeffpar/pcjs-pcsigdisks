@@ -37,7 +37,22 @@
   {"hash":"0d8ec2e2db7b193807e93bdfad415ce5","path":"/FM2UTL20.ARC","attr":"0x20","date":"1988-11-21 23:53:26","size":108550},
   {"hash":"c80efb723cabaecf666b1ee7e42ada28","path":"/GO.BAT","attr":"0x20","date":"1988-06-02 10:11:06","size":38},
   {"hash":"5433b88108462c09e3ea14838735895d","path":"/GO.TXT","attr":"0x20","date":"1989-06-27 15:59:02","size":771},
-  {"hash":"815105fc97d163d8ad2dc8f0759dae7f","path":"/PKXARC.COM","attr":"0x20","date":"1987-03-01 01:25:00","size":12242}
+  {"hash":"815105fc97d163d8ad2dc8f0759dae7f","path":"/PKXARC.COM","attr":"0x20","date":"1987-03-01 01:25:00","size":12242},
+  {"hash":"0b0fc4f2992d1c5250b0a9272803eff7","path":"/FM2CMP20.ARC/M2ED.CFG","attr":"0x40","date":"1988-11-21 23:59:04","size":399},
+  {"hash":"61a98bf22d41e8dd8397cfeb27cad51e","path":"/FM2CMP20.ARC/MC.EXE","attr":"0x40","date":"1988-11-29 00:35:32","size":277309},
+  {"hash":"1509502d29d639e2e7e3020cde8fb824","path":"/FM2DOC20.ARC/BADSIEV1.MOD","attr":"0x40","date":"1987-07-04 00:52:10","size":865},
+  {"hash":"1df4c61303917ca41397940015ea7520","path":"/FM2DOC20.ARC/BADSIEV2.MOD","attr":"0x40","date":"1987-07-04 00:53:00","size":869},
+  {"hash":"4289f939e79e6f3ee6aa124a7578e121","path":"/FM2DOC20.ARC/BADSIEVE.MOD","attr":"0x40","date":"1987-06-27 16:16:32","size":864},
+  {"hash":"e8d5fda57a7726fb4d776fdc426d1232","path":"/FM2DOC20.ARC/FMODULA2.DOC","attr":"0x40","date":"1988-11-21 23:11:06","size":93701},
+  {"hash":"398e571d8751f526821f921de05baa13","path":"/FM2DOC20.ARC/M2ED.HLP","attr":"0x40","date":"1988-11-21 03:03:58","size":2069},
+  {"hash":"83faaf6069fa3f8936c0a93e5db94e2c","path":"/FM2DOC20.ARC/READ.ME","attr":"0x40","date":"1988-11-30 20:56:16","size":9864},
+  {"hash":"dd7e7abbe716ff21637b90fcfc76ee35","path":"/FM2DOC20.ARC/SIEVE.MOD","attr":"0x40","date":"1987-06-21 19:38:16","size":873},
+  {"hash":"4e841adb394a4508c334767290dde5fe","path":"/FM2UTL20.ARC/DBG2MAP.EXE","attr":"0x40","date":"1988-11-21 23:53:54","size":20869},
+  {"hash":"7426a496612b92e3736d50a8e7cb57d9","path":"/FM2UTL20.ARC/EDCONFIG.EXE","attr":"0x40","date":"1988-11-21 23:42:48","size":24493},
+  {"hash":"f24a64401b04fe210428df10736b0de4","path":"/FM2UTL20.ARC/GENLINK.EXE","attr":"0x40","date":"1988-11-21 23:53:50","size":18955},
+  {"hash":"a648676fcd347be4d6932c4f55779d2b","path":"/FM2UTL20.ARC/GENMAKE.EXE","attr":"0x40","date":"1988-11-21 23:53:52","size":25921},
+  {"hash":"0a864094703a4859e7f724d8c526ab30","path":"/FM2UTL20.ARC/M2LINK.EXE","attr":"0x40","date":"1988-11-21 23:50:30","size":43969},
+  {"hash":"3a435f4a1270fe991b89eb7d7903773d","path":"/FM2UTL20.ARC/M2PROF.EXE","attr":"0x40","date":"1988-11-21 23:53:50","size":24375}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

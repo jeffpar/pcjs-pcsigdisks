@@ -34,7 +34,22 @@
   {"hash":"4608eb359b2d44a78cbcf46123023692","path":"/BRIDGE.ZIP","attr":"0x20","date":"1993-05-22 16:47:18","size":191310},
   {"hash":"1710045e66398c8ea196722a687ead0a","path":"/PKUNZIP.EXE","attr":"0x20","date":"1993-02-01 02:04:16","size":29378},
   {"hash":"b1af38b5920642aab086ee194326eb07","path":"/GO.TXT","attr":"0x20","date":"1993-06-03 10:58:50","size":1463},
-  {"hash":"991e541709e454d38689b9734586d013","path":"/GO.BAT","attr":"0x20","date":"1992-06-04 02:25:00","size":31}
+  {"hash":"991e541709e454d38689b9734586d013","path":"/GO.BAT","attr":"0x20","date":"1992-06-04 02:25:00","size":31},
+  {"hash":"f96dd47cd32a9fe8083fb195db0f3d13","path":"/BRIDGE.ZIP/18PLUS.GIG","attr":"0x40","date":"1992-10-06 13:17:30","size":2156},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/BRIDGE.ZIP/BRIDGE.EX_","attr":"0x40","date":"1992-09-07 09:13:40"},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/BRIDGE.ZIP/BRIDGE.HL_","attr":"0x40","date":"1992-07-11 15:22:28"},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/BRIDGE.ZIP/BRIDGE.WR_","attr":"0x40","date":"1992-07-11 14:41:00"},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/BRIDGE.ZIP/MDICHILD.VB_","attr":"0x40","date":"1992-03-20 15:02:12"},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/BRIDGE.ZIP/PREF.YMA","attr":"0x40","date":"1992-10-15 11:55:42"},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/BRIDGE.ZIP/README.TXT","attr":"0x40","date":"1992-07-11 14:33:56"},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/BRIDGE.ZIP/SETUP.EXE","attr":"0x40","date":"1992-03-20 15:02:52"},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/BRIDGE.ZIP/SETUP.LST","attr":"0x40","date":"1992-07-10 07:56:54"},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/BRIDGE.ZIP/SETUP1.EXE","attr":"0x40","date":"1992-07-11 17:21:26"},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/BRIDGE.ZIP/SETUPKIT.DL_","attr":"0x40","date":"1992-03-20 15:02:54"},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/BRIDGE.ZIP/SUMMARY.TXT","attr":"0x40","date":"1992-07-09 17:05:10"},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/BRIDGE.ZIP/THREED.VB_","attr":"0x40","date":"1992-08-20 00:00:00"},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/BRIDGE.ZIP/VBRUN100.DL_","attr":"0x40","date":"1991-05-10 01:00:00"},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/BRIDGE.ZIP/VER.DL_","attr":"0x40","date":"1992-03-20 15:02:54"}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

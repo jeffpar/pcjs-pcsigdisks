@@ -40,7 +40,16 @@
   {"hash":"cf0e2dfcebc4bc65595a8b3fa793c788","path":"/GO.EXE","attr":"0x20","date":"1992-01-10 12:14:02","size":26022},
   {"hash":"1710045e66398c8ea196722a687ead0a","path":"/PKUNZIP.EXE","attr":"0x20","date":"1993-02-01 02:04:16","size":29378},
   {"hash":"f9e76776cca2dc98a3e8dc732fa74da4","path":"/PCSIG.TXT","attr":"0x20","date":"1993-09-24 13:59:00","size":2319},
-  {"hash":"6162087334ed98bb273acaaa6ca85d40","path":"/SHAREMAG.TXT","attr":"0x20","date":"1993-06-01 14:32:04","size":1831}
+  {"hash":"6162087334ed98bb273acaaa6ca85d40","path":"/SHAREMAG.TXT","attr":"0x20","date":"1993-06-01 14:32:04","size":1831},
+  {"hash":"5cc5fee07c842d2919f54807a171c6cc","path":"/APPLMATH.ZIP/APPLMATH.EXE","attr":"0x40","date":"1993-05-04 18:37:34","size":82193},
+  {"hash":"1e8ff972dc7d232db307114d24859a9e","path":"/APPLMATH.ZIP/APPLMATH.HLP","attr":"0x40","date":"1993-04-26 17:01:54","size":20576},
+  {"hash":"4ff4180159ddb1c6e37c0444312e55f3","path":"/APPLMATH.ZIP/APPLMATH.INI","attr":"0x40","date":"1993-04-26 22:12:36","size":58},
+  {"hash":"a4ba7f9d765bc7b7ab45c9078f968488","path":"/APPLMATH.ZIP/FILE_ID.DIZ","attr":"0x40","date":"1993-08-08 15:32:58","size":398},
+  {"hash":"28b9196a80e7154569d6d4057b54de14","path":"/APPLMATH.ZIP/README.WRI","attr":"0x40","date":"1993-04-26 22:15:30","size":2560},
+  {"hash":"03a69cdabc6c2d1c30623c01e012fc8b","path":"/APPLMATH.ZIP/WINPLAY.DLL","attr":"0x40","date":"1992-03-21 23:03:22","size":2304},
+  {"hash":"142abfe070ba2f6a35809d4248b55579","path":"/DANNY.ZIP/DANNY.EXE","attr":"0x40","date":"1992-11-08 23:52:00","size":150625},
+  {"hash":"758f9d1a2abd3c11435dd2fc034c7f28","path":"/DANNY.ZIP/DANNYDOC.LRG","attr":"0x40","date":"1992-10-03 17:12:48","size":1677},
+  {"hash":"21be315435eb68c2b0f8bc0b574cb513","path":"/DANNY.ZIP/DANNYDOC.SML","attr":"0x40","date":"1992-09-01 15:09:32","size":186}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

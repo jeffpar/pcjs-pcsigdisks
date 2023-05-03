@@ -39,7 +39,22 @@
   {"hash":"599aa83910c7f22be067d861b26103f5","path":"/INSTALL.BAT","attr":"0x20","date":"1988-04-04 10:00:00","size":969},
   {"hash":"92e8aa5c156570bed1350da9c645dfc2","path":"/JOBS31B0.ARC","attr":"0x20","date":"1988-02-03 08:52:00","size":4992},
   {"hash":"c9e2242f4c33ae8cf1c31bf18827cce3","path":"/JOBS31B1.ARC","attr":"0x20","date":"1988-02-02 20:19:04","size":149504},
-  {"hash":"0d58c0b55274ac0812a4dd8a3316cccb","path":"/JOBS31B2.ARC","attr":"0x20","date":"1988-02-02 20:43:14","size":160768}
+  {"hash":"0d58c0b55274ac0812a4dd8a3316cccb","path":"/JOBS31B2.ARC","attr":"0x20","date":"1988-02-02 20:43:14","size":160768},
+  {"hash":"9c0247710acebfa69323db1edd6cd35b","path":"/JOBS31B0.ARC/JOBS31B0.TXT","attr":"0x40","date":"1988-02-02 19:55:48","size":9884},
+  {"hash":"b4d112490dbb4c569886f0a2add704af","path":"/JOBS31B1.ARC/CHANGES.TXT","attr":"0x40","date":"1988-01-18 03:23:44","size":1408},
+  {"hash":"695be8b051364c3cad459e54117393a3","path":"/JOBS31B1.ARC/CONTACT1.DOC","attr":"0x40","date":"1988-01-18 02:33:42","size":992},
+  {"hash":"93b0f0bc473c4f4715128bbfa4135b3a","path":"/JOBS31B1.ARC/JERR-SW.HLP","attr":"0x40","date":"1988-01-16 12:37:02","size":16037},
+  {"hash":"6df2608ee2599b3d4191a7da66fd9f50","path":"/JOBS31B1.ARC/JMAC-SW.JM","attr":"0x40","date":"1988-01-16 23:29:18","size":19648},
+  {"hash":"006b282a6ab2e452bfdce6228513ae5b","path":"/JOBS31B1.ARC/JOBS-SW.EXE","attr":"0x40","date":"1988-01-16 23:26:16","size":70144},
+  {"hash":"b066706ff4264c06fa3e900e610d54a6","path":"/JOBS31B1.ARC/JOBS-SW.OV","attr":"0x40","date":"1988-01-16 23:26:02","size":87318},
+  {"hash":"e5e75327569465d88537b1de0199620e","path":"/JOBS31B1.ARC/READ.1ST","attr":"0x40","date":"1987-11-04 10:56:52","size":1063},
+  {"hash":"695be8b051364c3cad459e54117393a3","path":"/JOBS31B2.ARC/CONTACT2.DOC","attr":"0x40","date":"1988-01-18 02:33:42","size":992},
+  {"hash":"3825b033f378626e6fb44dbba56343fb","path":"/JOBS31B2.ARC/JINST-SW.JM","attr":"0x40","date":"1988-01-17 03:17:14","size":30352},
+  {"hash":"1ce1cf185dbd68c72728ed52db5912f0","path":"/JOBS31B2.ARC/JOBS-SW.DOC","attr":"0x40","date":"1988-01-16 22:22:10","size":160238},
+  {"hash":"9784d82bfa817356db808ad9b73163d7","path":"/JOBS31B2.ARC/JOBS-SW.HLP","attr":"0x40","date":"1988-01-16 23:21:00","size":114083},
+  {"hash":"3d56ba69729dbd97ad6e2728d040da62","path":"/JOBS31B2.ARC/JREAD-SW.ME","attr":"0x40","date":"1988-01-18 01:44:16","size":19425},
+  {"hash":"4496902e83333ff01dc9f7caf1dd9d40","path":"/JOBS31B2.ARC/SAMPMENU.JM","attr":"0x40","date":"1988-01-16 12:47:02","size":1755},
+  {"hash":"47e85242dbe5228895552c34ecf6cb5e","path":"/JOBS31B2.ARC/SMENU.JMT","attr":"0x40","date":"1987-11-01 09:00:00","size":3854}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

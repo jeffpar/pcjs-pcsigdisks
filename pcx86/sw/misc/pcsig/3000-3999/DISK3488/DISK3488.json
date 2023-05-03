@@ -42,7 +42,19 @@
   {"hash":"f5d0fa49b21234be778faa3b8ce06593","path":"/PKUNZIP.EXE","attr":"0x20","date":"1990-03-15 01:10:00","size":23528},
   {"hash":"165943e09144baca6a887b0a098ecdc2","path":"/PCSIG.TXT","attr":"0x20","date":"1993-02-10 08:50:48","size":2335},
   {"hash":"f64229401e7cfecdad01902cb922cd5c","path":"/SHAREMAG.TXT","attr":"0x20","date":"1992-01-21 06:11:00","size":1837},
-  {"hash":"ed27a6cac153a50bd7a98d619ccb48c2","path":"/CDROM.TXT","attr":"0x20","date":"1993-03-18 13:28:48","size":4874}
+  {"hash":"ed27a6cac153a50bd7a98d619ccb48c2","path":"/CDROM.TXT","attr":"0x20","date":"1993-03-18 13:28:48","size":4874},
+  {"hash":"3af07858e2523ea4fa7e6090ded5f131","path":"/ENVEL231.ZIP/ENVELOPE.CRD","attr":"0x40","date":"1992-10-01 02:31:00","size":271},
+  {"hash":"fa63ed8aaa1a97f8a216ae846fd07330","path":"/ENVEL231.ZIP/ENVELOPE.EXE","attr":"0x40","date":"1992-10-01 02:31:00","size":123250},
+  {"hash":"2347af9454cc76f3450c6b295493d303","path":"/ENVEL231.ZIP/ENVELOPE.HLP","attr":"0x40","date":"1992-10-01 02:31:00","size":27540},
+  {"hash":"8546da7472bf2995557b12f77ea24141","path":"/ENVEL231.ZIP/FILE_ID.DIZ","attr":"0x40","date":"1992-10-01 02:31:00","size":422},
+  {"hash":"b449a00e99f0e872c2e4622618a72f70","path":"/ENVEL231.ZIP/INSTALL.TXT","attr":"0x40","date":"1992-10-01 02:31:00","size":3067},
+  {"hash":"52594a90976ccf8f5af23f4c66295770","path":"/ENVEL231.ZIP/INSTALL.WRI","attr":"0x40","date":"1992-10-01 02:31:00","size":4096},
+  {"hash":"e41a5a7f7a098b14398b840f4a84a3ed","path":"/ENVEL231.ZIP/PE-MACRO.DOC","attr":"0x40","date":"1992-10-01 02:31:00","size":3991},
+  {"hash":"dc0792ad64d258d0f5691feecbab00be","path":"/ENVEL231.ZIP/PRINTENV.DLL","attr":"0x40","date":"1992-10-01 02:31:00","size":5120},
+  {"hash":"14d98e5391669604f70e4e89ddfabf12","path":"/ENVEL231.ZIP/SAMPLE1.BMP","attr":"0x40","date":"1992-10-01 02:31:00","size":1270},
+  {"hash":"bdb6e8981c6cc30cd8dc70ffb7727bb4","path":"/ENVEL231.ZIP/SAMPLE2.BMP","attr":"0x40","date":"1992-10-01 02:31:00","size":18494},
+  {"hash":"946dc6afe276a7c92edeaf2f8d0a5eb0","path":"/ENVEL231.ZIP/XMAS_SAM.BMP","attr":"0x40","date":"1992-10-01 02:31:00","size":33326},
+  {"hash":"127e75e5a9b93cfa4f964060d6f5bc8d","path":"/VBRUN.ZIP/VBRUN100.DLL","attr":"0x40","date":"1991-05-10 01:00:00","size":271264}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

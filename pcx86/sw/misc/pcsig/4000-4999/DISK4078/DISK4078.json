@@ -39,7 +39,18 @@
   {"hash":"1710045e66398c8ea196722a687ead0a","path":"/PKUNZIP.EXE","attr":"0x20","date":"1993-02-01 02:04:16","size":29378},
   {"hash":"00fff50cd6a785d56a4fac606d285042","path":"/PCSIG.TXT","attr":"0x20","date":"1993-06-01 14:31:30","size":2329},
   {"hash":"6162087334ed98bb273acaaa6ca85d40","path":"/SHAREMAG.TXT","attr":"0x20","date":"1993-06-01 14:32:04","size":1831},
-  {"hash":"54964d989c90644e40ac21508c12ff5d","path":"/CDROM.TXT","attr":"0x20","date":"1993-06-01 15:26:44","size":8196}
+  {"hash":"54964d989c90644e40ac21508c12ff5d","path":"/CDROM.TXT","attr":"0x20","date":"1993-06-01 15:26:44","size":8196},
+  {"hash":"033a0aa936403cd8abf56ac534cdc8eb","path":"/SCORCH.ZIP/FILE_ID.DIZ","attr":"0x40","date":"1992-12-17 13:22:02","size":319},
+  {"hash":"ffce251abc380a049e0508f975c9ebf0","path":"/SCORCH.ZIP/FIX.BAT","attr":"0x40","date":"1992-12-17 13:22:02","size":81},
+  {"hash":"a8af64c9380547dc2ddba907f231fab6","path":"/SCORCH.ZIP/ORDER.FRM","attr":"0x40","date":"1992-12-17 13:22:02","size":1756},
+  {"hash":"e471bd81cfa4c4965d10ba93b0a1bc1e","path":"/SCORCH.ZIP/README","attr":"0x40","date":"1992-12-17 13:22:02","size":7559},
+  {"hash":"7f331794e6b2f85ed361624a75663b4a","path":"/SCORCH.ZIP/SCORCH.CFG","attr":"0x40","date":"1992-12-17 13:22:02","size":5087},
+  {"hash":"4d0ee0f5be45e12812b40f09556c30d9","path":"/SCORCH.ZIP/SCORCH.DOC","attr":"0x40","date":"1992-12-17 13:22:02","size":129442},
+  {"hash":"29dccdabf5dcbf669b13593027eb6f39","path":"/SCORCH.ZIP/SCORCH.EXE","attr":"0x40","date":"1992-12-17 13:22:02","size":347136},
+  {"hash":"7f584a9e70ac5fa5d7a389842f3e2213","path":"/SCORCH.ZIP/SCORCH.ICO","attr":"0x40","date":"1992-12-17 13:22:02","size":766},
+  {"hash":"0936bfdccde1aa6cb5124dc2cdfe5c7b","path":"/SCORCH.ZIP/SCORCH.PIF","attr":"0x40","date":"1992-12-17 13:22:02","size":545},
+  {"hash":"b04d0275d32eb2647c3cfba002a0815a","path":"/SCORCH.ZIP/TALK1.CFG","attr":"0x40","date":"1992-12-17 13:22:02","size":1287},
+  {"hash":"73847fa9e966f9ae06dcebe820ea012b","path":"/SCORCH.ZIP/TALK2.CFG","attr":"0x40","date":"1992-12-17 13:22:02","size":1272}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

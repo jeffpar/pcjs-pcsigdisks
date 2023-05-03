@@ -40,7 +40,18 @@
   {"hash":"1710045e66398c8ea196722a687ead0a","path":"/PKUNZIP.EXE","attr":"0x20","date":"1993-02-01 02:04:16","size":29378},
   {"hash":"00fff50cd6a785d56a4fac606d285042","path":"/PCSIG.TXT","attr":"0x20","date":"1993-06-01 14:31:30","size":2329},
   {"hash":"6162087334ed98bb273acaaa6ca85d40","path":"/SHAREMAG.TXT","attr":"0x20","date":"1993-06-01 14:32:04","size":1831},
-  {"hash":"54964d989c90644e40ac21508c12ff5d","path":"/CDROM.TXT","attr":"0x20","date":"1993-06-01 15:26:44","size":8196}
+  {"hash":"54964d989c90644e40ac21508c12ff5d","path":"/CDROM.TXT","attr":"0x20","date":"1993-06-01 15:26:44","size":8196},
+  {"hash":"3ea0499ccdf67658eb2f28d751698b73","path":"/GIF2ICON.ZIP/GIF2ICON.DOC","attr":"0x40","date":"1990-07-28 09:13:42","size":3618},
+  {"hash":"9d9d3b1241c23446eca3cd6fd192af1b","path":"/GIF2ICON.ZIP/GIF2ICON.EXE","attr":"0x40","date":"1990-07-28 09:21:52","size":9320},
+  {"hash":"c914a42c88f2b3d27107456d9bf8abf4","path":"/GIF2ICON.ZIP/GIF2VCHK.DOC","attr":"0x40","date":"1990-08-09 22:09:32","size":1148},
+  {"hash":"ff1a89bad6b83f886366ac46b625d174","path":"/GIF2ICON.ZIP/PALETTE.GIF","attr":"0x40","date":"1990-07-28 09:32:16","size":304},
+  {"hash":"1969f3f210113e920823ea3b86539c97","path":"/GIF2ICON.ZIP/SAMPLE.GIF","attr":"0x40","date":"1990-07-27 15:57:40","size":292},
+  {"hash":"bea669255ffb42ee2bea08cd14ba4047","path":"/WNBROWSE.ZIP/BWCC.DLL","attr":"0x40","date":"1993-03-09 07:01:00","size":152304},
+  {"hash":"6e9e114665fd16698cbc2808ec4b1cd0","path":"/WNBROWSE.ZIP/README.NOW","attr":"0x40","date":"1993-03-24 15:52:56","size":2036},
+  {"hash":"9b1725c212fe374ae60e882dd21cf731","path":"/WNBROWSE.ZIP/WBFXTEN.DLL","attr":"0x40","date":"1993-03-15 12:19:02","size":10240},
+  {"hash":"839b1b7ae253b6caa29298c64113e5f8","path":"/WNBROWSE.ZIP/WNBROWSE.EXE","attr":"0x40","date":"1993-03-24 15:27:14","size":96480},
+  {"hash":"09422f5056e30da32d38119549d789a7","path":"/WNBROWSE.ZIP/WNBROWSE.HLP","attr":"0x40","date":"1993-03-23 17:05:06","size":24678},
+  {"hash":"1d1ed123460c89f1af6ab5b71f7b9a89","path":"/WNBROWSE.ZIP/WNBROWSE.TXT","attr":"0x40","date":"1993-03-23 21:24:12","size":26579}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

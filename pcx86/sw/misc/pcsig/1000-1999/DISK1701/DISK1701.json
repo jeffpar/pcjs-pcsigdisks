@@ -43,7 +43,16 @@
   {"hash":"ef8c2ef389425fac35b877473f50493b","path":"/PYREAD.COM","attr":"0x20","date":"1989-07-07 06:57:00","size":4200},
   {"hash":"37186d0c53d367b573076e2b48a3b5cd","path":"/PYREG","attr":"0x20","date":"1989-07-07 06:57:00","size":2048},
   {"hash":"3a09410fccbc08e667e842f9453e9a51","path":"/PYREPLY.COM","attr":"0x20","date":"1989-07-07 06:57:00","size":14},
-  {"hash":"749b2ff5b8c340f2fe970ffc526c18cd","path":"/PYSTART.BAT","attr":"0x20","date":"1989-07-07 06:57:00","size":682}
+  {"hash":"749b2ff5b8c340f2fe970ffc526c18cd","path":"/PYSTART.BAT","attr":"0x20","date":"1989-07-07 06:57:00","size":682},
+  {"hash":"2102f0762d80f9ca56beb34b6ce6665b","path":"/PYR302S.ARC/PYHD","attr":"0x40","date":"1989-07-07 06:57:00","size":516},
+  {"hash":"6c5eed3f72347815c0afb261cf862df1","path":"/PYR302S.ARC/PYINTRO","attr":"0x40","date":"1989-07-07 06:57:00","size":805},
+  {"hash":"73b10eee1d311f2275bd87e1e04b2fef","path":"/PYR302S.ARC/PYPRT","attr":"0x40","date":"1989-07-07 06:57:00","size":221},
+  {"hash":"739d3fb004ef2cab1ebf892c27a8bf5f","path":"/PYR302S.ARC/PYRAMID.DOC","attr":"0x40","date":"1989-07-07 06:57:00","size":25062},
+  {"hash":"ea26a765db89c79c18ed74423956a338","path":"/PYR302S.ARC/PYRAMID.EXE","attr":"0x40","date":"1989-07-07 06:57:00","size":57680},
+  {"hash":"ef8c2ef389425fac35b877473f50493b","path":"/PYR302S.ARC/PYREAD.COM","attr":"0x40","date":"1989-07-07 06:57:00","size":4200},
+  {"hash":"37186d0c53d367b573076e2b48a3b5cd","path":"/PYR302S.ARC/PYREG","attr":"0x40","date":"1989-07-07 06:57:00","size":2048},
+  {"hash":"3a09410fccbc08e667e842f9453e9a51","path":"/PYR302S.ARC/PYREPLY.COM","attr":"0x40","date":"1989-07-07 06:57:00","size":14},
+  {"hash":"2bbe4c4af7333b41729efa722aa0c4d2","path":"/PYR302S.ARC/PYSTART.BAT","attr":"0x40","date":"1989-07-07 06:57:00","size":634}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,65794,1073758210,130561,65544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

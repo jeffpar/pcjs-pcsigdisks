@@ -37,7 +37,20 @@
   {"hash":"67ccbaa469cb74e91ff415f91f75804f","path":"/GO.BAT","attr":"0x20","date":"1991-02-26 22:19:08","size":38},
   {"hash":"246919f8b68a6a7634185b4717808f27","path":"/PKUNZIP.EXE","attr":"0x20","date":"1990-03-15 01:10:00","size":19025},
   {"hash":"91f41c6fd12b29d617e3b2722b5c3db2","path":"/GO.TXT","attr":"0x20","date":"1991-07-03 04:37:52","size":1310},
-  {"hash":"35d6554720b08335f923fc46d5c78be9","path":"/FILE2715.TXT","attr":"0x20","date":"1991-07-21 11:59:54","size":1752}
+  {"hash":"35d6554720b08335f923fc46d5c78be9","path":"/FILE2715.TXT","attr":"0x20","date":"1991-07-21 11:59:54","size":1752},
+  {"hash":"2fcef0b2f3fa495331c0763df958d6d3","path":"/CATALOG.ZIP/CATAGORY.HLP","attr":"0x40","date":"1990-12-11 17:18:02","size":778},
+  {"hash":"69eff4e547436d501af9dfdd498a8f94","path":"/CATALOG.ZIP/CATALOG.CFG","attr":"0x40","date":"1990-12-21 15:52:44","size":4240},
+  {"hash":"d303b35f379cf4f69d06fb0910969e49","path":"/CATALOG.ZIP/CATALOG.EXE","attr":"0x40","date":"1991-01-09 14:18:06","size":225622},
+  {"hash":"195fabb4273d158d2ef032419bbef643","path":"/CATALOG.ZIP/CATALOG.PGM","attr":"0x40","date":"1991-01-09 15:24:02","size":186310},
+  {"hash":"da1e6bd4e5f21531188e8d8d5d7d01e6","path":"/CATALOG.ZIP/CATALOG.RM1","attr":"0x40","date":"1990-12-11 13:05:42","size":129},
+  {"hash":"7fef8a6fa0514f901a52b3df2671bb02","path":"/CATALOG.ZIP/CATALOG.RM2","attr":"0x40","date":"1990-12-14 10:28:08","size":522},
+  {"hash":"88b6429ff4aa9c7b59abfd0c6730aa71","path":"/CATALOG.ZIP/CATALOG.RME","attr":"0x40","date":"1990-12-12 16:00:32","size":108},
+  {"hash":"1480ac7fb04bbc791a8076c7bac22047","path":"/CATALOG.ZIP/DESCRIPT.HLP","attr":"0x40","date":"1990-12-21 20:59:16","size":1387},
+  {"hash":"0f6bd9e8e10de5553bb5db9d47566b27","path":"/CATALOG.ZIP/FOOTER.HLP","attr":"0x40","date":"1990-12-05 18:31:52","size":472},
+  {"hash":"180b43c347d12abf11b52e3712a6a4b9","path":"/CATALOG.ZIP/KIT.DOC","attr":"0x40","date":"1991-01-07 13:39:34","size":9284},
+  {"hash":"904b70c4ccce9355cf670572cf731aef","path":"/CATALOG.ZIP/PAYMENT.HLP","attr":"0x40","date":"1991-01-05 14:35:40","size":252},
+  {"hash":"fdf9c564e780790d32b9677963a4d49a","path":"/CATALOG.ZIP/READ.ME","attr":"0x40","date":"1991-01-08 13:29:40","size":1452},
+  {"hash":"bb00691b127767bb1641936321cdbe67","path":"/CATALOG.ZIP/TITLE.HLP","attr":"0x40","date":"1990-12-05 18:22:24","size":234}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

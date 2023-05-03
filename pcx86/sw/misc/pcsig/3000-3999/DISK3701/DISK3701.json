@@ -37,7 +37,14 @@
   {"hash":"5832db6393beb8ae5be95e30b79b9081","path":"/README","attr":"0x20","date":"1991-12-05 15:08:14","size":205},
   {"hash":"fc155d814a078e7d4a72888c600d7575","path":"/README.BAT","attr":"0x20","date":"1991-12-06 09:40:08","size":14},
   {"hash":"300eb94b37f6e6fe71cfd74257905315","path":"/REPMAN.ZIP","attr":"0x20","date":"1991-12-06 12:29:00","size":259557},
-  {"hash":"edbe0ea3ac0faf4b84bf337787f0f850","path":"/GO.BAT","attr":"0x20","date":"1993-05-19 08:13:52","size":32}
+  {"hash":"edbe0ea3ac0faf4b84bf337787f0f850","path":"/GO.BAT","attr":"0x20","date":"1993-05-19 08:13:52","size":32},
+  {"hash":"92605627e5d059479d2f15bf5deb30ba","path":"/REPMAN.ZIP/LIBRARY.RP1","attr":"0x40","date":"1991-08-07 14:36:30","size":144896},
+  {"hash":"cea16bef6bc106bb897bd5cf73f1ac6d","path":"/REPMAN.ZIP/RR.CNF","attr":"0x40","date":"1989-09-19 15:33:22","size":2641},
+  {"hash":"f64729f40dd6ac4b0feed45268309728","path":"/REPMAN.ZIP/RR.UDF","attr":"0x40","date":"1989-08-04 11:28:46","size":512},
+  {"hash":"281403ab641610b3eb2cb5ad00835125","path":"/REPMAN.ZIP/RRUN.EXE","attr":"0x40","date":"1988-12-25 03:00:00","size":249712},
+  {"hash":"14f93da1e6f29ca487e84576f91cb1b0","path":"/REPMAN.ZIP/RRUNC.OVL","attr":"0x40","date":"1988-03-27 03:00:02","size":480},
+  {"hash":"426aaced996a3ae021596d14bbd226fa","path":"/REPMAN.ZIP/RRUNIN.DBF","attr":"0x40","date":"1989-10-18 14:12:04","size":1024},
+  {"hash":"c0dda7d97945a046951a42a52da5a720","path":"/REPMAN.ZIP/RRUNTIME.EXE","attr":"0x40","date":"1988-12-14 03:00:18","size":14233}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

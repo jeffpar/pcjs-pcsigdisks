@@ -39,7 +39,22 @@
   {"hash":"b514dd42f563d4c069c9c887aa9b427d","path":"/PCSIG.TXT","attr":"0x20","date":"1992-01-21 06:09:54","size":2335},
   {"hash":"f5d0fa49b21234be778faa3b8ce06593","path":"/PKUNZIP.EXE","attr":"0x20","date":"1990-03-15 01:10:00","size":23528},
   {"hash":"f64229401e7cfecdad01902cb922cd5c","path":"/SHAREMAG.TXT","attr":"0x20","date":"1992-01-21 06:11:00","size":1837},
-  {"hash":"be8cbfdeedb0e71dad23919b636fc03c","path":"/SIGORDER.TXT","attr":"0x20","date":"1992-06-25 14:28:24","size":3332}
+  {"hash":"be8cbfdeedb0e71dad23919b636fc03c","path":"/SIGORDER.TXT","attr":"0x20","date":"1992-06-25 14:28:24","size":3332},
+  {"hash":"5e3653d9f4ab192598842073199fe5f7","path":"/PCXDUMP.ZIP/DANISH.TXT","attr":"0x40","date":"1992-10-24 07:10:00","size":1507},
+  {"hash":"7d15cd41d5872f8b62de50a63d1f9cb0","path":"/PCXDUMP.ZIP/EXAMPLS1.PCX","attr":"0x40","date":"1992-10-24 07:10:00","size":127245},
+  {"hash":"a9bd46ab85b2274209abbb1655751f6e","path":"/PCXDUMP.ZIP/EXAMPLS2.PCX","attr":"0x40","date":"1992-10-24 07:10:00","size":95094},
+  {"hash":"b4cf5e9d7fef37b204ee6363108daa32","path":"/PCXDUMP.ZIP/EXAMPLS3.PCX","attr":"0x40","date":"1992-10-24 07:10:00","size":46608},
+  {"hash":"1437210e19d7b380b75b23a98dded95f","path":"/PCXDUMP.ZIP/GETINT13.EXE","attr":"0x40","date":"1992-10-24 07:10:00","size":2953},
+  {"hash":"465e2d1e390b2a5c7faaf875c2377abb","path":"/PCXDUMP.ZIP/ORDER.FRM","attr":"0x40","date":"1992-10-24 07:10:00","size":5311},
+  {"hash":"3273a2ca47c0aa53e9be63e00be8676b","path":"/PCXDUMP.ZIP/PCXDUMP.DOC","attr":"0x40","date":"1992-10-24 07:10:00","size":46359},
+  {"hash":"2fc20ba29dc82d691ddfdc21f18f408e","path":"/PCXDUMP.ZIP/PCXDUMP.EPS","attr":"0x40","date":"1992-10-24 07:10:00","size":228206},
+  {"hash":"839bb25709152668c3aec6037e903d93","path":"/PCXDUMP.ZIP/PCXDUMP.EXE","attr":"0x40","date":"1992-10-24 07:10:00","size":53948},
+  {"hash":"982d873b890540e8f03907171ea92754","path":"/PCXDUMP.ZIP/PCXVIEW.DOC","attr":"0x40","date":"1992-10-24 07:10:00","size":3344},
+  {"hash":"4e77be571af8a6ccb6e9b6c622101102","path":"/PCXDUMP.ZIP/PCXVIEW.EXE","attr":"0x40","date":"1992-10-24 07:10:00","size":58240},
+  {"hash":"bd08ce46cbdecf49971ee7242e446e6f","path":"/PCXDUMP.ZIP/README.DOC","attr":"0x40","date":"1992-10-24 07:10:00","size":950},
+  {"hash":"2daab81c690743f8dd8a77026c3313ff","path":"/PCXDUMP.ZIP/SCANCODE.EXE","attr":"0x40","date":"1992-10-24 07:10:00","size":5143},
+  {"hash":"852eb392b58581e4d5bd1ee9c56747f3","path":"/PCXDUMP.ZIP/STATISTI.DOC","attr":"0x40","date":"1992-10-24 07:10:00","size":4299},
+  {"hash":"9e5cb708847e3fa73811f56e324e1cfa","path":"/PCXDUMP.ZIP/WHATSNEW.DOC","attr":"0x40","date":"1992-10-24 07:10:00","size":15140}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

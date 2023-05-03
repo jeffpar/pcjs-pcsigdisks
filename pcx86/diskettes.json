@@ -1497,7 +1497,7 @@
               "@media": [
                 {
                   "@diskette": "DISK0126.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK0126|/ADDSUB.PRG|/BACKUP.PRG|/BLANK.PRG|/CRC.TXT|/CRCK4.COM|/DOC.TXT|/ENTER.PRG|/GUIDE.PRG|/MAIL.DBF|/MAIL.PRG|/MAILENTR.PRG|/MAILFMT.FMT|/MAILINFO.PRG|/MAILLAB.PRG|/MAILLTTR.PRG|/MIS.DBF|/ML2.DBF|/ML2.DOC|/ML2.PRG|/ML2A.PRG|/ML2EDIT.PRG|/ML2ENTR.PRG|/ML2INFO.PRG|/ML2LAB.PRG|/ML2LAB1.PRG|/ML2LAB2.PRG|/ML2LAB4.PRG|/ML2LIST.PRG|/ML2LST1.PRG|/ML2LTTR.PRG|/ML2MULTI.PRG|/ML2REC.PRG|/ML2SORT.PRG|/ML2ZIPCT.PRG|/MLABEL5.PRG|/NAMEBRK.PRG|/PRINT.TXT|/REFDEX.NDX|/REFERALS.DBF|/REFS.PRG|/SEARCH.PRG|/SHOWFIL.PRG|/SOME.DBF|/SORTED.DBF|/STATEX.NDX|/STATEZIP.DBF|/STATEZIP.PRG|/STRINGS.DBF|/SUBDEX.NDX|/SUBJECTS.DBF|/SUBS.PRG|/SUPERBAK.PRG|/XXX|/XXX.BAK",
                   "@diskTitle": "DBASE II PROGRAMS",
                   "@diskSummary": "Here are seven routines that will enhance your overall business use of dBASE II. Included are mini-programs for such tasks as: form letter generator, mailing label manager, a back-up routine, a library routine, a state-zip code checker, and a conversion program."
@@ -2758,7 +2758,7 @@
               "@media": [
                 {
                   "@diskette": "DISK0232.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK0232|/ADDSPPC.BAT|/ADDVAR.HLP|/BLOCKPRT|/COPYSPPC.BAT|/CROSSTAB.EXE|/CROSSTAB.HLP|/DELCASES.HLP|/DELSPPC.BAT|/DELVAR.HLP|/EDITFILE.HLP|/FACULTY.ORD|/FILE0232.TXT|/GO.BAT|/GO.TXT|/INSTALL.BAT|/MANDAT.EXE|/MANUAL.BAT|/MENU1.LRN|/MENU1.WPC|/MENU2.LRN|/MENU2.WPC|/NEWFILE.HLP|/OFFER.FAC|/OFFER.STU|/PROB.EXE|/README|/RENAMVAR.HLP|/SETSPPC.BAT|/SITE.ORD|/SPPC.BAT|/SPPC.EXE|/SPPC.ORD|/SPPC.STU|/SPPC.SYS|/SPPCLAN.BAT|/START.EXE|/STUDENT.BAT|/STUDENT.ORD",
                   "@diskTitle": "PULLED FROM THE LIBRARY",
                   "@diskSummary": "This is a student version of SPPC, a fully interactive statistical package that enables you to enter, manage and analyze simple and complex sets of data.  In order to use the SPPC, you must enter your data and store it on a diskette or hard disk file.  You can then conduct any statistical analysis that is available."
@@ -4706,7 +4706,7 @@
               "@media": [
                 {
                   "@diskette": "DISK0395.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK0395|/ARRAY|/CLEANDOC.BAT|/CREATFIL|/DATAENTR|/DIRECTOR|/DOCHANGE|/FILES395.TXT|/FIRSTIME|/GENINFOR|/HIGH|/INQUIRYS|/INTRODUC|/INTROPER|/MESSAGES|/PERARRAY|/PERSUBAR|/PERVECT1|/PERVECT2|/PERVECT3|/PRINTERS.BAS|/RECDELET|/REDISPLA|/RUNFIRST.BAS|/STOPPING|/SUBARRAY|/TABLEOFC|/TERMCOND|/TEXTPROC.BAS|/VECTOR1|/VECTOR2|/VECTOR3|/YOURVOWN.BAS",
                   "@diskTitle": "HOME INVENTORY",
                   "@diskSummary": "Keep track of everything you own; furniture, heirlooms, paintings, silver, collections, etc.  Know where everything is, where it came from and what it is worth.  Perfect for insurance coverage and claims."
@@ -7116,7 +7116,7 @@
               "@media": [
                 {
                   "@diskette": "DISK0601.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK0601|/DREAM3.ARC|/FILES601.TXT|/INSTFLPY.BAT|/INSTHARD.BAT|/PKXARC.COM"
                 }
               ]
@@ -7370,7 +7370,7 @@
               "@media": [
                 {
                   "@diskette": "DISK0623.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK0623|/ASSOC.EXE|/FILE0623.TXT|/FREQ.EXE|/GO.BAT|/GO.TXT|/NONPARA.EXE|/PARATEST.EXE|/REGRESS.EXE",
                   "@diskTitle": "PULLED FROM THE LIBRARY",
                   "@diskSummary": "This is a student version of SPPC, a fully interactive statistical package that enables you to enter, manage and analyze simple and complex sets of data.  In order to use the SPPC, you must enter your data and store it on a diskette or hard disk file.  You can then conduct any statistical analysis that is available."
@@ -8422,7 +8422,7 @@
               "@media": [
                 {
                   "@diskette": "DISK0712.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK0712|/BAS|/ERC|/ERL|/ERRORS|/FILES712.TXT|/GO.BAT|/GO.TXT|/INSTR|/JAPAN.EXE|/LESSON.10|/LESSON.11|/LESSON.12|/LESSON.13|/LESSON.14|/LESSON.15|/LESSON.1A|/LESSON.2|/LESSON.3|/LESSON.4|/LESSON.5|/LESSON.6|/LESSON.7|/LESSON.8|/LESSON.9|/LESSONIN|/LESSONUM|/README.DOC|/USERWRDS"
                 }
               ]
@@ -8946,7 +8946,7 @@
               "@media": [
                 {
                   "@diskette": "DISK0757.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK0757|/FILES757.TXT|/GO.BAT|/GO.TXT|/PROGRAM.HLP|/READ.BAK|/READ.ME|/REGISTER.HLP|/SPANISH.BAT|/SPANISH.CON|/SPANISH.DAT|/SPANISH.HLP|/SPANISH.INF|/SPANISH.INN|/SPANISH.LST|/SPANISH.REF|/SPANISH.SUB|/SPANISH.TNS|/SPANVERB.EXE"
                 }
               ]
@@ -8956,7 +8956,7 @@
               "@media": [
                 {
                   "@diskette": "DISK0758.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK0758|/FILES758.TXT|/FRENCH.BAT|/FRENCH.CON|/FRENCH.DAT|/FRENCH.HLP|/FRENCH.INF|/FRENCH.INN|/FRENCH.LST|/FRENCH.REF|/FRENCH.SUB|/FRENCH.TNS|/FRENVERB.EXE|/GO.BAT|/GO.TXT|/READ.ME|/REGISTER.HLP"
                 }
               ]
@@ -9356,7 +9356,7 @@
               "@media": [
                 {
                   "@diskette": "DISK0792.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK0792|/BRUN30.EXE|/CALC.EXE|/FILES792.TXT|/FINANCE.DOC|/FINANCE.EXE|/GO.BAT|/GO.TXT|/HL.EXE|/INTRO.DOC|/LOAN.HLP|/MENU.OVL|/NAME.DAT|/OTHER.DOC|/PRINT.BAT|/READ.ME|/SETUP.EXE|/VALUE.DAT"
                 }
               ]
@@ -11447,7 +11447,7 @@
               "@media": [
                 {
                   "@diskette": "DISK0969.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK0969|/BCHECK3.EXE|/CCHRPORT.FRM|/CHECKING.DOC|/CHKSHELL.DBF|/CONFIG.SYS|/ERROR.TXT|/ERROR2.TXT|/FILES969.TXT|/GO.BAT|/GO.TXT|/TEST3.DBF"
                 }
               ]
@@ -12106,7 +12106,7 @@
               "@media": [
                 {
                   "@diskette": "DISK1024.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK1024|/CONFIG.FX|/FILE1024.TXT|/INSTALL.BAT|/TIMETRAK.FOX|/TTAR.DBF|/TTAR1.NDX|/TTAR2.NDX|/TTCASH.DBF|/TTCASH1.NDX|/TTCASH2.NDX|/TTCLNT.DBF|/TTCLNT1.NDX|/TTHELP.DBF|/TTHELP.NDX|/TTNOTES.DBF|/TTNOTES1.NDX|/TTSYS.DBF|/TTWORK.DBF|/TTWORK1.NDX|/TTWORK2.NDX"
                 }
               ]
@@ -12546,7 +12546,7 @@
               "@media": [
                 {
                   "@diskette": "DISK1061.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK1061|/ERRORS|/FILE1061.TXT|/GO.BAT|/GO.TXT|/LESSON.1A|/LESSON.2|/LESSON.3|/LESSON.4|/LESSON.5|/LESSON.6|/LESSON.7|/LESSON.8|/LESSONIN|/LESSONUM|/PH1.BAS|/PH2.BAS|/PH3.BAS|/PH4.BAS|/PH5.BAS|/PH6.BAS|/READ.ME|/README.BAT|/SPANISH.EXE|/USERWRDS|/VERBAR.BAS"
                 }
               ]
@@ -14120,7 +14120,7 @@
               "@media": [
                 {
                   "@diskette": "DISK1195.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK1195|/1.BAT|/2.BAT|/3.BAT|/4.BAT|/5.BAT|/EMPTY.DBF|/ESJOBS.DBF|/FILE1195.TXT|/GO.BAT|/GO.TXT|/HELP.BAT|/MENU.BAT|/MENU.SCR|/PCSHIFT.EXE|/PCSHIFT.MAN|/PRINTMAN.EXE|/README|/WHATIS.IT",
                   "@diskTitle": "PC SHIFT",
                   "@diskSummary": "PC-SHIFT helps organize your employee shift schedule.  PC-SHIFT allows you to divide the jobs by location or category and then lets you describe each job required for each area.  The job descriptions consist of the beginning date, the location or department, the job title or description, the minimum and maximum qualification level, and the minimum and maximum security level."
@@ -14332,7 +14332,7 @@
               "@media": [
                 {
                   "@diskette": "DISK1213.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK1213|/DINV.DAT|/DRINKS.DOC|/DRINKS.EXE|/FILE1213.TXT|/GO.BAT|/GO.TXT|/INTRO.DOC|/MENU.OVL|/OTHER.DOC|/PRINT.BAT|/READ.ME|/RECIPE.DAT"
                 }
               ]
@@ -14850,7 +14850,7 @@
               "@media": [
                 {
                   "@diskette": "DISK1257.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK1257|/DISKWIZ.ARC|/DISKWIZ.COM|/DWIZDEMO.COM|/DWMANUAL.DOC|/FILE1257.TXT|/GO.BAT|/GO.TXT|/MANUAL.BAT|/README.DOC",
                   "@diskTitle": "DISK WIZ",
                   "@diskSummary": "DISK WIZ is a disk file manager, editor, and printer control center that pops up like magic at the DOS prompt or within running programs to provide an easy and convenient way to work with your computer. It is much easier and faster than DOS commands and provides many functions DOS doesn't, and is as simple to use as possible."
@@ -15022,7 +15022,7 @@
               "@media": [
                 {
                   "@diskette": "DISK1272.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK1272|/FILE1272.TXT|/GO.BAT|/GO.TXT|/INSTALL.BAT|/INSTRSCH.BAT|/README.DOC|/RSCH.EXE"
                 }
               ]
@@ -16016,7 +16016,7 @@
               "@media": [
                 {
                   "@diskette": "DISK1355.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK1355|/BIDLIST.DBF|/CREW.NDX|/DESCRIP.DBF|/FILE1355.TXT|/FUELNO.NDX|/FUELS.DBF|/GO.BAT|/GO.TXT|/LICENSE.NDX|/NUMBER.NDX|/OPERATOR.NDX|/REPAIRS.DBF|/REPAIRS.NDX|/SCHEDIV.NDX|/SCHEDULE.DBF|/SCHEDULE.NDX|/VIN.NDX"
                 }
               ]
@@ -16110,7 +16110,7 @@
               "@media": [
                 {
                   "@diskette": "DISK1363.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK1363|/FAAREGUL.DTA|/FILE1363.TXT|/GO.BAT|/GO.TXT|/PHYSACFT.DTA|/READ.BAT|/READ.ME|/WEATHERQ.DTA"
                 }
               ]
@@ -16709,7 +16709,7 @@
               "@media": [
                 {
                   "@diskette": "DISK1413.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK1413|/ALBUMS.REC|/ARTIST.LST|/FILE1413.TXT|/GO.BAT|/GO.TXT|/LABEL.LST|/MANUAL.BAT|/PAGE.COM|/README.DOC|/RNT.000|/RNT.001|/RNT.002|/RNT.COM|/SETUP.COL|/SETUP.COM|/SETUP.DAT|/SONGS.REC|/SORT.LST|/START.COM|/VIEW.BAT",
                   "@diskTitle": "RECORDS & TAPES DATABASE",
                   "@diskSummary": "RECORDS & TAPES organizes and catalogs all your records and tapes."
@@ -16721,7 +16721,7 @@
               "@media": [
                 {
                   "@diskette": "DISK1414.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK1414|/FILE1414.TXT|/GO.BAT|/GO.TXT|/PAGE.COM|/README|/SS1.A|/SS1.CO|/SS1.COM|/SS1.ED|/SS1.FM|/SS1.HLP|/SS1.LM|/SS1.OVL|/SS1.P|/SS1.PR|/SS1.PRN|/SS1.S|/SS1.SP|/VIEW.BAT",
                   "@diskTitle": "SS1 1 OF 2 (ALSO 1415)",
                   "@diskSummary": "This combo of programs solves 70% of your computing needs!  This integrated program combines a wordprocessor, a list/data manager, communications, a mid-size spreadsheet (64 columns by 255 rows), and a file and directory browser.  To make the program even more comprehensive, pop-up aids are a keystroke away anywhere in the system. These include a calculator, an aid for graphing data, file/directory viewing, DOS shell interface, and a utility to make macros or smart keys."
@@ -18395,7 +18395,7 @@
               "@media": [
                 {
                   "@diskette": "DISK1555.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK1555|/110.TBC|/120.TBC|/130.TBC|/140.TBC|/150.TBC|/160.TBC|/170.TBC|/180.TBC|/190.TBC|/200.TBC|/210.TBC|/220.TBC|/230.TBC|/FILE1555.TXT|/FILES|/GO.BAT|/GO.TXT|/MENU.EXE|/REV.EXE"
                 }
               ]
@@ -18727,7 +18727,7 @@
               "@media": [
                 {
                   "@diskette": "DISK1583.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK1583|/ACCMENU.EXE|/BALANCE.EXE|/COLOR.DAT|/INCOME.EXE|/INSTALL.DAT|/OUTGO.EXE|/READ.ME|/READ.ME2|/READ.ME3|/RS.BAT"
                 }
               ]
@@ -19508,7 +19508,7 @@
               "@media": [
                 {
                   "@diskette": "DISK1649.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK1649|/CALUTIL.DEF|/CALUTIL.MOD|/CALUTIL.OBJ|/CALUTIL.REF|/CALUTIL.SYM|/FILE1649.TXT|/FILEINOU.DEF|/FILEINOU.MOD|/FILEINOU.OBJ|/FILEINOU.REF|/FILEINOU.SYM|/FL.BAT|/FNTLD.COM|/GO.BAT|/GO.TXT|/MATH1.DEF|/MATH1.MOD|/MATH1.OBJ|/MATH1.REF|/MATH1.SYM|/MOD.BAT|/MOD2TOOL.DOC|/MODPROG.EXE|/MODPROG.MOD|/PFORM.EXE|/PFORM.MOD|/PRINTCON.EXE|/PRINTCON.MOD|/PRINTING.DEF|/PRINTING.MOD|/PRINTING.OBJ|/PRINTING.REF|/PRINTING.SYM|/SCREEN.DEF|/SCREEN.MOD|/SCREEN.OBJ|/SCREEN.REF|/SCREEN.SYM|/SEQFILE.MOD|/STRINGMA.DEF|/STRINGMA.MOD|/STRINGMA.OBJ|/STRINGMA.REF|/STRINGMA.SYM",
                   "@diskTitle": "CALUTIL",
                   "@diskSummary": "Enhance the standard Modula-2 library with this useful toolkit.  Though heralded academically, Modula-2 has some noticeable short-comings, especially in the I/O functions arena.  CALUTIL will alleviate some of these difficulties."
@@ -20201,7 +20201,7 @@
               "@media": [
                 {
                   "@diskette": "DISK1707.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK1707|/CORRMAT.EXE|/FILE1707.TXT|/GO.BAT|/GO.TXT|/MULREG.EXE|/POTPOURI.EXE|/SUMSTAT.EXE",
                   "@diskTitle": "PULLED FROM THE LIBRARY.",
                   "@diskSummary": "This is a student version of SPPC, a fully interactive statistical package that enables you to enter, manage and analyze simple and complex sets of data.  In order to use the SPPC, you must enter your data and store it on a diskette or hard disk file.  You can then conduct any statistical analysis that is available."
@@ -20213,7 +20213,7 @@
               "@media": [
                 {
                   "@diskette": "DISK1708.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK1708|/APPENDIX.MAN|/ASSOC.MAN|/BIBLIO.MAN|/CAVEAT.MAN|/COHENR.DAT|/COHENS.DAT|/CONTENTS.MAN|/CORRMAT.MAN|/CROSSTAB.MAN|/FACULTY.MAN|/FOURWAYR.DAT|/FOURWAYS.DAT|/FREQ.MAN|/GO.BAT|/GO.TXT|/INDEX.MAN|/INTRO.MAN|/LONGLEYR.DAT|/LONGLEYS.DAT|/MANDAT.MAN|/MULREG1.MAN|/MULREG2.MAN|/MULREG3.MAN|/MULREG4.MAN|/MULREG5.MAN|/MULREG6.MAN|/NONPARA.MAN|/ONEWAYR.DAT|/ONEWAYS.DAT|/PARATEST.MAN|/POLYR.DAT|/POLYS.DAT|/POTPOURI.MAN|/PREFACE.MAN|/PROB.MAN|/REGRESS.MAN|/STUDENT.MAN|/SUMSTAT.MAN|/TWOWAYR.DAT|/TWOWAYS.DAT",
                   "@diskTitle": "PULLED FROM LIBRARY",
                   "@diskSummary": "This is a student version of SPPC, a fully interactive statistical package that enables you to enter, manage and analyze simple and complex sets of data.  In order to use the SPPC, you must enter your data and store it on a diskette or hard disk file.  You can then conduct any statistical analysis that is available."
@@ -20237,7 +20237,7 @@
               "@media": [
                 {
                   "@diskette": "DISK1710.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK1710|/CATALOG.DOC|/DOC.DOC|/FILE1710.TXT|/FIRST.DBF|/FIX.DOC|/GO.BAT|/GO.TXT|/LAST.DBF|/PENDOC.COM|/PENNAME.EXE|/POSS.DBF"
                 }
               ]
@@ -20733,7 +20733,7 @@
               "@media": [
                 {
                   "@diskette": "DISK1752.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK1752|/DIAL123.EXE|/FILE1752.TXT|/GO.BAT|/GO.TXT|/PHONE1.DOC|/PHONE1.EXE|/PHONE1.HLP|/REGISTER.FRM"
                 }
               ]
@@ -21065,7 +21065,7 @@
               "@media": [
                 {
                   "@diskette": "DISK1780.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK1780|/APPOINTS.DOC|/APPOINTS.EXE|/APPOINTS.HLP|/FILE1780.TXT|/GO.BAT|/GO.TXT|/PRODUCTS.DOC|/REGISTER.FRM"
                 }
               ]
@@ -21459,7 +21459,7 @@
               "@media": [
                 {
                   "@diskette": "DISK1813.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK1813|/DIARY.DOC|/DIARY.EXE|/DIARY.HLP|/FILE1813.TXT|/GO.BAT|/GO.TXT|/PRODUCTS.DOC|/REGISTER.FRM"
                 }
               ]
@@ -22053,7 +22053,7 @@
               "@media": [
                 {
                   "@diskette": "DISK1863.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK1863|/BIGPOLY2.MPD|/FILE1863.TXT|/FOURAMP.FRD|/FOURSQR.FRD|/FPLSINX.MPD|/GO.BAT|/GO.TXT|/INVOICE.TXT|/MANUAL.TXT|/MATHPLOT.EXE|/MATRIX2.INV|/MATRIX3.INV|/POLY2.MPD|/POLY3.MPD|/POLY5.MPD|/SIMEQ2.SIM|/SIMEQ4.SIM|/SIMEQ6.SIM",
                   "@diskTitle": "MATHPLOT",
                   "@diskSummary": "MATHPLOT is a set of graphics-aided programs designed to help scientists and engineers analyze data.  Routines are included for least-squares fitting polynomials to sets of data points, solving simultaneous linear equations, numerically integrating a curve defined by a set of data points, calculating simple statistical parameters for data sets, and for calculating the coefficients of a Fourier series for a periodic function described by a set of data points."
@@ -22593,7 +22593,7 @@
               "@media": [
                 {
                   "@diskette": "DISK1908.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK1908|/CASTLE.BIN|/CASTLE.DAT|/CASTLE.DOC|/CASTLE.EXE|/CASTLE.LST|/CASTLE.MON|/CASTLE.PRO|/CASTLE.TIP|/CASTLE1.EXE|/FILE1908.TXT|/GO.BAT|/GO.TXT|/MONO.DAT|/SCORE.DAT|/USR.DAT"
                 }
               ]
@@ -22687,7 +22687,7 @@
               "@media": [
                 {
                   "@diskette": "DISK1916.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK1916|/FILE1916.TXT|/GO.BAT|/GO.TXT|/HAMLOG.DOC|/HAMLOG.EXE|/HAMLOG.HLP|/PRODUCTS.DOC|/REGISTER.FRM"
                 }
               ]
@@ -23322,7 +23322,7 @@
               "@media": [
                 {
                   "@diskette": "DISK1969.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK1969|/FILE1969.TXT|/GO.BAT|/GO.TXT|/INSTALL.EXE|/PACKING.LST|/PASMENU.DOC|/PASMENU.EXE|/PASMENU.PRO|/USAGE.EXE"
                 }
               ]
@@ -23440,7 +23440,7 @@
               "@media": [
                 {
                   "@diskette": "DISK1979.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK1979|/DCMOT.CHN|/FILE1979.TXT|/FILES_3.DOC|/FRAMES.CHN|/GO.BAT|/GO.TXT|/INSTALL3.BAT|/INSTALL4.BAT|/MAXCON.CHN|/NEMA.CHN|/SINGAMP.CHN|/SINGLE.CHN|/SINXFMR.CHN|/THREAMP.CHN|/THREEI.CHN|/THRES.CHN|/THREW.CHN|/WIRE.CHN"
                 }
               ]
@@ -23450,7 +23450,7 @@
               "@media": [
                 {
                   "@diskette": "DISK1980.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK1980|/DCMOTFIX.CHN|/FILE1980.TXT|/FILES_4.DOC|/FRAMEFIX.CHN|/GO.BAT|/GO.TXT|/INSTALL4.BAT|/INSTALL5.BAT|/NEMAFIX.CHN|/RECOVER.CHN|/SINGAFIX.CHN|/SINGLFIX.CHN|/SINXFFIX.CHN|/THREAFIX.CHN|/THREEFIX.CHN|/THRESFIX.CHN|/THREWFIX.CHN|/THREXFIX.CHN|/WIREFIX.CHN"
                 }
               ]
@@ -23460,7 +23460,7 @@
               "@media": [
                 {
                   "@diskette": "DISK1981.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK1981|/FILE1981.TXT|/FILES_5.DOC|/GO.BAT|/GO.TXT|/HELP.TXT|/MANUAL.DOC|/MESSAGE.1|/NEC.COM|/RUN.BAT|/SBMIO.COM|/SBMSIO.CHN|/THREXFMR.CHN|/YOURSYS.COM"
                 }
               ]
@@ -23691,7 +23691,7 @@
               "@media": [
                 {
                   "@diskette": "DISK2000.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK2000|/ANIM.TRI|/BIBLE.TRI|/ENTER.TRI|/FAM.TRI|/FILE2000.TXT|/GEO.TRI|/GO.BAT|/GO.TXT|/HIST.TRI|/MISC.TRI|/SPORTS.TRI|/TRIVIA.DOC|/TRIVIA.EXE|/TRIVIA.LOG|/TRIVIA.LST|/TRIVIA.MOD|/TRIVIA.PRO|/TRIVIA1.COM|/WON.TRI"
                 }
               ]
@@ -24051,7 +24051,7 @@
               "@media": [
                 {
                   "@diskette": "DISK2030.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK2030|/CONFIG.SYS|/FILE2030.TXT|/FLOPPY|/GO.BAT|/GO.TXT|/INSTALL.DOC|/INSTALL.EXE|/MAS.ZIP|/PKUNZIP.EXE",
                   "@diskTitle": "MICRO ACCOUNTING SYSTEM",
                   "@diskSummary": "Those looking for a single entry general ledger accounting program need look no further. Micro Accounting System (MAS) provides a service needed by many small businesses. In addition to the general ledger functions, MAS has banking and budgeting functions. These additional sections are not included by many other programs."
@@ -24447,7 +24447,7 @@
               "@media": [
                 {
                   "@diskette": "DISK2063.json",
-                  "@archive": "folder",
+                  "@archive": ".zip",
                   "@fileList": "/DISK2063|/FILE2063.TXT|/GO.BAT|/GO.TXT|/SST02|/SST03|/SST04|/SST05|/SST06"
                 }
               ]

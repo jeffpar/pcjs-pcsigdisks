@@ -41,7 +41,21 @@
   {"hash":"1710045e66398c8ea196722a687ead0a","path":"/PKUNZIP.EXE","attr":"0x20","date":"1993-02-01 02:04:16","size":29378},
   {"hash":"00fff50cd6a785d56a4fac606d285042","path":"/PCSIG.TXT","attr":"0x20","date":"1993-06-01 14:31:30","size":2329},
   {"hash":"6162087334ed98bb273acaaa6ca85d40","path":"/SHAREMAG.TXT","attr":"0x20","date":"1993-06-01 14:32:04","size":1831},
-  {"hash":"54964d989c90644e40ac21508c12ff5d","path":"/CDROM.TXT","attr":"0x20","date":"1993-06-01 15:26:44","size":8196}
+  {"hash":"54964d989c90644e40ac21508c12ff5d","path":"/CDROM.TXT","attr":"0x20","date":"1993-06-01 15:26:44","size":8196},
+  {"hash":"f05ebd6a0fc66f3876a890c185db6af0","path":"/SPEC.ZIP/EASY.CSM","attr":"0x40","date":"1993-03-22 13:06:20","size":3440},
+  {"hash":"8b9a961e0dd697149dc47de1478faf7d","path":"/SPEC.ZIP/HARD.CSM","attr":"0x40","date":"1993-03-22 13:06:20","size":3440},
+  {"hash":"20c3e031616b7fed9d4eb9abcb0d321b","path":"/SPEC.ZIP/MEDIUM1.CSM","attr":"0x40","date":"1993-03-22 13:06:20","size":3440},
+  {"hash":"9359b2de88cd4c26d77e09cbf0b5bb0f","path":"/SPEC.ZIP/MEDIUM2.CSM","attr":"0x40","date":"1993-03-22 13:06:20","size":3440},
+  {"hash":"2aca2e8fecf3b777031b9ac86b759d80","path":"/SPEC.ZIP/MEDIUM3.CSM","attr":"0x40","date":"1993-03-22 13:06:20","size":3440},
+  {"hash":"73557d4a34c8d3a916105c093d191066","path":"/SPEC.ZIP/PRINTME","attr":"0x40","date":"1993-04-11 19:59:42","size":1804},
+  {"hash":"f66e54253321ba142f8fe6b5242b0c21","path":"/SPEC.ZIP/README","attr":"0x40","date":"1993-08-11 15:22:56","size":1755},
+  {"hash":"e6662c71803b6464cdf62358033b7ae6","path":"/SPEC.ZIP/SPABOU.CS0","attr":"0x40","date":"1993-03-22 13:06:20","size":1258},
+  {"hash":"7de12a5cfda51eece62ac82d28be33f7","path":"/SPEC.ZIP/SPCOMP.CS0","attr":"0x40","date":"1993-03-22 13:06:20","size":5408},
+  {"hash":"a99dd1e77275f0babd0d5a7e2727f6a7","path":"/SPEC.ZIP/SPEC.EXE","attr":"0x40","date":"1993-03-22 13:06:20","size":215096},
+  {"hash":"a9a962b71573e77566a22a35f9720050","path":"/SPEC.ZIP/SPHELP.CS0","attr":"0x40","date":"1993-03-22 13:06:20","size":43882},
+  {"hash":"886b07cdd0beb25c27dafe275b2d9c9d","path":"/SPEC.ZIP/SPPLAY.CS0","attr":"0x40","date":"1993-03-22 13:06:20","size":6400},
+  {"hash":"880d06c89e86d2d7aa77a3eb9ea7dbba","path":"/SPEC.ZIP/SPSPEC.CS0","attr":"0x40","date":"1993-03-22 13:06:20","size":27444},
+  {"hash":"f7cbb3d5896510bad4887dc84830531a","path":"/SPEC.ZIP/SPSTAR.CS0","attr":"0x40","date":"1993-03-22 13:06:20","size":34246}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

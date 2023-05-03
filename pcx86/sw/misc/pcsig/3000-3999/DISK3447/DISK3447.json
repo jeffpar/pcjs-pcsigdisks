@@ -40,7 +40,22 @@
   {"hash":"165943e09144baca6a887b0a098ecdc2","path":"/PCSIG.TXT","attr":"0x20","date":"1993-02-10 08:50:48","size":2335},
   {"hash":"f64229401e7cfecdad01902cb922cd5c","path":"/SHAREMAG.TXT","attr":"0x20","date":"1992-01-21 06:11:00","size":1837},
   {"hash":"ed27a6cac153a50bd7a98d619ccb48c2","path":"/CDROM.TXT","attr":"0x20","date":"1993-03-18 13:28:48","size":4874},
-  {"hash":"13df6e170e4c5211321ff8de076757b8","path":"/GO-STRT.DAT","attr":"0x20","date":"1993-03-18 15:18:52","size":543}
+  {"hash":"13df6e170e4c5211321ff8de076757b8","path":"/GO-STRT.DAT","attr":"0x20","date":"1993-03-18 15:18:52","size":543},
+  {"hash":"308a3509152daea6a0fdc56d6254b79a","path":"/PLUS.ZIP/ADMIN.DOC","attr":"0x40","date":"1992-09-30 15:00:00","size":127293},
+  {"hash":"2a0faa740083f911055228b255c5c42e","path":"/PLUS.ZIP/BRK-CNTL.COM","attr":"0x40","date":"1992-09-30 15:01:00","size":14752},
+  {"hash":"769f60180e9fb0aa3ff33617c2727e72","path":"/PLUS.ZIP/EXEC.COM","attr":"0x40","date":"1992-09-30 15:01:00","size":13936},
+  {"hash":"5445dee7de3a2ba0b8170a8bdb45a048","path":"/PLUS.ZIP/FLUSHLOG.COM","attr":"0x40","date":"1992-09-30 15:01:00","size":14992},
+  {"hash":"356c3888520cb1fcdcf0403e8b0c6d41","path":"/PLUS.ZIP/LOG.EXE","attr":"0x40","date":"1992-09-30 15:01:00","size":16564},
+  {"hash":"92edafb9c4f95b84f68d3bf119679a46","path":"/PLUS.ZIP/LOGOFF.COM","attr":"0x40","date":"1992-09-30 15:01:00","size":23600},
+  {"hash":"2772d5428c4c61be77b19a108fc08b35","path":"/PLUS.ZIP/OMBUDSMN.ASP","attr":"0x40","date":"1992-09-30 15:01:00","size":629},
+  {"hash":"3b50e011e0716b3a3e48e0f8454416c3","path":"/PLUS.ZIP/PC-VAULT.EXE","attr":"0x40","date":"1992-09-30 15:01:00","size":130864},
+  {"hash":"98356647d91e5a5ae415062f291d6f39","path":"/PLUS.ZIP/READ-ME.1ST","attr":"0x40","date":"1992-09-30 15:01:00","size":3139},
+  {"hash":"7c21807e6756104d12968b4c5d609e42","path":"/PLUS.ZIP/SET-TIME.COM","attr":"0x40","date":"1992-09-30 15:01:00","size":14800},
+  {"hash":"f28868a9374ef81822340c7bf2d4de62","path":"/PLUS.ZIP/USER.DOC","attr":"0x40","date":"1992-09-30 15:00:00","size":37802},
+  {"hash":"1506bc557c469a79da85292b36999bb4","path":"/PLUS.ZIP/VIOLS.COM","attr":"0x40","date":"1992-09-30 15:01:00","size":20080},
+  {"hash":"fb3bd0fcd4361204a97e943a95b5c165","path":"/PLUS.ZIP/VMOUSE.COM","attr":"0x40","date":"1992-09-30 15:01:00","size":12496},
+  {"hash":"381ec95d7794bdf10f8b9ea7dac38a6b","path":"/PLUS.ZIP/WHAT'S.NEW","attr":"0x40","date":"1992-09-30 15:00:00","size":9391},
+  {"hash":"e2f2ddb6e1cb5b619431b97936df64db","path":"/PLUS.ZIP/WHO.COM","attr":"0x40","date":"1992-09-30 15:01:00","size":16592}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

@@ -45,7 +45,17 @@
   {"hash":"47c352a6ca73ae74b04450b8170de5de","path":"/OMEGAEXT.DOC","attr":"0x20","date":"1988-11-23 09:53:14","size":9616},
   {"hash":"775d50fd1f7f89c2d279255e18bb34d8","path":"/OMEGAEXT.EXE","attr":"0x20","date":"1988-11-23 10:16:24","size":12683},
   {"hash":"72fbb0c97197ba7fdc14b2dab8e1b6b6","path":"/PRICE","attr":"0x20","date":"1988-11-23 07:03:18","size":439},
-  {"hash":"198410ebd82004edb1266df4b25330b2","path":"/README.DOC","attr":"0x20","date":"1988-09-15 00:25:28","size":1067}
+  {"hash":"198410ebd82004edb1266df4b25330b2","path":"/README.DOC","attr":"0x20","date":"1988-09-15 00:25:28","size":1067},
+  {"hash":"e5871208106a8bf6aeb46fe873733527","path":"/OMEGA.ARC/FREE.TXT","attr":"0x40","date":"1988-11-23 06:06:28","size":446},
+  {"hash":"6eff02ab5608f888a3d79c5e9a0caaad","path":"/OMEGA.ARC/LICENSE.DOC","attr":"0x40","date":"1988-11-23 07:16:48","size":4988},
+  {"hash":"1eab2799b64631e92a2540c8108876e6","path":"/OMEGA.ARC/OMEGA.DOC","attr":"0x40","date":"1988-02-13 04:38:46","size":102016},
+  {"hash":"e2a9a40ff4ec653f5a57ffee6e5b7d64","path":"/OMEGA.ARC/OMEGA.EXE","attr":"0x40","date":"1989-02-14 00:59:44","size":75343},
+  {"hash":"4c9b5caf19dce4188267508946413685","path":"/OMEGA.ARC/OMEGADIR.DAT","attr":"0x40","date":"1988-09-14 21:49:26","size":12928},
+  {"hash":"b60ae312e860593b846e46fe612c80ab","path":"/OMEGA.ARC/OMEGAEXT.DAT","attr":"0x40","date":"1988-11-23 10:02:30","size":4159},
+  {"hash":"47c352a6ca73ae74b04450b8170de5de","path":"/OMEGA.ARC/OMEGAEXT.DOC","attr":"0x40","date":"1988-11-23 09:53:28","size":9616},
+  {"hash":"775d50fd1f7f89c2d279255e18bb34d8","path":"/OMEGA.ARC/OMEGAEXT.EXE","attr":"0x40","date":"1988-11-23 10:16:48","size":12683},
+  {"hash":"72fbb0c97197ba7fdc14b2dab8e1b6b6","path":"/OMEGA.ARC/PRICE","attr":"0x40","date":"1988-11-23 07:03:38","size":439},
+  {"hash":"198410ebd82004edb1266df4b25330b2","path":"/OMEGA.ARC/README.DOC","attr":"0x40","date":"1988-09-15 00:25:56","size":1067}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

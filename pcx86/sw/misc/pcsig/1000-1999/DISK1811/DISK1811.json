@@ -38,7 +38,16 @@
   {"hash":"cec25a663af5865c8ead0f40f2fa6866","path":"/README.1","attr":"0x20","date":"1989-08-13 13:38:20","size":661},
   {"hash":"09c222943f180b90ef9ab591d691a4e3","path":"/README.2","attr":"0x20","date":"1989-08-13 13:39:04","size":834},
   {"hash":"f4063197af9c98e6d157788c14d2f7f2","path":"/README.3","attr":"0x20","date":"1989-08-13 13:39:12","size":754},
-  {"hash":"0a99c360c0efafd91bef7192ae47aa53","path":"/README.BAT","attr":"0x20","date":"1989-08-13 13:41:08","size":79}
+  {"hash":"0a99c360c0efafd91bef7192ae47aa53","path":"/README.BAT","attr":"0x20","date":"1989-08-13 13:41:08","size":79},
+  {"hash":"0993fe2d04786b36eb636b7216dca37d","path":"/HOMEINV.ZIP/HOMEINV.DAT","attr":"0x40","date":"1989-07-17 21:23:22","size":6162},
+  {"hash":"8c05f4eb50afe82effe881f359c4ec54","path":"/HOMEINV.ZIP/HOMEINV.EXE","attr":"0x40","date":"1989-08-01 21:02:12","size":241226},
+  {"hash":"24bf7c46d5b59320902338a1d7a4c01c","path":"/HOMEINV.ZIP/HOMEINV.HLP","attr":"0x40","date":"1989-07-12 17:50:52","size":3666},
+  {"hash":"4d968249131df4118f472b200846acad","path":"/HOMEINV.ZIP/HOMEINV.K01","attr":"0x40","date":"1989-07-17 21:23:22","size":2560},
+  {"hash":"ac7e3e0dcffe6ec0de1b8e5c4cd716b1","path":"/HOMEINV.ZIP/HOMEINV.K02","attr":"0x40","date":"1989-07-17 21:23:22","size":2560},
+  {"hash":"cec25a663af5865c8ead0f40f2fa6866","path":"/HOMEINV.ZIP/README.1","attr":"0x40","date":"1989-08-13 13:38:40","size":661},
+  {"hash":"09c222943f180b90ef9ab591d691a4e3","path":"/HOMEINV.ZIP/README.2","attr":"0x40","date":"1989-08-13 13:39:10","size":834},
+  {"hash":"f4063197af9c98e6d157788c14d2f7f2","path":"/HOMEINV.ZIP/README.3","attr":"0x40","date":"1989-08-13 13:39:26","size":754},
+  {"hash":"8e0ffd662298eef416d3873a6a41dc3a","path":"/HOMEINV.ZIP/README.BAT","attr":"0x40","date":"1989-08-13 13:41:16","size":71}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,65794,1073758210,130561,65544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

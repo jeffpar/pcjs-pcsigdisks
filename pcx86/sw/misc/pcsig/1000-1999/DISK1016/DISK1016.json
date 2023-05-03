@@ -36,7 +36,18 @@
   {"hash":"c86f6bfdd210b2045102428cd68ecb73","path":"/GO.TXT","attr":"0x20","date":"1988-02-10 10:23:04","size":463},
   {"hash":"a4e059492d59e0efa06d8265fec6e038","path":"/PCCU.ZIP","attr":"0x20","date":"1989-06-16 15:21:06","size":232407},
   {"hash":"4e2e0d2022e8695afdde8ed36aca00c0","path":"/READ.ME","attr":"0x20","date":"1989-06-16 15:19:14","size":32000},
-  {"hash":"7178d673f2fb066d12d2f15c88dad133","path":"/VENDOR.DOC","attr":"0x20","date":"1989-06-16 15:19:14","size":1152}
+  {"hash":"7178d673f2fb066d12d2f15c88dad133","path":"/VENDOR.DOC","attr":"0x20","date":"1989-06-16 15:19:14","size":1152},
+  {"hash":"22c7517625f0c273a46a0c6968545fbe","path":"/PCCU.ZIP/CONVERT.EXE","attr":"0x40","date":"1989-06-16 15:19:30","size":174550},
+  {"hash":"62dbb320e96d291bfb24d1a2f622b92e","path":"/PCCU.ZIP/FILES","attr":"0x40","date":"1989-06-16 15:19:30","size":4352},
+  {"hash":"9e0a1ba9e3dc5eae52105b4465913ba1","path":"/PCCU.ZIP/LOAN.PCC","attr":"0x40","date":"1989-06-16 15:19:30","size":2279},
+  {"hash":"5783e6889f584038f480e07a280655e2","path":"/PCCU.ZIP/MSHERC.COM","attr":"0x40","date":"1989-06-16 15:19:30","size":6749},
+  {"hash":"2cef87288e44e788c6fb54d92f635614","path":"/PCCU.ZIP/P90.EXE","attr":"0x40","date":"1989-06-16 15:19:30","size":22785},
+  {"hash":"dec22540c82fa2fd8372eaf008f4175f","path":"/PCCU.ZIP/PCG2.EXE","attr":"0x40","date":"1989-06-16 15:19:30","size":160951},
+  {"hash":"ed07a4dba4c778ad0e510343f2c2bb58","path":"/PCCU.ZIP/PRODUCTS","attr":"0x40","date":"1989-06-16 15:19:30","size":5376},
+  {"hash":"cd8fcf9ababcf97606bf8d0fe45c06c2","path":"/PCCU.ZIP/READ.ME","attr":"0x40","date":"1989-06-16 15:19:30","size":31219},
+  {"hash":"d8538c67864a1551cd4d808d506cc1ad","path":"/PCCU.ZIP/RESPONSE","attr":"0x40","date":"1989-06-16 15:19:30","size":3584},
+  {"hash":"41ee5335496a436ff138a87e90f53b1d","path":"/PCCU.ZIP/SAMPLE.MAC","attr":"0x40","date":"1989-06-16 15:19:30","size":477},
+  {"hash":"eec58593e0a224e01fb4f9e40f2b5d23","path":"/PCCU.ZIP/TUTORIAL.PCC","attr":"0x40","date":"1989-06-16 15:19:30","size":1937}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

@@ -54,7 +54,16 @@
   {"hash":"a167aac5fc3e800195ab483b1779d9c3","path":"/LD.COM","attr":"0x20","date":"1988-07-11 12:38:12","size":8947},
   {"hash":"9fd94e1ddd0f4f5179a094592ff97392","path":"/README.COM","attr":"0x20","date":"1988-04-22 11:24:16","size":13595},
   {"hash":"fc19fb5bec52a72aab1fb4a617f31eb3","path":"/README.DAB","attr":"0x20","date":"1988-10-13 08:15:20","size":1830},
-  {"hash":"9fd86826f1ce53af78ee3682d4792ce7","path":"/SD.COM","attr":"0x20","date":"1988-07-14 12:13:26","size":15023}
+  {"hash":"9fd86826f1ce53af78ee3682d4792ce7","path":"/SD.COM","attr":"0x20","date":"1988-07-14 12:13:26","size":15023},
+  {"hash":"7812a93545ab1e97760e1816e0e9c087","path":"/DABUTIL.ARC/CATALOG.COM","attr":"0x40","date":"1988-07-14 12:16:02","size":13605},
+  {"hash":"27f564dd4399802ae51f32099c870d30","path":"/DABUTIL.ARC/DABUTIL.DOC","attr":"0x40","date":"1988-07-15 22:25:06","size":16042},
+  {"hash":"def27a622ef20e509a148c7e5328cd30","path":"/DABUTIL.ARC/DABUTIL.REG","attr":"0x40","date":"1988-07-15 20:20:56","size":1717},
+  {"hash":"c489aab7034cba2e66be0b9635346bd3","path":"/DABUTIL.ARC/DI.COM","attr":"0x40","date":"1988-07-14 23:04:34","size":14065},
+  {"hash":"88f7ceea411e4f87bcfe8c81d4d171b7","path":"/DABUTIL.ARC/ENC.COM","attr":"0x40","date":"1988-07-11 12:39:40","size":9101},
+  {"hash":"33fe124d44e15f5341edcc5f0fb0049b","path":"/DABUTIL.ARC/FF.COM","attr":"0x40","date":"1988-07-11 12:39:00","size":8729},
+  {"hash":"a167aac5fc3e800195ab483b1779d9c3","path":"/DABUTIL.ARC/LD.COM","attr":"0x40","date":"1988-07-11 12:38:24","size":8947},
+  {"hash":"fc19fb5bec52a72aab1fb4a617f31eb3","path":"/DABUTIL.ARC/README.DAB","attr":"0x40","date":"1988-10-13 08:15:42","size":1830},
+  {"hash":"9fd86826f1ce53af78ee3682d4792ce7","path":"/DABUTIL.ARC/SD.COM","attr":"0x40","date":"1988-07-14 12:13:52","size":15023}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

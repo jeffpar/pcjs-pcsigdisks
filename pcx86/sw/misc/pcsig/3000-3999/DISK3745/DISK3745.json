@@ -39,7 +39,13 @@
   {"hash":"165943e09144baca6a887b0a098ecdc2","path":"/PCSIG.TXT","attr":"0x20","date":"1993-02-10 08:50:48","size":2335},
   {"hash":"f64229401e7cfecdad01902cb922cd5c","path":"/SHAREMAG.TXT","attr":"0x20","date":"1992-01-21 06:11:00","size":1837},
   {"hash":"ed27a6cac153a50bd7a98d619ccb48c2","path":"/CDROM.TXT","attr":"0x20","date":"1993-03-18 13:28:48","size":4874},
-  {"hash":"825c256a58c7d9570d883f56d4a2cc24","path":"/GO-STRT.DAT","attr":"0x20","date":"1993-05-27 09:21:32","size":539}
+  {"hash":"825c256a58c7d9570d883f56d4a2cc24","path":"/GO-STRT.DAT","attr":"0x20","date":"1993-05-27 09:21:32","size":539},
+  {"hash":"12a749215c56f67fed3bf562624dfa0a","path":"/WALLPIX.ZIP/READ.ME","attr":"0x40","date":"1993-03-07 20:10:58","size":1114},
+  {"hash":"a124bb62a15341e84fd1d8919b07ed65","path":"/WALLPIX.ZIP/VBRUN200.DLL","attr":"0x40","date":"1992-10-21 00:00:00","size":356992},
+  {"hash":"612cd067b98062bda677bdcea5901ce4","path":"/WALLPIX.ZIP/WALLPIX.DAT","attr":"0x40","date":"1993-05-26 14:20:28","size":35520},
+  {"hash":"d3b1ae12ddcacb7dd24b350c3432911f","path":"/WALLPIX.ZIP/WALLPIX.EXE","attr":"0x40","date":"1993-03-11 06:27:50","size":65551},
+  {"hash":"35ef1e8f01d86b1017e76dca58d6f736","path":"/WALLPIX.ZIP/WALLPIX.HLP","attr":"0x40","date":"1993-03-07 15:49:44","size":12811},
+  {"hash":"4f24fbd25c2e704e735729844945d40d","path":"/WALLPIX.ZIP/WALLPIX.INI","attr":"0x40","date":"1993-03-07 16:02:18","size":26}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

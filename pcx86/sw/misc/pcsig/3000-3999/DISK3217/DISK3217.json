@@ -34,7 +34,20 @@
   {"hash":"c49ab65f88d046ac8d34f5d9960a11e8","path":"/DS2INSHP.HLP","attr":"0x20","date":"1992-08-09 19:57:56","size":24116},
   {"hash":"8bfa8b8e8aa2698dcd61e983c1a19719","path":"/DS2.ZIP","attr":"0x20","date":"1992-08-09 20:25:54","size":150894},
   {"hash":"2777a914fffea410433225d798a1e2ce","path":"/PKUNZIP.EXE","attr":"0x20","date":"1989-10-01 01:02:00","size":22022},
-  {"hash":"ffd95f041aa3829cdd37fd78badb799b","path":"/VENDOR.DOC","attr":"0x20","date":"1992-08-09 23:31:48","size":4753}
+  {"hash":"ffd95f041aa3829cdd37fd78badb799b","path":"/VENDOR.DOC","attr":"0x20","date":"1992-08-09 23:31:48","size":4753},
+  {"hash":"f0451bec536ba2a1d1a1852af415e788","path":"/DS2.ZIP/POPUP.COM","attr":"0x40","date":"1991-11-01 11:25:00","size":16},
+  {"hash":"a3a1212c32f884b03cc8c62cd9f4b34e","path":"/DS2.ZIP/SP2.DAT","attr":"0x40","date":"1991-02-01 18:31:34","size":280},
+  {"hash":"7e45c49acae10aecb39773d975709cfb","path":"/DS2.ZIP/SP2.DOC","attr":"0x40","date":"1992-08-09 19:44:26","size":54824},
+  {"hash":"59090ae4a7caa85817529d3c3230328e","path":"/DS2.ZIP/SP2.HLP","attr":"0x40","date":"1992-08-08 00:09:06","size":35376},
+  {"hash":"8e29c4d86c3982e3b8a6b0cd4562e075","path":"/DS2.ZIP/SP2CFG.COM","attr":"0x40","date":"1992-08-09 20:19:12","size":35321},
+  {"hash":"30504d941b696bc71788a5b37f54714d","path":"/DS2.ZIP/SP2INTFC.DOC","attr":"0x40","date":"1991-07-27 22:18:26","size":9863},
+  {"hash":"725b4cf751007ce003569256107eb750","path":"/DS2.ZIP/SP2NEW.DOC","attr":"0x40","date":"1992-02-13 20:22:30","size":10534},
+  {"hash":"86c95d39475cc9598c2106ffd66216b0","path":"/DS2.ZIP/SP2ORD.FRM","attr":"0x40","date":"1992-08-08 00:11:02","size":1477},
+  {"hash":"6ff34a975fbf034f2ee41ed1934d8efe","path":"/DS2.ZIP/SP2PRT.COM","attr":"0x40","date":"1991-09-05 00:30:28","size":995},
+  {"hash":"1853f68115a35d08507075b7471cb0b9","path":"/DS2.ZIP/SP2S.COM","attr":"0x40","date":"1992-08-08 00:38:58","size":60135},
+  {"hash":"301ffa0313c5b0fe87c56da20bb4e2e5","path":"/DS2.ZIP/SP2S.DRV","attr":"0x40","date":"1992-08-08 00:38:42","size":60649},
+  {"hash":"fe8d45673c3c40d3a5cc4b38c645123d","path":"/DS2.ZIP/SP2SSS.COM","attr":"0x40","date":"1992-08-08 00:38:38","size":36367},
+  {"hash":"1c8aa8bcb6f1f8cdd5990820b6e98938","path":"/DS2.ZIP/SP2SSS.DRV","attr":"0x40","date":"1992-08-08 00:38:50","size":36881}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

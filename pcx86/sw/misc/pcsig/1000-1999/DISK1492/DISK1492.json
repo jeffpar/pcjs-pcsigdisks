@@ -38,7 +38,19 @@
   {"hash":"6ee6b49fc3ef91de3471a205a7a22322","path":"/DOC.DOC","attr":"0x20","date":"1989-11-09 12:24:20","size":853},
   {"hash":"9a4842c447c75143bcc35f0d75ee05fc","path":"/FILE1492.TXT","attr":"0x20","date":"1989-12-14 15:30:26","size":2073},
   {"hash":"67ccbaa469cb74e91ff415f91f75804f","path":"/GO.BAT","attr":"0x20","date":"1989-07-14 08:01:16","size":38},
-  {"hash":"b200ddc2ebe5b1da44784e282bcd1433","path":"/GO.TXT","attr":"0x20","date":"1989-12-14 13:47:18","size":1079}
+  {"hash":"b200ddc2ebe5b1da44784e282bcd1433","path":"/GO.TXT","attr":"0x20","date":"1989-12-14 13:47:18","size":1079},
+  {"hash":"961f77753f7d3684c9bd7a11eb5b9ff4","path":"/CRYSTAL.ARC/CRLIST1.DBF","attr":"0x40","date":"1989-03-19 16:48:58","size":2011},
+  {"hash":"f92f1a358ba35ed66ac0d100edf99e56","path":"/CRYSTAL.ARC/CRLIST2.DBF","attr":"0x40","date":"1989-03-19 16:33:22","size":1867},
+  {"hash":"10feabf0c054ff69331744a79f494479","path":"/CRYSTAL.ARC/CRLIST3.DBF","attr":"0x40","date":"1989-03-19 16:33:24","size":2191},
+  {"hash":"0026f8300b0344744c212e0dc05cdf90","path":"/CRYSTAL.ARC/CRLIST4.DBF","attr":"0x40","date":"1989-03-19 16:48:58","size":4891},
+  {"hash":"7cf690a6e914b3a0a5b8b50709d00d97","path":"/CRYSTAL.ARC/CRLIST5.DBF","attr":"0x40","date":"1989-03-19 16:33:24","size":1471},
+  {"hash":"dc863e1f0690ee9bc284a72edc6d671c","path":"/CRYSTAL.ARC/CRLIST6.DBF","attr":"0x40","date":"1989-03-19 16:48:58","size":7267},
+  {"hash":"a66f6aa6bb26f33b4fab97693320354d","path":"/CRYSTAL.ARC/CRLIST7.DBF","attr":"0x40","date":"1989-03-19 16:48:58","size":4063},
+  {"hash":"5623c8a74c47cb0738d4313c8b87dd83","path":"/CRYSTAL.ARC/CRLIST8.DBF","attr":"0x40","date":"1989-03-19 16:33:26","size":1219},
+  {"hash":"75bc800f84ed0e059a0b2b5e9ece2a8b","path":"/CRYSTAL.ARC/CRYSDOC.COM","attr":"0x40","date":"1989-10-24 09:26:36","size":35223},
+  {"hash":"4d7f5aa2ae28e42e1580ba17523a4e9e","path":"/CRYSTAL.ARC/CRYSTAL.EXE","attr":"0x40","date":"1989-11-10 18:01:40","size":230095},
+  {"hash":"f1c4f130c3151d1523cd4d1849c4bd10","path":"/CRYSTAL.ARC/DOCONFIG.EXE","attr":"0x40","date":"1989-11-12 19:14:00","size":166669},
+  {"hash":"96a1698095c8ce958f96fc9c2e9d279b","path":"/CRYSTAL.ARC/FIX.DOC","attr":"0x40","date":"1989-11-18 21:42:42","size":650}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

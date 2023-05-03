@@ -39,7 +39,20 @@
   {"hash":"cf0e2dfcebc4bc65595a8b3fa793c788","path":"/GO.EXE","attr":"0x20","date":"1992-01-10 12:14:02","size":26022},
   {"hash":"1710045e66398c8ea196722a687ead0a","path":"/PKUNZIP.EXE","attr":"0x20","date":"1993-02-01 02:04:16","size":29378},
   {"hash":"f9e76776cca2dc98a3e8dc732fa74da4","path":"/PCSIG.TXT","attr":"0x20","date":"1993-09-24 13:59:00","size":2319},
-  {"hash":"6162087334ed98bb273acaaa6ca85d40","path":"/SHAREMAG.TXT","attr":"0x20","date":"1993-06-01 14:32:04","size":1831}
+  {"hash":"6162087334ed98bb273acaaa6ca85d40","path":"/SHAREMAG.TXT","attr":"0x20","date":"1993-06-01 14:32:04","size":1831},
+  {"hash":"e347ce0df2dadb9e73ff5f11ae98ffae","path":"/PPUZZ13.ZIP/CATALOG.TXT","attr":"0x40","date":"1992-12-21 13:22:40","size":9162},
+  {"hash":"d9f2619c1ec0b13d3af376d3e9b936e7","path":"/PPUZZ13.ZIP/COVER.PIC","attr":"0x40","date":"1991-05-08 06:43:18","size":29238},
+  {"hash":"5f0603e14346342653a2a775921cfec5","path":"/PPUZZ13.ZIP/GRID.MSG","attr":"0x40","date":"1990-07-06 06:41:12","size":15206},
+  {"hash":"b43887b1a2286ca4f70ca1dd6b99dceb","path":"/PPUZZ13.ZIP/HISTORY.TXT","attr":"0x40","date":"1991-05-08 09:07:38","size":775},
+  {"hash":"4ff657d3a42c14a505974446c832b05f","path":"/PPUZZ13.ZIP/HPLANE.PUZ","attr":"0x40","date":"1991-02-18 14:52:52","size":78121},
+  {"hash":"1373d1ef4cce0967fb11d1254290b86e","path":"/PPUZZ13.ZIP/LARROW.CUR","attr":"0x40","date":"1990-11-23 16:18:40","size":66},
+  {"hash":"e7f37898d8fb0e0186571a0b81c54a62","path":"/PPUZZ13.ZIP/POOCH.PUZ","attr":"0x40","date":"1990-12-28 12:40:56","size":72921},
+  {"hash":"01cdac943973d6883f43ef8848ce2315","path":"/PPUZZ13.ZIP/PUZZLE.DOC","attr":"0x40","date":"1991-04-15 17:16:44","size":48928},
+  {"hash":"598d2e82faf213419667c4b15e39c1a8","path":"/PPUZZ13.ZIP/PUZZLE.EXE","attr":"0x40","date":"1991-05-08 06:49:00","size":84186},
+  {"hash":"a0201d19af4ec9233002a1569d310462","path":"/PPUZZ13.ZIP/README.1ST","attr":"0x40","date":"1991-05-08 09:02:26","size":2041},
+  {"hash":"523d433530a80771221b091b0ad53355","path":"/PPUZZ13.ZIP/SHAREWRE.TXT","attr":"0x40","date":"1990-03-22 09:12:32","size":1684},
+  {"hash":"f3359671ba58ccb846bd1a94367cf1a2","path":"/PPUZZ13.ZIP/SKI.PUZ","attr":"0x40","date":"1991-02-18 14:28:56","size":97711},
+  {"hash":"ba868193ff1823c4d507cf67eef1396c","path":"/PPUZZ13.ZIP/TITLE.MSG","attr":"0x40","date":"1990-11-26 20:56:30","size":28870}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

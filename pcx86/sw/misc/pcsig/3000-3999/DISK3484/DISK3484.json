@@ -40,7 +40,17 @@
   {"hash":"f5d0fa49b21234be778faa3b8ce06593","path":"/PKUNZIP.EXE","attr":"0x20","date":"1990-03-15 01:10:00","size":23528},
   {"hash":"165943e09144baca6a887b0a098ecdc2","path":"/PCSIG.TXT","attr":"0x20","date":"1993-02-10 08:50:48","size":2335},
   {"hash":"f64229401e7cfecdad01902cb922cd5c","path":"/SHAREMAG.TXT","attr":"0x20","date":"1992-01-21 06:11:00","size":1837},
-  {"hash":"ed27a6cac153a50bd7a98d619ccb48c2","path":"/CDROM.TXT","attr":"0x20","date":"1993-03-18 13:28:48","size":4874}
+  {"hash":"ed27a6cac153a50bd7a98d619ccb48c2","path":"/CDROM.TXT","attr":"0x20","date":"1993-03-18 13:28:48","size":4874},
+  {"hash":"c1197170f7873fd1b424f26ab833906f","path":"/VGACAP.ZIP/BRUN41.EXE","attr":"0x40","date":"1988-04-26 16:57:18","size":76912},
+  {"hash":"c8872f1fa6b1fcc89d05c03f025d56bc","path":"/VGACAP.ZIP/OPEN1_TX.000","attr":"0x40","date":"1991-10-15 08:30:42","size":3504},
+  {"hash":"f8c4aacbce550fb3de4f2542e94e0eb2","path":"/VGACAP.ZIP/OPEN2_TX.000","attr":"0x40","date":"1991-10-15 15:08:08","size":25584},
+  {"hash":"5b4b0d415a79d484174d2c0ab0d186f6","path":"/VGACAP.ZIP/PCXCAP3.EXE","attr":"0x40","date":"1991-06-06 23:20:14","size":11547},
+  {"hash":"28af52533d83a2198bbe61e393f5426f","path":"/VGACAP.ZIP/README.TXT","attr":"0x40","date":"1991-09-07 04:52:16","size":7875},
+  {"hash":"ba78f270a38dc9607a1dd1e3f59eb388","path":"/VGACAP.ZIP/REGISTER.TXT","attr":"0x40","date":"1991-09-05 20:44:46","size":4350},
+  {"hash":"cccf85d8b5223a1f9d6a676091cd602e","path":"/VGACAP.ZIP/VGACAP.COM","attr":"0x40","date":"1991-09-05 20:30:24","size":2834},
+  {"hash":"dfb767172d05125862b2d93dc76fd4a8","path":"/VGACAP.ZIP/VGACAP.DOC","attr":"0x40","date":"1991-09-07 06:23:14","size":20872},
+  {"hash":"89ad687acd93f2e99d965d7023a76fe4","path":"/VGACAP.ZIP/VGAFIL.EXE","attr":"0x40","date":"1991-09-07 12:06:40","size":45935},
+  {"hash":"d084f6108b7d2995d7cf742e3bbee56c","path":"/VGACAP.ZIP/VPCX.EXE","attr":"0x40","date":"1991-06-08 07:16:16","size":10715}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

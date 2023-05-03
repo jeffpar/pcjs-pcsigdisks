@@ -44,7 +44,17 @@
   {"hash":"2c5032d228a5404cfce2c5a84ce5ea29","path":"/REGISTER.MM","attr":"0x20","date":"1989-05-15 05:44:04","size":2237},
   {"hash":"9bd62df75f08b423280f240fda96edf8","path":"/FILE1759.TXT","attr":"0x20","date":"1989-12-19 13:02:22","size":1999},
   {"hash":"09c8206644019d4d3b0348a3cdff02d3","path":"/GO.BAT","attr":"0x20","date":"1980-01-01 01:37:12","size":38},
-  {"hash":"97967288306511effd1893591bf6c943","path":"/GO.TXT","attr":"0x20","date":"1980-01-01 05:00:48","size":540}
+  {"hash":"97967288306511effd1893591bf6c943","path":"/GO.TXT","attr":"0x20","date":"1980-01-01 05:00:48","size":540},
+  {"hash":"b903b0fee9cff8904ab4ec5315bc8d21","path":"/MORSEM21.ZIP/BUG-RPT.001","attr":"0x40","date":"1989-05-15 02:36:26","size":4140},
+  {"hash":"a8fe539533de60c7306b90aecb2ac003","path":"/MORSEM21.ZIP/DEFAULT.VAL","attr":"0x40","date":"1989-04-03 00:15:22","size":26},
+  {"hash":"ce5defe6a360c8ee5555b4af0022fcb7","path":"/MORSEM21.ZIP/MMFILES.DOC","attr":"0x40","date":"1989-05-15 02:38:42","size":1791},
+  {"hash":"937b6c8629e814f1e4aa1ac0560aaa10","path":"/MORSEM21.ZIP/MORSEMAN.EXE","attr":"0x40","date":"1989-05-17 02:22:30","size":91438},
+  {"hash":"715a87d5f0225e16002a648133a4449f","path":"/MORSEM21.ZIP/MORSEMAN.TSR","attr":"0x40","date":"1989-03-26 00:21:32","size":635},
+  {"hash":"839ca8e94c12c8d81b6e58dbe43ebfa9","path":"/MORSEM21.ZIP/MORSEMAN.TXT","attr":"0x40","date":"1989-05-15 02:45:18","size":13306},
+  {"hash":"fcab4174e3b2dea06e99fed735a68e7d","path":"/MORSEM21.ZIP/NOVICE.!!!","attr":"0x40","date":"1989-01-17 04:21:54","size":322},
+  {"hash":"3c508005294557bed36b284ad3c08e78","path":"/MORSEM21.ZIP/PRINTDOC.EXE","attr":"0x40","date":"1989-03-26 02:23:40","size":38710},
+  {"hash":"e8f733372a0055572ddfdb8f6d346f9e","path":"/MORSEM21.ZIP/READ-ME.1ST","attr":"0x40","date":"1989-05-15 02:47:00","size":740},
+  {"hash":"2c5032d228a5404cfce2c5a84ce5ea29","path":"/MORSEM21.ZIP/REGISTER.MM","attr":"0x40","date":"1989-05-15 05:44:04","size":2237}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

@@ -34,7 +34,19 @@
   {"hash":"f5d0fa49b21234be778faa3b8ce06593","path":"/PKUNZIP.EXE","attr":"0x20","date":"1990-03-15 01:10:00","size":23528},
   {"hash":"b14bf14cafed2ce84ed918f96b500c2f","path":"/FGSPTC25.ZIP","attr":"0x20","date":"1993-01-01 09:44:40","size":314603},
   {"hash":"40ef0505fa38ade49c63f212a693377d","path":"/GO.TXT","attr":"0x20","date":"1993-04-05 15:10:24","size":1007},
-  {"hash":"2c99113283be3f481afae3fdff713504","path":"/GO.BAT","attr":"0x20","date":"1993-04-05 15:11:22","size":32}
+  {"hash":"2c99113283be3f481afae3fdff713504","path":"/GO.BAT","attr":"0x20","date":"1993-04-05 15:11:22","size":32},
+  {"hash":"906df6e71f3cb18dde2cb31750292715","path":"/FGSPTC25.ZIP/FGS001.FGS","attr":"0x40","date":"1992-10-21 00:00:00","size":60720},
+  {"hash":"eee65eec1a0ec2069a2b3e950f5103bc","path":"/FGSPTC25.ZIP/FGS002.FGS","attr":"0x40","date":"1992-10-21 00:00:00","size":18400},
+  {"hash":"cf6c34a787d9dfcf895618727dbed61e","path":"/FGSPTC25.ZIP/PTC.EXE","attr":"0x40","date":"1992-12-20 02:50:00","size":101410},
+  {"hash":"2ac0995d92b8e5903a5a27f1d12485ce","path":"/FGSPTC25.ZIP/PTCREAD.TXT","attr":"0x40","date":"1992-12-20 02:50:00","size":11164},
+  {"hash":"61f986244bd6ed99c35edcc1362f0ec5","path":"/FGSPTC25.ZIP/READ.1ST","attr":"0x40","date":"1992-12-20 02:50:00","size":612},
+  {"hash":"dfa89c204ef61cae82db781353b99007","path":"/FGSPTC25.ZIP/SETUP.EXE","attr":"0x40","date":"1992-12-20 02:50:00","size":14848},
+  {"hash":"b9bed51c526c3c7a8feee68937a10f38","path":"/FGSPTC25.ZIP/SETUP.LST","attr":"0x40","date":"1992-12-20 02:50:00","size":40},
+  {"hash":"aa317690351e30c793c13605d18094f9","path":"/FGSPTC25.ZIP/SETUP1.EXE","attr":"0x40","date":"1992-12-20 02:50:00","size":21265},
+  {"hash":"51f079869ecf14c0388759f2b0f79973","path":"/FGSPTC25.ZIP/SETUPKIT.DLL","attr":"0x40","date":"1992-12-20 02:50:00","size":7008},
+  {"hash":"a124bb62a15341e84fd1d8919b07ed65","path":"/FGSPTC25.ZIP/VBRUN200.DLL","attr":"0x40","date":"1992-10-21 00:00:00","size":356992},
+  {"hash":"310e254938ebc91aed5622544c40f4cb","path":"/FGSPTC25.ZIP/VENDOR.DOC","attr":"0x40","date":"1992-12-20 02:50:00","size":3163},
+  {"hash":"8d6d66baed06d72a970a3a4ecc0917d8","path":"/FGSPTC25.ZIP/VER.DL_","attr":"0x40","date":"1992-11-14 02:50:00","size":8736}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

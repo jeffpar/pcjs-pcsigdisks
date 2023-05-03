@@ -34,7 +34,20 @@
   {"hash":"cf7ccfa0fb348609f31955097a24a9a5","path":"/FONTME20.ZIP","attr":"0x20","date":"1993-04-23 08:54:36","size":324139},
   {"hash":"1710045e66398c8ea196722a687ead0a","path":"/PKUNZIP.EXE","attr":"0x20","date":"1993-02-01 02:04:16","size":29378},
   {"hash":"991e541709e454d38689b9734586d013","path":"/GO.BAT","attr":"0x20","date":"1992-06-04 02:25:00","size":31},
-  {"hash":"453f260028a2b08ff362df204d731281","path":"/GO.TXT","attr":"0x20","date":"1993-06-17 14:06:26","size":1309}
+  {"hash":"453f260028a2b08ff362df204d731281","path":"/GO.TXT","attr":"0x20","date":"1993-06-17 14:06:26","size":1309},
+  {"hash":"906df6e71f3cb18dde2cb31750292715","path":"/FONTME20.ZIP/FGS001.FGS","attr":"0x40","date":"1993-04-19 02:00:00","size":60720},
+  {"hash":"eee65eec1a0ec2069a2b3e950f5103bc","path":"/FONTME20.ZIP/FGS002.FGS","attr":"0x40","date":"1993-04-19 02:00:00","size":18400},
+  {"hash":"c8e8dcea660a280ffadda9c95062d66a","path":"/FONTME20.ZIP/FILE_ID.DIZ","attr":"0x40","date":"1993-04-19 02:00:00","size":372},
+  {"hash":"6cad48f708db6d67102d8fc160827c00","path":"/FONTME20.ZIP/FONTME!.EXE","attr":"0x40","date":"1993-04-19 02:00:00","size":169244},
+  {"hash":"a6d49ce50cb740351c0472483eb503b5","path":"/FONTME20.ZIP/FREADME.WRI","attr":"0x40","date":"1993-04-19 02:00:00","size":36864},
+  {"hash":"d76c5e032c2d000deb2ebdb53ecff785","path":"/FONTME20.ZIP/READFRST.TXT","attr":"0x40","date":"1993-04-19 02:00:00","size":1162},
+  {"hash":"dfa89c204ef61cae82db781353b99007","path":"/FONTME20.ZIP/SETUP.EXE","attr":"0x40","date":"1993-04-19 02:00:00","size":14848},
+  {"hash":"b9bed51c526c3c7a8feee68937a10f38","path":"/FONTME20.ZIP/SETUP.LST","attr":"0x40","date":"1993-04-19 02:00:00","size":40},
+  {"hash":"5ea2bd59d88475e4a7e4c7f947e63624","path":"/FONTME20.ZIP/SETUP1.EXE","attr":"0x40","date":"1993-04-19 02:00:00","size":22033},
+  {"hash":"51f079869ecf14c0388759f2b0f79973","path":"/FONTME20.ZIP/SETUPKIT.DLL","attr":"0x40","date":"1993-04-19 02:00:00","size":7008},
+  {"hash":"a124bb62a15341e84fd1d8919b07ed65","path":"/FONTME20.ZIP/VBRUN200.DLL","attr":"0x40","date":"1992-10-21 00:00:00","size":356992},
+  {"hash":"f966a88e102d5442c49048a579eaa263","path":"/FONTME20.ZIP/VENDOR.DOC","attr":"0x40","date":"1993-04-19 02:00:00","size":3003},
+  {"hash":"d022d32a7bcb0b54c34bd687ac00564c","path":"/FONTME20.ZIP/VER.DL_","attr":"0x40","date":"1993-01-12 15:35:44","size":9008}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

@@ -43,7 +43,21 @@
   {"hash":"2d003b473c65172adb81939776fc06d5","path":"/GO.EXE","attr":"0x20","date":"1992-02-06 02:16:54","size":27558},
   {"hash":"b514dd42f563d4c069c9c887aa9b427d","path":"/PCSIG.TXT","attr":"0x20","date":"1992-01-21 06:09:54","size":2335},
   {"hash":"6d2856df9f29e9490bfe221a4ce884e0","path":"/CDROM.TXT","attr":"0x20","date":"1992-01-21 06:10:58","size":3693},
-  {"hash":"f64229401e7cfecdad01902cb922cd5c","path":"/SHAREMAG.TXT","attr":"0x20","date":"1992-01-21 06:11:00","size":1837}
+  {"hash":"f64229401e7cfecdad01902cb922cd5c","path":"/SHAREMAG.TXT","attr":"0x20","date":"1992-01-21 06:11:00","size":1837},
+  {"hash":"06228263d32a7f8e80c822e8c279f0c0","path":"/386TST.ZIP/386TEST.DOC","attr":"0x40","date":"1991-11-13 10:08:04","size":6189},
+  {"hash":"90de7ac74c0121de1a0d96e8b470ef0e","path":"/386TST.ZIP/386TEST.EXE","attr":"0x40","date":"1991-11-12 23:06:14","size":57410},
+  {"hash":"fc131ad9290071ba20d81a48bc6f9d9a","path":"/386TST.ZIP/386TEST.SYS","attr":"0x40","date":"1991-11-12 23:06:14","size":133846},
+  {"hash":"e06936e8b87498909840b19d8f97320d","path":"/WARPSP10.ZIP/WARPSP10.EXE","attr":"0x40","date":"1991-09-26 03:34:30","size":16495},
+  {"hash":"84ce954023a452ec2f5c4365b7b21ab2","path":"/VIZ420.ZIP/READ.EXE","attr":"0x40","date":"1991-11-13 01:10:00","size":4100},
+  {"hash":"16329cffb50113ce7d9428a28092cac0","path":"/VIZ420.ZIP/VIZ.DAT","attr":"0x40","date":"1991-11-13 04:20:00","size":14366},
+  {"hash":"949f08ec77816467f62ca887766ede37","path":"/VIZ420.ZIP/VIZ.DDT","attr":"0x40","date":"1991-11-13 04:20:00","size":10201},
+  {"hash":"4e5247666098dc6d8528f995406ba911","path":"/VIZ420.ZIP/VIZ.DOC","attr":"0x40","date":"1991-11-13 04:20:00","size":65061},
+  {"hash":"b95b4566e08b9e9f4571b5f383c1c7c8","path":"/VIZ420.ZIP/VIZ.EXE","attr":"0x40","date":"1991-11-13 04:20:00","size":20529},
+  {"hash":"add49e193c82bb2e5d56a82217eb10ed","path":"/VIZ420.ZIP/VIZ.MSG","attr":"0x40","date":"1991-11-13 04:20:00","size":8965},
+  {"hash":"a2bc1312cbe8d114a794e53cb2204c5a","path":"/VIZ420.ZIP/VIZ.NEW","attr":"0x40","date":"1991-11-13 04:20:00","size":7433},
+  {"hash":"538d5d1282c91fd14a1b7775a1db3207","path":"/VIZ420.ZIP/VIZ.REG","attr":"0x40","date":"1991-11-13 04:20:00","size":4764},
+  {"hash":"d84947018741b72cf9582e13caec64fc","path":"/UMAX120.ZIP/UMAX.DOC","attr":"0x40","date":"1991-11-13 01:20:00","size":12160},
+  {"hash":"bd21ed489bbd915b5a441b1417b9506e","path":"/UMAX120.ZIP/UMAX.EXE","attr":"0x40","date":"1991-11-08 01:20:00","size":6610}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

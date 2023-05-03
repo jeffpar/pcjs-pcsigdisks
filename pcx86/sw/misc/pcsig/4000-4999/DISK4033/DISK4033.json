@@ -39,7 +39,18 @@
   {"hash":"00fff50cd6a785d56a4fac606d285042","path":"/PCSIG.TXT","attr":"0x20","date":"1993-06-01 14:31:30","size":2329},
   {"hash":"1710045e66398c8ea196722a687ead0a","path":"/PKUNZIP.EXE","attr":"0x20","date":"1993-02-01 02:04:16","size":29378},
   {"hash":"6162087334ed98bb273acaaa6ca85d40","path":"/SHAREMAG.TXT","attr":"0x20","date":"1993-06-01 14:32:04","size":1831},
-  {"hash":"5488c48ecc7b0b4a2b07af6495b3cc4c","path":"/SIGORDER.TXT","attr":"0x20","date":"1993-08-31 12:45:46","size":3334}
+  {"hash":"5488c48ecc7b0b4a2b07af6495b3cc4c","path":"/SIGORDER.TXT","attr":"0x20","date":"1993-08-31 12:45:46","size":3334},
+  {"hash":"5e236ca6037b58e710cebbe1ebab3603","path":"/BAREBONE.ZIP/BAREBONE.DOC","attr":"0x40","date":"1993-08-26 12:47:44","size":115458},
+  {"hash":"56e540405d5217030d6ee5917e42927e","path":"/BAREBONE.ZIP/BBA.EXE","attr":"0x40","date":"1993-08-26 11:13:34","size":252982},
+  {"hash":"29880eeaf7817562b28fa2266cfcc009","path":"/BAREBONE.ZIP/BBA1960A","attr":"0x40","date":"1993-08-07 11:58:00","size":11000},
+  {"hash":"4236e81d0b968a58d0f8196c650c5f4e","path":"/BAREBONE.ZIP/BBA1960B","attr":"0x40","date":"1993-07-26 10:46:00","size":50},
+  {"hash":"ab3336fce3ce0614b6b3edbbabc25b85","path":"/BAREBONE.ZIP/BBA1960C","attr":"0x40","date":"1993-07-26 10:46:00","size":490},
+  {"hash":"033a1a04a5f94953c8a388e39cb71013","path":"/BAREBONE.ZIP/BBA1960E","attr":"0x40","date":"1993-04-08 16:04:08","size":360},
+  {"hash":"bda1d567fbc202af21b33f9b4fd1c129","path":"/BAREBONE.ZIP/BBA1960J","attr":"0x40","date":"1993-07-26 10:45:58","size":1080},
+  {"hash":"209102426ec44355cc67eb119b33ba45","path":"/BAREBONE.ZIP/BBA1960N","attr":"0x40","date":"1993-08-07 13:03:48","size":11000},
+  {"hash":"b2f066912a70f3a10f754b80b1da0acf","path":"/BAREBONE.ZIP/BBA1960P","attr":"0x40","date":"1993-08-04 18:00:38","size":11000},
+  {"hash":"f7b728981494691c2052f4123b7ea6e8","path":"/BAREBONE.ZIP/BBA1960S","attr":"0x40","date":"1993-07-26 10:46:00","size":190},
+  {"hash":"b706231a3c2fbca41755bdc36b850301","path":"/BAREBONE.ZIP/BBAY","attr":"0x40","date":"1993-08-26 13:57:18","size":251}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

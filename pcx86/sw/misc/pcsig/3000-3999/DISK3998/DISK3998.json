@@ -39,7 +39,14 @@
   {"hash":"00fff50cd6a785d56a4fac606d285042","path":"/PCSIG.TXT","attr":"0x20","date":"1993-06-01 14:31:30","size":2329},
   {"hash":"1710045e66398c8ea196722a687ead0a","path":"/PKUNZIP.EXE","attr":"0x20","date":"1993-02-01 02:04:16","size":29378},
   {"hash":"6162087334ed98bb273acaaa6ca85d40","path":"/SHAREMAG.TXT","attr":"0x20","date":"1993-06-01 14:32:04","size":1831},
-  {"hash":"82a7bdb946a3bdfaf674e85e307c7285","path":"/SIGORDER.TXT","attr":"0x20","date":"1993-06-01 14:30:00","size":3336}
+  {"hash":"82a7bdb946a3bdfaf674e85e307c7285","path":"/SIGORDER.TXT","attr":"0x20","date":"1993-06-01 14:30:00","size":3336},
+  {"hash":"b962ad6f01868819dc009fb37e61025f","path":"/GOOGOL.ZIP/FILE_ID.DIZ","attr":"0x40","date":"1993-06-02 12:00:48","size":371},
+  {"hash":"578a2d51ec419d910a935dff2f7ad9b0","path":"/GOOGOL.ZIP/GOOGOL-1.DAT","attr":"0x40","date":"1993-08-25 17:08:24","size":600},
+  {"hash":"eb354d204e2a6a7921e675880bccfe75","path":"/GOOGOL.ZIP/GOOGOL-1.EXE","attr":"0x40","date":"1993-05-11 01:40:00","size":192009},
+  {"hash":"a8212288100d85769145b2f8039fda4f","path":"/GOOGOL.ZIP/GOOGOL.FRM","attr":"0x40","date":"1993-05-11 01:40:00","size":3960},
+  {"hash":"bb1aac282e78c67c292ffba659fa7bd4","path":"/GOOGOL.ZIP/GOOGOL.TXT","attr":"0x40","date":"1993-05-11 01:40:00","size":2094},
+  {"hash":"906df6e71f3cb18dde2cb31750292715","path":"/GOOGOL.ZIP/THREED.VBX","attr":"0x40","date":"1992-10-21 00:00:00","size":60720},
+  {"hash":"a124bb62a15341e84fd1d8919b07ed65","path":"/GOOGOL.ZIP/VBRUN200.DLL","attr":"0x40","date":"1992-10-21 00:00:00","size":356992}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

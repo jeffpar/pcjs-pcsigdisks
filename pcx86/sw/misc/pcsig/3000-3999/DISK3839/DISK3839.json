@@ -41,7 +41,17 @@
   {"hash":"1710045e66398c8ea196722a687ead0a","path":"/PKUNZIP.EXE","attr":"0x20","date":"1993-02-01 02:04:16","size":29378},
   {"hash":"00fff50cd6a785d56a4fac606d285042","path":"/PCSIG.TXT","attr":"0x20","date":"1993-06-01 14:31:30","size":2329},
   {"hash":"6162087334ed98bb273acaaa6ca85d40","path":"/SHAREMAG.TXT","attr":"0x20","date":"1993-06-01 14:32:04","size":1831},
-  {"hash":"54964d989c90644e40ac21508c12ff5d","path":"/CDROM.TXT","attr":"0x20","date":"1993-06-01 15:26:44","size":8196}
+  {"hash":"54964d989c90644e40ac21508c12ff5d","path":"/CDROM.TXT","attr":"0x20","date":"1993-06-01 15:26:44","size":8196},
+  {"hash":"fe1925e1201ea2c7ac6b4501e0209765","path":"/REFONT.ZIP/REFONT.DOC","attr":"0x40","date":"1992-05-02 02:29:00","size":9450},
+  {"hash":"6d8c47bb3cba38a987dc7ba103ec7bf3","path":"/REFONT.ZIP/REFONT.EXE","attr":"0x40","date":"1992-04-30 20:44:26","size":56174},
+  {"hash":"0d33e1c8ee88d0543f2587f69e663b83","path":"/SCHED.ZIP/SCHED.EXE","attr":"0x40","date":"1993-04-02 16:50:28","size":11893},
+  {"hash":"4dbd2fb8fa6de50cfd39f3f0f1828988","path":"/SCHED.ZIP/SCHED.WRI","attr":"0x40","date":"1993-04-02 17:04:48","size":7296},
+  {"hash":"ca9d20c13c99b68ba454089d011e701e","path":"/WINFBALL.ZIP/BALLHELP.HLP","attr":"0x40","date":"1991-11-07 01:09:30","size":29897},
+  {"hash":"9bf79d05751b1038e8e2ae3bd0c54aaa","path":"/WINFBALL.ZIP/FOOTBALL.EXE","attr":"0x40","date":"1991-11-07 00:56:02","size":365344},
+  {"hash":"221a3830ea174aed412d0784668a1d45","path":"/WINFBALL.ZIP/FOOTBALL.INI","attr":"0x40","date":"1991-11-07 00:59:32","size":416},
+  {"hash":"f14a66237338802a136e149146be8485","path":"/WINFBALL.ZIP/LOGTILE2.BMP","attr":"0x40","date":"1991-10-21 00:00:46","size":1126},
+  {"hash":"ab8095e27e50f313e46cc9f59c53d587","path":"/WINFBALL.ZIP/README.TXT","attr":"0x40","date":"1991-11-12 13:03:50","size":1735},
+  {"hash":"40f7a14057d449d4b54089899cfb572c","path":"/WINFBALL.ZIP/TSOFLOG2.BMP","attr":"0x40","date":"1991-10-21 14:53:14","size":918}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

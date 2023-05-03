@@ -35,7 +35,18 @@
   {"hash":"6e6059fd6e7b8ae15401146f4ee8f88c","path":"/DREAM3.ARC","attr":"0x20","date":"1988-06-15 19:31:00","size":158558},
   {"hash":"90739e1c9d076d8359b3a2abbfce0f7e","path":"/GO.BAT","attr":"0x20","date":"1990-03-23 14:24:20","size":666},
   {"hash":"b1cc4a14e2d1f01eac02ba6cb6aa9a8e","path":"/INSTALL.BAT","attr":"0x20","date":"1988-07-16 15:33:30","size":268},
-  {"hash":"2b8c817635422ec994467d3e99706eeb","path":"/PARM.SYS","attr":"0x20","date":"1988-07-17 08:25:50","size":87}
+  {"hash":"2b8c817635422ec994467d3e99706eeb","path":"/PARM.SYS","attr":"0x20","date":"1988-07-17 08:25:50","size":87},
+  {"hash":"7c4f951129df38fd30d05a989dab4f5a","path":"/DREAM1.ARC/BRUN20.EXE","attr":"0x40","date":"1986-06-13 10:55:26","size":68396},
+  {"hash":"840954c9f0e2c1f0259c062b2675f75a","path":"/DREAM1.ARC/COMLIST.LST","attr":"0x40","date":"1980-01-01 01:53:52","size":4480},
+  {"hash":"758638cd0c0e2d0894dc3e0fdcfdb1f3","path":"/DREAM1.ARC/DESEDIT.EXE","attr":"0x40","date":"1988-06-15 18:56:20","size":71049},
+  {"hash":"1cf9b9f951d38da340310e5d69ffaa2f","path":"/DREAM1.ARC/DESIGN.EXE","attr":"0x40","date":"1988-06-15 18:43:10","size":69753},
+  {"hash":"836ac26f6275033f23c9b8f91c205e31","path":"/DREAM1.ARC/DREAM.EXE","attr":"0x40","date":"1988-07-09 14:00:22","size":50953},
+  {"hash":"481a3ec7df48f303d590412e74f6d0cb","path":"/DREAM1.ARC/READ-ME.DOC","attr":"0x40","date":"1989-10-14 16:13:56","size":8237},
+  {"hash":"0468ba7321e41e5a6063f522c24fce81","path":"/DREAM1.ARC/UD.EXE","attr":"0x40","date":"1988-07-09 17:16:58","size":3200},
+  {"hash":"8479b2fb71ec0b59c6b490675b84b519","path":"/DREAM3.ARC/REPFORM.EXE","attr":"0x40","date":"1988-06-15 19:19:56","size":46649},
+  {"hash":"00f5d8dd024c260db37c2be553ceea56","path":"/DREAM3.ARC/REPMAIN.EXE","attr":"0x40","date":"1988-06-15 19:15:46","size":60025},
+  {"hash":"0a10e144818444fbc6e7e18fa2021d0b","path":"/DREAM3.ARC/REPQRY.EXE","attr":"0x40","date":"1988-06-15 19:25:24","size":61145},
+  {"hash":"1135aa4a221b5d208ff59821be243e2d","path":"/DREAM3.ARC/REPSORT.EXE","attr":"0x40","date":"1988-06-15 19:31:00","size":60457}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

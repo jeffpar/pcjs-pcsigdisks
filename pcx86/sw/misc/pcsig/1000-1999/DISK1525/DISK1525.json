@@ -40,7 +40,13 @@
   {"hash":"cb9d220979ad05aa29d8a0dd10996378","path":"/HELP.DOC","attr":"0x20","date":"1990-02-06 13:28:28","size":11751},
   {"hash":"67ccbaa469cb74e91ff415f91f75804f","path":"/GO.BAT","attr":"0x20","date":"1989-07-14 08:01:32","size":38},
   {"hash":"6c5897340dc6ea8c4fa5d7ca00598853","path":"/GO.TXT","attr":"0x20","date":"1990-03-19 16:41:00","size":463},
-  {"hash":"297086fe84aab4f02c2fa459200debfd","path":"/FILE1525.TXT","attr":"0x20","date":"1990-04-23 20:22:24","size":1925}
+  {"hash":"297086fe84aab4f02c2fa459200debfd","path":"/FILE1525.TXT","attr":"0x20","date":"1990-04-23 20:22:24","size":1925},
+  {"hash":"e813d55f6d2cfa40f07e3993ddb647fd","path":"/CLFINDER.ARC/ARCE.DOC","attr":"0x40","date":"1989-01-12 19:51:20","size":7786},
+  {"hash":"88872da789d060aca7d550cb46118e6c","path":"/CLFINDER.ARC/CLDOC.COM","attr":"0x40","date":"1990-04-07 18:16:28","size":13235},
+  {"hash":"de69aacb7f438b3760170cd87a502046","path":"/CLFINDER.ARC/CLEDIT.EXE","attr":"0x40","date":"1990-04-06 20:22:30","size":185617},
+  {"hash":"0ee3f648c8a1029b19cb1be68f9777ed","path":"/CLFINDER.ARC/CLFINDER.DBF","attr":"0x40","date":"1990-04-06 13:52:36","size":22857},
+  {"hash":"9c8602ad02ab2f664bde1b870b5c9a45","path":"/CLFINDER.ARC/CLFINDER.EXE","attr":"0x40","date":"1990-04-07 18:34:50","size":182320},
+  {"hash":"6ffa3c58c6b906a017f9187dc5c217c5","path":"/CLFINDER.ARC/CLFTEMP.DBF","attr":"0x40","date":"1990-04-07 18:34:36","size":66}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

@@ -34,7 +34,22 @@
   {"hash":"9b0c8a087eaa96b3230772421a241368","path":"/SFW11AP1.ZIP","attr":"0x20","date":"1992-04-30 15:05:06","size":343040},
   {"hash":"6687d5d1dd32a7026685d6f4bf3208e1","path":"/FILE3001.TXT","attr":"0x20","date":"1992-05-01 15:30:44","size":3183},
   {"hash":"09c8206644019d4d3b0348a3cdff02d3","path":"/GO.BAT","attr":"0x20","date":"1991-01-31 00:58:08","size":38},
-  {"hash":"6e494454fe8884fa9a4c59b4ca543f8f","path":"/GO.TXT","attr":"0x20","date":"1980-01-01 02:17:18","size":1617}
+  {"hash":"6e494454fe8884fa9a4c59b4ca543f8f","path":"/GO.TXT","attr":"0x20","date":"1980-01-01 02:17:18","size":1617},
+  {"hash":"74d3b3f899912cd4609b9fc38e037302","path":"/SFW11AP1.ZIP/_DESC.BTM","attr":"0x40","date":"1992-04-30 01:10:00","size":2147},
+  {"hash":"ed299707f69e2c60f7ebb89218cef655","path":"/SFW11AP1.ZIP/FILE_ID.DIZ","attr":"0x40","date":"1992-04-30 01:10:00","size":406},
+  {"hash":"6b30251b8366d86c76d24bc6d5d6179e","path":"/SFW11AP1.ZIP/LICENSE","attr":"0x40","date":"1992-04-30 01:10:00","size":2234},
+  {"hash":"c237ddf3e27c6930a9d0d95ff1bfc39d","path":"/SFW11AP1.ZIP/ORDER.FRM","attr":"0x40","date":"1992-04-30 01:10:00","size":2239},
+  {"hash":"bd9085625176898608e24c7c854736ba","path":"/SFW11AP1.ZIP/PACKING.P1","attr":"0x40","date":"1992-04-30 01:10:00","size":1075},
+  {"hash":"845b55b90400e510cb0b21f1af04d7f8","path":"/SFW11AP1.ZIP/PRINTDOC","attr":"0x40","date":"1992-04-30 01:10:00","size":4193},
+  {"hash":"8b3e697858562910af1cfa902bc93698","path":"/SFW11AP1.ZIP/READ.ME","attr":"0x40","date":"1992-04-30 01:10:00","size":4632},
+  {"hash":"59bc0e6b45a0eefb3cab5cdb5ab2f259","path":"/SFW11AP1.ZIP/SFCMPR.EXE","attr":"0x40","date":"1992-04-30 01:10:00","size":71792},
+  {"hash":"3e4c4fc5782fea1cca39ace85cab9afc","path":"/SFW11AP1.ZIP/SFLOAD.EXE","attr":"0x40","date":"1992-04-30 01:10:00","size":73120},
+  {"hash":"127ba6a4fb5b847545d33eaf6d23af80","path":"/SFW11AP1.ZIP/SFROTATE.EXE","attr":"0x40","date":"1992-04-30 01:10:00","size":71648},
+  {"hash":"ae699aed5d45239f146ccf1899f6992e","path":"/SFW11AP1.ZIP/SFSHELL.EXE","attr":"0x40","date":"1992-04-30 01:10:00","size":420775},
+  {"hash":"91ce31dec0cdf1cbdce4c011bd29f7ca","path":"/SFW11AP1.ZIP/SFSHELL.HLP","attr":"0x40","date":"1992-04-30 01:10:00","size":43366},
+  {"hash":"7dde0cbfc237c779876f823213f807c3","path":"/SFW11AP1.ZIP/TYPEFACE.LST","attr":"0x40","date":"1992-04-30 01:10:00","size":6173},
+  {"hash":"37f917e702d6a676fbf0bd8b4b9300b8","path":"/SFW11AP1.ZIP/WARRANTY","attr":"0x40","date":"1992-04-30 01:10:00","size":1116},
+  {"hash":"b093aed81aa0964c918f5953d14c9d29","path":"/SFW11AP1.ZIP/WHATS.NEW","attr":"0x40","date":"1992-04-30 01:10:00","size":3108}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

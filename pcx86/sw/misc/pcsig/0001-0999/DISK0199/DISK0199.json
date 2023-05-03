@@ -36,7 +36,19 @@
   {"hash":"4edc9b2fe0cdf87bb546657f84d6bb6c","path":"/GO.TXT","attr":"0x20","date":"1989-07-12 15:25:08","size":617},
   {"hash":"4b0d4cef8a872fc4cd93e6b163c92bdf","path":"/INSTALL.EXE","attr":"0x20","date":"1989-06-16 15:19:14","size":35307},
   {"hash":"fbe06dfcc27c59d8f29c2eb36769135c","path":"/PCCP.ZIP","attr":"0x20","date":"1989-06-16 15:20:06","size":243601},
-  {"hash":"9435c243dd26735237734bd73660786a","path":"/PKUNZIP.EXE","attr":"0x20","date":"1989-06-16 15:19:14","size":18208}
+  {"hash":"9435c243dd26735237734bd73660786a","path":"/PKUNZIP.EXE","attr":"0x20","date":"1989-06-16 15:19:14","size":18208},
+  {"hash":"1c0af0aa41ca845782173a192f1e9e56","path":"/PCCP.ZIP/COLOR.PRO","attr":"0x40","date":"1989-06-16 15:19:30","size":1796},
+  {"hash":"b79fc82a93c2517dc8d7d0e14994e334","path":"/PCCP.ZIP/DIABLO.PRN","attr":"0x40","date":"1989-06-16 15:19:30","size":337},
+  {"hash":"832c7697e2c5bc524f99a20815b02dc5","path":"/PCCP.ZIP/EPSON.PRN","attr":"0x40","date":"1989-06-16 15:19:30","size":358},
+  {"hash":"6cb697e47550aba7ccab14fa5799472d","path":"/PCCP.ZIP/HP.PRN","attr":"0x40","date":"1989-06-16 15:19:30","size":408},
+  {"hash":"2263edd661d6e9c790bcb765e2cc9848","path":"/PCCP.ZIP/MOVEM.BAT","attr":"0x40","date":"1989-06-16 15:19:30","size":425},
+  {"hash":"14edd28a21abcf7211ee7fa80154a2fd","path":"/PCCP.ZIP/NEC_PIN.PRN","attr":"0x40","date":"1989-06-16 15:19:30","size":339},
+  {"hash":"7d85da8bf8c2cf1fe2e2ce05a5396888","path":"/PCCP.ZIP/OKIDATA.PRN","attr":"0x40","date":"1989-06-16 15:19:30","size":336},
+  {"hash":"1c21293afc5c4684510584f3098ab747","path":"/PCCP.ZIP/PCC.EXE","attr":"0x40","date":"1989-06-16 15:19:30","size":364602},
+  {"hash":"575fee3577d9dc58816c45e407924b2a","path":"/PCCP.ZIP/PCC.HLP","attr":"0x40","date":"1989-06-16 15:19:30","size":37195},
+  {"hash":"ca76d9400bafc8ba7a2faaddf2180eae","path":"/PCCP.ZIP/PCCALC.PRO","attr":"0x40","date":"1989-06-16 15:19:30","size":766},
+  {"hash":"056ea0ef60066c29b407496edf33251a","path":"/PCCP.ZIP/TANDY.PRN","attr":"0x40","date":"1989-06-16 15:19:30","size":337},
+  {"hash":"236f747efd421f96efe779333680bd0d","path":"/PCCP.ZIP/TOSHIBA.PRN","attr":"0x40","date":"1989-06-16 15:19:30","size":341}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},
