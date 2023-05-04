@@ -10850,7 +10850,7 @@
                   "@diskette": "DISK0918.json",
                   "@archive": ".img",
                   "@photo": "jpg",
-                  "@fileList": "/GO.BAT|/#918  S2.5|/HARNESS.ARC|/HOUNDS.ARC|/PKXARC.COM|/THISDISK.DOC|/THORO.ARC|/GO.TXT|/FILE0918.TXT",
+                  "@fileList": "/GO.BAT|/#918  S2.5|/HARNESS.ARC|/HOUNDS.ARC|/PKXARC.COM|/THISDISK.DOC|/THORO.ARC|/GO.TXT|/FILE0918.TXT|/HARNESS.ARC/HARNESS.BAT|/HARNESS.ARC/HARNESS.DOC|/HARNESS.ARC/NHARN1.EXE|/HARNESS.ARC/NHARN1.PAK|/HARNESS.ARC/PRINTME.BAT|/HARNESS.ARC/READ.ME|/HARNESS.ARC/SPEEDSCR.COM|/HOUNDS.ARC/HOUNDS.BAT|/HOUNDS.ARC/HOUNDS.DOC|/HOUNDS.ARC/NHOUND1.EXE|/HOUNDS.ARC/NHOUND1.PAK|/HOUNDS.ARC/PRINTME.BAT|/HOUNDS.ARC/README.1ST|/HOUNDS.ARC/SPEEDSCR.COM|/THORO.ARC/CAP.CFG|/THORO.ARC/NTHO1.EXE|/THORO.ARC/NTHO1.PAK|/THORO.ARC/NTHO4SW.EXE|/THORO.ARC/NTHO4SW.PAK|/THORO.ARC/PRINTME.BAT|/THORO.ARC/READ.ME|/THORO.ARC/README.1ST|/THORO.ARC/SPEEDSCR.COM|/THORO.ARC/THORO.BAT|/THORO.ARC/THORO.DOC|/THORO.ARC/THORO4.ASC|/THORO.ARC/THORO4SW.DOC",
                   "@diskTitle": "CAMBRIDGE THOROUGHBRED HANDICAPPER",
                   "@diskSummary": "CAMBRIDGE THOROUGHBRED HANDICAPPER attempts to predict a horse or dog's race performance by analyzing past performances in a consistent, scientific manner.  It also gives you a strategy for betting on races based on your handicapping analysis."
                 }
@@ -22891,7 +22891,7 @@
                   "@diskette": "DISK1933.json",
                   "@archive": ".img",
                   "@photo": "jpg",
-                  "@fileList": "/OVL312.ARC|/FILE1933.TXT|/GO.BAT|/OVL|/GO.TXT",
+                  "@fileList": "/OVL312.ARC|/FILE1933.TXT|/GO.BAT|/OVL|/GO.TXT|/OVL312.ARC/BNEST1.BAS|/OVL312.ARC/BNEST2.BAS|/OVL312.ARC/BNEST3.BAS|/OVL312.ARC/BNEST4.BAS|/OVL312.ARC/COW.C|/OVL312.ARC/DOGGEREL.TXT|/OVL312.ARC/FARM.C|/OVL312.ARC/HORSE.C|/OVL312.ARC/LINKOVL.OBJ|/OVL312.ARC/MAPOVL.C|/OVL312.ARC/MAPOVL.EXE|/OVL312.ARC/MASMTEST.ASM|/OVL312.ARC/MASMTEST.OBJ|/OVL312.ARC/MULTA.ASM|/OVL312.ARC/MULTB.ASM|/OVL312.ARC/MULTC.ASM|/OVL312.ARC/MULTD.ASM|/OVL312.ARC/MULTEST.ASM|/OVL312.ARC/MULTEST.EXE|/OVL312.ARC/OV1.ASM|/OVL312.ARC/OV1.OBJ|/OVL312.ARC/OV2.ASM|/OVL312.ARC/OV2.OBJ|/OVL312.ARC/OV3.ASM|/OVL312.ARC/OV3.OBJ|/OVL312.ARC/OVL.DOC|/OVL312.ARC/OVLSTONE.OBJ|/OVL312.ARC/PIG.C|/OVL312.ARC/PIGLET.C|/OVL312.ARC/PRONK.EXE|/OVL312.ARC/PRTEST.ASM|/OVL312.ARC/PRTEST.OBJ|/OVL312.ARC/PTEST2.ASM|/OVL312.ARC/PTEST2.OBJ|/OVL312.ARC/PTEST3.ASM|/OVL312.ARC/PTEST3.OBJ|/OVL312.ARC/QBNEST.BAS|/OVL312.ARC/SCULPT.C|/OVL312.ARC/SCULPT.EXE|/OVL312.ARC/SHEEP.C|/OVL312.ARC/SPLIT.C|/OVL312.ARC/SPLIT.EXE",
                   "@diskTitle": "OVL312",
                   "@diskSummary": "OVL is a powerful overlay manager system for use with Microsoft LINK. Overlays are portions of program code which are loaded from disk into memory on an \"as-needed\" basis.  Overlays allow a very large program to use a relatively small amount of memory."
                 }
@@ -23907,7 +23907,7 @@
                   "@diskette": "DISK2018.json",
                   "@archive": ".img",
                   "@photo": "jpg",
-                  "@fileList": "/LHARC|/LHDIR|/2LZH|/FILE2018.TXT|/FV|/MAD|/ZIPNOTE|/GO.BAT|/#2018 S1|/GO.TXT|/LHARC/.|/LHARC/..|/LHARC/LHARC.MAN|/LHARC/LHARC.EXE|/LHDIR/.|/LHDIR/..|/LHDIR/LHDIR.DOC|/LHDIR/LHDIR.EXE|/2LZH/.|/2LZH/..|/2LZH/2LZH.DOC|/2LZH/2LZH.EXE|/2LZH/FLIPPER.EXE|/FV/.|/FV/..|/MAD/.|/MAD/..|/MAD/MAD.EXE|/MAD/README.MAD|/ZIPNOTE/.|/ZIPNOTE/..|/ZIPNOTE/ZIPNOTE.DOC|/ZIPNOTE/ZIPNOTE.EXE|/ZIPNOTE/DEMO.ANS|/ZIPNOTE/DEMO.SET|/ZIPNOTE/SAMPLE.SET|/ZIPNOTE/GARBAGE.ZIP",
+                  "@fileList": "/LHARC|/LHDIR|/2LZH|/FILE2018.TXT|/FV|/MAD|/ZIPNOTE|/GO.BAT|/#2018 S1|/GO.TXT|/LHARC/.|/LHARC/..|/LHARC/LHARC.MAN|/LHARC/LHARC.EXE|/LHDIR/.|/LHDIR/..|/LHDIR/LHDIR.DOC|/LHDIR/LHDIR.EXE|/2LZH/.|/2LZH/..|/2LZH/2LZH.DOC|/2LZH/2LZH.EXE|/2LZH/FLIPPER.EXE|/FV/.|/FV/..|/MAD/.|/MAD/..|/MAD/MAD.EXE|/MAD/README.MAD|/ZIPNOTE/.|/ZIPNOTE/..|/ZIPNOTE/ZIPNOTE.DOC|/ZIPNOTE/ZIPNOTE.EXE|/ZIPNOTE/DEMO.ANS|/ZIPNOTE/DEMO.SET|/ZIPNOTE/SAMPLE.SET|/ZIPNOTE/GARBAGE.ZIP|/GARBAGE.ZIP/GARBAGE|/ZIPNOTE/GARBAGE.ZIP/GARBAGE",
                   "@diskTitle": "LHARC AND UTILITIES",
                   "@diskSummary": "This collection of archive utilities can make you the tightest, most effective archiver on your block. LHARC compresses tighter than any of the more common compression programs. It does take a little longer, but sometimes space is far more important than speed. Included on this disk is 2LZH which converts ARC, PKARC, and ZIP files to LHARC format. LHDIR is a companion program for viewing and identifying compressed LHARC files and self-extracting LHARC."
                 }
@@ -24040,7 +24040,7 @@
                   "@diskette": "DISK2029.json",
                   "@archive": ".img",
                   "@photo": "jpg",
-                  "@fileList": "/GBLINK.COM|/GBLINK.DOC|/FILE2029.TXT|/NC.INI|/CC312.ZIP|/FD212.ZIP|/PKUNZIP.EXE|/GO.BAT|/GO.TXT|/#2029 v1.1",
+                  "@fileList": "/GBLINK.COM|/GBLINK.DOC|/FILE2029.TXT|/NC.INI|/CC312.ZIP|/FD212.ZIP|/PKUNZIP.EXE|/GO.BAT|/GO.TXT|/#2029 v1.1|/CC312.ZIP/COPYCON.DOC|/CC312.ZIP/COPYCON.EXE|/FD212.ZIP/FD.DOC|/FD212.ZIP/FD.EXE|/FD212.ZIP/LIST.COM|/FD212.ZIP/WHATSNEW.COM",
                   "@diskTitle": "FIND DUPLICATES/COPYCON/GBLINK",
                   "@diskSummary": "FIND DUPLICATES will search a specified hard drive and all subdirectories and locate all duplicate files. Once the duplicate files are located they are displayed on the screen. Files can be tagged for deletion, viewed, printed or deleted. This program is very easy to use and the documentation is excellent."
                 }
