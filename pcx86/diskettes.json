@@ -7254,12 +7254,14 @@
               "@media": [
                 {
                   "@diskette": "DISK0613.json",
-                  "@archive": ".zip",
+                  "@archive": ".img",
+                  "@photo": "jpg",
                   "@fileList": "/AMORTIZE.BAS|/BALREM.BAS|/CHARGEHI.BAS|/CREDITCA.BAS|/CREDITPU.BAS|/DAILYODO.BAS|/DATEDIST.BAS|/DATESINM.BAS|/DAYOFWEE.BAS|/DEPGROWS.BAS|/FILES613.TXT|/GO.BAT|/INTRATE.BAS|/INVHISTO.BAS|/INVINCOM.BAS|/INVPRICE.BAS|/INVVALUE.BAS|/INVYIELD.BAS|/IRA.BAS|/LOANCOST.BAS|/LOANQUAL.BAS|/LOANTERM.BAS|/MNTHINCM.BAS|/MONTHLYO.BAS|/NOTES613.TXT|/NUMDAYS.BAS|/PAYBACK.BAS|/PERBALAN.BAS|/PERDEPOS.BAS|/PERRATE.BAS|/PERTERM.BAS|/POINTS.BAS|/README|/RULEOF78.BAS|/SAVHISTO.BAS|/SIMPINV.BAS|/TERMDEPO.BAS",
                   "@diskTitle": "MANAGING YOUR MONEY",
                   "@diskSummary": "All the BASIC programs in the book ``Managing Money With Your IBM PC,'' by A. Glazer, an economics professor at the University of California. (Prentice-Hall, 1985)."
                 }
-              ]
+              ],
+              "@source": "https://winworldpc.com/product/managing-money-with-/10"
             },
             "DISK0614": {
               "@title": "PC-SIG Library Disk #0614",
@@ -11411,12 +11413,14 @@
               "@media": [
                 {
                   "@diskette": "DISK0966.json",
-                  "@archive": ".zip",
+                  "@archive": ".img",
+                  "@photo": "png",
                   "@fileList": "/README.DOC|/ASTROL96.EXE|/ATLAS.ARC|/HELPDOC.ARC|/CUSTOM96.COM|/GRAPHICS.DOC|/GRAPHICS.ARC|/HERCULES.DOC|/HERCULES.ARC|/ARCE.COM|/PRINTDOC.COM|/UPGRADE.DOC|/REL96FIX.DOC|/PD96.DOC|/GO.TXT|/GO.BAT|/FILE0966.TXT|/ATLAS.ARC/USCIT.AST|/ATLAS.ARC/USMAP.AST|/ATLAS.ARC/WORLDCIT.AST|/ATLAS.ARC/WORLDMAP.AST|/HELPDOC.ARC/HELP1.AST|/HELPDOC.ARC/HELP10.AST|/HELPDOC.ARC/HELP11.AST|/HELPDOC.ARC/HELP12.AST|/HELPDOC.ARC/HELP2.AST|/HELPDOC.ARC/HELP3.AST|/HELPDOC.ARC/HELP4.AST|/HELPDOC.ARC/HELP5.AST|/HELPDOC.ARC/HELP6.AST|/HELPDOC.ARC/HELP7.AST|/HELPDOC.ARC/HELP8.AST|/HELPDOC.ARC/HELP9.AST|/GRAPHICS.ARC/CITOH.COM|/GRAPHICS.ARC/DMP200.COM|/GRAPHICS.ARC/EGAEPSON.COM|/GRAPHICS.ARC/EP2GEM.COM|/GRAPHICS.ARC/FXPRTS.COM|/GRAPHICS.ARC/GEM10GRF.COM|/GRAPHICS.ARC/GRAFTRAX.COM|/GRAPHICS.ARC/HIGRAF-L.COM|/GRAPHICS.ARC/HPPS.COM|/GRAPHICS.ARC/LASERJET.EXE|/GRAPHICS.ARC/MLPS.COM|/GRAPHICS.ARC/OKIDMP.COM|/GRAPHICS.ARC/OKIPRTSC.COM|/GRAPHICS.ARC/THINKJET.EXE|/GRAPHICS.ARC/TOSHGRPH.COM|/HERCULES.ARC/SETCGA.COM|/HERCULES.ARC/SETMONO.COM|/HERCULES.ARC/SIMCGA.COM|/HERCULES.ARC/SIMCGA.DOC",
                   "@diskTitle": "ASTROL95 - ASTROLOGY PROGRAM",
                   "@diskSummary": "Know what the stars have in store for you, your family and friends. ASTROL96 is a comprehensive astrology program that calculates the zodiacal positions of all of the planets and the sun, moon, and the 12 house cusps for any date, time, and place. Display the aspects and midpoints between the planets, ascendant, and midheaven and midpoint/planet conjunctions."
                 }
-              ]
+              ],
+              "@source": "https://archive.org/details/astrol96"
             },
             "DISK0967": {
               "@title": "PC-SIG Library Disk #0967",
@@ -14202,12 +14206,14 @@
               "@media": [
                 {
                   "@diskette": "DISK1202.json",
-                  "@archive": ".zip",
+                  "@archive": ".img",
+                  "@photo": "jpg",
                   "@fileList": "/!EZX!!!!|/EZFL.EXE|/EZXINFO.EXE|/EZFLHELP.EXE|/SUPPORT.EXE|/!|/README.EXE|/MATHDEMO.FRM|/MATHINFO.FRM|/MATHINVC.FRM|/ORDEREZX.FRM|/INVC-EZI.FRM|/PRT-TEST.FRM|/DIAGRAM.FRM|/TIMETEST.FRM|/SOFTPERF.FRM|/COMMANDS.FRM|/SALESORD.FRM|/FILE1202.TXT",
                   "@diskTitle": "EZ-FORMS LITE",
                   "@diskSummary": "EZ-FORMS LITE solves the major problem for the business which needs a multitude of forms. EZ-FORMS LITE is a powerful forms generation and management system that helps you create forms on your screen, print and store them, edit them later, and, if you choose, use your PC to fill them out. The program allows you to use your PC to fill out other pre- printed forms and lets you preview the output on your screen to prevent errors. The person who currently spends too much to get a few thousand forms from a printer will find this program financially and aesthetically appealing."
                 }
-              ]
+              ],
+              "@source": "https://archive.org/details/EZFormsPlus"
             },
             "DISK1203": {
               "@title": "PC-SIG Library Disk #1203",
@@ -17687,12 +17693,14 @@
               "@media": [
                 {
                   "@diskette": "DISK1496.json",
-                  "@archive": ".zip",
+                  "@archive": ".img",
+                  "@photo": "png",
                   "@fileList": "/CIRCUIT.CU|/COMBINE.CU|/CU.DOC|/CU.EXE|/CU.PIC|/CU.SYM|/DRIVERS.EXE|/EMPTY.OBJ|/FILE1496.TXT|/FLORPLAN.CU|/FLOWCHAR.CU|/GO.BAT|/GO.TXT|/GRAPH.CU|/HELP.HLP|/HOUSE.CU|/MANUAL.BAT|/OBJECTS.HLP|/ORGCHART.CU|/PAGE.COM|/PRINT.BUF|/READ.ME|/SYMBOLS.HLP|/USER.OBJ|/USER.SYM|/VIEW.BAT",
                   "@diskTitle": "CHARTS UNLIMITED",
                   "@diskSummary": "CHARTS UNLIMITED integrates graphics and text processing into a single system to allow creation, editing, and printing of flow charts, organization charts, floor plans, electrical diagrams, Gantt charts, business forms, and many other documents.  Highly versatile, CHARTS UNLIMITED is valuable to engineers, architects, programmers, system analysts, teachers, and anyone with a need to draw charts."
                 }
-              ]
+              ],
+              "@source": "https://archive.org/details/chartsunlimited"
             },
             "DISK1497": {
               "@title": "PC-SIG Library Disk #1497",
@@ -20165,12 +20173,14 @@
               "@media": [
                 {
                   "@diskette": "DISK1704.json",
-                  "@archive": ".zip",
+                  "@archive": ".img",
+                  "@photo": "png",
                   "@fileList": "/CHART2.ZIP|/CHART1.ZIP|/READ.ME|/PKUNZIP.EXE|/GRAPHICS.ZIP|/FLOPPY.BAT|/HARD.BAT|/GO.BAT|/GO.TXT|/FILE1704.TXT|/CHART2.ZIP/AD.SYM|/CHART2.ZIP/AMX.PRN|/CHART2.ZIP/ASCII.FIL|/CHART2.ZIP/CHART.DOC|/CHART2.ZIP/CYR.PRN|/CHART2.ZIP/DJI.PRI|/CHART2.ZIP/F001.DTA|/CHART2.ZIP/F002.DTA|/CHART2.ZIP/F003.DTA|/CHART2.ZIP/F004.DTA|/CHART2.ZIP/F005.DTA|/CHART2.ZIP/F006.DTA|/CHART2.ZIP/FASCII.FIL|/CHART2.ZIP/FSYM.FIL|/CHART2.ZIP/GETSTART.DOC|/CHART2.ZIP/GNE.PRN|/CHART2.ZIP/HASCII.FIL|/CHART2.ZIP/HSYM.FIL|/CHART2.ZIP/IBM.PRI|/CHART2.ZIP/INDEX.SYM|/CHART2.ZIP/INSTALL.BAT|/CHART2.ZIP/NSM.PRN|/CHART2.ZIP/NYSE.ASY|/CHART2.ZIP/NYSE.SYM|/CHART2.ZIP/NYSEAD.DEL|/CHART2.ZIP/OEX.PRI|/CHART2.ZIP/QMASTER|/CHART2.ZIP/SPX.PRI|/CHART2.ZIP/SYM.FIL|/CHART2.ZIP/TSE300.PRI|/CHART2.ZIP/TSEAD.DEL|/CHART2.ZIP/TXN.PRI|/CHART2.ZIP/XON.PRI|/CHART1.ZIP/CHART.EXE|/CHART1.ZIP/CONFIG.CHT|/CHART1.ZIP/FCONFIG.CHT|/CHART1.ZIP/HCONFIG.CHT|/CHART1.ZIP/INSTALL.BAT|/CHART1.ZIP/PACKING.LST|/CHART1.ZIP/README.DOC|/GRAPHICS.ZIP/CITOH.COM|/GRAPHICS.ZIP/DMP200.COM|/GRAPHICS.ZIP/DUMPHP.COM|/GRAPHICS.ZIP/EGAEPSON.COM|/GRAPHICS.ZIP/EP2GEM.COM|/GRAPHICS.ZIP/FXPRTS.COM|/GRAPHICS.ZIP/GEM10GRF.COM|/GRAPHICS.ZIP/GEMGRAPH.COM|/GRAPHICS.ZIP/GEMGRAPH.DOC|/GRAPHICS.ZIP/GRAFTRAX.COM|/GRAPHICS.ZIP/GRAFTRAX.DOC|/GRAPHICS.ZIP/GRAPHICR.COM|/GRAPHICS.ZIP/GRAPHICS.DOC|/GRAPHICS.ZIP/HERCTOSH.COM|/GRAPHICS.ZIP/HERCTOSH.DOC|/GRAPHICS.ZIP/LASERJET.EXE|/GRAPHICS.ZIP/MLPS.COM|/GRAPHICS.ZIP/OKIDMP.COM|/GRAPHICS.ZIP/OKIDUMP.COM|/GRAPHICS.ZIP/OKIDUMP.DOC|/GRAPHICS.ZIP/OKIPRTSC.COM|/GRAPHICS.ZIP/SCRNDUMP.COM|/GRAPHICS.ZIP/SCRNDUMP.DOC|/GRAPHICS.ZIP/SETUPFX.COM|/GRAPHICS.ZIP/THINKJET.EXE|/GRAPHICS.ZIP/TOSHDUMP.DOC|/GRAPHICS.ZIP/TOSHDUMP.EXE|/GRAPHICS.ZIP/TOSHGRPH.COM",
                   "@diskTitle": "PC-CHART EGA VERSION (HGC & CGA ON 1436)",
                   "@diskSummary": "Bullish on the market?  Or bearish?  This program will help you decide!"
                 }
-              ]
+              ],
+              "@source": "https://archive.org/details/PcchartEga"
             },
             "DISK1705": {
               "@title": "PC-SIG Library Disk #1705",
@@ -21303,12 +21313,14 @@
               "@media": [
                 {
                   "@diskette": "DISK1800.json",
-                  "@archive": ".zip",
+                  "@archive": ".img",
+                  "@photo": "png",
                   "@fileList": "/FILE1800.TXT|/GO.BAT|/GO.TXT|/MARKET.DOC|/QUICK.DAT|/SMTANALY.EXE|/SMTCHANG.EXE|/SMTMENU.EXE",
                   "@diskTitle": "STOCK MARKET TIMER",
                   "@diskSummary": "When should you buy and when should you sell your stocks?  What numbers should you watch?  The STOCK MARKET TIMER uses figures from your daily newspaper to time your actions to ongoing trends, not whims. This market analyzer is based upon M. G. Zahorchak's book entitled \"The Art of Low Risk Investing.\"  Mr. Zahorchak's main idea was to help the individual investor to protect himself from himself.  That is, to give the investor a method of investing other than investing on hot tips or a stock some \"guru\" is touting that week."
                 }
-              ]
+              ],
+              "@source": "https://archive.org/details/stockmarkettimer"
             },
             "DISK1801": {
               "@title": "PC-SIG Library Disk #1801",
@@ -26473,12 +26485,14 @@
               "@media": [
                 {
                   "@diskette": "DISK2233.json",
-                  "@archive": ".zip",
+                  "@archive": ".img",
+                  "@photo": "png",
                   "@fileList": "/ECB.EXE|/ECBMAN.DOC|/ECBFONT.000|/ECBCOLOR.DAT|/ECBPALC1.DAT|/ECBPALC2.DAT|/ECBPALC3.DAT|/ECBPALC4.DAT|/ECBPALC5.DAT|/ECBPALT.DAT|/ECBTITLE.002|/ECBTITLE.001|/SEASHORE.PIC|/JUNGLE.PIC|/DUCKPOND.PIC|/UNDERSEA.PIC|/SHIP.PIC|/FILE2233.TXT|/GO.BAT|/GO.TXT",
                   "@diskTitle": "EGA COLORING BOOK",
                   "@diskSummary": "This is a computer coloring book with a selection of over 500 crayons (colors). There are five full-screen pictures that you can paint with the crayons. This program was originally made for children but anyone can enjoy it whether they're an adult or young at heart. It's just right for those times when your kids need something to do or when you need to color those blues away. Registered users get 10 more new pictures."
                 }
-              ]
+              ],
+              "@source": "https://archive.org/details/egacoloring"
             },
             "DISK2234": {
               "@title": "PC-SIG Library Disk #2234",
@@ -31394,10 +31408,12 @@
               "@media": [
                 {
                   "@diskette": "DISK2676.json",
-                  "@archive": ".zip",
+                  "@archive": ".img",
+                  "@photo": "jpg",
                   "@fileList": "/ECBPREVU.CBK|/ECBPREVU.GXL|/ECBPREVU.CDT|/ECBPAL.GXL|/GO.BAT|/GO.TXT|/FILE2676.TXT"
                 }
-              ]
+              ],
+              "@source": "https://archive.org/details/egacoloringbook2"
             },
             "DISK2677": {
               "@title": "PC-SIG Library Disk #2677",
@@ -32984,10 +33000,12 @@
               "@media": [
                 {
                   "@diskette": "DISK2837.json",
-                  "@archive": ".zip",
+                  "@archive": ".img",
+                  "@photo": "png",
                   "@fileList": "/PKUNZIP.EXE|/INSTALL.BAT|/READ.ME|/COURSE.ZIP|/NOTES1.ZIP|/NOTES2.ZIP|/GO.BAT|/FILE2837.TXT|/COURSE.ZIP/CHARTIST.CLR|/COURSE.ZIP/CHARTIST.EXE|/COURSE.ZIP/CHARTIST.USR|/COURSE.ZIP/CONFIG.S|/COURSE.ZIP/SEG_1.DAT|/COURSE.ZIP/SEG_10.DAT|/COURSE.ZIP/SEG_11.DAT|/COURSE.ZIP/SEG_12.DAT|/COURSE.ZIP/SEG_13.DAT|/COURSE.ZIP/SEG_14.DAT|/COURSE.ZIP/SEG_15.DAT|/COURSE.ZIP/SEG_16.DAT|/COURSE.ZIP/SEG_17.DAT|/COURSE.ZIP/SEG_18.DAT|/COURSE.ZIP/SEG_19.DAT|/COURSE.ZIP/SEG_2.DAT|/COURSE.ZIP/SEG_20.DAT|/COURSE.ZIP/SEG_3.DAT|/COURSE.ZIP/SEG_4.DAT|/COURSE.ZIP/SEG_5.DAT|/COURSE.ZIP/SEG_6.DAT|/COURSE.ZIP/SEG_7.DAT|/COURSE.ZIP/SEG_8.DAT|/COURSE.ZIP/SEG_9.DAT|/NOTES1.ZIP/FF.PRN|/NOTES1.ZIP/NOTES1.BAT|/NOTES1.ZIP/SEC_A1.PRN|/NOTES1.ZIP/SEC_A2.PRN|/NOTES1.ZIP/SEC_B.ENC|/NOTES1.ZIP/SEC_C.ENC|/NOTES1.ZIP/SEC_D1.PRN|/NOTES1.ZIP/SEC_D2.PRN|/NOTES1.ZIP/SEC_E.ENC|/NOTES1.ZIP/SEC_F1.PRN|/NOTES1.ZIP/SEC_F2.PRN|/NOTES1.ZIP/SEC_G.ENC|/NOTES1.ZIP/SEC_H1.PRN|/NOTES1.ZIP/SEC_H2.PRN|/NOTES1.ZIP/SEC_I.ENC|/NOTES1.ZIP/SEC_J.PRN|/NOTES1.ZIP/TITLE.PRN|/NOTES2.ZIP/APPENDIX.PRN|/NOTES2.ZIP/FF.PRN|/NOTES2.ZIP/NOTES2.BAT|/NOTES2.ZIP/SEC_K.ENC|/NOTES2.ZIP/SEC_L.ENC|/NOTES2.ZIP/SEC_R.PRN|/NOTES2.ZIP/SEC_S.ENC|/NOTES2.ZIP/SEC_T.PRN|/NOTES2.ZIP/SEC_U.ENC|/NOTES2.ZIP/SEC_V.ENC|/NOTES2.ZIP/SEC_X1.PRN|/NOTES2.ZIP/SEC_X2.PRN|/NOTES2.ZIP/SEC_Y.ENC"
                 }
-              ]
+              ],
+              "@source": "https://archive.org/details/marketchartist"
             },
             "DISK2838": {
               "@title": "PC-SIG Library Disk #2838",
