@@ -43,14 +43,14 @@
   {"hash":"5be43f58ac364e832b9fe4a9542f8200","path":"/PCJIG2.ZIP","attr":"0x20","date":"1990-02-06 18:23:28","size":132968},
   {"hash":"cb8e19a72f8a20cfbd3588b1fbb265bb","path":"/README.DOC","attr":"0x20","date":"1990-02-06 18:23:20","size":1909},
   {"hash":"781f1c00fcb254dc1826dbfb6f2e75d5","path":"/REGISTER.DOC","attr":"0x20","date":"1990-02-06 18:23:20","size":2680},
-  {"hash":"187131e087fbd1641c99b40528b25a41","path":"/PCJIG2.ZIP/DANCER.GRF","attr":"0x40","date":"1990-02-06 18:23:40","size":19928},
-  {"hash":"aa6557837da3d726512658ccb855daa0","path":"/PCJIG2.ZIP/DOG.GRF","attr":"0x40","date":"1990-02-06 18:23:40","size":22303},
-  {"hash":"3115d51937a14f5ded0b1dd657512411","path":"/PCJIG2.ZIP/HYDRA.GRF","attr":"0x40","date":"1990-02-06 18:23:40","size":16255},
-  {"hash":"dccedb2d179399dffdc9bf4d8c7b30a1","path":"/PCJIG2.ZIP/JIG.DOC","attr":"0x40","date":"1990-02-06 18:23:40","size":15583},
-  {"hash":"c1d973e6cf2a0e4494eaf1655ca5755b","path":"/PCJIG2.ZIP/JIG.EXE","attr":"0x40","date":"1990-02-06 18:23:40","size":106422},
-  {"hash":"e7ceefc21b6a73ea8efec70a90df269d","path":"/PCJIG2.ZIP/JIGSAW.GRF","attr":"0x40","date":"1990-02-06 18:23:40","size":18244},
-  {"hash":"cb8e19a72f8a20cfbd3588b1fbb265bb","path":"/PCJIG2.ZIP/README.DOC","attr":"0x40","date":"1990-02-06 18:23:40","size":1909},
-  {"hash":"781f1c00fcb254dc1826dbfb6f2e75d5","path":"/PCJIG2.ZIP/REGISTER.DOC","attr":"0x40","date":"1990-02-06 18:23:40","size":2680}
+  {"hash":"187131e087fbd1641c99b40528b25a41","path":"/PCJIG2.ZIP/DANCER.GRF","attr":"0x100","date":"1990-02-06 18:23:40","size":19928},
+  {"hash":"aa6557837da3d726512658ccb855daa0","path":"/PCJIG2.ZIP/DOG.GRF","attr":"0x100","date":"1990-02-06 18:23:40","size":22303},
+  {"hash":"3115d51937a14f5ded0b1dd657512411","path":"/PCJIG2.ZIP/HYDRA.GRF","attr":"0x100","date":"1990-02-06 18:23:40","size":16255},
+  {"hash":"dccedb2d179399dffdc9bf4d8c7b30a1","path":"/PCJIG2.ZIP/JIG.DOC","attr":"0x100","date":"1990-02-06 18:23:40","size":15583},
+  {"hash":"c1d973e6cf2a0e4494eaf1655ca5755b","path":"/PCJIG2.ZIP/JIG.EXE","attr":"0x100","date":"1990-02-06 18:23:40","size":106422},
+  {"hash":"e7ceefc21b6a73ea8efec70a90df269d","path":"/PCJIG2.ZIP/JIGSAW.GRF","attr":"0x100","date":"1990-02-06 18:23:40","size":18244},
+  {"hash":"cb8e19a72f8a20cfbd3588b1fbb265bb","path":"/PCJIG2.ZIP/README.DOC","attr":"0x100","date":"1990-02-06 18:23:40","size":1909},
+  {"hash":"781f1c00fcb254dc1826dbfb6f2e75d5","path":"/PCJIG2.ZIP/REGISTER.DOC","attr":"0x100","date":"1990-02-06 18:23:40","size":2680}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

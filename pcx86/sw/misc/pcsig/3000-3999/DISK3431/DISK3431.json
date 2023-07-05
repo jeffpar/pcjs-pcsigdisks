@@ -41,14 +41,14 @@
   {"hash":"f64229401e7cfecdad01902cb922cd5c","path":"/SHAREMAG.TXT","attr":"0x20","date":"1992-01-21 06:11:00","size":1837},
   {"hash":"68a42438d84f3dcd8611d904455168e6","path":"/SIGORDER.TXT","attr":"0x20","date":"1993-02-10 08:49:56","size":3332},
   {"hash":"50969ce102aff02017da75a7ec975893","path":"/DIALREAD.TXT","attr":"0x20","date":"1992-06-23 20:33:36","size":9706},
-  {"hash":"01cacc8225efe42d3d6797cbc6eaf505","path":"/FONE114.ZIP/DIALHELP.HLP","attr":"0x40","date":"1992-06-23 20:23:20","size":36201},
-  {"hash":"1411d9e5230fcba635fa54df01cbf9c5","path":"/FONE114.ZIP/DIALHELP.IDX","attr":"0x40","date":"1992-06-03 21:10:48","size":629},
-  {"hash":"4e6c032b02deae924cdcbe8e79828870","path":"/FONE114.ZIP/DIALOG.EXE","attr":"0x40","date":"1992-06-23 21:01:42","size":138624},
-  {"hash":"3da98a040c8b4e3956b17819cbddefaa","path":"/FONE114.ZIP/DIALREAD.TXT","attr":"0x40","date":"1992-06-23 20:33:36","size":9459},
-  {"hash":"6f8fdb63b900b8b91b979fc83703f63c","path":"/FONE114.ZIP/DIALRGST.TXT","attr":"0x40","date":"1992-06-23 21:00:28","size":1391},
-  {"hash":"443412da414bf49df54fc02f138793ad","path":"/FONE114.ZIP/INSTALL.EXE","attr":"0x40","date":"1992-04-22 20:52:54","size":37632},
-  {"hash":"b83532e72ec93afe18c1ee56271cf091","path":"/FONE114.ZIP/INSTALL.IN$","attr":"0x40","date":"1992-04-25 16:48:00","size":383},
-  {"hash":"127e75e5a9b93cfa4f964060d6f5bc8d","path":"/FONE114.ZIP/VBRUN100.DLL","attr":"0x40","date":"1991-05-08 01:00:00","size":271264}
+  {"hash":"01cacc8225efe42d3d6797cbc6eaf505","path":"/FONE114.ZIP/DIALHELP.HLP","attr":"0x100","date":"1992-06-23 20:23:20","size":36201},
+  {"hash":"1411d9e5230fcba635fa54df01cbf9c5","path":"/FONE114.ZIP/DIALHELP.IDX","attr":"0x100","date":"1992-06-03 21:10:48","size":629},
+  {"hash":"4e6c032b02deae924cdcbe8e79828870","path":"/FONE114.ZIP/DIALOG.EXE","attr":"0x100","date":"1992-06-23 21:01:42","size":138624},
+  {"hash":"3da98a040c8b4e3956b17819cbddefaa","path":"/FONE114.ZIP/DIALREAD.TXT","attr":"0x100","date":"1992-06-23 20:33:36","size":9459},
+  {"hash":"6f8fdb63b900b8b91b979fc83703f63c","path":"/FONE114.ZIP/DIALRGST.TXT","attr":"0x100","date":"1992-06-23 21:00:28","size":1391},
+  {"hash":"443412da414bf49df54fc02f138793ad","path":"/FONE114.ZIP/INSTALL.EXE","attr":"0x100","date":"1992-04-22 20:52:54","size":37632},
+  {"hash":"b83532e72ec93afe18c1ee56271cf091","path":"/FONE114.ZIP/INSTALL.IN$","attr":"0x100","date":"1992-04-25 16:48:00","size":383},
+  {"hash":"127e75e5a9b93cfa4f964060d6f5bc8d","path":"/FONE114.ZIP/VBRUN100.DLL","attr":"0x100","date":"1991-05-08 01:00:00","size":271264}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

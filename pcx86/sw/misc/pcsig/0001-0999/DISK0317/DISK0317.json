@@ -75,11 +75,11 @@
   {"hash":"1752d88005cd25aedfbddd7ad47bbb1f","path":"/GRAPHICS/HIRESPLT.ARC","attr":"0x20","date":"1987-01-18 11:12:50","size":32858},
   {"hash":"26b3af892eb73e84bc107229aec9c7db","path":"/GRAPHICS/README.NOW","attr":"0x20","date":"1987-01-19 07:38:30","size":1011},
   {"hash":"be1c8af101d678e5b44e240c8b385929","path":"/GRAPHICS/README.BAK","attr":"0x20","date":"1987-01-19 07:32:30","size":728},
-  {"hash":"f264c0c97e703b88296b2699a328f602","path":"/GRAPHICS/HIRESPLT.ARC/DEMOPLOT.PAS","attr":"0x40","date":"1986-09-19 08:32:44","size":7829},
-  {"hash":"b04c218cb5422acbb0c1c90aa66b337f","path":"/GRAPHICS/HIRESPLT.ARC/HIPLOT2.EXE","attr":"0x40","date":"1986-10-08 20:46:18","size":3840},
-  {"hash":"a4b096ceea02f6ccb61b24b4a687e23c","path":"/GRAPHICS/HIRESPLT.ARC/HIRESPLT.PAS","attr":"0x40","date":"1986-09-19 08:24:14","size":34771},
-  {"hash":"74f90bdefe80c088098d49bb5dbcc51e","path":"/GRAPHICS/HIRESPLT.ARC/PLOTTER.DOC","attr":"0x40","date":"1987-01-18 11:12:50","size":19983},
-  {"hash":"cb963e9614cc75dbb9a1528051550db6","path":"/GRAPHICS/HIRESPLT.ARC/README.DOC","attr":"0x40","date":"1987-01-18 11:06:28","size":3326}
+  {"hash":"f264c0c97e703b88296b2699a328f602","path":"/GRAPHICS/HIRESPLT.ARC/DEMOPLOT.PAS","attr":"0x100","date":"1986-09-19 08:32:44","size":7829},
+  {"hash":"b04c218cb5422acbb0c1c90aa66b337f","path":"/GRAPHICS/HIRESPLT.ARC/HIPLOT2.EXE","attr":"0x100","date":"1986-10-08 20:46:18","size":3840},
+  {"hash":"a4b096ceea02f6ccb61b24b4a687e23c","path":"/GRAPHICS/HIRESPLT.ARC/HIRESPLT.PAS","attr":"0x100","date":"1986-09-19 08:24:14","size":34771},
+  {"hash":"74f90bdefe80c088098d49bb5dbcc51e","path":"/GRAPHICS/HIRESPLT.ARC/PLOTTER.DOC","attr":"0x100","date":"1987-01-18 11:12:50","size":19983},
+  {"hash":"cb963e9614cc75dbb9a1528051550db6","path":"/GRAPHICS/HIRESPLT.ARC/README.DOC","attr":"0x100","date":"1987-01-18 11:06:28","size":3326}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

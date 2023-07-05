@@ -62,9 +62,9 @@
   {"hash":"1528dc3448756aee2debd4734a21525e","path":"/SUPRLOAD/ZIP.TXT","attr":"0x20","date":"1991-11-11 13:00:00","size":359},
   {"hash":"567e41b4e9385de23dd23736e2ae6805","path":"/SUPRLOAD/SL-10.ZIP","attr":"0x20","date":"1991-11-25 13:00:00","size":13834},
   {"hash":"a8d2128e38fff056e0e466fe3a50b5be","path":"/SUPRLOAD/BONUS.TXT","attr":"0x20","date":"1991-11-25 13:00:00","size":533},
-  {"hash":"680c860d4945533dae49720b5ab6d2b3","path":"/SUPRLOAD/SL-10.ZIP/SUPRLOAD.EXE","attr":"0x40","date":"1991-11-25 13:00:00","size":19522},
-  {"hash":"456a6699fb7b50eb4920269cbe87fb2e","path":"/SUPRLOAD/SL-10.ZIP/SUPRLOAD.TXT","attr":"0x40","date":"1991-11-25 13:00:00","size":780},
-  {"hash":"1bf336c30b8165fc00e6d8b084c32568","path":"/SUPRLOAD/SL-10.ZIP/SUPRLOAD.WRI","attr":"0x40","date":"1991-11-25 13:00:00","size":6912}
+  {"hash":"680c860d4945533dae49720b5ab6d2b3","path":"/SUPRLOAD/SL-10.ZIP/SUPRLOAD.EXE","attr":"0x100","date":"1991-11-25 13:00:00","size":19522},
+  {"hash":"456a6699fb7b50eb4920269cbe87fb2e","path":"/SUPRLOAD/SL-10.ZIP/SUPRLOAD.TXT","attr":"0x100","date":"1991-11-25 13:00:00","size":780},
+  {"hash":"1bf336c30b8165fc00e6d8b084c32568","path":"/SUPRLOAD/SL-10.ZIP/SUPRLOAD.WRI","attr":"0x100","date":"1991-11-25 13:00:00","size":6912}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

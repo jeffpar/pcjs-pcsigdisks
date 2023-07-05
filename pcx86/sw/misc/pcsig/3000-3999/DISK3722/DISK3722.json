@@ -40,11 +40,11 @@
   {"hash":"f64229401e7cfecdad01902cb922cd5c","path":"/SHAREMAG.TXT","attr":"0x20","date":"1992-01-21 06:11:00","size":1837},
   {"hash":"ed27a6cac153a50bd7a98d619ccb48c2","path":"/CDROM.TXT","attr":"0x20","date":"1993-03-18 13:28:48","size":4874},
   {"hash":"745d288d84bfa4cb238d77869821ac79","path":"/GO-STRT.DAT","attr":"0x20","date":"1993-05-21 10:10:50","size":543},
-  {"hash":"d653476487c2bab458f0475581effa21","path":"/ALW.ZIP/ALW.EXE","attr":"0x40","date":"1992-05-16 17:16:44","size":402448},
-  {"hash":"ecd81d57b9fc106d2f5b6a22fa4a0197","path":"/ALW.ZIP/ALW.HLP","attr":"0x40","date":"1992-05-16 17:13:14","size":58792},
-  {"hash":"e742a3b8d4b8d7080d007c902d1f34be","path":"/ALW.ZIP/CITIES.DAT","attr":"0x40","date":"1991-10-22 22:02:06","size":9018},
-  {"hash":"e96284db682caa7dd3da9f2738dcd08a","path":"/ALW.ZIP/README.WRI","attr":"0x40","date":"1992-05-16 15:50:06","size":6016},
-  {"hash":"03c1a7095b9c28d1b3eedb48843566fd","path":"/ALW.ZIP/STARS.DAT","attr":"0x40","date":"1991-12-17 23:17:18","size":37100}
+  {"hash":"d653476487c2bab458f0475581effa21","path":"/ALW.ZIP/ALW.EXE","attr":"0x100","date":"1992-05-16 17:16:44","size":402448},
+  {"hash":"ecd81d57b9fc106d2f5b6a22fa4a0197","path":"/ALW.ZIP/ALW.HLP","attr":"0x100","date":"1992-05-16 17:13:14","size":58792},
+  {"hash":"e742a3b8d4b8d7080d007c902d1f34be","path":"/ALW.ZIP/CITIES.DAT","attr":"0x100","date":"1991-10-22 22:02:06","size":9018},
+  {"hash":"e96284db682caa7dd3da9f2738dcd08a","path":"/ALW.ZIP/README.WRI","attr":"0x100","date":"1992-05-16 15:50:06","size":6016},
+  {"hash":"03c1a7095b9c28d1b3eedb48843566fd","path":"/ALW.ZIP/STARS.DAT","attr":"0x100","date":"1991-12-17 23:17:18","size":37100}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

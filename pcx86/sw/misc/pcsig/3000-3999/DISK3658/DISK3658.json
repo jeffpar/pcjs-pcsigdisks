@@ -41,11 +41,11 @@
   {"hash":"00fff50cd6a785d56a4fac606d285042","path":"/PCSIG.TXT","attr":"0x20","date":"1993-06-01 14:31:30","size":2329},
   {"hash":"6162087334ed98bb273acaaa6ca85d40","path":"/SHAREMAG.TXT","attr":"0x20","date":"1993-06-01 14:32:04","size":1831},
   {"hash":"54964d989c90644e40ac21508c12ff5d","path":"/CDROM.TXT","attr":"0x20","date":"1993-06-01 15:26:44","size":8196},
-  {"hash":"3c1e8ab937e459e7ac824ddcf839b941","path":"/MAXUTILS.ZIP/!.BAT","attr":"0x40","date":"1992-09-13 21:29:54","size":51},
-  {"hash":"cb6fa6a8d19bab8f4fba39c47296445a","path":"/MAXUTILS.ZIP/FILE_ID.DIZ","attr":"0x40","date":"1992-11-26 10:42:58","size":718},
-  {"hash":"6f24d67c6f25c8b3001fc7b47d91bc68","path":"/MAXUTILS.ZIP/MAXCONVT.EXE","attr":"0x40","date":"1993-01-20 01:02:52","size":25416},
-  {"hash":"5a7049f8f9c010e18a8e20f77893ab87","path":"/MAXUTILS.ZIP/MAXLOG.EXE","attr":"0x40","date":"1992-11-23 21:50:12","size":369664},
-  {"hash":"b039c1c676bb44f5f1c766b8615faf5b","path":"/MAXUTILS.ZIP/README.TXT","attr":"0x40","date":"1992-11-25 22:55:24","size":2554}
+  {"hash":"3c1e8ab937e459e7ac824ddcf839b941","path":"/MAXUTILS.ZIP/!.BAT","attr":"0x100","date":"1992-09-13 21:29:54","size":51},
+  {"hash":"cb6fa6a8d19bab8f4fba39c47296445a","path":"/MAXUTILS.ZIP/FILE_ID.DIZ","attr":"0x100","date":"1992-11-26 10:42:58","size":718},
+  {"hash":"6f24d67c6f25c8b3001fc7b47d91bc68","path":"/MAXUTILS.ZIP/MAXCONVT.EXE","attr":"0x100","date":"1993-01-20 01:02:52","size":25416},
+  {"hash":"5a7049f8f9c010e18a8e20f77893ab87","path":"/MAXUTILS.ZIP/MAXLOG.EXE","attr":"0x100","date":"1992-11-23 21:50:12","size":369664},
+  {"hash":"b039c1c676bb44f5f1c766b8615faf5b","path":"/MAXUTILS.ZIP/README.TXT","attr":"0x100","date":"1992-11-25 22:55:24","size":2554}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

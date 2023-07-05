@@ -40,12 +40,12 @@
   {"hash":"c75e1284dca47e578fc0a235be9deb45","path":"/PKUNZIP.EXE","attr":"0x20","date":"1990-03-15 01:10:00","size":19041},
   {"hash":"f64229401e7cfecdad01902cb922cd5c","path":"/SHAREMAG.TXT","attr":"0x20","date":"1992-01-21 06:11:00","size":1837},
   {"hash":"be8cbfdeedb0e71dad23919b636fc03c","path":"/SIGORDER.TXT","attr":"0x20","date":"1992-06-25 14:28:24","size":3332},
-  {"hash":"bc2eae016013c6e7acecd342d9535c3d","path":"/SPORTSLG.ZIP/REBUILD.EXE","attr":"0x40","date":"1988-05-27 10:34:48","size":134188},
-  {"hash":"05f654b0543a7516574a3a483c67bd14","path":"/SPORTSLG.ZIP/SYST1.EXE","attr":"0x40","date":"1992-01-31 00:00:10","size":100708},
-  {"hash":"7971cdc62ba95ba6edaba93116d6e179","path":"/SPORTSLG.ZIP/SYST2.EXE","attr":"0x40","date":"1992-01-28 01:30:54","size":68372},
-  {"hash":"e1a9c6d7d09ec547951d2554129418cb","path":"/SPORTSLG.ZIP/SYST3.EXE","attr":"0x40","date":"1992-01-31 00:09:48","size":104452},
-  {"hash":"33a83b8c5fd214eb26612e352d942ba6","path":"/SPORTSLG.ZIP/SYST4.EXE","attr":"0x40","date":"1992-02-01 20:38:12","size":69668},
-  {"hash":"4e5a3fc4c5ecd0752b6ed1d8c1c77fbd","path":"/SPORTSLG.ZIP/SYST5.EXE","attr":"0x40","date":"1992-01-23 11:22:04","size":140564}
+  {"hash":"bc2eae016013c6e7acecd342d9535c3d","path":"/SPORTSLG.ZIP/REBUILD.EXE","attr":"0x100","date":"1988-05-27 10:34:48","size":134188},
+  {"hash":"05f654b0543a7516574a3a483c67bd14","path":"/SPORTSLG.ZIP/SYST1.EXE","attr":"0x100","date":"1992-01-31 00:00:10","size":100708},
+  {"hash":"7971cdc62ba95ba6edaba93116d6e179","path":"/SPORTSLG.ZIP/SYST2.EXE","attr":"0x100","date":"1992-01-28 01:30:54","size":68372},
+  {"hash":"e1a9c6d7d09ec547951d2554129418cb","path":"/SPORTSLG.ZIP/SYST3.EXE","attr":"0x100","date":"1992-01-31 00:09:48","size":104452},
+  {"hash":"33a83b8c5fd214eb26612e352d942ba6","path":"/SPORTSLG.ZIP/SYST4.EXE","attr":"0x100","date":"1992-02-01 20:38:12","size":69668},
+  {"hash":"4e5a3fc4c5ecd0752b6ed1d8c1c77fbd","path":"/SPORTSLG.ZIP/SYST5.EXE","attr":"0x100","date":"1992-01-23 11:22:04","size":140564}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

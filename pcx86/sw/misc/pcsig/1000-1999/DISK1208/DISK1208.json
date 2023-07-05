@@ -41,13 +41,13 @@
   {"hash":"46fd1938f393e6b4b51aebbee4588935","path":"/LISTDOC.ARC","attr":"0x20","date":"1988-06-30 00:30:28","size":16768},
   {"hash":"915842a9a4f86b79ed177985295fba0f","path":"/PKXARC.COM","attr":"0x20","date":"1986-12-15 00:00:00","size":11482},
   {"hash":"16828ceb4b0bfb8fb5732524bebd1612","path":"/README.NOW","attr":"0x20","date":"1988-06-30 00:46:02","size":3685},
-  {"hash":"1744ef4fbe5957b71fecf3b598cf7e42","path":"/BIBLSOFT.ARC/CATALOG.NEW","attr":"0x40","date":"1988-05-14 17:59:34","size":68848},
-  {"hash":"94e3e2f958b64e7848d538316a62d182","path":"/BIBLSOFT.ARC/LICENSE.DOC","attr":"0x40","date":"1987-12-13 23:50:26","size":1131},
-  {"hash":"0395f62cb289145a2eee782649088f55","path":"/BIBLSOFT.ARC/NEWSOFT.CAT","attr":"0x40","date":"1988-06-29 23:13:02","size":1961},
-  {"hash":"d328fb78eceff3f65f20bc5e1542dc90","path":"/GOSPEL1.ARC/GOSPEL.1","attr":"0x40","date":"1988-04-26 16:34:58","size":294983},
-  {"hash":"f9206b78c26c2982f9244d0e8d9dbbc9","path":"/GOSPEL2.ARC/GOSPEL.2","attr":"0x40","date":"1988-04-26 16:34:22","size":294952},
-  {"hash":"499ad011497f6bd8a03e01006678d413","path":"/GOSPEL3.ARC/GOSPEL.3","attr":"0x40","date":"1988-04-26 16:33:48","size":294852},
-  {"hash":"6ad7f64d00dc88f3a7fd97589e44582b","path":"/LISTDOC.ARC/LIST62A.DOC","attr":"0x40","date":"1987-05-07 06:20:00","size":41441}
+  {"hash":"1744ef4fbe5957b71fecf3b598cf7e42","path":"/BIBLSOFT.ARC/CATALOG.NEW","attr":"0x100","date":"1988-05-14 17:59:34","size":68848},
+  {"hash":"94e3e2f958b64e7848d538316a62d182","path":"/BIBLSOFT.ARC/LICENSE.DOC","attr":"0x100","date":"1987-12-13 23:50:26","size":1131},
+  {"hash":"0395f62cb289145a2eee782649088f55","path":"/BIBLSOFT.ARC/NEWSOFT.CAT","attr":"0x100","date":"1988-06-29 23:13:02","size":1961},
+  {"hash":"d328fb78eceff3f65f20bc5e1542dc90","path":"/GOSPEL1.ARC/GOSPEL.1","attr":"0x100","date":"1988-04-26 16:34:58","size":294983},
+  {"hash":"f9206b78c26c2982f9244d0e8d9dbbc9","path":"/GOSPEL2.ARC/GOSPEL.2","attr":"0x100","date":"1988-04-26 16:34:22","size":294952},
+  {"hash":"499ad011497f6bd8a03e01006678d413","path":"/GOSPEL3.ARC/GOSPEL.3","attr":"0x100","date":"1988-04-26 16:33:48","size":294852},
+  {"hash":"6ad7f64d00dc88f3a7fd97589e44582b","path":"/LISTDOC.ARC/LIST62A.DOC","attr":"0x100","date":"1987-05-07 06:20:00","size":41441}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

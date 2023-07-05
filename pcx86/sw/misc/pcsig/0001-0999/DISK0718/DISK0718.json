@@ -83,13 +83,13 @@
   {"hash":"cf81f7f19954db27ba7b29862e790659","path":"/STAR.PAR","attr":"0x20","date":"1987-12-30 08:13:00","size":935},
   {"hash":"15a2b35bcb589b5787fe883b3f650c0d","path":"/WORKDISK.BAT","attr":"0x20","date":"1985-10-02 08:08:26","size":30},
   {"hash":"508cb63dc88f1f31df6cc92f367ae553","path":"/FILE0718.TXT","attr":"0x20","date":"1990-07-10 13:44:18","size":3479},
-  {"hash":"ced9477f7d3bedc43e5783322e87c8d0","path":"/DOC.ARC/EPFX80LQ.PRS","attr":"0x40","date":"1989-06-15 09:02:00","size":27118},
-  {"hash":"52703649af958a8e257a7cb856267616","path":"/DOC.ARC/LETHEAD.DOC","attr":"0x40","date":"1988-06-14 08:07:40","size":10368},
-  {"hash":"b02fd641ae696f835a418909de16d564","path":"/DOC.ARC/LQ.DOC","attr":"0x40","date":"1988-06-09 19:15:28","size":83013},
-  {"hash":"56aa21fc5503ad8e61a843ff83bc90e6","path":"/DOC.ARC/LQPCWRIT.DOC","attr":"0x40","date":"1989-09-06 07:48:06","size":12731},
-  {"hash":"06f499eaf62f754f889577494e79554b","path":"/DOC.ARC/PRINTMAN.COM","attr":"0x40","date":"1988-06-14 08:13:26","size":662},
-  {"hash":"80de4ff5b6786084c8c9dab1013e60d3","path":"/DOC.ARC/READ.ME2","attr":"0x40","date":"1989-06-21 09:15:42","size":583},
-  {"hash":"2964cee2c05baca26a1817068ce85971","path":"/DOC.ARC/WORDPER5.DOC","attr":"0x40","date":"1990-05-03 08:30:48","size":4978}
+  {"hash":"ced9477f7d3bedc43e5783322e87c8d0","path":"/DOC.ARC/EPFX80LQ.PRS","attr":"0x100","date":"1989-06-15 09:02:00","size":27118},
+  {"hash":"52703649af958a8e257a7cb856267616","path":"/DOC.ARC/LETHEAD.DOC","attr":"0x100","date":"1988-06-14 08:07:40","size":10368},
+  {"hash":"b02fd641ae696f835a418909de16d564","path":"/DOC.ARC/LQ.DOC","attr":"0x100","date":"1988-06-09 19:15:28","size":83013},
+  {"hash":"56aa21fc5503ad8e61a843ff83bc90e6","path":"/DOC.ARC/LQPCWRIT.DOC","attr":"0x100","date":"1989-09-06 07:48:06","size":12731},
+  {"hash":"06f499eaf62f754f889577494e79554b","path":"/DOC.ARC/PRINTMAN.COM","attr":"0x100","date":"1988-06-14 08:13:26","size":662},
+  {"hash":"80de4ff5b6786084c8c9dab1013e60d3","path":"/DOC.ARC/READ.ME2","attr":"0x100","date":"1989-06-21 09:15:42","size":583},
+  {"hash":"2964cee2c05baca26a1817068ce85971","path":"/DOC.ARC/WORDPER5.DOC","attr":"0x100","date":"1990-05-03 08:30:48","size":4978}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

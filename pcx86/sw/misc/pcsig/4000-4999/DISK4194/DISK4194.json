@@ -40,13 +40,13 @@
   {"hash":"1710045e66398c8ea196722a687ead0a","path":"/PKUNZIP.EXE","attr":"0x20","date":"1993-02-01 02:04:16","size":29378},
   {"hash":"f9e76776cca2dc98a3e8dc732fa74da4","path":"/PCSIG.TXT","attr":"0x20","date":"1993-09-24 13:59:00","size":2319},
   {"hash":"6162087334ed98bb273acaaa6ca85d40","path":"/SHAREMAG.TXT","attr":"0x20","date":"1993-06-01 14:32:04","size":1831},
-  {"hash":"b2231bbd3662ed5baa236f40a12fac36","path":"/CIRCUM.ZIP/BENEFITS.DOC","attr":"0x40","date":"1993-05-14 08:26:52","size":2870},
-  {"hash":"ec6b99f116ab1d1763342768bb067e2f","path":"/CIRCUM.ZIP/CIRCUM.DOC","attr":"0x40","date":"1993-05-14 14:03:46","size":38145},
-  {"hash":"f204561598190a412dc3a5a2ef94a722","path":"/CIRCUM.ZIP/CIRCUM.EXE","attr":"0x40","date":"1993-05-14 02:48:06","size":271786},
-  {"hash":"313c73d143f90b3abaa90d08355948a0","path":"/CIRCUM.ZIP/FILE_ID.DIZ","attr":"0x40","date":"1993-05-14 07:48:08","size":426},
-  {"hash":"d7bdec858498b8e94ac770939d01d3e2","path":"/CIRCUM.ZIP/ORDER.DOC","attr":"0x40","date":"1993-05-14 06:23:58","size":2138},
-  {"hash":"2c3a35f586c34a42d4e86c624d812672","path":"/CIRCUM.ZIP/README","attr":"0x40","date":"1993-05-14 15:08:30","size":1589},
-  {"hash":"6ca2a1f9b570ccb02d4cc6af1bf692e1","path":"/CIRCUM.ZIP/VENDOR.DOC","attr":"0x40","date":"1993-05-14 07:40:10","size":2227}
+  {"hash":"b2231bbd3662ed5baa236f40a12fac36","path":"/CIRCUM.ZIP/BENEFITS.DOC","attr":"0x100","date":"1993-05-14 08:26:52","size":2870},
+  {"hash":"ec6b99f116ab1d1763342768bb067e2f","path":"/CIRCUM.ZIP/CIRCUM.DOC","attr":"0x100","date":"1993-05-14 14:03:46","size":38145},
+  {"hash":"f204561598190a412dc3a5a2ef94a722","path":"/CIRCUM.ZIP/CIRCUM.EXE","attr":"0x100","date":"1993-05-14 02:48:06","size":271786},
+  {"hash":"313c73d143f90b3abaa90d08355948a0","path":"/CIRCUM.ZIP/FILE_ID.DIZ","attr":"0x100","date":"1993-05-14 07:48:08","size":426},
+  {"hash":"d7bdec858498b8e94ac770939d01d3e2","path":"/CIRCUM.ZIP/ORDER.DOC","attr":"0x100","date":"1993-05-14 06:23:58","size":2138},
+  {"hash":"2c3a35f586c34a42d4e86c624d812672","path":"/CIRCUM.ZIP/README","attr":"0x100","date":"1993-05-14 15:08:30","size":1589},
+  {"hash":"6ca2a1f9b570ccb02d4cc6af1bf692e1","path":"/CIRCUM.ZIP/VENDOR.DOC","attr":"0x100","date":"1993-05-14 07:40:10","size":2227}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

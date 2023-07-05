@@ -34,12 +34,12 @@
   {"hash":"fb75b593d0dc08143762e285fff901a2","path":"/TBKDLL.ZIP","attr":"0x20","date":"1992-11-13 13:28:42","size":348056},
   {"hash":"2c99113283be3f481afae3fdff713504","path":"/GO.BAT","attr":"0x20","date":"1992-11-13 16:02:14","size":32},
   {"hash":"3d79015d6c9f8292c3776f90f8f4f338","path":"/GO.TXT","attr":"0x20","date":"1993-01-06 08:27:26","size":924},
-  {"hash":"24f93ffbe5d2c23fab88f65d682f8359","path":"/TBKDLL.ZIP/TBKBASE.DLL","attr":"0x40","date":"1991-06-21 01:05:00","size":353936},
-  {"hash":"86877f0d9c69fe331b941e0c0c66c858","path":"/TBKDLL.ZIP/TBKCOMP.DLL","attr":"0x40","date":"1991-06-21 01:05:00","size":105104},
-  {"hash":"d0a7e0811f5b2ce20c5e7f2825a245f2","path":"/TBKDLL.ZIP/TBKDB3.DLL","attr":"0x40","date":"1991-06-21 01:05:00","size":86384},
-  {"hash":"6bf4e50ef1e951af50464ad38186a3d6","path":"/TBKDLL.ZIP/TBKDLG.DLL","attr":"0x40","date":"1991-06-21 01:05:00","size":51712},
-  {"hash":"07afb9f7af258fbedf828c8853fac2c7","path":"/TBKDLL.ZIP/TBKFILE.DLL","attr":"0x40","date":"1991-06-21 01:05:00","size":16192},
-  {"hash":"e470b40b3ef33b4d0d6da4d02e70cdc3","path":"/TBKDLL.ZIP/TBKUTIL.DLL","attr":"0x40","date":"1991-06-21 01:05:00","size":59008}
+  {"hash":"24f93ffbe5d2c23fab88f65d682f8359","path":"/TBKDLL.ZIP/TBKBASE.DLL","attr":"0x100","date":"1991-06-21 01:05:00","size":353936},
+  {"hash":"86877f0d9c69fe331b941e0c0c66c858","path":"/TBKDLL.ZIP/TBKCOMP.DLL","attr":"0x100","date":"1991-06-21 01:05:00","size":105104},
+  {"hash":"d0a7e0811f5b2ce20c5e7f2825a245f2","path":"/TBKDLL.ZIP/TBKDB3.DLL","attr":"0x100","date":"1991-06-21 01:05:00","size":86384},
+  {"hash":"6bf4e50ef1e951af50464ad38186a3d6","path":"/TBKDLL.ZIP/TBKDLG.DLL","attr":"0x100","date":"1991-06-21 01:05:00","size":51712},
+  {"hash":"07afb9f7af258fbedf828c8853fac2c7","path":"/TBKDLL.ZIP/TBKFILE.DLL","attr":"0x100","date":"1991-06-21 01:05:00","size":16192},
+  {"hash":"e470b40b3ef33b4d0d6da4d02e70cdc3","path":"/TBKDLL.ZIP/TBKUTIL.DLL","attr":"0x100","date":"1991-06-21 01:05:00","size":59008}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

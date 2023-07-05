@@ -34,13 +34,13 @@
   {"hash":"959af8fcf9a61524bee15fbab9aa8a31","path":"/INSTALL.EXE","attr":"0x20","date":"1993-07-01 17:00:00","size":33232},
   {"hash":"862ab5da6e37ba7aaca11409a5c10dc7","path":"/NS.ZIP","attr":"0x20","date":"1993-07-01 17:00:00","size":192672},
   {"hash":"5e1f9c756d110404b9a255f3386fa217","path":"/FILE_ID.DIZ","attr":"0x20","date":"1993-05-06 17:22:34","size":459},
-  {"hash":"3ee8bf33c25645355dec707828b91aba","path":"/NS.ZIP/DEALER.DOC","attr":"0x40","date":"1993-07-01 17:00:00","size":3084},
-  {"hash":"5e1f9c756d110404b9a255f3386fa217","path":"/NS.ZIP/FILE_ID.DIZ","attr":"0x40","date":"1993-07-01 17:00:00","size":459},
-  {"hash":"ede718e49e02752b9c383ac1fd7b08e7","path":"/NS.ZIP/NEOSHOW.DOC","attr":"0x40","date":"1993-07-01 17:00:00","size":40424},
-  {"hash":"c096d07692c4c0bdce105f9f07fd7737","path":"/NS.ZIP/NEOSHOW.EXE","attr":"0x40","date":"1993-07-01 17:00:00","size":262243},
-  {"hash":"cf97bfa8f8034c370add7815f96a8d72","path":"/NS.ZIP/NEOSHOW.OVR","attr":"0x40","date":"1993-07-01 17:00:00","size":78681},
-  {"hash":"d0697ba07f38a73f8861608edf69cc9f","path":"/NS.ZIP/ORDRFORM.TXT","attr":"0x40","date":"1993-07-01 17:00:00","size":1781},
-  {"hash":"ff7bc86f63ffff4c384bdd4c16d03490","path":"/NS.ZIP/VENDOR.DOC","attr":"0x40","date":"1993-07-01 17:00:00","size":1007}
+  {"hash":"3ee8bf33c25645355dec707828b91aba","path":"/NS.ZIP/DEALER.DOC","attr":"0x100","date":"1993-07-01 17:00:00","size":3084},
+  {"hash":"5e1f9c756d110404b9a255f3386fa217","path":"/NS.ZIP/FILE_ID.DIZ","attr":"0x100","date":"1993-07-01 17:00:00","size":459},
+  {"hash":"ede718e49e02752b9c383ac1fd7b08e7","path":"/NS.ZIP/NEOSHOW.DOC","attr":"0x100","date":"1993-07-01 17:00:00","size":40424},
+  {"hash":"c096d07692c4c0bdce105f9f07fd7737","path":"/NS.ZIP/NEOSHOW.EXE","attr":"0x100","date":"1993-07-01 17:00:00","size":262243},
+  {"hash":"cf97bfa8f8034c370add7815f96a8d72","path":"/NS.ZIP/NEOSHOW.OVR","attr":"0x100","date":"1993-07-01 17:00:00","size":78681},
+  {"hash":"d0697ba07f38a73f8861608edf69cc9f","path":"/NS.ZIP/ORDRFORM.TXT","attr":"0x100","date":"1993-07-01 17:00:00","size":1781},
+  {"hash":"ff7bc86f63ffff4c384bdd4c16d03490","path":"/NS.ZIP/VENDOR.DOC","attr":"0x100","date":"1993-07-01 17:00:00","size":1007}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

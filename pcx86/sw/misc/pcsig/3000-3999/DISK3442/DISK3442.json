@@ -36,14 +36,14 @@
   {"hash":"82a7bdb946a3bdfaf674e85e307c7285","path":"/GO-FORM.DAT","attr":"0x20","date":"1993-06-01 14:30:00","size":3336},
   {"hash":"cf0e2dfcebc4bc65595a8b3fa793c788","path":"/GO.EXE","attr":"0x20","date":"1992-01-10 12:14:02","size":26022},
   {"hash":"1710045e66398c8ea196722a687ead0a","path":"/PKUNZIP.EXE","attr":"0x20","date":"1993-02-01 02:04:16","size":29378},
-  {"hash":"7b132c0f8b80ebf6f34c8a4b30fba9cc","path":"/GBWIN.ZIP/FA90_1.DAT","attr":"0x40","date":"1993-06-08 00:00:00","size":20700},
-  {"hash":"032c298dde5e9fb822c7b58d21d25986","path":"/GBWIN.ZIP/FILE_ID.DIZ","attr":"0x40","date":"1993-06-08 00:00:00","size":437},
-  {"hash":"0e836dae395605ae4066e798256bc814","path":"/GBWIN.ZIP/GRADEBK.EXE","attr":"0x40","date":"1993-06-08 00:00:00","size":420212},
-  {"hash":"2b9f5c4e3f17b699f031ecf519811674","path":"/GBWIN.ZIP/GRADEBK.HLP","attr":"0x40","date":"1993-06-08 00:00:00","size":300112},
-  {"hash":"bfe88e1180198b183ed3bb95c6a2bf3f","path":"/GBWIN.ZIP/GRID.VBX","attr":"0x40","date":"1993-02-08 01:01:00","size":54048},
-  {"hash":"bc27d102c2d562e2187a344b147e6285","path":"/GBWIN.ZIP/NOTE.TXT","attr":"0x40","date":"1993-06-08 00:00:00","size":563},
-  {"hash":"b4cc67c76f0489af640957a4b70d311e","path":"/GBWIN.ZIP/README.DOC","attr":"0x40","date":"1993-06-08 00:00:00","size":32639},
-  {"hash":"f2388871a1b6d6fa1c338fcf7e8abf0f","path":"/GBWIN.ZIP/VENDOR.DOC","attr":"0x40","date":"1993-06-08 00:00:00","size":2069}
+  {"hash":"7b132c0f8b80ebf6f34c8a4b30fba9cc","path":"/GBWIN.ZIP/FA90_1.DAT","attr":"0x100","date":"1993-06-08 00:00:00","size":20700},
+  {"hash":"032c298dde5e9fb822c7b58d21d25986","path":"/GBWIN.ZIP/FILE_ID.DIZ","attr":"0x100","date":"1993-06-08 00:00:00","size":437},
+  {"hash":"0e836dae395605ae4066e798256bc814","path":"/GBWIN.ZIP/GRADEBK.EXE","attr":"0x100","date":"1993-06-08 00:00:00","size":420212},
+  {"hash":"2b9f5c4e3f17b699f031ecf519811674","path":"/GBWIN.ZIP/GRADEBK.HLP","attr":"0x100","date":"1993-06-08 00:00:00","size":300112},
+  {"hash":"bfe88e1180198b183ed3bb95c6a2bf3f","path":"/GBWIN.ZIP/GRID.VBX","attr":"0x100","date":"1993-02-08 01:01:00","size":54048},
+  {"hash":"bc27d102c2d562e2187a344b147e6285","path":"/GBWIN.ZIP/NOTE.TXT","attr":"0x100","date":"1993-06-08 00:00:00","size":563},
+  {"hash":"b4cc67c76f0489af640957a4b70d311e","path":"/GBWIN.ZIP/README.DOC","attr":"0x100","date":"1993-06-08 00:00:00","size":32639},
+  {"hash":"f2388871a1b6d6fa1c338fcf7e8abf0f","path":"/GBWIN.ZIP/VENDOR.DOC","attr":"0x100","date":"1993-06-08 00:00:00","size":2069}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

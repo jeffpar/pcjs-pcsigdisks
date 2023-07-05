@@ -38,13 +38,13 @@
   {"hash":"044da0d2f21c0e54f4bc9b467986d952","path":"/GO.BAT","attr":"0x20","date":"1987-06-08 16:01:28","size":38},
   {"hash":"1f9b9a800cf5fef0286b944844abadd9","path":"/GO.TXT","attr":"0x20","date":"1987-06-08 16:01:18","size":1310},
   {"hash":"5db3488d3b7948cff874bdd6233b5d74","path":"/HARD.BAT","attr":"0x20","date":"1987-06-08 11:49:06","size":899},
-  {"hash":"9b9778be6a1d385439baf54860089cbc","path":"/BIBLE3.ARC/CH1.TXT","attr":"0x40","date":"1986-01-04 18:50:16","size":123593},
-  {"hash":"71298b31ed87808687f7da3fe97bc3eb","path":"/BIBLE3.ARC/CH2.TXT","attr":"0x40","date":"1986-01-04 18:51:56","size":150726},
-  {"hash":"10aac03cd7b0fa30b18082fa6415ab10","path":"/BIBLE3.ARC/EZR.TXT","attr":"0x40","date":"1986-01-04 18:52:28","size":44116},
-  {"hash":"4ec221329382003d66bc5f3a52d1e615","path":"/BIBLE3.ARC/KI1.TXT","attr":"0x40","date":"1986-01-04 18:47:32","size":138368},
-  {"hash":"234ee69b2e6bf3e3c874d8868ec72f90","path":"/BIBLE3.ARC/KI2.TXT","attr":"0x40","date":"1986-01-04 18:48:58","size":130895},
-  {"hash":"146e8fe8730861ddc92c6b7755605eb3","path":"/BIBLE3.ARC/NEH.TXT","attr":"0x40","date":"1986-01-04 18:53:12","size":62596},
-  {"hash":"9f958000832bde0b968efbb478c0cc54","path":"/BIBLE3.ARC/SA2.TXT","attr":"0x40","date":"1986-01-04 18:45:58","size":116099}
+  {"hash":"9b9778be6a1d385439baf54860089cbc","path":"/BIBLE3.ARC/CH1.TXT","attr":"0x100","date":"1986-01-04 18:50:16","size":123593},
+  {"hash":"71298b31ed87808687f7da3fe97bc3eb","path":"/BIBLE3.ARC/CH2.TXT","attr":"0x100","date":"1986-01-04 18:51:56","size":150726},
+  {"hash":"10aac03cd7b0fa30b18082fa6415ab10","path":"/BIBLE3.ARC/EZR.TXT","attr":"0x100","date":"1986-01-04 18:52:28","size":44116},
+  {"hash":"4ec221329382003d66bc5f3a52d1e615","path":"/BIBLE3.ARC/KI1.TXT","attr":"0x100","date":"1986-01-04 18:47:32","size":138368},
+  {"hash":"234ee69b2e6bf3e3c874d8868ec72f90","path":"/BIBLE3.ARC/KI2.TXT","attr":"0x100","date":"1986-01-04 18:48:58","size":130895},
+  {"hash":"146e8fe8730861ddc92c6b7755605eb3","path":"/BIBLE3.ARC/NEH.TXT","attr":"0x100","date":"1986-01-04 18:53:12","size":62596},
+  {"hash":"9f958000832bde0b968efbb478c0cc54","path":"/BIBLE3.ARC/SA2.TXT","attr":"0x100","date":"1986-01-04 18:45:58","size":116099}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

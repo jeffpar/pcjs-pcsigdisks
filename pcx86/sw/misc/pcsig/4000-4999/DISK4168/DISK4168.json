@@ -41,14 +41,14 @@
   {"hash":"1710045e66398c8ea196722a687ead0a","path":"/PKUNZIP.EXE","attr":"0x20","date":"1993-02-01 02:04:16","size":29378},
   {"hash":"f9e76776cca2dc98a3e8dc732fa74da4","path":"/PCSIG.TXT","attr":"0x20","date":"1993-09-24 13:59:00","size":2319},
   {"hash":"6162087334ed98bb273acaaa6ca85d40","path":"/SHAREMAG.TXT","attr":"0x20","date":"1993-06-01 14:32:04","size":1831},
-  {"hash":"d1af2ad515445fe5a38be5d4c602b923","path":"/DODGEM.ZIP/DODGEM.DAT","attr":"0x40","date":"1991-11-13 00:57:50","size":44888},
-  {"hash":"ba3a03a29bb907b5f584301d9091662d","path":"/DODGEM.ZIP/DODGEM.DOC","attr":"0x40","date":"1991-12-07 12:41:08","size":7151},
-  {"hash":"1a82e27c3d9352f0887990d2d8d12a8d","path":"/DODGEM.ZIP/DODGEM.EXE","attr":"0x40","date":"1991-11-23 15:16:12","size":124638},
-  {"hash":"daf45b9d571d2f34a7bb4063e2e67ff0","path":"/MATHTEST.ZIP/MATHTEST.DAT","attr":"0x40","date":"1990-10-06 17:47:04","size":23298},
-  {"hash":"36653ae4e8e6961b1a5eaa2288494b2f","path":"/MATHTEST.ZIP/MATHTEST.DOC","attr":"0x40","date":"1991-12-07 19:52:24","size":9499},
-  {"hash":"5a94533e3e16b51c092f56761a334b19","path":"/MATHTEST.ZIP/MATHTEST.EXE","attr":"0x40","date":"1991-12-07 14:07:08","size":137308},
-  {"hash":"4afd8b3e0dac8cae8da84d3a4a95cfe6","path":"/MATHTEST.ZIP/MATHTEST.HLP","attr":"0x40","date":"1991-12-07 13:15:52","size":7963},
-  {"hash":"870e9628a9c07c8ba881b9925ed46bd6","path":"/MATHTEST.ZIP/RUNMATH.BAT","attr":"0x40","date":"1990-12-26 15:27:34","size":400}
+  {"hash":"d1af2ad515445fe5a38be5d4c602b923","path":"/DODGEM.ZIP/DODGEM.DAT","attr":"0x100","date":"1991-11-13 00:57:50","size":44888},
+  {"hash":"ba3a03a29bb907b5f584301d9091662d","path":"/DODGEM.ZIP/DODGEM.DOC","attr":"0x100","date":"1991-12-07 12:41:08","size":7151},
+  {"hash":"1a82e27c3d9352f0887990d2d8d12a8d","path":"/DODGEM.ZIP/DODGEM.EXE","attr":"0x100","date":"1991-11-23 15:16:12","size":124638},
+  {"hash":"daf45b9d571d2f34a7bb4063e2e67ff0","path":"/MATHTEST.ZIP/MATHTEST.DAT","attr":"0x100","date":"1990-10-06 17:47:04","size":23298},
+  {"hash":"36653ae4e8e6961b1a5eaa2288494b2f","path":"/MATHTEST.ZIP/MATHTEST.DOC","attr":"0x100","date":"1991-12-07 19:52:24","size":9499},
+  {"hash":"5a94533e3e16b51c092f56761a334b19","path":"/MATHTEST.ZIP/MATHTEST.EXE","attr":"0x100","date":"1991-12-07 14:07:08","size":137308},
+  {"hash":"4afd8b3e0dac8cae8da84d3a4a95cfe6","path":"/MATHTEST.ZIP/MATHTEST.HLP","attr":"0x100","date":"1991-12-07 13:15:52","size":7963},
+  {"hash":"870e9628a9c07c8ba881b9925ed46bd6","path":"/MATHTEST.ZIP/RUNMATH.BAT","attr":"0x100","date":"1990-12-26 15:27:34","size":400}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

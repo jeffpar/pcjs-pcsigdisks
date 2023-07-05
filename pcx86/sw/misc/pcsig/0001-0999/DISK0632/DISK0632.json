@@ -47,12 +47,12 @@
   {"hash":"263bd5919661fd409e4790b9f259daea","path":"/GO.BAT","attr":"0x20","date":"1980-01-01 06:00:08","size":40},
   {"hash":"62d9d6b1988490dfdb85a2d90155905e","path":"/GO.TXT","attr":"0x20","date":"1980-01-01 00:45:38","size":848},
   {"hash":"c4b6c32f5146392c2c1b91def8fd0afb","path":"/FILE0632.TXT","attr":"0x20","date":"1990-09-10 08:47:38","size":2443},
-  {"hash":"4e3337bd2f3f55bfca5b6ba68987bb06","path":"/GENESIS.ZIP/GENESIS.ADR","attr":"0x40","date":"1980-01-01 01:10:56","size":432},
-  {"hash":"19434ca5ba56612580028e830874e70c","path":"/GENESIS.ZIP/GENESIS.NAM","attr":"0x40","date":"1985-08-24 16:35:44","size":29800},
-  {"hash":"bd1235e21c900d59f37bb05a67fa4a60","path":"/GENESIS.ZIP/GENESIS.OTH","attr":"0x40","date":"1986-10-20 15:27:14","size":20600},
-  {"hash":"85de320530c2be575f69a340c4e37769","path":"/ROYAL.ZIP/ROYAL.ADR","attr":"0x40","date":"1990-05-06 09:35:10","size":432},
-  {"hash":"608f4e9bbbd3d47fe2c2ddee6139180e","path":"/ROYAL.ZIP/ROYAL.NAM","attr":"0x40","date":"1990-05-07 22:46:22","size":126800},
-  {"hash":"196791ea5be01a0d6c6eae1b8d33b4b8","path":"/ROYAL.ZIP/ROYAL.OTH","attr":"0x40","date":"1990-05-07 22:46:22","size":84400}
+  {"hash":"4e3337bd2f3f55bfca5b6ba68987bb06","path":"/GENESIS.ZIP/GENESIS.ADR","attr":"0x100","date":"1980-01-01 01:10:56","size":432},
+  {"hash":"19434ca5ba56612580028e830874e70c","path":"/GENESIS.ZIP/GENESIS.NAM","attr":"0x100","date":"1985-08-24 16:35:44","size":29800},
+  {"hash":"bd1235e21c900d59f37bb05a67fa4a60","path":"/GENESIS.ZIP/GENESIS.OTH","attr":"0x100","date":"1986-10-20 15:27:14","size":20600},
+  {"hash":"85de320530c2be575f69a340c4e37769","path":"/ROYAL.ZIP/ROYAL.ADR","attr":"0x100","date":"1990-05-06 09:35:10","size":432},
+  {"hash":"608f4e9bbbd3d47fe2c2ddee6139180e","path":"/ROYAL.ZIP/ROYAL.NAM","attr":"0x100","date":"1990-05-07 22:46:22","size":126800},
+  {"hash":"196791ea5be01a0d6c6eae1b8d33b4b8","path":"/ROYAL.ZIP/ROYAL.OTH","attr":"0x100","date":"1990-05-07 22:46:22","size":84400}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

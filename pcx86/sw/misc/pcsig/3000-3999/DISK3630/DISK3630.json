@@ -41,14 +41,14 @@
   {"hash":"00fff50cd6a785d56a4fac606d285042","path":"/PCSIG.TXT","attr":"0x20","date":"1993-06-01 14:31:30","size":2329},
   {"hash":"6162087334ed98bb273acaaa6ca85d40","path":"/SHAREMAG.TXT","attr":"0x20","date":"1993-06-01 14:32:04","size":1831},
   {"hash":"54964d989c90644e40ac21508c12ff5d","path":"/CDROM.TXT","attr":"0x20","date":"1993-06-01 15:26:44","size":8196},
-  {"hash":"76e68b65aa1cc6ebf82ba24d5f1c4ec8","path":"/CDTRAY.ZIP/BBS.TXT","attr":"0x40","date":"1993-01-19 23:00:12","size":1729},
-  {"hash":"ac08d71472fc798180329e3691560ec0","path":"/CDTRAY.ZIP/CDTRAY.EXE","attr":"0x40","date":"1993-01-28 00:00:06","size":375296},
-  {"hash":"efc7c81a066388b3f9e1f29afe478762","path":"/CDTRAY.ZIP/CDTRAY.HLP","attr":"0x40","date":"1993-01-28 00:00:18","size":105079},
-  {"hash":"b2dca47f4aa5e43717ea3c720630f46c","path":"/CDTRAY.ZIP/LICENSE.TXT","attr":"0x40","date":"1993-01-28 00:00:32","size":1459},
-  {"hash":"a863bcde3b9a9edb04e5f1b5218ced35","path":"/CDTRAY.ZIP/ORDER.TXT","attr":"0x40","date":"1993-01-28 00:00:32","size":6969},
-  {"hash":"69fdbfa1369eb0445b8d5a0ad960f3a5","path":"/CDTRAY.ZIP/README.TXT","attr":"0x40","date":"1993-06-07 10:55:44","size":3805},
-  {"hash":"ec3a90f81de5eb29c34c625f86c97df9","path":"/CDTRAY.ZIP/REGISTER.TXT","attr":"0x40","date":"1993-01-28 00:00:32","size":3524},
-  {"hash":"5bae0bc41be8ffd27934265859164b59","path":"/CDTRAY.ZIP/VENDOR.TXT","attr":"0x40","date":"1993-01-28 00:00:32","size":1635}
+  {"hash":"76e68b65aa1cc6ebf82ba24d5f1c4ec8","path":"/CDTRAY.ZIP/BBS.TXT","attr":"0x100","date":"1993-01-19 23:00:12","size":1729},
+  {"hash":"ac08d71472fc798180329e3691560ec0","path":"/CDTRAY.ZIP/CDTRAY.EXE","attr":"0x100","date":"1993-01-28 00:00:06","size":375296},
+  {"hash":"efc7c81a066388b3f9e1f29afe478762","path":"/CDTRAY.ZIP/CDTRAY.HLP","attr":"0x100","date":"1993-01-28 00:00:18","size":105079},
+  {"hash":"b2dca47f4aa5e43717ea3c720630f46c","path":"/CDTRAY.ZIP/LICENSE.TXT","attr":"0x100","date":"1993-01-28 00:00:32","size":1459},
+  {"hash":"a863bcde3b9a9edb04e5f1b5218ced35","path":"/CDTRAY.ZIP/ORDER.TXT","attr":"0x100","date":"1993-01-28 00:00:32","size":6969},
+  {"hash":"69fdbfa1369eb0445b8d5a0ad960f3a5","path":"/CDTRAY.ZIP/README.TXT","attr":"0x100","date":"1993-06-07 10:55:44","size":3805},
+  {"hash":"ec3a90f81de5eb29c34c625f86c97df9","path":"/CDTRAY.ZIP/REGISTER.TXT","attr":"0x100","date":"1993-01-28 00:00:32","size":3524},
+  {"hash":"5bae0bc41be8ffd27934265859164b59","path":"/CDTRAY.ZIP/VENDOR.TXT","attr":"0x100","date":"1993-01-28 00:00:32","size":1635}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

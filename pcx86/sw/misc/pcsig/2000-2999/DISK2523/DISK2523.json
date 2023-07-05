@@ -37,10 +37,10 @@
   {"hash":"5f9afe945faf58f47507a305f43ce321","path":"/GO.BAT","attr":"0x20","date":"1990-10-04 05:21:02","size":28},
   {"hash":"571c1715418a058f704a2195f349f4f0","path":"/GO.TXT","attr":"0x20","date":"1990-10-04 16:39:36","size":572},
   {"hash":"1ae660ec2e1807cd82c82bdccc3427fb","path":"/FILE2523.TXT","attr":"0x20","date":"1990-10-04 16:36:56","size":2077},
-  {"hash":"04445b6caaddd9d33a63c85667cf7ab3","path":"/JORF.ARC/HELP.JRF","attr":"0x40","date":"1990-09-01 09:47:50","size":117760},
-  {"hash":"79707a744e3cf42c0a6da250e8743bc2","path":"/JORF.ARC/JORF.EXE","attr":"0x40","date":"1990-09-01 09:47:50","size":101909},
-  {"hash":"6fb7aaa00880fea1cc71b179af8fb02d","path":"/JORF.ARC/METHODS.JRF","attr":"0x40","date":"1990-09-01 09:47:50","size":240640},
-  {"hash":"b5dcc78cde1ce8fbda8f0fb5a3e45e6c","path":"/JORF.ARC/TUTORIAL.JRF","attr":"0x40","date":"1990-09-01 09:47:50","size":151552}
+  {"hash":"04445b6caaddd9d33a63c85667cf7ab3","path":"/JORF.ARC/HELP.JRF","attr":"0x100","date":"1990-09-01 09:47:50","size":117760},
+  {"hash":"79707a744e3cf42c0a6da250e8743bc2","path":"/JORF.ARC/JORF.EXE","attr":"0x100","date":"1990-09-01 09:47:50","size":101909},
+  {"hash":"6fb7aaa00880fea1cc71b179af8fb02d","path":"/JORF.ARC/METHODS.JRF","attr":"0x100","date":"1990-09-01 09:47:50","size":240640},
+  {"hash":"b5dcc78cde1ce8fbda8f0fb5a3e45e6c","path":"/JORF.ARC/TUTORIAL.JRF","attr":"0x100","date":"1990-09-01 09:47:50","size":151552}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

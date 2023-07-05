@@ -44,14 +44,14 @@
   {"hash":"f5d0fa49b21234be778faa3b8ce06593","path":"/PKUNZIP.EXE","attr":"0x20","date":"1990-03-15 01:10:00","size":23528},
   {"hash":"60d4f1b906a2ef61b19b2b6879cdceff","path":"/GO-FORM.DAT","attr":"0x20","date":"1992-06-29 15:26:14","size":3109},
   {"hash":"62e0141e5a965e752abe2a1c7a50335d","path":"/GO-STRT.DAT","attr":"0x20","date":"1980-01-01 00:41:14","size":534},
-  {"hash":"cd3bccda977b35ca55effb3191ecb621","path":"/IMSTR12C.ZIP/EUROREG.TXT","attr":"0x40","date":"1992-05-11 21:44:12","size":1999},
-  {"hash":"dff691f11d0913e36205f8e2ca97feab","path":"/IMSTR12C.ZIP/ICONMSTR.EXE","attr":"0x40","date":"1992-05-11 21:38:12","size":177664},
-  {"hash":"8e27cb5ee72a12b4b13eb398508fb13d","path":"/IMSTR12C.ZIP/ICONMSTR.HLP","attr":"0x40","date":"1992-04-11 19:48:42","size":82280},
-  {"hash":"ec6e2f2ce74e8d169dab4734d1d55c2f","path":"/IMSTR12C.ZIP/ICONMSTR.WRI","attr":"0x40","date":"1992-05-11 21:43:14","size":94720},
-  {"hash":"d87ab3661db451a7f5fb81104c9c70d5","path":"/IMSTR12C.ZIP/IMUNZIP.PIF","attr":"0x40","date":"1992-01-17 22:31:30","size":545},
-  {"hash":"7412a1209b52d77cde22bff2500c15d0","path":"/IMSTR12C.ZIP/IMZIP.PIF","attr":"0x40","date":"1992-01-17 22:58:54","size":545},
-  {"hash":"fe5cd68fa57f9ff8f09e0d1756e96ab9","path":"/IMSTR12C.ZIP/README.TXT","attr":"0x40","date":"1992-05-11 21:45:32","size":3480},
-  {"hash":"312aaeb35f366df4c5df60fd2f6bc547","path":"/IMSTR12C.ZIP/REGFORM.TXT","attr":"0x40","date":"1992-05-11 21:45:44","size":2735}
+  {"hash":"cd3bccda977b35ca55effb3191ecb621","path":"/IMSTR12C.ZIP/EUROREG.TXT","attr":"0x100","date":"1992-05-11 21:44:12","size":1999},
+  {"hash":"dff691f11d0913e36205f8e2ca97feab","path":"/IMSTR12C.ZIP/ICONMSTR.EXE","attr":"0x100","date":"1992-05-11 21:38:12","size":177664},
+  {"hash":"8e27cb5ee72a12b4b13eb398508fb13d","path":"/IMSTR12C.ZIP/ICONMSTR.HLP","attr":"0x100","date":"1992-04-11 19:48:42","size":82280},
+  {"hash":"ec6e2f2ce74e8d169dab4734d1d55c2f","path":"/IMSTR12C.ZIP/ICONMSTR.WRI","attr":"0x100","date":"1992-05-11 21:43:14","size":94720},
+  {"hash":"d87ab3661db451a7f5fb81104c9c70d5","path":"/IMSTR12C.ZIP/IMUNZIP.PIF","attr":"0x100","date":"1992-01-17 22:31:30","size":545},
+  {"hash":"7412a1209b52d77cde22bff2500c15d0","path":"/IMSTR12C.ZIP/IMZIP.PIF","attr":"0x100","date":"1992-01-17 22:58:54","size":545},
+  {"hash":"fe5cd68fa57f9ff8f09e0d1756e96ab9","path":"/IMSTR12C.ZIP/README.TXT","attr":"0x100","date":"1992-05-11 21:45:32","size":3480},
+  {"hash":"312aaeb35f366df4c5df60fd2f6bc547","path":"/IMSTR12C.ZIP/REGFORM.TXT","attr":"0x100","date":"1992-05-11 21:45:44","size":2735}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

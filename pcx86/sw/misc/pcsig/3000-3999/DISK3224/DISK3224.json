@@ -40,13 +40,13 @@
   {"hash":"f5d0fa49b21234be778faa3b8ce06593","path":"/PKUNZIP.EXE","attr":"0x20","date":"1990-03-15 01:10:00","size":23528},
   {"hash":"f64229401e7cfecdad01902cb922cd5c","path":"/SHAREMAG.TXT","attr":"0x20","date":"1992-01-21 06:11:00","size":1837},
   {"hash":"be8cbfdeedb0e71dad23919b636fc03c","path":"/SIGORDER.TXT","attr":"0x20","date":"1992-06-25 14:28:24","size":3332},
-  {"hash":"1518519795b7e39452f84cf5df6a286c","path":"/CLIPMT15.ZIP/CLIPMATE.EXE","attr":"0x40","date":"1992-08-10 11:41:14","size":80384},
-  {"hash":"d9838be5aba644c5cd41ed5399331720","path":"/CLIPMT15.ZIP/CLIPMATE.HLP","attr":"0x40","date":"1992-08-10 11:41:14","size":123233},
-  {"hash":"8af61783fd3e5e2b63e0f99a523d48b6","path":"/CLIPMT15.ZIP/CLMICONS.DLL","attr":"0x40","date":"1992-08-10 11:41:14","size":38144},
-  {"hash":"c7de5eb8caefa09f5386d2881a82fd8b","path":"/CLIPMT15.ZIP/CLMREAD.TXT","attr":"0x40","date":"1992-08-10 11:41:14","size":7127},
-  {"hash":"d9f54d888eddb60f8cfc7823c664bb4b","path":"/CLIPMT15.ZIP/CLMREG.TXT","attr":"0x40","date":"1992-08-10 11:41:14","size":2951},
-  {"hash":"42dafa73e00d377158ed21d5b13309e4","path":"/CLIPMT15.ZIP/FILE_ID.DIZ","attr":"0x40","date":"1992-08-10 11:41:14","size":419},
-  {"hash":"2b47c26c82208b286a9c5c8988a1d0af","path":"/CLIPMT15.ZIP/VENDOR.DOC","attr":"0x40","date":"1992-08-10 11:41:14","size":3925}
+  {"hash":"1518519795b7e39452f84cf5df6a286c","path":"/CLIPMT15.ZIP/CLIPMATE.EXE","attr":"0x100","date":"1992-08-10 11:41:14","size":80384},
+  {"hash":"d9838be5aba644c5cd41ed5399331720","path":"/CLIPMT15.ZIP/CLIPMATE.HLP","attr":"0x100","date":"1992-08-10 11:41:14","size":123233},
+  {"hash":"8af61783fd3e5e2b63e0f99a523d48b6","path":"/CLIPMT15.ZIP/CLMICONS.DLL","attr":"0x100","date":"1992-08-10 11:41:14","size":38144},
+  {"hash":"c7de5eb8caefa09f5386d2881a82fd8b","path":"/CLIPMT15.ZIP/CLMREAD.TXT","attr":"0x100","date":"1992-08-10 11:41:14","size":7127},
+  {"hash":"d9f54d888eddb60f8cfc7823c664bb4b","path":"/CLIPMT15.ZIP/CLMREG.TXT","attr":"0x100","date":"1992-08-10 11:41:14","size":2951},
+  {"hash":"42dafa73e00d377158ed21d5b13309e4","path":"/CLIPMT15.ZIP/FILE_ID.DIZ","attr":"0x100","date":"1992-08-10 11:41:14","size":419},
+  {"hash":"2b47c26c82208b286a9c5c8988a1d0af","path":"/CLIPMT15.ZIP/VENDOR.DOC","attr":"0x100","date":"1992-08-10 11:41:14","size":3925}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

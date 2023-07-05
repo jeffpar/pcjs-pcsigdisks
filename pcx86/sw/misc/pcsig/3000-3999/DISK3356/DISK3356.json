@@ -41,13 +41,13 @@
   {"hash":"6ba790c8fbad0e9b54062b3135a01bca","path":"/WNGRPH.ZIP","attr":"0x20","date":"1992-04-05 15:35:24","size":67590},
   {"hash":"bb1161752d8cb6a41084caf6d8216435","path":"/GO.BAT","attr":"0x20","date":"1993-02-03 01:23:48","size":17},
   {"hash":"8cd501e909fde051a91afb5cce1f1f65","path":"/SHOW.EXE","attr":"0x20","date":"1988-09-12 10:48:52","size":2040},
-  {"hash":"6e3a17bf8daab3d24aafa68be12d7734","path":"/WNGRPH.ZIP/PACKING.LST","attr":"0x40","date":"1992-04-05 15:32:38","size":789},
-  {"hash":"e54ac8c2f7dc8cb0ff611a7785905ada","path":"/WNGRPH.ZIP/README.DOC","attr":"0x40","date":"1992-04-05 15:32:38","size":1741},
-  {"hash":"d3db2428ba4bcc136d16b2715b0b4d44","path":"/WNGRPH.ZIP/REGISTER.DOC","attr":"0x40","date":"1992-04-05 15:32:38","size":1874},
-  {"hash":"5fc5acfad2167163c86c7f876fc59b21","path":"/WNGRPH.ZIP/VENDOR.DOC","attr":"0x40","date":"1992-04-05 15:32:38","size":15086},
-  {"hash":"08b3a8d98d961c0334ea4ca73d6e1d44","path":"/WNGRPH.ZIP/WINGRAPH.DOC","attr":"0x40","date":"1992-04-05 15:32:38","size":14750},
-  {"hash":"5c12ef6f10934ee9b07564d034c4c03d","path":"/WNGRPH.ZIP/WINGRAPH.EXE","attr":"0x40","date":"1992-04-05 15:32:38","size":103867},
-  {"hash":"b83395c5f26d21f9f4a540072015b0fa","path":"/WNGRPH.ZIP/WINGRAPH.HLP","attr":"0x40","date":"1992-04-05 15:32:38","size":33084}
+  {"hash":"6e3a17bf8daab3d24aafa68be12d7734","path":"/WNGRPH.ZIP/PACKING.LST","attr":"0x100","date":"1992-04-05 15:32:38","size":789},
+  {"hash":"e54ac8c2f7dc8cb0ff611a7785905ada","path":"/WNGRPH.ZIP/README.DOC","attr":"0x100","date":"1992-04-05 15:32:38","size":1741},
+  {"hash":"d3db2428ba4bcc136d16b2715b0b4d44","path":"/WNGRPH.ZIP/REGISTER.DOC","attr":"0x100","date":"1992-04-05 15:32:38","size":1874},
+  {"hash":"5fc5acfad2167163c86c7f876fc59b21","path":"/WNGRPH.ZIP/VENDOR.DOC","attr":"0x100","date":"1992-04-05 15:32:38","size":15086},
+  {"hash":"08b3a8d98d961c0334ea4ca73d6e1d44","path":"/WNGRPH.ZIP/WINGRAPH.DOC","attr":"0x100","date":"1992-04-05 15:32:38","size":14750},
+  {"hash":"5c12ef6f10934ee9b07564d034c4c03d","path":"/WNGRPH.ZIP/WINGRAPH.EXE","attr":"0x100","date":"1992-04-05 15:32:38","size":103867},
+  {"hash":"b83395c5f26d21f9f4a540072015b0fa","path":"/WNGRPH.ZIP/WINGRAPH.HLP","attr":"0x100","date":"1992-04-05 15:32:38","size":33084}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

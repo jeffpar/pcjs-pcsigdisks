@@ -40,14 +40,14 @@
   {"hash":"1710045e66398c8ea196722a687ead0a","path":"/PKUNZIP.EXE","attr":"0x20","date":"1993-02-01 02:04:16","size":29378},
   {"hash":"f64229401e7cfecdad01902cb922cd5c","path":"/SHAREMAG.TXT","attr":"0x20","date":"1992-01-21 06:11:00","size":1837},
   {"hash":"ac1c1e4d8c5b0302728b93a1f54d420a","path":"/SIGORDER.TXT","attr":"0x20","date":"1993-03-10 15:22:32","size":3090},
-  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/DOOM1_1.ZIP/DOOM.EXE","attr":"0x40","date":"1993-12-16 01:01:00"},
-  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/DOOM1_1.ZIP/DOOM1.WAD","attr":"0x40","date":"1993-12-16 01:01:00"},
-  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/DOOM1_1.ZIP/GO.BAT","attr":"0x40","date":"1993-12-23 13:17:22"},
-  {"hash":"07417cc3ee387db3e846129e6a1b1c2d","path":"/DOOM1_1.ZIP/LICENSE.DOC","attr":"0x40","date":"1993-12-16 01:01:00","size":6689},
-  {"hash":"765d2b84ced4f3069a021adc9bc08cd4","path":"/DOOM1_1.ZIP/ORDER.FRM","attr":"0x40","date":"1993-12-16 01:01:00","size":4681},
-  {"hash":"554cf5df555f48541151be2cd9c06188","path":"/DOOM1_1.ZIP/README.EXE","attr":"0x40","date":"1993-12-16 01:01:00","size":32498},
-  {"hash":"304cbca2565d77698a141d0541a684a2","path":"/DOOM1_1.ZIP/SETUP.EXE","attr":"0x40","date":"1993-12-16 01:01:00","size":68923},
-  {"hash":"12d5db6fc13f05bd481031daae3cb7e2","path":"/DOOM1_1.ZIP/VENDOR.DOC","attr":"0x40","date":"1993-12-16 01:01:00","size":314}
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/DOOM1_1.ZIP/DOOM.EXE","attr":"0x100","date":"1993-12-16 01:01:00"},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/DOOM1_1.ZIP/DOOM1.WAD","attr":"0x100","date":"1993-12-16 01:01:00"},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/DOOM1_1.ZIP/GO.BAT","attr":"0x100","date":"1993-12-23 13:17:22"},
+  {"hash":"07417cc3ee387db3e846129e6a1b1c2d","path":"/DOOM1_1.ZIP/LICENSE.DOC","attr":"0x100","date":"1993-12-16 01:01:00","size":6689},
+  {"hash":"765d2b84ced4f3069a021adc9bc08cd4","path":"/DOOM1_1.ZIP/ORDER.FRM","attr":"0x100","date":"1993-12-16 01:01:00","size":4681},
+  {"hash":"554cf5df555f48541151be2cd9c06188","path":"/DOOM1_1.ZIP/README.EXE","attr":"0x100","date":"1993-12-16 01:01:00","size":32498},
+  {"hash":"304cbca2565d77698a141d0541a684a2","path":"/DOOM1_1.ZIP/SETUP.EXE","attr":"0x100","date":"1993-12-16 01:01:00","size":68923},
+  {"hash":"12d5db6fc13f05bd481031daae3cb7e2","path":"/DOOM1_1.ZIP/VENDOR.DOC","attr":"0x100","date":"1993-12-16 01:01:00","size":314}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

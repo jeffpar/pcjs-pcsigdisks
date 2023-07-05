@@ -35,12 +35,12 @@
   {"hash":"1fa1abdb5d5e15fd9268090a3c376498","path":"/FILE1616.TXT","attr":"0x20","date":"1990-10-16 12:04:30","size":1555},
   {"hash":"e2e36b5219c19904e9eb47a608184921","path":"/READ.ME","attr":"0x20","date":"1990-10-02 07:23:04","size":4556},
   {"hash":"a923bea887d99fcc8c95ffe4bd16b8ff","path":"/GO.BAT","attr":"0x20","date":"1990-10-16 14:58:40","size":30},
-  {"hash":"6c52f22b0cba12ea0633f8d6064f1f4a","path":"/PROPHECY.ZIP/DBFILES.EXE","attr":"0x40","date":"1990-09-30 12:33:52","size":52266},
-  {"hash":"40042ca976e9089c2ac4de0d888fc9ce","path":"/PROPHECY.ZIP/PICK30.DOC","attr":"0x40","date":"1990-10-04 08:44:24","size":33743},
-  {"hash":"d37c38f3b821d67c45ae6dd7d1b13dda","path":"/PROPHECY.ZIP/PICK30.EXE","attr":"0x40","date":"1990-10-04 08:16:26","size":341216},
-  {"hash":"b6420de92797b27290c81583bdd7822c","path":"/PROPHECY.ZIP/PICK6.BAT","attr":"0x40","date":"1990-10-02 06:26:54","size":200},
-  {"hash":"ab72c68d67b25a310bf2e70277839c0f","path":"/PROPHECY.ZIP/READ.ME","attr":"0x40","date":"1990-10-02 07:23:04","size":4469},
-  {"hash":"f036e086300e81681f4ae290e8b7e981","path":"/PROPHECY.ZIP/REGISTER.DOC","attr":"0x40","date":"1990-10-01 10:28:58","size":1009}
+  {"hash":"6c52f22b0cba12ea0633f8d6064f1f4a","path":"/PROPHECY.ZIP/DBFILES.EXE","attr":"0x100","date":"1990-09-30 12:33:52","size":52266},
+  {"hash":"40042ca976e9089c2ac4de0d888fc9ce","path":"/PROPHECY.ZIP/PICK30.DOC","attr":"0x100","date":"1990-10-04 08:44:24","size":33743},
+  {"hash":"d37c38f3b821d67c45ae6dd7d1b13dda","path":"/PROPHECY.ZIP/PICK30.EXE","attr":"0x100","date":"1990-10-04 08:16:26","size":341216},
+  {"hash":"b6420de92797b27290c81583bdd7822c","path":"/PROPHECY.ZIP/PICK6.BAT","attr":"0x100","date":"1990-10-02 06:26:54","size":200},
+  {"hash":"ab72c68d67b25a310bf2e70277839c0f","path":"/PROPHECY.ZIP/READ.ME","attr":"0x100","date":"1990-10-02 07:23:04","size":4469},
+  {"hash":"f036e086300e81681f4ae290e8b7e981","path":"/PROPHECY.ZIP/REGISTER.DOC","attr":"0x100","date":"1990-10-01 10:28:58","size":1009}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

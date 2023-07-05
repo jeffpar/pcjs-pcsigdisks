@@ -42,11 +42,11 @@
   {"hash":"9929ef804860a8df07e388279390f72e","path":"/GO-FORM.DAT","attr":"0x20","date":"1992-01-20 10:24:28","size":2401},
   {"hash":"2193c8ee37da13d61da0480782f30905","path":"/GO-STRT.DAT","attr":"0x20","date":"1992-05-22 11:44:22","size":986},
   {"hash":"54615bf9cef2f2649379c25bddf6281f","path":"/WINEZ.TXT","attr":"0x20","date":"1991-08-24 19:51:52","size":33249},
-  {"hash":"3a824375b888318cb5fae99a690aa6e7","path":"/WINEZ21.ZIP/REGISTER.EXE","attr":"0x40","date":"1991-08-23 14:59:24","size":11824},
-  {"hash":"bb872f5c526c132713ee6825d285dacc","path":"/WINEZ21.ZIP/WINEZ.EXE","attr":"0x40","date":"1991-08-24 19:09:46","size":31984},
-  {"hash":"54615bf9cef2f2649379c25bddf6281f","path":"/WINEZ21.ZIP/WINEZ2.DOC","attr":"0x40","date":"1991-08-24 19:51:52","size":33249},
-  {"hash":"2a40cb77c826eb8b54aa35dbe0a466af","path":"/WINEZ21.ZIP/WINEZGRP.EXE","attr":"0x40","date":"1991-08-23 14:59:06","size":23808},
-  {"hash":"a740a1ed5a5f7dc60d5bb168ae654a36","path":"/WINEZ21.ZIP/WINEZRUN.EXE","attr":"0x40","date":"1991-08-24 19:09:56","size":14544}
+  {"hash":"3a824375b888318cb5fae99a690aa6e7","path":"/WINEZ21.ZIP/REGISTER.EXE","attr":"0x100","date":"1991-08-23 14:59:24","size":11824},
+  {"hash":"bb872f5c526c132713ee6825d285dacc","path":"/WINEZ21.ZIP/WINEZ.EXE","attr":"0x100","date":"1991-08-24 19:09:46","size":31984},
+  {"hash":"54615bf9cef2f2649379c25bddf6281f","path":"/WINEZ21.ZIP/WINEZ2.DOC","attr":"0x100","date":"1991-08-24 19:51:52","size":33249},
+  {"hash":"2a40cb77c826eb8b54aa35dbe0a466af","path":"/WINEZ21.ZIP/WINEZGRP.EXE","attr":"0x100","date":"1991-08-23 14:59:06","size":23808},
+  {"hash":"a740a1ed5a5f7dc60d5bb168ae654a36","path":"/WINEZ21.ZIP/WINEZRUN.EXE","attr":"0x100","date":"1991-08-24 19:09:56","size":14544}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,65794,1073758210,130561,65544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

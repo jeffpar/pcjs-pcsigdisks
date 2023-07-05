@@ -34,13 +34,13 @@
   {"hash":"22303c373565114973b94a961b547880","path":"/INSTALL.EXE","attr":"0x20","date":"1993-07-01 17:00:00","size":33248},
   {"hash":"91d52c9a9d96833fdcad96e3c3d87ed5","path":"/NSPRO.ZIP","attr":"0x20","date":"1993-07-01 17:00:00","size":311644},
   {"hash":"f06fefe2fd270c0dc7fbfd391160c927","path":"/FILE_ID.DIZ","attr":"0x20","date":"1993-06-30 11:28:02","size":457},
-  {"hash":"3ee8bf33c25645355dec707828b91aba","path":"/NSPRO.ZIP/DEALER.DOC","attr":"0x40","date":"1993-07-01 17:00:00","size":3084},
-  {"hash":"f06fefe2fd270c0dc7fbfd391160c927","path":"/NSPRO.ZIP/FILE_ID.DIZ","attr":"0x40","date":"1993-07-01 17:00:00","size":457},
-  {"hash":"ede718e49e02752b9c383ac1fd7b08e7","path":"/NSPRO.ZIP/NEOSHOW.DOC","attr":"0x40","date":"1993-07-01 17:00:00","size":40424},
-  {"hash":"aee64082f8392c00d9080995df10e4c4","path":"/NSPRO.ZIP/NEOSHOW.EXE","attr":"0x40","date":"1993-07-01 17:00:00","size":486567},
-  {"hash":"84f07d795ae70704ac2d4660829919f4","path":"/NSPRO.ZIP/NEOSHOW.OVR","attr":"0x40","date":"1993-07-01 17:00:00","size":97982},
-  {"hash":"d0697ba07f38a73f8861608edf69cc9f","path":"/NSPRO.ZIP/ORDRFORM.TXT","attr":"0x40","date":"1993-07-01 17:00:00","size":1781},
-  {"hash":"ff7bc86f63ffff4c384bdd4c16d03490","path":"/NSPRO.ZIP/VENDOR.DOC","attr":"0x40","date":"1993-07-01 17:00:00","size":1007}
+  {"hash":"3ee8bf33c25645355dec707828b91aba","path":"/NSPRO.ZIP/DEALER.DOC","attr":"0x100","date":"1993-07-01 17:00:00","size":3084},
+  {"hash":"f06fefe2fd270c0dc7fbfd391160c927","path":"/NSPRO.ZIP/FILE_ID.DIZ","attr":"0x100","date":"1993-07-01 17:00:00","size":457},
+  {"hash":"ede718e49e02752b9c383ac1fd7b08e7","path":"/NSPRO.ZIP/NEOSHOW.DOC","attr":"0x100","date":"1993-07-01 17:00:00","size":40424},
+  {"hash":"aee64082f8392c00d9080995df10e4c4","path":"/NSPRO.ZIP/NEOSHOW.EXE","attr":"0x100","date":"1993-07-01 17:00:00","size":486567},
+  {"hash":"84f07d795ae70704ac2d4660829919f4","path":"/NSPRO.ZIP/NEOSHOW.OVR","attr":"0x100","date":"1993-07-01 17:00:00","size":97982},
+  {"hash":"d0697ba07f38a73f8861608edf69cc9f","path":"/NSPRO.ZIP/ORDRFORM.TXT","attr":"0x100","date":"1993-07-01 17:00:00","size":1781},
+  {"hash":"ff7bc86f63ffff4c384bdd4c16d03490","path":"/NSPRO.ZIP/VENDOR.DOC","attr":"0x100","date":"1993-07-01 17:00:00","size":1007}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

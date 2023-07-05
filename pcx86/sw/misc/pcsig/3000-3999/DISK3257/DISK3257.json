@@ -40,14 +40,14 @@
   {"hash":"f5d0fa49b21234be778faa3b8ce06593","path":"/PKUNZIP.EXE","attr":"0x20","date":"1990-03-15 01:10:00","size":23528},
   {"hash":"f64229401e7cfecdad01902cb922cd5c","path":"/SHAREMAG.TXT","attr":"0x20","date":"1992-01-21 06:11:00","size":1837},
   {"hash":"be8cbfdeedb0e71dad23919b636fc03c","path":"/SIGORDER.TXT","attr":"0x20","date":"1992-06-25 14:28:24","size":3332},
-  {"hash":"281ec0a99fc926a91535a625dd36d35a","path":"/SLOTY11.ZIP/BSXCAT.DOC","attr":"0x40","date":"1991-08-01 22:01:30","size":16204},
-  {"hash":"2792cce903c66dca43fc92f1f538aa65","path":"/SLOTY11.ZIP/ORDER.DOC","attr":"0x40","date":"1991-07-16 11:01:58","size":2527},
-  {"hash":"e4cf46d5ba61a3becad3c63d7e51cabf","path":"/SLOTY11.ZIP/SLOTY.D1T","attr":"0x40","date":"1991-03-18 21:39:04","size":9630},
-  {"hash":"144ba8caf9fb518ca7d2c58b6119edb1","path":"/SLOTY11.ZIP/SLOTY.D2T","attr":"0x40","date":"1991-03-18 21:39:38","size":34828},
-  {"hash":"7438c9f74e78671fb5f392ba95dd1642","path":"/SLOTY11.ZIP/SLOTY.D3T","attr":"0x40","date":"1991-03-18 21:37:46","size":25564},
-  {"hash":"0770dfd36f019935ef0515482cb273af","path":"/SLOTY11.ZIP/SLOTY.D4T","attr":"0x40","date":"1991-03-18 21:46:16","size":6252},
-  {"hash":"601cb049c315c88ba399e2ef1082fd73","path":"/SLOTY11.ZIP/SLOTY.DOC","attr":"0x40","date":"1991-03-18 21:24:08","size":14779},
-  {"hash":"25207e18a39fa5b0327903bf77336d5a","path":"/SLOTY11.ZIP/SLOTY.EXE","attr":"0x40","date":"1991-03-20 19:22:18","size":92928}
+  {"hash":"281ec0a99fc926a91535a625dd36d35a","path":"/SLOTY11.ZIP/BSXCAT.DOC","attr":"0x100","date":"1991-08-01 22:01:30","size":16204},
+  {"hash":"2792cce903c66dca43fc92f1f538aa65","path":"/SLOTY11.ZIP/ORDER.DOC","attr":"0x100","date":"1991-07-16 11:01:58","size":2527},
+  {"hash":"e4cf46d5ba61a3becad3c63d7e51cabf","path":"/SLOTY11.ZIP/SLOTY.D1T","attr":"0x100","date":"1991-03-18 21:39:04","size":9630},
+  {"hash":"144ba8caf9fb518ca7d2c58b6119edb1","path":"/SLOTY11.ZIP/SLOTY.D2T","attr":"0x100","date":"1991-03-18 21:39:38","size":34828},
+  {"hash":"7438c9f74e78671fb5f392ba95dd1642","path":"/SLOTY11.ZIP/SLOTY.D3T","attr":"0x100","date":"1991-03-18 21:37:46","size":25564},
+  {"hash":"0770dfd36f019935ef0515482cb273af","path":"/SLOTY11.ZIP/SLOTY.D4T","attr":"0x100","date":"1991-03-18 21:46:16","size":6252},
+  {"hash":"601cb049c315c88ba399e2ef1082fd73","path":"/SLOTY11.ZIP/SLOTY.DOC","attr":"0x100","date":"1991-03-18 21:24:08","size":14779},
+  {"hash":"25207e18a39fa5b0327903bf77336d5a","path":"/SLOTY11.ZIP/SLOTY.EXE","attr":"0x100","date":"1991-03-20 19:22:18","size":92928}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,65794,1073758210,130561,65544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

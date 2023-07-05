@@ -33,16 +33,16 @@
 "fileTable": [
   {"hash":"815105fc97d163d8ad2dc8f0759dae7f","path":"/PKXARC.COM","attr":"0x20","date":"1988-05-21 11:33:10","size":12242},
   {"hash":"13f27c8c34b72cb9a1b27c1bee16f931","path":"/SNOUTIL1.ARC","attr":"0x20","date":"1988-06-04 11:31:28","size":350100},
-  {"hash":"3c2ce97e1df2d0542aee5acf65e46729","path":"/SNOUTIL1.ARC/DIFFER.EXE","attr":"0x40","date":"1988-01-02 11:03:38","size":57344},
-  {"hash":"5cb3d5adfe38353a2c12ebcd479787fe","path":"/SNOUTIL1.ARC/EXAMPLE.LST","attr":"0x40","date":"1986-10-18 15:06:02","size":24428},
-  {"hash":"0b852a0035f55133def771d0045b73aa","path":"/SNOUTIL1.ARC/FMTHDLL.EXE","attr":"0x40","date":"1988-01-02 06:21:42","size":10363},
-  {"hash":"7b7b7f04754397c8e59eb798ed53de02","path":"/SNOUTIL1.ARC/LIST.LST","attr":"0x40","date":"1986-11-23 20:42:54","size":5529},
-  {"hash":"a64572b3aadc80c32d899e26fff1bff7","path":"/SNOUTIL1.ARC/MAKEMAKE.SAV","attr":"0x40","date":"1988-06-04 11:17:10","size":58266},
-  {"hash":"87fbe050f29a9dfc159a53d6fe723172","path":"/SNOUTIL1.ARC/MAKERMAK.SAV","attr":"0x40","date":"1988-06-04 11:17:40","size":49106},
-  {"hash":"25bbc57c044eeae2507ae1d97bcb2910","path":"/SNOUTIL1.ARC/OVER.EXE","attr":"0x40","date":"1986-11-13 15:24:06","size":51712},
-  {"hash":"5c86f277f237bad4c0bab6b14728091b","path":"/SNOUTIL1.ARC/READ.ME","attr":"0x40","date":"1988-03-28 11:41:34","size":7315},
-  {"hash":"d7354d8d0e5715bd4bea44b0ec74aec4","path":"/SNOUTIL1.ARC/SAPPREF.EXE","attr":"0x40","date":"1987-05-26 16:30:04","size":54784},
-  {"hash":"21bc0a2559f34f7bf5452a2232a463b0","path":"/SNOUTIL1.ARC/UTILSDOC.PRT","attr":"0x40","date":"1988-05-24 15:40:28","size":513517}
+  {"hash":"3c2ce97e1df2d0542aee5acf65e46729","path":"/SNOUTIL1.ARC/DIFFER.EXE","attr":"0x100","date":"1988-01-02 11:03:38","size":57344},
+  {"hash":"5cb3d5adfe38353a2c12ebcd479787fe","path":"/SNOUTIL1.ARC/EXAMPLE.LST","attr":"0x100","date":"1986-10-18 15:06:02","size":24428},
+  {"hash":"0b852a0035f55133def771d0045b73aa","path":"/SNOUTIL1.ARC/FMTHDLL.EXE","attr":"0x100","date":"1988-01-02 06:21:42","size":10363},
+  {"hash":"7b7b7f04754397c8e59eb798ed53de02","path":"/SNOUTIL1.ARC/LIST.LST","attr":"0x100","date":"1986-11-23 20:42:54","size":5529},
+  {"hash":"a64572b3aadc80c32d899e26fff1bff7","path":"/SNOUTIL1.ARC/MAKEMAKE.SAV","attr":"0x100","date":"1988-06-04 11:17:10","size":58266},
+  {"hash":"87fbe050f29a9dfc159a53d6fe723172","path":"/SNOUTIL1.ARC/MAKERMAK.SAV","attr":"0x100","date":"1988-06-04 11:17:40","size":49106},
+  {"hash":"25bbc57c044eeae2507ae1d97bcb2910","path":"/SNOUTIL1.ARC/OVER.EXE","attr":"0x100","date":"1986-11-13 15:24:06","size":51712},
+  {"hash":"5c86f277f237bad4c0bab6b14728091b","path":"/SNOUTIL1.ARC/READ.ME","attr":"0x100","date":"1988-03-28 11:41:34","size":7315},
+  {"hash":"d7354d8d0e5715bd4bea44b0ec74aec4","path":"/SNOUTIL1.ARC/SAPPREF.EXE","attr":"0x100","date":"1987-05-26 16:30:04","size":54784},
+  {"hash":"21bc0a2559f34f7bf5452a2232a463b0","path":"/SNOUTIL1.ARC/UTILSDOC.PRT","attr":"0x100","date":"1988-05-24 15:40:28","size":513517}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

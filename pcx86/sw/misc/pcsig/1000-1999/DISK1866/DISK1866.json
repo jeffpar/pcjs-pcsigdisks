@@ -48,14 +48,14 @@
   {"hash":"71239cfa153adc74b8bc50ace092f462","path":"/BAKLABEL/BAKLABEL.EXE","attr":"0x20","date":"1988-11-23 01:24:40","size":38186},
   {"hash":"7ac29edfa98c803977be64dcf27138cc","path":"/BAKLABEL/MANUAL.COM","attr":"0x20","date":"1988-11-23 01:24:42","size":2048},
   {"hash":"ac62888bf2662dfb273e598b8a33ade1","path":"/BAKLABEL/BAKLABEL.ARC","attr":"0x20","date":"1988-11-23 01:25:18","size":33740},
-  {"hash":"47c40e734680153671c0d399813e05ff","path":"/LABELIT/LABELIT.ARC/3-UP.DES","attr":"0x40","date":"1988-11-11 14:58:46","size":17},
-  {"hash":"582cf18eb69635a4538ba77bd0ea6d2e","path":"/LABELIT/LABELIT.ARC/AUTHOR.LAB","attr":"0x40","date":"1988-11-02 13:35:44","size":77},
-  {"hash":"cb07d0bf6e5a4005d3917dc69332cfe2","path":"/LABELIT/LABELIT.ARC/FILES.TXT","attr":"0x40","date":"1988-11-23 01:03:42","size":464},
-  {"hash":"2bc1b09c094a70dec96681986d388f95","path":"/LABELIT/LABELIT.ARC/LABELIT.EXE","attr":"0x40","date":"1988-11-11 14:41:50","size":104130},
-  {"hash":"49a6d2e5aa243bbcbbc670bee0751ca4","path":"/LABELIT/LABELIT.ARC/MANUAL.COM","attr":"0x40","date":"1988-11-23 00:57:52","size":11501},
-  {"hash":"71239cfa153adc74b8bc50ace092f462","path":"/BAKLABEL/BAKLABEL.ARC/BAKLABEL.EXE","attr":"0x40","date":"1988-11-23 01:24:40","size":38186},
-  {"hash":"f6914dc3461582faef128b660ffa97da","path":"/BAKLABEL/BAKLABEL.ARC/FILES.TXT","attr":"0x40","date":"1988-11-23 01:24:38","size":397},
-  {"hash":"7ac29edfa98c803977be64dcf27138cc","path":"/BAKLABEL/BAKLABEL.ARC/MANUAL.COM","attr":"0x40","date":"1988-11-23 01:24:42","size":2048}
+  {"hash":"47c40e734680153671c0d399813e05ff","path":"/LABELIT/LABELIT.ARC/3-UP.DES","attr":"0x100","date":"1988-11-11 14:58:46","size":17},
+  {"hash":"582cf18eb69635a4538ba77bd0ea6d2e","path":"/LABELIT/LABELIT.ARC/AUTHOR.LAB","attr":"0x100","date":"1988-11-02 13:35:44","size":77},
+  {"hash":"cb07d0bf6e5a4005d3917dc69332cfe2","path":"/LABELIT/LABELIT.ARC/FILES.TXT","attr":"0x100","date":"1988-11-23 01:03:42","size":464},
+  {"hash":"2bc1b09c094a70dec96681986d388f95","path":"/LABELIT/LABELIT.ARC/LABELIT.EXE","attr":"0x100","date":"1988-11-11 14:41:50","size":104130},
+  {"hash":"49a6d2e5aa243bbcbbc670bee0751ca4","path":"/LABELIT/LABELIT.ARC/MANUAL.COM","attr":"0x100","date":"1988-11-23 00:57:52","size":11501},
+  {"hash":"71239cfa153adc74b8bc50ace092f462","path":"/BAKLABEL/BAKLABEL.ARC/BAKLABEL.EXE","attr":"0x100","date":"1988-11-23 01:24:40","size":38186},
+  {"hash":"f6914dc3461582faef128b660ffa97da","path":"/BAKLABEL/BAKLABEL.ARC/FILES.TXT","attr":"0x100","date":"1988-11-23 01:24:38","size":397},
+  {"hash":"7ac29edfa98c803977be64dcf27138cc","path":"/BAKLABEL/BAKLABEL.ARC/MANUAL.COM","attr":"0x100","date":"1988-11-23 01:24:42","size":2048}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

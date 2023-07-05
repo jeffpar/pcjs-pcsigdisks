@@ -40,13 +40,13 @@
   {"hash":"00fff50cd6a785d56a4fac606d285042","path":"/PCSIG.TXT","attr":"0x20","date":"1993-06-01 14:31:30","size":2329},
   {"hash":"6162087334ed98bb273acaaa6ca85d40","path":"/SHAREMAG.TXT","attr":"0x20","date":"1993-06-01 14:32:04","size":1831},
   {"hash":"54964d989c90644e40ac21508c12ff5d","path":"/CDROM.TXT","attr":"0x20","date":"1993-06-01 15:26:44","size":8196},
-  {"hash":"2a13360ffd4c869203c7c3878fbfd601","path":"/VREND.ZIP/ORDER.FRM","attr":"0x40","date":"1993-06-01 09:14:16","size":1033},
-  {"hash":"11ed169c7020ac4047c232be7279a54f","path":"/VREND.ZIP/SAMPLE1.RDR","attr":"0x40","date":"1993-06-01 14:30:26","size":11862},
-  {"hash":"f59963e04097e9e33e078b8a2a8effee","path":"/VREND.ZIP/SAMPLE2.RDR","attr":"0x40","date":"1993-06-01 14:26:36","size":8274},
-  {"hash":"78b06a0b105d6518b03bb59700fd9569","path":"/VREND.ZIP/SAMPLE3.RDR","attr":"0x40","date":"1993-06-01 14:13:06","size":9972},
-  {"hash":"481f8683b53e29a278cb942ad2b7ae4d","path":"/VREND.ZIP/TITR____.PFB","attr":"0x40","date":"1992-11-05 19:04:14","size":13611},
-  {"hash":"7e586d851bfa12a3c742d0fb48f357c4","path":"/VREND.ZIP/VREND.EXE","attr":"0x40","date":"1993-06-01 08:13:40","size":292804},
-  {"hash":"e1aa17a49b8f0f7b0ce46b128d4f1d71","path":"/VREND.ZIP/VRENDER.DOC","attr":"0x40","date":"1993-06-02 08:26:24","size":46825}
+  {"hash":"2a13360ffd4c869203c7c3878fbfd601","path":"/VREND.ZIP/ORDER.FRM","attr":"0x100","date":"1993-06-01 09:14:16","size":1033},
+  {"hash":"11ed169c7020ac4047c232be7279a54f","path":"/VREND.ZIP/SAMPLE1.RDR","attr":"0x100","date":"1993-06-01 14:30:26","size":11862},
+  {"hash":"f59963e04097e9e33e078b8a2a8effee","path":"/VREND.ZIP/SAMPLE2.RDR","attr":"0x100","date":"1993-06-01 14:26:36","size":8274},
+  {"hash":"78b06a0b105d6518b03bb59700fd9569","path":"/VREND.ZIP/SAMPLE3.RDR","attr":"0x100","date":"1993-06-01 14:13:06","size":9972},
+  {"hash":"481f8683b53e29a278cb942ad2b7ae4d","path":"/VREND.ZIP/TITR____.PFB","attr":"0x100","date":"1992-11-05 19:04:14","size":13611},
+  {"hash":"7e586d851bfa12a3c742d0fb48f357c4","path":"/VREND.ZIP/VREND.EXE","attr":"0x100","date":"1993-06-01 08:13:40","size":292804},
+  {"hash":"e1aa17a49b8f0f7b0ce46b128d4f1d71","path":"/VREND.ZIP/VRENDER.DOC","attr":"0x100","date":"1993-06-02 08:26:24","size":46825}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

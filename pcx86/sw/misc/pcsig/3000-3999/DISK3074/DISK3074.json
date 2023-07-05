@@ -46,12 +46,12 @@
   {"hash":"843d655cb3e40f59405a120931cc4d07","path":"/--------","attr":"0x20","date":"1993-01-07 11:21:24","size":5},
   {"hash":"5e0bc0c86dcac77708957eaa7dd2eb30","path":"/READ_ME.1ST","attr":"0x20","date":"1992-04-15 17:51:14","size":6543},
   {"hash":"cb30fc9cec9a2d04ef49b22e2066c264","path":"/--------.---","attr":"0x20","date":"1993-01-07 11:22:04","size":3},
-  {"hash":"0aeccc26ca0b9c3ae32d3de6b916bb95","path":"/1PASS101.ZIP/1PASS.EXE","attr":"0x40","date":"1990-12-26 01:01:00","size":10287},
-  {"hash":"4708ff998487e56bd4e8ed920c130f8b","path":"/1PASS101.ZIP/DESCRIBE.BBS","attr":"0x40","date":"1990-12-26 01:01:00","size":869},
-  {"hash":"2b44e9ad7794abe96c207763ec23e5d7","path":"/1PASS101.ZIP/INVOICE.ONE","attr":"0x40","date":"1990-12-26 01:01:00","size":1762},
-  {"hash":"4c92dce11aa731eef194e94338810933","path":"/1PASS101.ZIP/MAILER","attr":"0x40","date":"1990-12-26 01:01:00","size":2793},
-  {"hash":"01dd208afb07e5408f4976a9048a759c","path":"/1PASS101.ZIP/ONEPASS.DOC","attr":"0x40","date":"1990-12-26 01:01:00","size":8741},
-  {"hash":"4c8ad2a71444044acd1ee1c0f2505486","path":"/1PASS101.ZIP/TYPE.ME","attr":"0x40","date":"1990-12-26 01:01:00","size":294}
+  {"hash":"0aeccc26ca0b9c3ae32d3de6b916bb95","path":"/1PASS101.ZIP/1PASS.EXE","attr":"0x100","date":"1990-12-26 01:01:00","size":10287},
+  {"hash":"4708ff998487e56bd4e8ed920c130f8b","path":"/1PASS101.ZIP/DESCRIBE.BBS","attr":"0x100","date":"1990-12-26 01:01:00","size":869},
+  {"hash":"2b44e9ad7794abe96c207763ec23e5d7","path":"/1PASS101.ZIP/INVOICE.ONE","attr":"0x100","date":"1990-12-26 01:01:00","size":1762},
+  {"hash":"4c92dce11aa731eef194e94338810933","path":"/1PASS101.ZIP/MAILER","attr":"0x100","date":"1990-12-26 01:01:00","size":2793},
+  {"hash":"01dd208afb07e5408f4976a9048a759c","path":"/1PASS101.ZIP/ONEPASS.DOC","attr":"0x100","date":"1990-12-26 01:01:00","size":8741},
+  {"hash":"4c8ad2a71444044acd1ee1c0f2505486","path":"/1PASS101.ZIP/TYPE.ME","attr":"0x100","date":"1990-12-26 01:01:00","size":294}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,65794,1073758210,130561,65544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

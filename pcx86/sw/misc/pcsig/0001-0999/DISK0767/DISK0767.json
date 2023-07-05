@@ -38,12 +38,12 @@
   {"hash":"d6a38a11e802514219aee6b5837d1d9e","path":"/GO.BAT","attr":"0x20","date":"1987-06-08 15:57:18","size":38},
   {"hash":"aa811bb318f0ee8354702402c8e0e929","path":"/GO.TXT","attr":"0x20","date":"1987-06-08 15:57:06","size":1310},
   {"hash":"0e36795dccfec45850fd3de170006351","path":"/HARD.BAT","attr":"0x20","date":"1987-06-08 11:48:10","size":853},
-  {"hash":"2f63b15861b06c44e0fb407c5b8a80d5","path":"/BIBLE2.ARC/DEU.TXT","attr":"0x40","date":"1986-01-04 18:40:30","size":159831},
-  {"hash":"5883a40d65cbfda9b81130b97ae4243b","path":"/BIBLE2.ARC/JDG.TXT","attr":"0x40","date":"1986-01-04 18:42:56","size":107273},
-  {"hash":"0256c0306e3562ffa849605cf4b88961","path":"/BIBLE2.ARC/JOS.TXT","attr":"0x40","date":"1986-01-04 18:41:44","size":109294},
-  {"hash":"d36824cdffb9a263bb433b7391053feb","path":"/BIBLE2.ARC/NUM.TXT","attr":"0x40","date":"1986-01-04 18:38:46","size":193434},
-  {"hash":"ea91bcf706c4713d1d73f48f8ffcd3a5","path":"/BIBLE2.ARC/RTH.TXT","attr":"0x40","date":"1986-01-04 18:43:06","size":14116},
-  {"hash":"0c16631e556c4273e73fafd5ade50bb5","path":"/BIBLE2.ARC/SA1.TXT","attr":"0x40","date":"1986-01-04 18:44:40","size":140681}
+  {"hash":"2f63b15861b06c44e0fb407c5b8a80d5","path":"/BIBLE2.ARC/DEU.TXT","attr":"0x100","date":"1986-01-04 18:40:30","size":159831},
+  {"hash":"5883a40d65cbfda9b81130b97ae4243b","path":"/BIBLE2.ARC/JDG.TXT","attr":"0x100","date":"1986-01-04 18:42:56","size":107273},
+  {"hash":"0256c0306e3562ffa849605cf4b88961","path":"/BIBLE2.ARC/JOS.TXT","attr":"0x100","date":"1986-01-04 18:41:44","size":109294},
+  {"hash":"d36824cdffb9a263bb433b7391053feb","path":"/BIBLE2.ARC/NUM.TXT","attr":"0x100","date":"1986-01-04 18:38:46","size":193434},
+  {"hash":"ea91bcf706c4713d1d73f48f8ffcd3a5","path":"/BIBLE2.ARC/RTH.TXT","attr":"0x100","date":"1986-01-04 18:43:06","size":14116},
+  {"hash":"0c16631e556c4273e73fafd5ade50bb5","path":"/BIBLE2.ARC/SA1.TXT","attr":"0x100","date":"1986-01-04 18:44:40","size":140681}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

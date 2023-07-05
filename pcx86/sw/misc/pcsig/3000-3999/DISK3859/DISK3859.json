@@ -41,12 +41,12 @@
   {"hash":"6162087334ed98bb273acaaa6ca85d40","path":"/SHAREMAG.TXT","attr":"0x20","date":"1993-06-01 14:32:04","size":1831},
   {"hash":"54964d989c90644e40ac21508c12ff5d","path":"/CDROM.TXT","attr":"0x20","date":"1993-06-01 15:26:44","size":8196},
   {"hash":"5eee19ad5341c83d0a190820cd89aed9","path":"/GO.TXT","attr":"0x20","date":"1993-07-22 12:57:36","size":1232},
-  {"hash":"7e8ca123f6153629aae14296015790b0","path":"/QUICLICK.ZIP/METER.DLL","attr":"0x40","date":"1992-06-11 15:18:26","size":9232},
-  {"hash":"ab1d2ed1db752831e4060bebd407f855","path":"/QUICLICK.ZIP/QUICLICK.EXE","attr":"0x40","date":"1993-06-18 18:14:08","size":110971},
-  {"hash":"2e7445b87dbddc62f7c02b1240711856","path":"/QUICLICK.ZIP/QUICLICK.HLP","attr":"0x40","date":"1993-06-15 10:00:50","size":24347},
-  {"hash":"58dc70479ac3010df0ff1fedfa5b62e2","path":"/QUICLICK.ZIP/SETUP.EXE","attr":"0x40","date":"1992-06-11 15:18:28","size":41488},
-  {"hash":"292e20ee7a24ab61241f98e9dfab852c","path":"/QUICLICK.ZIP/SETUP.INF","attr":"0x40","date":"1993-06-19 23:26:06","size":1150},
-  {"hash":"a124bb62a15341e84fd1d8919b07ed65","path":"/QUICLICK.ZIP/VBRUN200.DLL","attr":"0x40","date":"1992-10-21 00:00:00","size":356992}
+  {"hash":"7e8ca123f6153629aae14296015790b0","path":"/QUICLICK.ZIP/METER.DLL","attr":"0x100","date":"1992-06-11 15:18:26","size":9232},
+  {"hash":"ab1d2ed1db752831e4060bebd407f855","path":"/QUICLICK.ZIP/QUICLICK.EXE","attr":"0x100","date":"1993-06-18 18:14:08","size":110971},
+  {"hash":"2e7445b87dbddc62f7c02b1240711856","path":"/QUICLICK.ZIP/QUICLICK.HLP","attr":"0x100","date":"1993-06-15 10:00:50","size":24347},
+  {"hash":"58dc70479ac3010df0ff1fedfa5b62e2","path":"/QUICLICK.ZIP/SETUP.EXE","attr":"0x100","date":"1992-06-11 15:18:28","size":41488},
+  {"hash":"292e20ee7a24ab61241f98e9dfab852c","path":"/QUICLICK.ZIP/SETUP.INF","attr":"0x100","date":"1993-06-19 23:26:06","size":1150},
+  {"hash":"a124bb62a15341e84fd1d8919b07ed65","path":"/QUICLICK.ZIP/VBRUN200.DLL","attr":"0x100","date":"1992-10-21 00:00:00","size":356992}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

@@ -41,12 +41,12 @@
   {"hash":"f5d0fa49b21234be778faa3b8ce06593","path":"/PKUNZIP.EXE","attr":"0x20","date":"1990-03-15 01:10:00","size":23528},
   {"hash":"f64229401e7cfecdad01902cb922cd5c","path":"/SHAREMAG.TXT","attr":"0x20","date":"1992-01-21 06:11:00","size":1837},
   {"hash":"be8cbfdeedb0e71dad23919b636fc03c","path":"/SIGORDER.TXT","attr":"0x20","date":"1992-06-25 14:28:24","size":3332},
-  {"hash":"09016b3f76fb0a326e789bdf68f442db","path":"/WINCLIP.ZIP/WINCLIP.DOC","attr":"0x40","date":"1992-06-28 21:39:30","size":11951},
-  {"hash":"ac92b8206e4f1c5df335b16d6cc49a63","path":"/WINCLIP.ZIP/WINCLIP.EXE","attr":"0x40","date":"1992-06-28 21:49:58","size":43143},
-  {"hash":"171722305ba6df8ddb75a96f257beb9f","path":"/FONTER.ZIP/FONTER.DOC","attr":"0x40","date":"1992-07-16 00:57:24","size":23056},
-  {"hash":"dd96c47dce7434787a2166a7e5a52d6e","path":"/FONTER.ZIP/FONTER.EXE","attr":"0x40","date":"1992-08-26 17:57:52","size":97197},
-  {"hash":"8a67d673b2c2cb60118bb36ac6be75a9","path":"/FONTER.ZIP/FONTER.HLP","attr":"0x40","date":"1992-07-16 00:31:14","size":13466},
-  {"hash":"3253685c96885988fab7e7069de3184c","path":"/FONTER.ZIP/FONTER.IDX","attr":"0x40","date":"1992-07-15 23:39:24","size":860}
+  {"hash":"09016b3f76fb0a326e789bdf68f442db","path":"/WINCLIP.ZIP/WINCLIP.DOC","attr":"0x100","date":"1992-06-28 21:39:30","size":11951},
+  {"hash":"ac92b8206e4f1c5df335b16d6cc49a63","path":"/WINCLIP.ZIP/WINCLIP.EXE","attr":"0x100","date":"1992-06-28 21:49:58","size":43143},
+  {"hash":"171722305ba6df8ddb75a96f257beb9f","path":"/FONTER.ZIP/FONTER.DOC","attr":"0x100","date":"1992-07-16 00:57:24","size":23056},
+  {"hash":"dd96c47dce7434787a2166a7e5a52d6e","path":"/FONTER.ZIP/FONTER.EXE","attr":"0x100","date":"1992-08-26 17:57:52","size":97197},
+  {"hash":"8a67d673b2c2cb60118bb36ac6be75a9","path":"/FONTER.ZIP/FONTER.HLP","attr":"0x100","date":"1992-07-16 00:31:14","size":13466},
+  {"hash":"3253685c96885988fab7e7069de3184c","path":"/FONTER.ZIP/FONTER.IDX","attr":"0x100","date":"1992-07-15 23:39:24","size":860}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,65794,1073758210,130561,65544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

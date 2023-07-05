@@ -40,13 +40,13 @@
   {"hash":"00fff50cd6a785d56a4fac606d285042","path":"/PCSIG.TXT","attr":"0x20","date":"1993-06-01 14:31:30","size":2329},
   {"hash":"6162087334ed98bb273acaaa6ca85d40","path":"/SHAREMAG.TXT","attr":"0x20","date":"1993-06-01 14:32:04","size":1831},
   {"hash":"54964d989c90644e40ac21508c12ff5d","path":"/CDROM.TXT","attr":"0x20","date":"1993-06-01 15:26:44","size":8196},
-  {"hash":"662923cd5e5fefaf7d8235343129f3fa","path":"/THMATH.ZIP/FILE_ID.DIZ","attr":"0x40","date":"1993-02-12 01:02:02","size":426},
-  {"hash":"02ca03177b023e4f06f22d4af7ef14cf","path":"/THMATH.ZIP/THMATH.DOC","attr":"0x40","date":"1993-02-12 01:02:02","size":76074},
-  {"hash":"2abf184d48be54a76420bcd3cdf80226","path":"/THMATH.ZIP/THMATH.EXE","attr":"0x40","date":"1993-02-12 01:02:02","size":100500},
-  {"hash":"b43be6fe4d7fe5f8a3f35fbf6b3c6786","path":"/THMATH.ZIP/THMATH.FON","attr":"0x40","date":"1993-02-12 01:02:02","size":45936},
-  {"hash":"e40b139440087b1f386d8cf078958b4a","path":"/THMATH.ZIP/THMATH.MOB","attr":"0x40","date":"1993-02-12 01:02:02","size":150223},
-  {"hash":"bbfc355791ad095e3810cfa9eec11615","path":"/THMATH.ZIP/THREG.DOC","attr":"0x40","date":"1993-02-12 01:02:02","size":7807},
-  {"hash":"c3d8728195567fb7cdfadc9085f19e0c","path":"/THMATH.ZIP/VENDOR.DOC","attr":"0x40","date":"1993-02-12 01:02:02","size":3764}
+  {"hash":"662923cd5e5fefaf7d8235343129f3fa","path":"/THMATH.ZIP/FILE_ID.DIZ","attr":"0x100","date":"1993-02-12 01:02:02","size":426},
+  {"hash":"02ca03177b023e4f06f22d4af7ef14cf","path":"/THMATH.ZIP/THMATH.DOC","attr":"0x100","date":"1993-02-12 01:02:02","size":76074},
+  {"hash":"2abf184d48be54a76420bcd3cdf80226","path":"/THMATH.ZIP/THMATH.EXE","attr":"0x100","date":"1993-02-12 01:02:02","size":100500},
+  {"hash":"b43be6fe4d7fe5f8a3f35fbf6b3c6786","path":"/THMATH.ZIP/THMATH.FON","attr":"0x100","date":"1993-02-12 01:02:02","size":45936},
+  {"hash":"e40b139440087b1f386d8cf078958b4a","path":"/THMATH.ZIP/THMATH.MOB","attr":"0x100","date":"1993-02-12 01:02:02","size":150223},
+  {"hash":"bbfc355791ad095e3810cfa9eec11615","path":"/THMATH.ZIP/THREG.DOC","attr":"0x100","date":"1993-02-12 01:02:02","size":7807},
+  {"hash":"c3d8728195567fb7cdfadc9085f19e0c","path":"/THMATH.ZIP/VENDOR.DOC","attr":"0x100","date":"1993-02-12 01:02:02","size":3764}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

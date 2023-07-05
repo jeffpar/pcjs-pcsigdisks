@@ -42,12 +42,12 @@
   {"hash":"8a48648b446f0ba06f73e4f0011fcd9b","path":"/GRFILES.TXT","attr":"0x20","date":"1989-05-08 14:35:10","size":386},
   {"hash":"4eb6bcd5855067de64019b20fb1794e6","path":"/MANUAL.BAT","attr":"0x20","date":"1988-06-08 11:21:24","size":21},
   {"hash":"7e6e412c59524c7fe7185378536b04e1","path":"/README.TXT","attr":"0x20","date":"1989-05-08 14:37:14","size":8489},
-  {"hash":"a5b13d46f2a3b7fed0f7f8b91ef808ea","path":"/COACH42.ARC/BACKUP.BAT","attr":"0x40","date":"1986-08-18 13:10:18","size":192},
-  {"hash":"6207fc3a8cd669566e98643d06a9cd73","path":"/COACH42.ARC/COACH42.EXE","attr":"0x40","date":"1989-05-08 14:03:22","size":97429},
-  {"hash":"43e39a07982d29f0bb163e9a18721ef0","path":"/COACH42.ARC/DESCRIPT.TXT","attr":"0x40","date":"1988-12-23 16:06:06","size":1554},
-  {"hash":"c82e4980a1c67c469fdf26ceace1c5ae","path":"/COACH42.ARC/EXAMPLE.DAT","attr":"0x40","date":"1988-12-23 16:11:32","size":4925},
-  {"hash":"3aa8365bf4a6d327f9dd11692e6f53b6","path":"/COACH42.ARC/GRFILES.TXT","attr":"0x40","date":"1988-12-23 16:07:48","size":366},
-  {"hash":"aab12b38d1cc4da9c22ee42ecdc56bda","path":"/COACH42.ARC/README.TXT","attr":"0x40","date":"1988-12-23 16:28:34","size":8228}
+  {"hash":"a5b13d46f2a3b7fed0f7f8b91ef808ea","path":"/COACH42.ARC/BACKUP.BAT","attr":"0x100","date":"1986-08-18 13:10:18","size":192},
+  {"hash":"6207fc3a8cd669566e98643d06a9cd73","path":"/COACH42.ARC/COACH42.EXE","attr":"0x100","date":"1989-05-08 14:03:22","size":97429},
+  {"hash":"43e39a07982d29f0bb163e9a18721ef0","path":"/COACH42.ARC/DESCRIPT.TXT","attr":"0x100","date":"1988-12-23 16:06:06","size":1554},
+  {"hash":"c82e4980a1c67c469fdf26ceace1c5ae","path":"/COACH42.ARC/EXAMPLE.DAT","attr":"0x100","date":"1988-12-23 16:11:32","size":4925},
+  {"hash":"3aa8365bf4a6d327f9dd11692e6f53b6","path":"/COACH42.ARC/GRFILES.TXT","attr":"0x100","date":"1988-12-23 16:07:48","size":366},
+  {"hash":"aab12b38d1cc4da9c22ee42ecdc56bda","path":"/COACH42.ARC/README.TXT","attr":"0x100","date":"1988-12-23 16:28:34","size":8228}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

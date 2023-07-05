@@ -35,14 +35,14 @@
   {"hash":"1710045e66398c8ea196722a687ead0a","path":"/PKUNZIP.EXE","attr":"0x20","date":"1993-02-01 02:04:16","size":29378},
   {"hash":"991e541709e454d38689b9734586d013","path":"/GO.BAT","attr":"0x20","date":"1992-06-04 02:25:00","size":31},
   {"hash":"d38005f9183a92e3d7ce31fa9e44af9e","path":"/GO.TXT","attr":"0x20","date":"1993-04-23 14:25:22","size":1498},
-  {"hash":"46afe3064dc378386a0811140eaf3ea2","path":"/BALDRIC.ZIP/_BDEMO.BNK","attr":"0x40","date":"1993-04-03 17:20:54","size":977898},
-  {"hash":"59d4f5c9340e2ca16247c7674add9412","path":"/BALDRIC.ZIP/_BDEMO.EXE","attr":"0x40","date":"1993-04-07 11:55:02","size":97248},
-  {"hash":"0712c0749a3a26c25a90da7a4319cefa","path":"/BALDRIC.ZIP/BALDRIC.HSC","attr":"0x40","date":"1993-04-03 13:25:32","size":105},
-  {"hash":"51d4d409a9f2ac0230d167fe4525db85","path":"/BALDRIC.ZIP/BALDRIC.LSG","attr":"0x40","date":"1993-04-03 13:28:26","size":240},
-  {"hash":"32b05f7f57d24213bda2e44f13d0b854","path":"/BALDRIC.ZIP/BDEMO.EXE","attr":"0x40","date":"1993-02-03 21:44:40","size":4240},
-  {"hash":"1555a75a37374ba46728750fee51dc06","path":"/BALDRIC.ZIP/CONFIG.BNK","attr":"0x40","date":"1993-04-06 18:10:18","size":42198},
-  {"hash":"940f339438770f12ebddad7951e8da26","path":"/BALDRIC.ZIP/CONFIG.EXE","attr":"0x40","date":"1993-04-06 18:12:02","size":52864},
-  {"hash":"c7131013782dec922d9268ffbfd31d13","path":"/BALDRIC.ZIP/END.TXT","attr":"0x40","date":"1993-04-13 14:25:54","size":2464}
+  {"hash":"46afe3064dc378386a0811140eaf3ea2","path":"/BALDRIC.ZIP/_BDEMO.BNK","attr":"0x100","date":"1993-04-03 17:20:54","size":977898},
+  {"hash":"59d4f5c9340e2ca16247c7674add9412","path":"/BALDRIC.ZIP/_BDEMO.EXE","attr":"0x100","date":"1993-04-07 11:55:02","size":97248},
+  {"hash":"0712c0749a3a26c25a90da7a4319cefa","path":"/BALDRIC.ZIP/BALDRIC.HSC","attr":"0x100","date":"1993-04-03 13:25:32","size":105},
+  {"hash":"51d4d409a9f2ac0230d167fe4525db85","path":"/BALDRIC.ZIP/BALDRIC.LSG","attr":"0x100","date":"1993-04-03 13:28:26","size":240},
+  {"hash":"32b05f7f57d24213bda2e44f13d0b854","path":"/BALDRIC.ZIP/BDEMO.EXE","attr":"0x100","date":"1993-02-03 21:44:40","size":4240},
+  {"hash":"1555a75a37374ba46728750fee51dc06","path":"/BALDRIC.ZIP/CONFIG.BNK","attr":"0x100","date":"1993-04-06 18:10:18","size":42198},
+  {"hash":"940f339438770f12ebddad7951e8da26","path":"/BALDRIC.ZIP/CONFIG.EXE","attr":"0x100","date":"1993-04-06 18:12:02","size":52864},
+  {"hash":"c7131013782dec922d9268ffbfd31d13","path":"/BALDRIC.ZIP/END.TXT","attr":"0x100","date":"1993-04-13 14:25:54","size":2464}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

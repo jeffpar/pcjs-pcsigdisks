@@ -42,9 +42,9 @@
   {"hash":"218a220b410a16273a3b4596ffd1e41a","path":"/RSTPRINT/RSTPRINT.ARC","attr":"0x20","date":"1989-08-04 21:41:26","size":36924},
   {"hash":"414397ce24e7a319b4f9f413d98f7638","path":"/RSTPRINT/RSTPRINT.DOC","attr":"0x20","date":"1989-08-04 00:48:08","size":7936},
   {"hash":"12c4de445207d9f2dc47b1a544f5e1a7","path":"/RSTPRINT/RSTPRINT.EXE","attr":"0x20","date":"1988-08-15 01:28:20","size":37734},
-  {"hash":"4a77649520722107022ec045c5487240","path":"/RSTPRINT/RSTPRINT.ARC/COPYRITE.FIL","attr":"0x40","date":"1989-08-04 21:41:52","size":1250},
-  {"hash":"414397ce24e7a319b4f9f413d98f7638","path":"/RSTPRINT/RSTPRINT.ARC/RSTPRINT.DOC","attr":"0x40","date":"1989-08-04 00:48:18","size":7936},
-  {"hash":"12c4de445207d9f2dc47b1a544f5e1a7","path":"/RSTPRINT/RSTPRINT.ARC/RSTPRINT.EXE","attr":"0x40","date":"1988-08-15 01:28:40","size":37734}
+  {"hash":"4a77649520722107022ec045c5487240","path":"/RSTPRINT/RSTPRINT.ARC/COPYRITE.FIL","attr":"0x100","date":"1989-08-04 21:41:52","size":1250},
+  {"hash":"414397ce24e7a319b4f9f413d98f7638","path":"/RSTPRINT/RSTPRINT.ARC/RSTPRINT.DOC","attr":"0x100","date":"1989-08-04 00:48:18","size":7936},
+  {"hash":"12c4de445207d9f2dc47b1a544f5e1a7","path":"/RSTPRINT/RSTPRINT.ARC/RSTPRINT.EXE","attr":"0x100","date":"1988-08-15 01:28:40","size":37734}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,65794,1073758210,130561,65544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

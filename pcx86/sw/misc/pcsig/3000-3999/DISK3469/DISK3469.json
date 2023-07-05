@@ -41,11 +41,11 @@
   {"hash":"165943e09144baca6a887b0a098ecdc2","path":"/PCSIG.TXT","attr":"0x20","date":"1993-02-10 08:50:48","size":2335},
   {"hash":"f64229401e7cfecdad01902cb922cd5c","path":"/SHAREMAG.TXT","attr":"0x20","date":"1992-01-21 06:11:00","size":1837},
   {"hash":"ed27a6cac153a50bd7a98d619ccb48c2","path":"/CDROM.TXT","attr":"0x20","date":"1993-03-18 13:28:48","size":4874},
-  {"hash":"f654cd1eba26ff7470e5713375f8c37e","path":"/FGSMMF30.ZIP/FGS.DAT","attr":"0x40","date":"1992-12-20 03:00:00","size":54},
-  {"hash":"4c9f0ca348101f97d8f8c22d20a9f3c6","path":"/FGSMMF30.ZIP/FGSMMF.EXE","attr":"0x40","date":"1992-12-20 03:00:00","size":69772},
-  {"hash":"24d3cdf5b59dca22074ad1cd238b8c84","path":"/FGSMMF30.ZIP/FGSMMF.ICO","attr":"0x40","date":"1992-12-20 03:00:00","size":766},
-  {"hash":"7bf94c7d8b58f0bd133e9414e5aa8fcb","path":"/FGSMMF30.ZIP/MMF.DOC","attr":"0x40","date":"1992-12-20 03:00:00","size":24414},
-  {"hash":"4b1bfaa1487be6fb129e51d05cbf315f","path":"/FGSMMF30.ZIP/VENDOR.DOC","attr":"0x40","date":"1992-12-20 03:00:00","size":3261}
+  {"hash":"f654cd1eba26ff7470e5713375f8c37e","path":"/FGSMMF30.ZIP/FGS.DAT","attr":"0x100","date":"1992-12-20 03:00:00","size":54},
+  {"hash":"4c9f0ca348101f97d8f8c22d20a9f3c6","path":"/FGSMMF30.ZIP/FGSMMF.EXE","attr":"0x100","date":"1992-12-20 03:00:00","size":69772},
+  {"hash":"24d3cdf5b59dca22074ad1cd238b8c84","path":"/FGSMMF30.ZIP/FGSMMF.ICO","attr":"0x100","date":"1992-12-20 03:00:00","size":766},
+  {"hash":"7bf94c7d8b58f0bd133e9414e5aa8fcb","path":"/FGSMMF30.ZIP/MMF.DOC","attr":"0x100","date":"1992-12-20 03:00:00","size":24414},
+  {"hash":"4b1bfaa1487be6fb129e51d05cbf315f","path":"/FGSMMF30.ZIP/VENDOR.DOC","attr":"0x100","date":"1992-12-20 03:00:00","size":3261}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,65794,1073758210,130561,65544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

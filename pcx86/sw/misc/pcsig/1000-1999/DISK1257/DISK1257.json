@@ -40,10 +40,10 @@
   {"hash":"7218076799b8ec2930fe63ae6037ca18","path":"/GO.TXT","attr":"0x20","date":"1989-02-24 12:57:16","size":1002},
   {"hash":"1f8c2746adb2bac2ec5d1b2c58dae1b9","path":"/MANUAL.BAT","attr":"0x20","date":"1989-01-19 09:21:06","size":147},
   {"hash":"9fc2dc380bec0ac8e30160d52c3ab7e3","path":"/README.DOC","attr":"0x20","date":"1989-02-14 00:00:18","size":5446},
-  {"hash":"3a2ef61c7e28616de44259244f0597f5","path":"/DISKWIZ.ARC/DISKWIZ.COM","attr":"0x40","date":"1989-02-14 00:00:24","size":35926},
-  {"hash":"de661d223ce7c911dfb69e2be669234c","path":"/DISKWIZ.ARC/DWIZDEMO.COM","attr":"0x40","date":"1988-07-29 00:00:50","size":39096},
-  {"hash":"415975d3e75c098f7a5b0cdf90af3a51","path":"/DISKWIZ.ARC/DWMANUAL.DOC","attr":"0x40","date":"1988-07-29 00:00:58","size":56019},
-  {"hash":"9fc2dc380bec0ac8e30160d52c3ab7e3","path":"/DISKWIZ.ARC/README.DOC","attr":"0x40","date":"1989-02-14 00:00:34","size":5446}
+  {"hash":"3a2ef61c7e28616de44259244f0597f5","path":"/DISKWIZ.ARC/DISKWIZ.COM","attr":"0x100","date":"1989-02-14 00:00:24","size":35926},
+  {"hash":"de661d223ce7c911dfb69e2be669234c","path":"/DISKWIZ.ARC/DWIZDEMO.COM","attr":"0x100","date":"1988-07-29 00:00:50","size":39096},
+  {"hash":"415975d3e75c098f7a5b0cdf90af3a51","path":"/DISKWIZ.ARC/DWMANUAL.DOC","attr":"0x100","date":"1988-07-29 00:00:58","size":56019},
+  {"hash":"9fc2dc380bec0ac8e30160d52c3ab7e3","path":"/DISKWIZ.ARC/README.DOC","attr":"0x100","date":"1989-02-14 00:00:34","size":5446}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

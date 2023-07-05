@@ -35,11 +35,11 @@
   {"hash":"7b8e7fd621542a52cd2dcdc12f0241e8","path":"/GO.TXT","attr":"0x20","date":"1991-09-25 01:53:46","size":1826},
   {"hash":"c687edbf2e884789cf4d2194b07163e2","path":"/TELCO1.ZIP","attr":"0x20","date":"1991-07-18 15:08:38","size":335390},
   {"hash":"3a18e6e855edd2fefcf6eca4601b8303","path":"/FILE2843.TXT","attr":"0x20","date":"1991-09-23 11:55:32","size":1925},
-  {"hash":"74fe0d2f8a62926523b9a0d2b342f2c7","path":"/TELCO1.ZIP/ACODES.DAT","attr":"0x40","date":"1991-07-12 12:43:10","size":968243},
-  {"hash":"a0ff1e2fd1eee8fc6342e8db30100907","path":"/TELCO1.ZIP/ACODES.K01","attr":"0x40","date":"1991-07-12 12:43:10","size":81920},
-  {"hash":"35e2736bb577e198a94fe0e3a010bd69","path":"/TELCO1.ZIP/ACODES.K02","attr":"0x40","date":"1991-07-12 12:43:10","size":859648},
-  {"hash":"0bd27d68b6a6dbaec5a9f83f898e4eec","path":"/TELCO1.ZIP/ACODES.K03","attr":"0x40","date":"1991-07-12 12:43:10","size":84992},
-  {"hash":"d0b66f71dd12f40bc5d9691ce36ce4c9","path":"/TELCO1.ZIP/ACODES.K04","attr":"0x40","date":"1991-07-12 12:07:46","size":1024}
+  {"hash":"74fe0d2f8a62926523b9a0d2b342f2c7","path":"/TELCO1.ZIP/ACODES.DAT","attr":"0x100","date":"1991-07-12 12:43:10","size":968243},
+  {"hash":"a0ff1e2fd1eee8fc6342e8db30100907","path":"/TELCO1.ZIP/ACODES.K01","attr":"0x100","date":"1991-07-12 12:43:10","size":81920},
+  {"hash":"35e2736bb577e198a94fe0e3a010bd69","path":"/TELCO1.ZIP/ACODES.K02","attr":"0x100","date":"1991-07-12 12:43:10","size":859648},
+  {"hash":"0bd27d68b6a6dbaec5a9f83f898e4eec","path":"/TELCO1.ZIP/ACODES.K03","attr":"0x100","date":"1991-07-12 12:43:10","size":84992},
+  {"hash":"d0b66f71dd12f40bc5d9691ce36ce4c9","path":"/TELCO1.ZIP/ACODES.K04","attr":"0x100","date":"1991-07-12 12:07:46","size":1024}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

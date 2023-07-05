@@ -40,14 +40,14 @@
   {"hash":"1710045e66398c8ea196722a687ead0a","path":"/PKUNZIP.EXE","attr":"0x20","date":"1993-02-01 02:04:16","size":29378},
   {"hash":"f64229401e7cfecdad01902cb922cd5c","path":"/SHAREMAG.TXT","attr":"0x20","date":"1992-01-21 06:11:00","size":1837},
   {"hash":"ac1c1e4d8c5b0302728b93a1f54d420a","path":"/SIGORDER.TXT","attr":"0x20","date":"1993-03-10 15:22:32","size":3090},
-  {"hash":"c736cbf9ca829f32c59af7941bccce71","path":"/ACCTMAN.ZIP/$AM.EXE","attr":"0x40","date":"1993-05-20 00:00:04","size":151104},
-  {"hash":"8863e9f5385e9bde8afee596cee13302","path":"/ACCTMAN.ZIP/ACCTDLL.DLL","attr":"0x40","date":"1993-05-20 00:00:04","size":3360},
-  {"hash":"3c68cca161848986194785f0c26e7278","path":"/ACCTMAN.ZIP/ACCTMAN.EXE","attr":"0x40","date":"1993-05-20 00:00:02","size":5792},
-  {"hash":"142d9b709c3dce865486cb420b61748e","path":"/ACCTMAN.ZIP/ACCTMAN.HLP","attr":"0x40","date":"1993-05-20 00:00:04","size":39327},
-  {"hash":"fc67060baf7ccf8a80e8290ae0a66661","path":"/ACCTMAN.ZIP/ACCTMAN.TXT","attr":"0x40","date":"1993-05-20 00:00:04","size":31880},
-  {"hash":"2b1a53bc67e5e575ad9d54ea3e2a8ca9","path":"/ACCTMAN.ZIP/DOSACCT.EXE","attr":"0x40","date":"1993-05-20 00:00:02","size":47199},
-  {"hash":"fb75f3ba6ddcd5534aa2f058e1000285","path":"/ACCTMAN.ZIP/ORDERFRM.TXT","attr":"0x40","date":"1993-05-20 00:00:06","size":1864},
-  {"hash":"d48b360587c42d87b0134c7021d7d9f7","path":"/ACCTMAN.ZIP/README.TXT","attr":"0x40","date":"1993-05-20 00:00:06","size":2366}
+  {"hash":"c736cbf9ca829f32c59af7941bccce71","path":"/ACCTMAN.ZIP/$AM.EXE","attr":"0x100","date":"1993-05-20 00:00:04","size":151104},
+  {"hash":"8863e9f5385e9bde8afee596cee13302","path":"/ACCTMAN.ZIP/ACCTDLL.DLL","attr":"0x100","date":"1993-05-20 00:00:04","size":3360},
+  {"hash":"3c68cca161848986194785f0c26e7278","path":"/ACCTMAN.ZIP/ACCTMAN.EXE","attr":"0x100","date":"1993-05-20 00:00:02","size":5792},
+  {"hash":"142d9b709c3dce865486cb420b61748e","path":"/ACCTMAN.ZIP/ACCTMAN.HLP","attr":"0x100","date":"1993-05-20 00:00:04","size":39327},
+  {"hash":"fc67060baf7ccf8a80e8290ae0a66661","path":"/ACCTMAN.ZIP/ACCTMAN.TXT","attr":"0x100","date":"1993-05-20 00:00:04","size":31880},
+  {"hash":"2b1a53bc67e5e575ad9d54ea3e2a8ca9","path":"/ACCTMAN.ZIP/DOSACCT.EXE","attr":"0x100","date":"1993-05-20 00:00:02","size":47199},
+  {"hash":"fb75f3ba6ddcd5534aa2f058e1000285","path":"/ACCTMAN.ZIP/ORDERFRM.TXT","attr":"0x100","date":"1993-05-20 00:00:06","size":1864},
+  {"hash":"d48b360587c42d87b0134c7021d7d9f7","path":"/ACCTMAN.ZIP/README.TXT","attr":"0x100","date":"1993-05-20 00:00:06","size":2366}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

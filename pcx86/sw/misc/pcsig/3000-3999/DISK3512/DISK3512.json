@@ -34,12 +34,12 @@
   {"hash":"20f51017758886c2161bbdb90a46c573","path":"/FVRS.ZIP","attr":"0x20","date":"1993-03-22 09:04:12","size":344152},
   {"hash":"2c99113283be3f481afae3fdff713504","path":"/GO.BAT","attr":"0x20","date":"1993-03-22 09:09:12","size":32},
   {"hash":"1259cce6ff3570f8f49b4758e0822fa9","path":"/GO.TXT","attr":"0x20","date":"1993-03-22 09:15:48","size":1309},
-  {"hash":"ffa17aa69a948914777c45423f3c71ab","path":"/FVRS.ZIP/FVRSPLUS.DOC","attr":"0x40","date":"1993-01-28 13:45:08","size":22656},
-  {"hash":"6a2f014cb6c7bb073503cf1b7867304e","path":"/FVRS.ZIP/GO.BAT","attr":"0x40","date":"1993-01-29 16:47:06","size":13},
-  {"hash":"22aa6e22cf07d385b04434bccdcbcdaf","path":"/FVRS.ZIP/KJON.BAT","attr":"0x40","date":"1993-03-10 10:34:32","size":1091},
-  {"hash":"0867010abded9dff6f959d9bdaeed7f3","path":"/FVRS.ZIP/KJONDOC.EXE","attr":"0x40","date":"1993-03-01 16:56:50","size":21739},
-  {"hash":"13a8176bcde0ace925c7710928d131b0","path":"/FVRS.ZIP/KJONFVRS.EXE","attr":"0x40","date":"1993-03-10 10:17:14","size":335540},
-  {"hash":"0431b3bc50b04a6885044b9030f8b42d","path":"/FVRS.ZIP/README","attr":"0x40","date":"1993-03-10 12:44:16","size":7424}
+  {"hash":"ffa17aa69a948914777c45423f3c71ab","path":"/FVRS.ZIP/FVRSPLUS.DOC","attr":"0x100","date":"1993-01-28 13:45:08","size":22656},
+  {"hash":"6a2f014cb6c7bb073503cf1b7867304e","path":"/FVRS.ZIP/GO.BAT","attr":"0x100","date":"1993-01-29 16:47:06","size":13},
+  {"hash":"22aa6e22cf07d385b04434bccdcbcdaf","path":"/FVRS.ZIP/KJON.BAT","attr":"0x100","date":"1993-03-10 10:34:32","size":1091},
+  {"hash":"0867010abded9dff6f959d9bdaeed7f3","path":"/FVRS.ZIP/KJONDOC.EXE","attr":"0x100","date":"1993-03-01 16:56:50","size":21739},
+  {"hash":"13a8176bcde0ace925c7710928d131b0","path":"/FVRS.ZIP/KJONFVRS.EXE","attr":"0x100","date":"1993-03-10 10:17:14","size":335540},
+  {"hash":"0431b3bc50b04a6885044b9030f8b42d","path":"/FVRS.ZIP/README","attr":"0x100","date":"1993-03-10 12:44:16","size":7424}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

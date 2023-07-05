@@ -40,14 +40,14 @@
   {"hash":"73103946886ee3cbddb055edb3b05683","path":"/PCSTAT25.ZIP","attr":"0x20","date":"1993-02-01 02:50:00","size":306820},
   {"hash":"d3676938a058ce0c553fdd5075dc75ef","path":"/GO.BAT","attr":"0x20","date":"1993-08-04 09:30:38","size":30},
   {"hash":"8cd501e909fde051a91afb5cce1f1f65","path":"/SHOW.EXE","attr":"0x20","date":"1988-09-12 10:48:52","size":2040},
-  {"hash":"1d988d17e75939f5d25f6c715e3a8351","path":"/PCSTAT25.ZIP/FILE_ID.DIZ","attr":"0x40","date":"1993-02-01 02:50:00","size":317},
-  {"hash":"86f45350a3ca9dfc1ada7200280dc7e2","path":"/PCSTAT25.ZIP/PCSTAT.DOC","attr":"0x40","date":"1993-02-01 02:50:00","size":31625},
-  {"hash":"73bc79551fb6821b9295c956a2fe7168","path":"/PCSTAT25.ZIP/PCSTAT.EXE","attr":"0x40","date":"1993-02-01 02:50:00","size":374158},
-  {"hash":"68eff0411cfd573443eb09a104858cd6","path":"/PCSTAT25.ZIP/PCSTAT.HLP","attr":"0x40","date":"1993-02-01 02:50:00","size":18978},
-  {"hash":"c37e1a7f788b0eefe0e2136117859528","path":"/PCSTAT25.ZIP/PCSTAT.WKB","attr":"0x40","date":"1993-02-01 02:50:00","size":33688},
-  {"hash":"3b63339f9380f1628a9beaefcf6daf0a","path":"/PCSTAT25.ZIP/README.COM","attr":"0x40","date":"1993-02-01 02:50:00","size":2477},
-  {"hash":"b28dcb46be9a8966354247cfcf2ee12c","path":"/PCSTAT25.ZIP/SAMPLE.WKB","attr":"0x40","date":"1993-02-01 02:50:00","size":37572},
-  {"hash":"df542748fa072e8e02c05b3db1ea5414","path":"/PCSTAT25.ZIP/SWAPLPT.COM","attr":"0x40","date":"1993-02-01 02:50:00","size":20}
+  {"hash":"1d988d17e75939f5d25f6c715e3a8351","path":"/PCSTAT25.ZIP/FILE_ID.DIZ","attr":"0x100","date":"1993-02-01 02:50:00","size":317},
+  {"hash":"86f45350a3ca9dfc1ada7200280dc7e2","path":"/PCSTAT25.ZIP/PCSTAT.DOC","attr":"0x100","date":"1993-02-01 02:50:00","size":31625},
+  {"hash":"73bc79551fb6821b9295c956a2fe7168","path":"/PCSTAT25.ZIP/PCSTAT.EXE","attr":"0x100","date":"1993-02-01 02:50:00","size":374158},
+  {"hash":"68eff0411cfd573443eb09a104858cd6","path":"/PCSTAT25.ZIP/PCSTAT.HLP","attr":"0x100","date":"1993-02-01 02:50:00","size":18978},
+  {"hash":"c37e1a7f788b0eefe0e2136117859528","path":"/PCSTAT25.ZIP/PCSTAT.WKB","attr":"0x100","date":"1993-02-01 02:50:00","size":33688},
+  {"hash":"3b63339f9380f1628a9beaefcf6daf0a","path":"/PCSTAT25.ZIP/README.COM","attr":"0x100","date":"1993-02-01 02:50:00","size":2477},
+  {"hash":"b28dcb46be9a8966354247cfcf2ee12c","path":"/PCSTAT25.ZIP/SAMPLE.WKB","attr":"0x100","date":"1993-02-01 02:50:00","size":37572},
+  {"hash":"df542748fa072e8e02c05b3db1ea5414","path":"/PCSTAT25.ZIP/SWAPLPT.COM","attr":"0x100","date":"1993-02-01 02:50:00","size":20}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

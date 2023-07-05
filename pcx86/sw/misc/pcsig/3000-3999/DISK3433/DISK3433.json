@@ -41,11 +41,11 @@
   {"hash":"f64229401e7cfecdad01902cb922cd5c","path":"/SHAREMAG.TXT","attr":"0x20","date":"1992-01-21 06:11:00","size":1837},
   {"hash":"68a42438d84f3dcd8611d904455168e6","path":"/SIGORDER.TXT","attr":"0x20","date":"1993-02-10 08:49:56","size":3332},
   {"hash":"85160d1a9a705f90a45c8dd845528608","path":"/RELEASE.TXT","attr":"0x20","date":"1992-12-14 21:34:08","size":9659},
-  {"hash":"61bf222b4dfd9dc995a2a826cfe7ea51","path":"/TIMZNA04.ZIP/RELEASE.TXT","attr":"0x40","date":"1992-12-14 21:34:08","size":9408},
-  {"hash":"ef4883ab0e03cd3a6eaacab693783eae","path":"/TIMZNA04.ZIP/TIMEZONE.APT","attr":"0x40","date":"1992-11-27 18:33:10","size":16596},
-  {"hash":"a24cc2f62f8b3239d1d8337cb9c2d060","path":"/TIMZNA04.ZIP/TIMEZONE.DAT","attr":"0x40","date":"1992-11-27 16:46:12","size":16020},
-  {"hash":"792d487a10b17770bdc7588ffc170b85","path":"/TIMZNA04.ZIP/TIMEZONE.EXE","attr":"0x40","date":"1992-12-14 21:32:36","size":35694},
-  {"hash":"127e75e5a9b93cfa4f964060d6f5bc8d","path":"/TIMZNA04.ZIP/VBRUN100.DLL","attr":"0x40","date":"1991-05-08 01:00:00","size":271264}
+  {"hash":"61bf222b4dfd9dc995a2a826cfe7ea51","path":"/TIMZNA04.ZIP/RELEASE.TXT","attr":"0x100","date":"1992-12-14 21:34:08","size":9408},
+  {"hash":"ef4883ab0e03cd3a6eaacab693783eae","path":"/TIMZNA04.ZIP/TIMEZONE.APT","attr":"0x100","date":"1992-11-27 18:33:10","size":16596},
+  {"hash":"a24cc2f62f8b3239d1d8337cb9c2d060","path":"/TIMZNA04.ZIP/TIMEZONE.DAT","attr":"0x100","date":"1992-11-27 16:46:12","size":16020},
+  {"hash":"792d487a10b17770bdc7588ffc170b85","path":"/TIMZNA04.ZIP/TIMEZONE.EXE","attr":"0x100","date":"1992-12-14 21:32:36","size":35694},
+  {"hash":"127e75e5a9b93cfa4f964060d6f5bc8d","path":"/TIMZNA04.ZIP/VBRUN100.DLL","attr":"0x100","date":"1991-05-08 01:00:00","size":271264}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

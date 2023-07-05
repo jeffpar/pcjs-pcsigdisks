@@ -46,14 +46,14 @@
   {"hash":"04c1f81a5990776a7119a4766d007ba8","path":"/PAGE.COM","attr":"0x20","date":"1987-01-06 16:21:00","size":325},
   {"hash":"4e6561eeaf2489d95766ae1db4c346af","path":"/README.SIG","attr":"0x20","date":"1989-07-03 11:01:08","size":306},
   {"hash":"4b9f342d586a6145c155ebd687696b54","path":"/VIEW.BAT","attr":"0x20","date":"1989-09-06 13:49:12","size":44},
-  {"hash":"12c781aefcf5cae5d9e148605f422075","path":"/MENUMAST.ARC/MENU.BAT","attr":"0x40","date":"1985-10-12 13:21:58","size":83},
-  {"hash":"1cda06f80f3168a54c2817a4fc9af6a2","path":"/MENUMAST.ARC/MENU1.EXE","attr":"0x40","date":"1989-06-21 21:00:40","size":73398},
-  {"hash":"0d858cae29360a455e00e56f2fb51dd2","path":"/MENUMAST.ARC/MENUDIR.COM","attr":"0x40","date":"1986-05-18 11:41:50","size":761},
-  {"hash":"a32af1f4edf51b4ba715c851db9f3f81","path":"/MENUMAST.ARC/MENUMAST.DOC","attr":"0x40","date":"1989-07-03 12:13:16","size":23724},
-  {"hash":"a05d65c19248fb892ff51e391906e269","path":"/MENUMAST.ARC/MENUSEG.HLP","attr":"0x40","date":"1986-03-15 20:13:28","size":1547},
-  {"hash":"0c04135f716477a305ad8c395f65881b","path":"/MENUMAST.ARC/MENUSEG.USR","attr":"0x40","date":"1989-07-03 12:17:30","size":275},
-  {"hash":"addc4f98fc96230dedbc9b3c25754874","path":"/MENUMAST.ARC/MENUSET.EXE","attr":"0x40","date":"1986-03-16 11:56:42","size":41818},
-  {"hash":"4ba369fdeb5018df57515d86ed9503c5","path":"/MENUMAST.ARC/README","attr":"0x40","date":"1988-07-02 13:00:20","size":4431}
+  {"hash":"12c781aefcf5cae5d9e148605f422075","path":"/MENUMAST.ARC/MENU.BAT","attr":"0x100","date":"1985-10-12 13:21:58","size":83},
+  {"hash":"1cda06f80f3168a54c2817a4fc9af6a2","path":"/MENUMAST.ARC/MENU1.EXE","attr":"0x100","date":"1989-06-21 21:00:40","size":73398},
+  {"hash":"0d858cae29360a455e00e56f2fb51dd2","path":"/MENUMAST.ARC/MENUDIR.COM","attr":"0x100","date":"1986-05-18 11:41:50","size":761},
+  {"hash":"a32af1f4edf51b4ba715c851db9f3f81","path":"/MENUMAST.ARC/MENUMAST.DOC","attr":"0x100","date":"1989-07-03 12:13:16","size":23724},
+  {"hash":"a05d65c19248fb892ff51e391906e269","path":"/MENUMAST.ARC/MENUSEG.HLP","attr":"0x100","date":"1986-03-15 20:13:28","size":1547},
+  {"hash":"0c04135f716477a305ad8c395f65881b","path":"/MENUMAST.ARC/MENUSEG.USR","attr":"0x100","date":"1989-07-03 12:17:30","size":275},
+  {"hash":"addc4f98fc96230dedbc9b3c25754874","path":"/MENUMAST.ARC/MENUSET.EXE","attr":"0x100","date":"1986-03-16 11:56:42","size":41818},
+  {"hash":"4ba369fdeb5018df57515d86ed9503c5","path":"/MENUMAST.ARC/README","attr":"0x100","date":"1988-07-02 13:00:20","size":4431}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},
